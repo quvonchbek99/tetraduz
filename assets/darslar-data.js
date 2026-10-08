@@ -1,5 +1,5 @@
 /* ТЕТРАДЬ — darslar ma'lumoti.
- * Mavzular tartibi 5 ta mashhur darslik (Дорога в Россию, Поехали!, Жили-были,
+ * A0–C1. A0–B1 mavzular tartibi 5 ta mashhur darslik (Дорога в Россию, Поехали!, Жили-были,
  * Русский язык в упражнениях, The New Penguin Russian Course) dasturiga tayanadi.
  * Barcha tushuntirish, misol va mashqlar ТЕТРАДЬ uchun yangidan yozilgan.
  */
@@ -12,17 +12,19 @@ window.TETRAD_BOOKS = {
 };
 
 window.TETRAD_GROUPS = [
-  {id:'g1', title:'1-bosqich · Poydevor', level:'A0–A1'},
-  {id:'g2', title:'2-bosqich · Fe\'l va birinchi kelishiklar', level:'A1'},
-  {id:'g3', title:'3-bosqich · Kelishiklar tizimi', level:'A1–A2'},
-  {id:'g4', title:'4-bosqich · Erkin nutq sari', level:'A2–B1'}
+  {id:'A0', title:'A0 · Nol daraja', level:'A0', desc:'Alifbo, o\'qish qoidalari, salomlashish.', torfl:'—'},
+  {id:'A1', title:'A1 · Boshlang\'ich', level:'A1', desc:'O\'zi, oilasi, uy va shahar haqida oddiy gaplar.', torfl:'ТЭУ (элементарный)'},
+  {id:'A2', title:'A2 · Bazaviy', level:'A2', desc:'Kundalik vaziyatlar: do\'kon, yo\'l, uchrashuv, reja.', torfl:'ТБУ (базовый)'},
+  {id:'B1', title:'B1 · O\'rta', level:'B1', desc:'Fikrni asoslash, voqea aytib berish, murakkab gaplar.', torfl:'ТРКИ-1'},
+  {id:'B2', title:'B2 · O\'rtadan yuqori', level:'B2', desc:'Gazeta, ma\'ruza, kitob tili: sifatdosh, ravishdosh, majhul nisbat.', torfl:'ТРКИ-2'},
+  {id:'C1', title:'C1 · Yuqori', level:'C1', desc:'Rasmiy va ilmiy uslub, nozik ma\'no farqlari, frazeologiya.', torfl:'ТРКИ-3'}
 ];
 
 window.TETRAD_LESSONS = [
 
 /* ================================================================ 1 */
 {
-  id:'alifbo', g:'g1', level:'A0', books:['DR','PO','ZB','NP'],
+  id:'alifbo', g:'A0', level:'A0', books:['DR','PO','ZB','NP'],
   title:'Alifbo va talaffuz', ru:'Алфавит и произношение',
   goal:'33 harfni tanish, urg\'u va so\'zlarni to\'g\'ri o\'qish qoidalarini bilish.',
   blocks:[
@@ -67,7 +69,7 @@ window.TETRAD_LESSONS = [
 
 /* ================================================================ 2 */
 {
-  id:'tanishuv', g:'g1', level:'A1', books:['DR','PO','ZB','NP'],
+  id:'tanishuv', g:'A0', level:'A0', books:['DR','PO','ZB','NP'],
   title:'Salomlashish va tanishuv', ru:'Знакомство: Кто это? Что это?',
   goal:'Salomlashish, o\'zini tanishtirish, «Кто это?» va «Что это?» savollarini berish.',
   blocks:[
@@ -108,7 +110,7 @@ window.TETRAD_LESSONS = [
 
 /* ================================================================ 3 */
 {
-  id:'jins', g:'g1', level:'A1', books:['DR','PO','ZB','RU','NP'],
+  id:'jins', g:'A1', level:'A1', books:['DR','PO','ZB','RU','NP'],
   title:'Otning jinsi', ru:'Род существительных: он, она, оно',
   goal:'Otning jinsini oxiridan aniqlash va o\'rniga он / она / оно qo\'yish.',
   blocks:[
@@ -143,7 +145,7 @@ window.TETRAD_LESSONS = [
 
 /* ================================================================ 4 */
 {
-  id:'koplik', g:'g1', level:'A1', books:['DR','PO','ZB','RU','NP'],
+  id:'koplik', g:'A1', level:'A1', books:['DR','PO','ZB','RU','NP'],
   title:'Otlarning ko\'pligi', ru:'Множественное число',
   goal:'Otlarni -ы, -и, -а, -я qo\'shimchalari bilan ko\'plikka qo\'yish.',
   blocks:[
@@ -181,7 +183,7 @@ window.TETRAD_LESSONS = [
 
 /* ================================================================ 5 */
 {
-  id:'egalik', g:'g1', level:'A1', books:['DR','PO','ZB','RU','NP'],
+  id:'egalik', g:'A1', level:'A1', books:['DR','PO','ZB','RU','NP'],
   title:'Egalik olmoshlari', ru:'Чей? Чья? Чьё? Чьи? — мой, твой, наш…',
   goal:'«Kimniki?» degan savolga jinsga mos olmosh bilan javob berish.',
   blocks:[
@@ -219,7 +221,7 @@ window.TETRAD_LESSONS = [
 
 /* ================================================================ 6 */
 {
-  id:'sifat', g:'g1', level:'A1', books:['DR','PO','ZB','RU','NP'],
+  id:'sifat', g:'A1', level:'A1', books:['DR','PO','ZB','RU','NP'],
   title:'Sifatlar', ru:'Какой? Какая? Какое? Какие? — прилагательные',
   goal:'Sifatni ot bilan jins va son bo\'yicha moslashtirish.',
   blocks:[
@@ -256,7 +258,7 @@ window.TETRAD_LESSONS = [
 
 /* ================================================================ 7 */
 {
-  id:'fel', g:'g2', level:'A1', books:['DR','PO','ZB','RU','NP'],
+  id:'fel', g:'A1', level:'A1', books:['DR','PO','ZB','RU','NP'],
   title:'Fe\'l: hozirgi zamon', ru:'Глагол: настоящее время, I и II спряжение',
   goal:'Fe\'llarni shaxs bo\'yicha tuslash (я, ты, он…) va ikki tuslanishni farqlash.',
   blocks:[
@@ -294,7 +296,7 @@ window.TETRAD_LESSONS = [
 
 /* ================================================================ 8 */
 {
-  id:'predlojniy', g:'g2', level:'A1', books:['DR','PO','ZB','RU','NP'],
+  id:'predlojniy', g:'A1', level:'A1', books:['DR','PO','ZB','RU','NP'],
   title:'Joy kelishigi (Predlojniy)', ru:'Предложный падеж: где? о ком? о чём?',
   goal:'«Qayerda?» savoliga в / на bilan javob berish va «kim haqida?» deb gapirish.',
   blocks:[
@@ -328,7 +330,7 @@ window.TETRAD_LESSONS = [
 
 /* ================================================================ 9 */
 {
-  id:'vinitelniy', g:'g2', level:'A1', books:['DR','PO','ZB','RU','NP'],
+  id:'vinitelniy', g:'A1', level:'A1', books:['DR','PO','ZB','RU','NP'],
   title:'Tushum kelishigi (Vinitelniy)', ru:'Винительный падеж: кого? что? куда?',
   goal:'Fe\'l ta\'sir qiladigan narsani (nimani? kimni?) va yo\'nalishni (qayerga?) to\'g\'ri aytish.',
   blocks:[
@@ -363,7 +365,7 @@ window.TETRAD_LESSONS = [
 
 /* ================================================================ 10 */
 {
-  id:'otgan', g:'g2', level:'A1', books:['DR','PO','ZB','RU','NP'],
+  id:'otgan', g:'A1', level:'A1', books:['DR','PO','ZB','RU','NP'],
   title:'O\'tgan zamon', ru:'Прошедшее время: что делал? что сделал?',
   goal:'O\'tgan zamonni jins va son bo\'yicha yasash.',
   blocks:[
@@ -398,7 +400,7 @@ window.TETRAD_LESSONS = [
 
 /* ================================================================ 11 */
 {
-  id:'sonlar', g:'g2', level:'A1', books:['DR','PO','ZB','NP'],
+  id:'sonlar', g:'A1', level:'A1', books:['DR','PO','ZB','NP'],
   title:'Sonlar, vaqt va narx', ru:'Числа, время, цена, возраст',
   goal:'Sanash, soatni aytish, narx va yoshni so\'rash.',
   blocks:[
@@ -444,7 +446,7 @@ window.TETRAD_LESSONS = [
 
 /* ================================================================ 12 */
 {
-  id:'roditelniy', g:'g3', level:'A2', books:['DR','PO','ZB','RU','NP'],
+  id:'roditelniy', g:'A2', level:'A2', books:['DR','PO','ZB','RU','NP'],
   title:'Qaratqich kelishigi (Roditelniy)', ru:'Родительный падеж: кого? чего? у кого? откуда?',
   goal:'«Bor / yo\'q», egalik («ning»), miqdor va «qayerdan?» ma\'nolarini ifodalash.',
   blocks:[
@@ -481,7 +483,7 @@ window.TETRAD_LESSONS = [
 
 /* ================================================================ 13 */
 {
-  id:'datelniy', g:'g3', level:'A2', books:['DR','PO','ZB','RU','NP'],
+  id:'datelniy', g:'A2', level:'A2', books:['DR','PO','ZB','RU','NP'],
   title:'Jo\'nalish kelishigi (Datelniy)', ru:'Дательный падеж: кому? чему? к кому?',
   goal:'«Kimga?» deb so\'rash, «yoqadi», «kerak», «mumkin» iboralarini ishlatish.',
   blocks:[
@@ -515,7 +517,7 @@ window.TETRAD_LESSONS = [
 
 /* ================================================================ 14 */
 {
-  id:'tvoritelniy', g:'g3', level:'A2', books:['DR','PO','ZB','RU','NP'],
+  id:'tvoritelniy', g:'A2', level:'A2', books:['DR','PO','ZB','RU','NP'],
   title:'Vosita kelishigi (Tvoritelniy)', ru:'Творительный падеж: с кем? чем? кем?',
   goal:'«Kim bilan?», «nima bilan?», «kim bo\'lib?» degan ma\'nolarni ifodalash.',
   blocks:[
@@ -548,7 +550,7 @@ window.TETRAD_LESSONS = [
 
 /* ================================================================ 15 */
 {
-  id:'kelasi', g:'g3', level:'A2', books:['DR','PO','ZB','RU','NP'],
+  id:'kelasi', g:'A2', level:'A2', books:['DR','PO','ZB','RU','NP'],
   title:'Fe\'l turi va kelasi zamon', ru:'Вид глагола и будущее время',
   goal:'Tugallangan (СВ) va tugallanmagan (НСВ) fe\'llarni farqlash, kelasi zamonni yasash.',
   blocks:[
@@ -585,7 +587,7 @@ window.TETRAD_LESSONS = [
 
 /* ================================================================ 16 */
 {
-  id:'harakat', g:'g4', level:'A2', books:['DR','PO','ZB','RU','NP'],
+  id:'harakat', g:'A2', level:'A2', books:['DR','PO','ZB','RU','NP'],
   title:'Harakat fe\'llari', ru:'Глаголы движения: идти — ходить, ехать — ездить',
   goal:'Bir yo\'nalishli va ko\'p yo\'nalishli harakatni, prefiksli fe\'llarni farqlash.',
   blocks:[
@@ -625,7 +627,7 @@ window.TETRAD_LESSONS = [
 
 /* ================================================================ 17 */
 {
-  id:'buyruq', g:'g4', level:'A2', books:['DR','PO','ZB','RU'],
+  id:'buyruq', g:'A2', level:'A2', books:['DR','PO','ZB','RU'],
   title:'Buyruq mayli va odob', ru:'Повелительное наклонение и речевой этикет',
   goal:'Iltimos qilish, maslahat berish, taklif etish va xushmuomala iboralar.',
   blocks:[
@@ -671,7 +673,7 @@ window.TETRAD_LESSONS = [
 
 /* ================================================================ 18 */
 {
-  id:'murakkab', g:'g4', level:'B1', books:['DR','PO','RU','NP'],
+  id:'murakkab', g:'B1', level:'B1', books:['DR','PO','RU','NP'],
   title:'Qo\'shma gaplar', ru:'Сложное предложение: который, потому что, если, чтобы',
   goal:'Sabab, shart, maqsad va aniqlovchi ergash gaplarni tuzish.',
   blocks:[

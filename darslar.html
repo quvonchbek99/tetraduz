@@ -31,9 +31,10 @@
 <main>
   <section class="page-head">
     <div class="wrap">
-      <p class="eyebrow">18 mavzu · A0 → B1</p>
+      <p class="eyebrow">32 mavzu · A0 → C1</p>
       <h1>Darslar</h1>
-      <p class="lead">Har bir mavzuda qisqa qoida, jadval, misollar, ovozli talaffuz va avtomatik tekshiriladigan mashqlar bor. Tartib 5 ta mashhur darslik dasturiga tayangan — <a href="kitoblar.html">kitoblar haqida</a>.</p>
+      <p class="lead">Noldan C1 gacha olti daraja. Har bir mavzuda qisqa qoida, jadval, misollar, ovozli talaffuz va avtomatik tekshiriladigan mashqlar bor. A0–B1 tartibi 5 ta mashhur darslik dasturiga tayangan — <a href="kitoblar.html">kitoblar va darajalar haqida</a>.</p>
+      <div class="levels" id="levels" aria-label="Darajalar"></div>
     </div>
   </section>
 
@@ -42,7 +43,7 @@
       <aside class="toc collapsed" id="toc" aria-label="Mavzular">
         <button type="button" class="btn btn-ghost toc-toggle" id="tocToggle" aria-expanded="false"><span>Mavzular ro'yxati</span><span aria-hidden="true">▾</span></button>
         <div class="toc-body">
-          <div style="display:flex;justify-content:space-between;font-size:14px" class="muted"><span>Umumiy natija</span><span id="progTxt">0 / 18</span></div>
+          <div style="display:flex;justify-content:space-between;font-size:14px" class="muted"><span>Umumiy natija</span><span id="progTxt">0 / 32</span></div>
           <div class="progress" aria-hidden="true"><i id="progBar"></i></div>
           <div id="tocList"></div>
         </div>
@@ -61,6 +62,7 @@
 
 <script src="assets/tetrad.js"></script>
 <script src="assets/darslar-data.js"></script>
+<script src="assets/darslar-yuqori.js"></script>
 <script>
 (function(){
   "use strict";
@@ -74,7 +76,9 @@
     var html = '';
     var n = 0;
     G.forEach(function(g){
-      html += '<div class="toc-group"><h4>' + esc(g.title) + ' · ' + esc(g.level) + '</h4><ol>';
+      var cnt = L.filter(function(l){ return l.g === g.id; }).length;
+      var dn = L.filter(function(l){ return l.g === g.id && progress[l.id]; }).length;
+      html += '<div class="toc-group" id="lv-' + g.id + '"><h4>' + esc(g.title) + ' <span style="float:right;font-weight:400">' + dn + '/' + cnt + '</span></h4><ol>';
       L.forEach(function(l){
         if (l.g !== g.id) return;
         n++;
@@ -114,7 +118,7 @@
     h += '<p class="eyebrow">' + l.n + '-dars · ' + esc(l.level) + '</p>';
     h += '<h2>' + esc(l.title) + '</h2>';
     h += '<p class="ru-title">' + esc(l.ru) + '</p>';
-    h += '<div class="meta">' + l.books.map(function(b){
+    h += '<div class="meta">' + (l.books.length ? '' : '<span class="chip gold" title="Bu mavzu 5 ta asosiy darslik doirasidan yuqori">' + esc(l.level) + ' · qo\'shimcha mavzu</span>') + l.books.map(function(b){
       return '<a class="chip" href="kitoblar.html#' + b + '" style="color:' + B[b].color + ';border-color:' + B[b].color + '" title="Bu mavzu shu kitobda ham bor">📘 ' + esc(B[b].short) + '</a>';
     }).join('') + '</div>';
     h += '<p class="goal"><b>Maqsad:</b> ' + esc(l.goal) + '</p>';
@@ -168,6 +172,12 @@
     var pd = document.getElementById('playDlg');
     if (pd) pd.addEventListener('click', function(){ T.speak(l.dialog.map(function(d){ return d[1]; }).join(' … ')); });
   }
+
+  document.getElementById('levels').innerHTML = G.map(function(g){
+    var first = L.filter(function(l){ return l.g === g.id; })[0];
+    var cnt = L.filter(function(l){ return l.g === g.id; }).length;
+    return first ? '<a class="lv" href="#' + first.id + '" title="' + esc(g.desc) + '"><b>' + esc(g.level) + '</b><span>' + esc(g.title.split('· ')[1] || '') + ' · ' + cnt + ' dars</span></a>' : '';
+  }).join('');
 
   function route(){
     var id = location.hash.replace('#','');

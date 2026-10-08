@@ -33,7 +33,7 @@
     <div class="wrap">
       <p class="eyebrow">Tavsiya etilgan adabiyot</p>
       <h1>5 ta asosiy darslik</h1>
-      <p class="lead">Universitetlar va til markazlarida eng ko'p ishlatiladigan rus tili darsliklari. ТЕТРАДЬ darslari shu kitoblarning umumiy mavzular tartibiga tayanadi: har bir mavzuda qaysi kitobda ham o'tilishi ko'rsatilgan, shuning uchun saytdagi darsdan keyin kitobdan qo'shimcha mashq qilishingiz oson.</p>
+      <p class="lead">Universitetlar va til markazlarida eng ko'p ishlatiladigan rus tili darsliklari va A0 dan C1 gacha darajalar xaritasi. ТЕТРАДЬ darslari shu kitoblarning umumiy mavzular tartibiga tayanadi: har bir mavzuda qaysi kitobda ham o'tilishi ko'rsatilgan, shuning uchun saytdagi darsdan keyin kitobdan qo'shimcha mashq qilishingiz oson.</p>
       <p class="note" style="max-width:70ch">Saytdagi tushuntirish, misol va mashqlar kitoblardan ko'chirilmagan — ular yangidan yozilgan. Kitoblarni rasmiy nashriyot yoki do'kondan sotib olish tavsiya etiladi.</p>
     </div>
   </section>
@@ -98,13 +98,20 @@
     </div>
 
     <section class="block" style="margin-top:48px">
+      <h3>Darajalar yo'l xaritasi: A0 → C1</h3>
+      <p class="muted">Har bir daraja Yevropa tillari ramkasi (CEFR) va rus tilidan davlat sertifikat imtihoni (ТРКИ) darajalariga mos keladi.</p>
+      <div class="tbl-wrap"><table class="t roadmap" id="roadmap"></table></div>
+      <p class="note">5 ta asosiy darslik asosan <b>A1–B1</b> darajalarini qamraydi. <b>B2–C1</b> mavzulari (sifatdosh, ravishdosh, majhul nisbat, rasmiy uslub, frazeologiya) uchun «Русский язык в упражнениях» grammatika bo'limlari va haqiqiy matnlar — gazeta, maqola, film — bilan ishlash tavsiya etiladi.</p>
+    </section>
+
+    <section class="block" style="margin-top:48px">
       <h3>Mavzular xaritasi</h3>
       <p class="muted">Har bir ТЕТРАДЬ darsi qaysi kitoblarda ham asosiy mavzu sifatida o'tilishini ko'rsatadi. Darsga o'tish uchun nomini bosing.</p>
       <div class="tbl-wrap"><table class="t matrix" id="matrix"></table></div>
     </section>
 
     <section class="block" style="margin-top:48px">
-      <h3>12 haftalik o'qish rejasi</h3>
+      <h3>A0–A2 uchun 12 haftalik boshlang'ich reja</h3>
       <p class="muted">Haftasiga 4 dars (bosh sahifadagi 3 oylik dastur bilan mos). Har kuni lug'atdan 10–15 daqiqa so'z takrorlang.</p>
       <div class="tbl-wrap"><table class="t" id="plan"></table></div>
     </section>
@@ -130,6 +137,7 @@
 
 <script src="assets/tetrad.js"></script>
 <script src="assets/darslar-data.js"></script>
+<script src="assets/darslar-yuqori.js"></script>
 <script>
 (function(){
   "use strict";
@@ -141,6 +149,14 @@
       keys.map(function(k){ var y = l.books.indexOf(k) >= 0; return '<td class="c ' + (y ? 'y' : 'n') + '">' + (y ? '●' : '·') + '</td>'; }).join('') + '</tr>';
   });
   document.getElementById('matrix').innerHTML = h + '</tbody>';
+
+  var G = window.TETRAD_GROUPS;
+  document.getElementById('roadmap').innerHTML = '<thead><tr><th>Daraja</th><th>Nimani qila olasiz</th><th>Imtihon</th><th>Darslar</th></tr></thead><tbody>' +
+    G.map(function(g){
+      var ls = L.filter(function(l){ return l.g === g.id; });
+      return '<tr><td><b class="lvl">' + esc(g.level) + '</b><br><span class="muted" style="font-size:13px">' + esc(g.title.split('· ')[1] || '') + '</span></td><td>' + esc(g.desc) + '</td><td class="ru">' + esc(g.torfl) + '</td><td>' +
+        ls.map(function(l){ return '<a href="darslar.html#' + l.id + '">' + (L.indexOf(l) + 1) + '. ' + esc(l.title) + '</a>'; }).join('<br>') + '</td></tr>';
+    }).join('') + '</tbody>';
 
   var plan = [
     ['1','alifbo','tanishuv'], ['2','jins','koplik'], ['3','egalik','sifat'], ['4','fel','predlojniy'],

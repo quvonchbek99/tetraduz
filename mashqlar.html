@@ -33,7 +33,7 @@
     <div class="wrap">
       <p class="eyebrow">Tekshirib ko'ring</p>
       <h1>Mashqlar va testlar</h1>
-      <p class="lead">Darslardagi 180 ta topshiriqdan aralash test, olmoshlar bo'yicha 40 ta mashq va har kuni kerak bo'ladigan iboralar.</p>
+      <p class="lead">A0 dan C1 gacha 32 darsdagi 320 ta topshiriqdan aralash test, olmoshlar bo'yicha 40 ta mashq va har kuni kerak bo'ladigan iboralar.</p>
     </div>
   </section>
 
@@ -97,6 +97,7 @@
 
 <script src="assets/tetrad.js"></script>
 <script src="assets/darslar-data.js"></script>
+<script src="assets/darslar-yuqori.js"></script>
 <script src="assets/mashq-data.js"></script>
 <script>
 (function(){
@@ -105,7 +106,7 @@
   var $ = function(id){ return document.getElementById(id); };
 
   $('scope').innerHTML = '<option value="all">Barcha mavzular</option>' +
-    G.map(function(g){ return '<option value="g:' + g.id + '">' + esc(g.title) + '</option>'; }).join('') +
+    G.map(function(g){ return '<option value="g:' + g.id + '">Daraja ' + esc(g.title) + '</option>'; }).join('') +
     L.map(function(l, i){ return '<option value="l:' + l.id + '">' + (i + 1) + '. ' + esc(l.title) + '</option>'; }).join('');
 
   var best = T.load('testBest', null);
