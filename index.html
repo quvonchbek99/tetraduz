@@ -418,6 +418,19 @@
     [data-reveal]{opacity:1; transform:none; transition:none;}
   }
 
+
+  /* ---------- hub (darslar bo'limlari) ---------- */
+  .hub .wrap{padding-top:8px;}
+  .hub-head{max-width:62ch;}
+  .hub h2{font-size:clamp(26px,3.4vw,34px);}
+  .hub-sub{margin-top:14px; color:var(--ink-soft); font-size:16.5px;}
+  .hub-grid{display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:16px; margin-top:32px;}
+  .hub-card{display:flex; flex-direction:column; gap:8px; text-decoration:none; background:var(--paper-alt); border-radius:14px; padding:22px; box-shadow:var(--card-shadow); transition:transform .15s ease;}
+  .hub-card:hover{transform:translateY(-3px);}
+  .hub-card b{font-family:var(--font-display); font-size:20px;}
+  .hub-card span{font-size:15px; color:var(--ink-soft);}
+  .hub-card .hub-ic{width:46px; height:46px; border-radius:12px; display:grid; place-items:center; background:var(--accent); color:var(--accent-ink); font-family:var(--font-display); font-weight:700; font-size:18px;}
+  .hub-card .hub-go{margin-top:auto; padding-top:6px; color:var(--accent); font-weight:700; font-size:14.5px;}
 </style>
 
 <div class="binding" aria-hidden="true"></div>
@@ -431,6 +444,8 @@
     <ul class="nav-links">
       <li><a href="#teacher" data-i18n="nav.teacher">Ustoz</a></li>
       <li><a href="#program" data-i18n="nav.program">Dastur</a></li>
+      <li><a href="darslar.html" data-i18n="nav.lessons">Darslar</a></li>
+      <li><a href="lugat.html" data-i18n="nav.vocab">Lug'at</a></li>
       <li><a href="#contact" data-i18n="nav.contact">Bog'lanish</a></li>
     </ul>
     <div class="nav-right">
@@ -453,6 +468,7 @@
         <div class="cta-row">
           <a class="btn btn-primary" href="#contact" data-i18n="hero.ctaPrimary">Ustoz bilan bog'lanish</a>
           <a class="btn btn-ghost" href="#program" data-i18n="hero.ctaSecondary">Dasturni ko'rish</a>
+          <a class="btn btn-ghost" href="darslar.html" data-i18n="hero.ctaLessons">Bepul darslar</a>
         </div>
         <p class="hero-note">
           <svg viewBox="0 0 34 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M1 14C7 4 16 2 32 3" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><path d="M25 -1 32 3 25 8" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
@@ -570,6 +586,24 @@
 
   <hr class="perf" />
 
+  <section class="hub" id="hub">
+    <div class="wrap">
+      <div class="hub-head" data-reveal>
+        <p class="eyebrow" data-i18n="hub.eyebrow">ТЕТРАДЬ darsxonasi</p>
+        <h2 data-i18n="hub.title">Mustaqil mashq uchun bepul bo'limlar</h2>
+        <p class="hub-sub" data-i18n="hub.subtitle">5 ta mashhur darslik tartibida 18 ta mavzu, 500 so'zlik lug'at va avtomatik tekshiriladigan testlar — darslar orasida o'zingiz mashq qiling.</p>
+      </div>
+      <div class="hub-grid" data-reveal>
+        <a class="hub-card" href="darslar.html"><span class="hub-ic">Аа</span><b data-i18n="hub.c1.t">Darslar</b><span data-i18n="hub.c1.d">Alifbodan qo'shma gaplargacha 18 mavzu: qoida, jadval, dialog, ovoz va mashqlar.</span><span class="hub-go" data-i18n="hub.go">Ochish →</span></a>
+        <a class="hub-card" href="lugat.html"><span class="hub-ic">50</span><b data-i18n="hub.c2.t">Lug'at</b><span data-i18n="hub.c2.d">Har kuni 50 ta yangi so'z: ro'yxat, kartochkalar va so'z testi.</span><span class="hub-go" data-i18n="hub.go">Ochish →</span></a>
+        <a class="hub-card" href="mashqlar.html"><span class="hub-ic">✓</span><b data-i18n="hub.c3.t">Mashqlar</b><span data-i18n="hub.c3.d">Aralash testlar, olmoshlar bo'yicha 40 ta mashq va so'zlashuv iboralari.</span><span class="hub-go" data-i18n="hub.go">Ochish →</span></a>
+        <a class="hub-card" href="kitoblar.html"><span class="hub-ic">📘</span><b data-i18n="hub.c4.t">Kitoblar</b><span data-i18n="hub.c4.d">Eng ko'p tavsiya qilinadigan 5 darslik, mavzular xaritasi va 12 haftalik reja.</span><span class="hub-go" data-i18n="hub.go">Ochish →</span></a>
+      </div>
+    </div>
+  </section>
+
+  <hr class="perf" />
+
   <section class="contact" id="contact">
     <div class="wrap">
       <div class="head" data-reveal>
@@ -637,6 +671,17 @@
       "nav.teacher":"Ustoz",
       "nav.program":"Dastur",
       "nav.contact":"Bog'lanish",
+      "nav.lessons":"Darslar",
+      "nav.vocab":"Lug'at",
+      "hero.ctaLessons":"Bepul darslar",
+      "hub.eyebrow":"ТЕТРАДЬ darsxonasi",
+      "hub.title":"Mustaqil mashq uchun bepul bo'limlar",
+      "hub.subtitle":"5 ta mashhur darslik tartibida 18 ta mavzu, 500 so'zlik lug'at va avtomatik tekshiriladigan testlar — darslar orasida o'zingiz mashq qiling.",
+      "hub.c1.t":"Darslar","hub.c1.d":"Alifbodan qo'shma gaplargacha 18 mavzu: qoida, jadval, dialog, ovoz va mashqlar.",
+      "hub.c2.t":"Lug'at","hub.c2.d":"Har kuni 50 ta yangi so'z: ro'yxat, kartochkalar va so'z testi.",
+      "hub.c3.t":"Mashqlar","hub.c3.d":"Aralash testlar, olmoshlar bo'yicha 40 ta mashq va so'zlashuv iboralari.",
+      "hub.c4.t":"Kitoblar","hub.c4.d":"Eng ko'p tavsiya qilinadigan 5 darslik, mavzular xaritasi va 12 haftalik reja.",
+      "hub.go":"Ochish →",
       "hero.eyebrow":"Onlayn darslar · Jonli muloqot",
       "hero.subtitle":"Ustoz bilan bevosita onlayn darslar — grammatika yodlash emas, jonli suhbat orqali. 3 oyda kundalik nutqda erkin so'zlashing.",
       "hero.ctaPrimary":"Ustoz bilan bog'lanish",
@@ -690,6 +735,17 @@
       "nav.teacher":"Преподаватель",
       "nav.program":"Программа",
       "nav.contact":"Контакты",
+      "nav.lessons":"Уроки",
+      "nav.vocab":"Словарь",
+      "hero.ctaLessons":"Бесплатные уроки",
+      "hub.eyebrow":"Класс ТЕТРАДЬ",
+      "hub.title":"Бесплатные разделы для самостоятельной практики",
+      "hub.subtitle":"18 тем по программе 5 популярных учебников, словарь на 500 слов и тесты с автопроверкой — занимайтесь между уроками.",
+      "hub.c1.t":"Уроки","hub.c1.d":"18 тем от алфавита до сложных предложений: правила, таблицы, диалоги, озвучка и упражнения.",
+      "hub.c2.t":"Словарь","hub.c2.d":"50 новых слов каждый день: список, карточки и тест.",
+      "hub.c3.t":"Упражнения","hub.c3.d":"Смешанные тесты, 40 упражнений на местоимения и разговорные фразы.",
+      "hub.c4.t":"Учебники","hub.c4.d":"5 самых рекомендуемых учебников, карта тем и план на 12 недель.",
+      "hub.go":"Открыть →",
       "hero.eyebrow":"Онлайн-занятия · Живое общение",
       "hero.subtitle":"Онлайн-уроки напрямую с преподавателем — не зубрёжка, а живой разговор. Через 3 месяца вы свободно заговорите на бытовые темы.",
       "hero.ctaPrimary":"Связаться с преподавателем",
