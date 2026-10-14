@@ -7,7 +7,7 @@ Rus tili o'qituvchisining sayti va mustaqil mashq uchun bepul darsxona.
 | `index.html` | Bosh sahifa: ustoz, 3 oylik dastur, bog'lanish (UZ / RU) |
 | `darslar.html` | 6 daraja, 32 mavzu (A0 → C1): qoida, jadval, misollar, dialog, ovoz, 320 ta mashq |
 | `lugat.html` | Kunlik 50 so'z (hozir 500 so'z): ro'yxat, kartochkalar, test |
-| `tog.html` | TOG lug'ati (1–11-bosqich, 3514 so'z): 8 turkum, grammatika, TOG kaliti, ovoz, kartochka, test, PDF |
+| `tog.html` | TOG lug'ati (1–12-bosqich, 3887 so'z): 8 turkum, grammatika, TOG kaliti, ovoz, kartochka, test, PDF |
 | `mashqlar.html` | Aralash test, olmoshlar bo'yicha 40 mashq, so'zlashuv iboralari |
 | `kitoblar.html` | 5 asosiy darslik, A0–C1 yo'l xaritasi, mavzular xaritasi, 12 haftalik reja |
 

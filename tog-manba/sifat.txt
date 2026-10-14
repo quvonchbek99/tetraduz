@@ -982,3 +982,55 @@
 вишнёвый | olcharang | 🍒 | вишнёвый · ви'шня | VISHNYOVIY — VISHNYA | Olcha (vishnya). | вишнёвый сок | olcha sharbati | — | —
 кофе'йный | qahvarang | ☕ | кофе'йный · ко'фе | KOFEYNIY — KOFE | Qahva (kofe). | кофе'йный цвет | qahvarang | коричневый (jigarrang) | —
 морко'вный | sabzi(li) | 🥕 | морко'вный · морко'вь | MORKOVNIY — MORKOV | Sabzi (morkov). | морко'вный сок | sabzi sharbati | — | —
+# 12
+невнима'тельный | e'tiborsiz | 🙄 | -ый | NEVNIMATELNIY — NE + VNIMANIYE | Diqqatsiz. | невнима'тельный води'тель | e'tiborsiz haydovchi | рассеянный (parishonxotir) | внимательный (diqqatli)
+пасси'вный | sust, passiv | 🛋️ | -ый · пасси'вен | PASSIVNIY — PASS | Pas berdi-yu, o'tirdi. | пасси'вный зри'тель | sust tomoshabin | вялый (lanj) | активный (faol)
+вя'лый | lanj, so'lg'in | 🥀 | -ый · вял, -а' | VYALIY — VYAL | So'lib qoldi. | вя'лые цветы' | so'lgan gullar | слабый (kuchsiz) | бодрый (tetik)
+досту'пный | arzon; tushunarli; ochiq | 🔓 | -ый · досту'пен | DOSTUPNIY — DOSTUP | Kirish (dostup) ochiq. | досту'пные це'ны | arzon narxlar | — | недоступный (yetib bo'lmaydigan)
+чёрствый | qotgan (non); qattiqqo'l | 🍞 | -ый · чёрств, -а' | CHYORSTVIY — CHO'RT | Cho'rtdek qotib qolgan non. | чёрствый хлеб | qotgan non | твёрдый (qattiq) | свежий (yangi)
+пёстрый | ola-bula | 🦜 | -ый · пёстр, -а' | PYOSTRIY — PISTA | Pista rang ola-bula. | пёстрая ю'бка | ola-bula yubka | разноцветный (rang-barang) | однотонный (bir rangli)
+кле'тчатый | katakli | 🏁 | -ый | KLETCHATIY — KLETKA | Katak (kletka). | кле'тчатая руба'шка | katakli ko'ylak | — | однотонный (bir rangli)
+ме'дный | mis | 🥉 | -ый | MEDNIY — MED (asal) | Asal rangli mis. | ме'дная посу'да | mis idish | — | —
+пласти'ковый | plastik | 🧴 | -ый | PLASTIKOVIY — PLASTIK | Plastik. | пласти'ковая буты'лка | plastik shisha | — | стеклянный (shisha)
+степно'й | dashtga oid | 🌾 | -ой | STEPNOY — STEP | Dasht (step). | степно'й ве'тер | dasht shamoli | — | горный (tog'li)
+полево'й | dalaga oid | 🌼 | -ой | POLEVOY — POLE | Dala (pole). | полевы'е цветы' | dala gullari | — | лесной (o'rmonga oid)
+ле'тний | yozgi | 🏖️ | -ий (yumshoq) | LETNIY — LETO | Yoz (leto). | ле'тние кани'кулы | yozgi ta'til | — | зимний (qishki)
+зи'мний | qishki | ⛄ | -ий (yumshoq) | ZIMNIY — ZIMA | Qish (zima). | зи'мняя ку'ртка | qishki kurtka | — | летний (yozgi)
+приблизи'тельный | taxminiy | ≈ | -ый · приблизи'телен | PRIBLIZITELNIY — BLIZKO | Yaqin (blizko). | приблизи'тельная цена' | taxminiy narx | примерный (taxminiy) | точный (aniq)
+разби'тый | singan | 💔 | -ый (прич.) · разби'т | RAZBITIY — RAZ + BIT | Urib sindirilgan. | разби'тое окно' | singan deraza | сломанный (buzilgan) | целый (butun)
+песча'ный | qumli | 🏜️ | -ый | PESCHANIY — PESOK | Qum (pesok). | песча'ный пляж | qumli plyaj | — | каменистый (toshloq)
+фарфо'ровый | chinni | 🍶 | -ый | FARFOROVIY — FARFOR | Chinni (farfor). | фарфо'ровая ча'шка | chinni piyola | — | —
+хруста'льный | billur | 💎 | -ый | XRUSTALNIY — XRUSTAL | Billur (xrustal). | хруста'льная ва'за | billur guldon | — | —
+льняно'й | zig'ir (matoli) | 👕 | -ой | LNYANOY — LYON | Zig'ir (lyon). | льняна'я руба'шка | zig'ir ko'ylak | — | —
+соло'менный | somonli | 👒 | -ый | SOLOMENNIY — SOLOMA | Somon (soloma). | соло'менная шля'па | somon shlyapa | — | —
+водяно'й | suvli; suvga oid | 💧 | -ой | VODYANOY — VODA | Suv (voda). | водяна'я ме'льница | suv tegirmoni | — | —
+небе'сный | osmoniy; havorang | 🌌 | -ый | NEBESNIY — NEBO | Osmon (nebo). | небе'сный цвет | osmon rangi | — | земной (yerga oid)
+звёздный | yulduzli | ✨ | -ый | ZVYOZDNIY — ZVEZDA | Yulduz (zvezda). | звёздное не'бо | yulduzli osmon | — | —
+грозово'й | momaqaldiroqli | ⛈️ | -ой | GROZOVOY — GROZA | Momaqaldiroq (groza). | грозова'я ту'ча | momaqaldiroqli bulut | — | —
+сы'рный | pishloqli | 🧀 | -ый | SIRNIY — SIR | Pishloq (sir). | сы'рный суп | pishloqli sho'rva | — | —
+я'годный | rezavorli | 🍓 | -ый | YAGODNIY — YAGODA | Rezavor (yagoda). | я'годный сок | rezavor sharbati | — | —
+оре'ховый | yong'oqli | 🌰 | -ый | OREXOVIY — OREX | Yong'oq (orex). | оре'ховый торт | yong'oqli tort | — | —
+апельси'новый | apelsinli | 🍊 | -ый | APELSINOVIY — APELSIN | Apelsin. | апельси'новый сок | apelsin sharbati | — | —
+я'блочный | olmali | 🍏 | -ый | YABLOCHNIY — YABLOKO | Olma (yabloko). | я'блочный пиро'г | olmali pirog | — | —
+клубни'чный | qulupnayli | 🍓 | -ый | KLUBNICHNIY — KLUBNIKA | Qulupnay (klubnika). | клубни'чное варе'нье | qulupnay murabbosi | — | —
+мя'тный | yalpizli | 🌿 | -ый | MYATNIY — MYATA | Yalpiz (myata). | мя'тный чай | yalpizli choy | — | —
+ча'йный | choyga oid | 🍵 | -ый | CHAYNIY — CHAY | Choy. | ча'йная ло'жка | choy qoshiq | — | —
+бензи'новый | benzinli | ⛽ | -ый | BENZINOVIY — BENZIN | Benzin. | бензи'новый дви'гатель | benzinli dvigatel | — | электрический (elektr)
+нефтяно'й | neftga oid | 🛢️ | -ой | NEFTYANOY — NEFT | Neft. | нефтяна'я компа'ния | neft kompaniyasi | — | —
+у'гольный | ko'mirli | ⚫ | -ый | UGOLNIY — UGOL | Ko'mir (ugol). | у'гольная ша'хта | ko'mir koni | — | —
+я'дерный | yadroviy | ⚛️ | -ый | YADERNIY — YADRO | Yadro. | я'дерная эне'ргия | yadro energiyasi | атомный (atom) | —
+о'фисный | ofisga oid | 🏢 | -ый | OFISNIY — OFIS | Ofis. | о'фисная ме'бель | ofis mebeli | — | —
+бюдже'тный | byudjetga oid; arzon | 💰 | -ый | BYUDJETNIY — BYUDJET | Byudjet. | бюдже'тное ме'сто | grant asosidagi o'rin | дешёвый (arzon) | платный (pullik)
+бесце'нный | bebaho | 💎 | -ый · бесце'нен | BESTSENNIY — BEZ + TSENA | Narxi (tsena) yo'q — bebaho. | бесце'нный опыт | bebaho tajriba | драгоценный (qimmatbaho) | дешёвый (arzon)
+пы'льный | changli | 🌫️ | -ый · пы'лен | PILNIY — PYL | Chang (pyl). | пы'льная доро'га | changli yo'l | грязный (iflos) | чистый (toza)
+ржа'вый | zanglagan | 🔩 | -ый | RJAVIY — RJAVCHINA | Zang (rjavchina). | ржа'вый гвоздь | zanglagan mix | — | —
+сму'глый | qoracha (terisi) | 🧑🏽 | -ый · смугл, -а' | SMUGLIY — S + MOG'OL | Mo'g'ul yigitdek qoracha. | сму'глая ко'жа | qoracha teri | загорелый (oftobda qoraygan) | бледный (rangpar)
+пу'хлый | to'lagina, do'mboq | 👶 | -ый · пухл, -а' | PUXLIY — PUX (par) | Pardek yumshoq do'mboq. | пу'хлые щёки | do'mboq yanoqlar | полный (to'la) | худой (oriq)
+мускули'стый | mushakdor | 💪 | -ый | MUSKULISTIY — MUSKUL | Mushak (muskul). | мускули'стые ру'ки | mushakdor qo'llar | сильный (kuchli) | хилый (nimjon)
+зо'ркий | o'tkir ko'zli | 🦅 | -ий · зо'рок, зорка' | ZORKIY — ZO'R | Zo'r ko'z. | зо'ркий глаз | o'tkir ko'z | — | близорукий (yaqinni ko'radigan)
+близору'кий | yaqinni ko'radigan (miopik) | 👓 | -ий | BLIZORUKIY — BLIZKO + RUKA | Faqat qo'l yaqinidagini ko'radi. | близору'кий челове'к | yaqindan ko'radigan odam | — | дальнозоркий (uzoqni ko'radigan)
+безда'рный | iste'dodsiz | 🎭 | -ый · безда'рен | BEZDARNIY — BEZ + DAR | Sovg'a (dar)siz. | безда'рный актёр | iste'dodsiz aktyor | неспособный (qobiliyatsiz) | талантливый (iste'dodli)
+невоспи'танный | tarbiyasiz | 😤 | -ый | NEVOSPITANNIY — NE + VOSPITANIYE | Tarbiya yo'q. | невоспи'танный ребёнок | tarbiyasiz bola | грубый (qo'pol) | вежливый (xushmuomala)
+неблагода'рный | noshukur | 😒 | -ый | NEBLAGODARNIY — NE + BLAGODARIT | Rahmat demaydi. | неблагода'рный сын | noshukur o'g'il | — | благодарный (minnatdor)
+нереши'тельный | ikkilanuvchan | 🤷 | -ый · нереши'телен | NERESHITELNIY — NE + RESHIT | Qaror qila olmaydi. | нереши'тельный шаг | ikkilangan qadam | робкий (tortinchoq) | решительный (qat'iyatli)
+неуве'ренный | ishonchsiz | 😟 | -ый · неуве'рен | NEUVERENNIY — NE + VERA | Ishonch (vera) yo'q. | неуве'ренный го'лос | ishonchsiz ovoz | робкий (tortinchoq) | уверенный (ishonchli)

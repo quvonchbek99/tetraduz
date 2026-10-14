@@ -985,3 +985,52 @@
 переда'ча | ko'rsatuv; uzatish | 📺 | ж.р. | PEREDACHA — PERE + DACHA | Dachadan ko'rsatuv. | телевизио'нная переда'ча | teleko'rsatuv | программа (dastur) | —
 се'риал | serial | 🎬 | м.р. | SERIAL | Serial. | смотре'ть се'риал | serial ko'rmoq | — | —
 ра'дио | radio | 📻 | ср.р., o'zgarmaydi | RADIO | Radio. | слу'шать ра'дио | radio tinglamoq | — | —
+# 12
+кварта'л | kvartal, mavze | 🏘️ | м.р. · в кварта'ле | KVARTAL | Kvartal. | жило'й кварта'л | turar-joy mavzesi | микрорайон (mavze) | —
+фонта'н | favvora | ⛲ | м.р. | FONTAN | Fontan — favvora. | фонта'н в па'рке | bog'dagi favvora | — | —
+скаме'йка | o'rindiq (skameyka) | 🪑 | ж.р.; Р.мн: скаме'ек | SKAMEYKA | Skameyka. | сиде'ть на скаме'йке | skameykada o'tirmoq | лавочка (o'rindiq) | —
+клу'мба | gulzor | 🌷 | ж.р. | KLUMBA — KLUMBA | Gulzor. | цветы' на клу'мбе | gulzordagi gullar | — | —
+газо'н | maysazor | 🌿 | м.р. | GAZON — GAZ + ON | Maysazor. | не ходи'ть по газо'ну | maysani bosmaslik | лужайка (o'tloq) | —
+доро'жка | so'qmoq, yo'lak | 🛤️ | ж.р. | DOROJKA — DOROGA | Kichik yo'l (doroga). | доро'жка в саду' | bog'dagi yo'lak | тропинка (so'qmoq) | —
+тропи'нка | so'qmoq | 🥾 | ж.р. | TROPINKA — TROPA | Tor yo'l. | го'рная тропи'нка | tog' so'qmog'i | дорожка (yo'lak) | —
+кали'тка | eshikcha (darvozacha) | 🚪 | ж.р. | KALITKA — KALIT | Kalit bilan ochiladi. | откры'ть кали'тку | eshikchani ochmoq | — | —
+подоко'нник | deraza tokchasi | 🪟 | м.р. | PODOKONNIK — POD + OKNO | Deraza (okno) ostida. | цветы' на подоко'ннике | deraza tokchasidagi gullar | — | —
+што'ра | parda | 🪟 | ж.р. | SHTORA — SHTOR | Parda. | задёрнуть што'ры | pardalarni tortmoq | занавеска (parda) | —
+обо'и | gulqog'oz | 🧱 | faqat мн.; Р: обо'ев | OBOI — OBI | Obi-nonga o'xshash naqsh. | но'вые обо'и | yangi gulqog'oz | — | —
+лю'стра | qandil | 💡 | ж.р. | LYUSTRA — LYUSTRA | Qandil. | хруста'льная лю'стра | billur qandil | светильник (chiroq) | —
+розе'тка | rozetka | 🔌 | ж.р. | ROZETKA | Rozetka. | включи'ть в розе'тку | rozetkaga ulamoq | — | вилка (vilka)
+выключа'тель | o'chirgich | 💡 | м.р. | VYKLYUCHATEL — VYKLYUCHIT | O'chiradi. | нажа'ть на выключа'тель | o'chirgichni bosmoq | — | —
+кра'н | jo'mrak; kran | 🚰 | м.р. | KRAN | Kran. | закры'ть кран | jo'mrakni yopmoq | — | —
+ра'ковина | rakovina | 🚰 | ж.р. | RAKOVINA — RAK (qisqichbaqa) | Qisqichbaqa uyi kabi. | мыть посу'ду в ра'ковине | rakovinada idish yuvmoq | — | —
+ва'нна | vanna | 🛁 | ж.р. | VANNA | Vanna. | приня'ть ва'нну | vanna qabul qilmoq | — | душ (dush)
+ду'ш | dush | 🚿 | м.р. | DUSH | Dush. | приня'ть душ | dush qabul qilmoq | — | ванна (vanna)
+комо'д | komod | 🗄️ | м.р. | KOMOD | Komod. | ве'щи в комо'де | komoddagi narsalar | шкаф (shkaf) | —
+ту'мбочка | tumbochka | 🗄️ | ж.р. | TUMBOCHKA | Tumbochka. | ла'мпа на ту'мбочке | tumbochkadagi chiroq | — | —
+ве'шалка | ilgich | 🧥 | ж.р. | VESHALKA — VESHAT | Osadi (veshat). | пальто' на ве'шалке | ilgichdagi palto | крючок (ilmoq) | —
+матра'с | matras | 🛏️ | м.р. | MATRAS | Matras. | мя'гкий матра'с | yumshoq matras | — | —
+простыня' | choyshab | 🛏️ | ж.р.; мн: про'стыни | PROSTYNYA — PROSTOY | Oddiy (prostoy) oq choyshab. | бе'лая простыня' | oq choyshab | — | —
+на'волочка | yostiq jildi | 🛏️ | ж.р. | NAVOLOCHKA — NA + VOLOK | Yostiq ustidagi. | но'вая на'волочка | yangi yostiq jildi | — | —
+пле'д | pled | 🧣 | м.р. | PLED | Pled. | тёплый плед | issiq pled | одеяло (adyol) | —
+утю'г | dazmol | 👔 | м.р.; Р: утюга' | UTYUG — UTYUG | Dazmol. | горя'чий утю'г | issiq dazmol | — | —
+пылесо'с | changyutgich | 🧹 | м.р. | PYLESOS — PYL + SOS | Changni (pyl) so'radi (sos). | но'вый пылесо'с | yangi changyutgich | — | —
+стира'льная маши'на | kir yuvish mashinasi | 🧺 | ж.р. | STIRALNAYA — STIRAT | Kir yuvadi (stirat). | стира'льная маши'на слома'лась | kir mashina buzildi | — | —
+микроволно'вка | mikroto'lqinli pech | 📟 | ж.р. | MIKROVOLNOVKA — MIKRO + VOLNA | Mikro to'lqin. | разогре'ть в микроволно'вке | mikroto'lqinli pechda isitmoq | — | —
+духо'вка | duxovka | 🔥 | ж.р. | DUXOVKA | Duxovka. | пиро'г в духо'вке | duxovkadagi pirog | печь (pech) | —
+кры'шка | qopqoq | 🫕 | ж.р. | KRYSHKA — KRYSHA | Kichkina tom (krysha). | кры'шка кастрю'ли | kastryul qopqog'i | — | —
+кру'жка | krujka | 🍺 | ж.р. | KRUJKA | Krujka. | кру'жка ча'я | bir krujka choy | чашка (chashka) | —
+блю'дце | likopcha | 🍵 | ср.р. ([блю'цэ]) | BLYUDTSE — BLYUDO | Kichik likop (blyudo). | ча'шка с блю'дцем | likopchali piyola | тарелочка (likopcha) | —
+подно'с | patnis | 🍽️ | м.р. | PODNOS — POD + NOS | Burun (nos) ostidagi patnis. | чай на подно'се | patnisdagi choy | — | —
+салфе'тка | salfetka | 🧻 | ж.р. | SALFETKA | Salfetka. | бума'жная салфе'тка | qog'oz salfetka | — | —
+ска'терть | dasturxon | 🍽️ | ж.р. (-ь) | SKATERT — SKAT + ERT | Ertalab yoziladi. | бе'лая ска'терть | oq dasturxon | — | —
+кувши'н | ko'za | 🏺 | м.р. | KUVSHIN — KO'VSHIN | Ko'za. | кувши'н воды' | bir ko'za suv | — | —
+те'рмос | termos | 🧉 | м.р. | TERMOS | Termos. | чай в те'рмосе | termosdagi choy | — | —
+паке'т | paket | 🛍️ | м.р. | PAKET | Paket. | полиэтиле'новый паке'т | sellofan paket | сумка (sumka) | —
+му'сор | axlat | 🗑️ | м.р. | MUSOR — MUSHOR | Axlat. | вы'бросить му'сор | axlatni tashlamoq | отходы (chiqindilar) | —
+тря'пка | latta | 🧽 | ж.р. | TRYAPKA — TERYAPKA | Latta. | вы'тереть тря'пкой | latta bilan artmoq | — | —
+гу'бка | gubka | 🧽 | ж.р. | GUBKA — GUBA (lab) | Labdek yumshoq gubka. | мыть посу'ду гу'бкой | gubka bilan idish yuvmoq | — | —
+ве'ник | supurgi | 🧹 | м.р. | VENIK — VENA | Supurgi. | подмета'ть ве'ником | supurgi bilan supurmoq | метла (supurgi) | —
+шва'бра | shvabra | 🧹 | ж.р. | SHVABRA — SHABBA | Pol artgich. | мыть пол шва'брой | polni shvabra bilan yuvmoq | — | —
+пло'щадка | maydoncha | 🛝 | ж.р. · де'тская пло'щадка | PLOSHADKA — PLOSHAD | Kichik maydon. | де'тская пло'щадка | bolalar maydonchasi | — | —
+каче'ли | arg'imchoq | 🛝 | faqat мн. | KACHELI — KACHAT | Tebratadi (kachat). | ката'ться на каче'лях | arg'imchoq uchmoq | — | —
+го'рка | tepalik; slayd | 🛝 | ж.р. | GORKA — GORA | Kichik tog' (gora). | ката'ться с го'рки | tepalikdan sirpanib tushmoq | — | —
+пе'сочница | qumdon (bolalar uchun) | 🏖️ | ж.р. | PESOCHNITSA — PESOK | Qum (pesok) joyi. | де'ти в пе'сочнице | qumdondagi bolalar | — | —
