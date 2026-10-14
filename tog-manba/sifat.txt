@@ -1,3 +1,4 @@
+# 1
 но'вый | yangi | ✨ | но'вый, но'вая, но'вое, но'вые · qiyos: нове'е | NOVVOT | Novvot shunchalik yangiki, hali qog'ozidan yaltirab turibdi. | но'вый телефо'н | yangi telefon
 хоро'ший | yaxshi | 👍 | хоро'ший, хоро'шая, хоро'шее, хоро'шие (ш dan keyin -ий/-ее) · qiyos: лу'чше (!) · ravish: хорошо' | XO'ROZ + SHIY | Xo'roz yaxshi kayfiyatda "Kuku-xorosho!" deb sayrayapti. | хоро'шая пого'да | yaxshi ob-havo
 большо'й | katta | 🐘 | большо'й, больша'я, большо'е, больши'е (urg'u oxirida: -о'й) · qiyos: бо'льше | BOLISH | Bolishingiz filday katta — ustida butun oila uxlaydi. | большо'й дом | katta uy
@@ -55,3 +56,60 @@
 мла'дший | kichik (yoshda) | 🧒 | мла'дший, мла'дшая, мла'дшее, мла'дшие | MALLA | Uyning kichigi — malla sochli kenja. | мла'дший брат | uka
 ста'рший | katta (yoshda) | 🧑 | ста'рший, ста'ршая, ста'ршее, ста'ршие | STARTER | Katta aka hamma ishni starterdek boshlab beradi. | ста'ршая сестра' | opa
 родно'й | ona (tili); tug'ishgan | 🏡 | родно'й, родна'я, родно'е, родны'е | RODNIK — BULOQ | Ona yurtning buloqi (rodnik) — eng shirin suv. | родно'й язы'к | ona tili
+# 2
+сле'дующий | keyingi | ⏭️ | сле'дующий, сле'дующая, сле'дующее, сле'дующие | SLEDUYUSHIY — SLED (iz) | Iz (sled) bo'ylab keyingi bekatga yurasiz. | на сле'дующей неде'ле | keyingi haftada
+про'шлый | o'tgan | ⏮️ | про'шлый, про'шлая, про'шлое, про'шлые | PROSHLIY — PARSHA | Parsha (qush pati) o'tgan yildan qolgan. | в про'шлом году' | o'tgan yili
+настоя'щий | haqiqiy; hozirgi | 💎 | настоя'щий, настоя'щая, настоя'щее (ч/щ dan keyin -ий, -ее) | NASTOYASHIY — NASTOYKA | Haqiqiy nastoyka (damlama) — sof o'tdan. | настоя'щий друг | haqiqiy do'st
+бу'дущий | kelajak, kelgusi | 🔮 | бу'дущий, бу'дущая, бу'дущее · бу'дущее = kelajak (ot) | BUDUSHIY — BUDILNIK | Budilnik kelajakdan jiringlayapti. | в бу'дущем году' | kelgusi yili
+изве'стный | mashhur | 🌟 | изве'стный, изве'стная ([изве'сный], т o'qilmaydi) | IZVESTNIY — IZVEST (ohak) | Ohak (izvest) bilan oqlangan uy — butun shaharda mashhur. | изве'стный писа'тель | mashhur yozuvchi
+знако'мый | tanish | 🤝 | знако'мый, знако'мая · знако'мый = tanish (ot) | ZNAKOMIY — ZNAK | Tanish odamni znak (belgi)dan taniysiz. | знако'мое лицо' | tanish yuz
+сло'жный | murakkab | 🧩 | сло'жный, сло'жная · qiyos: сложне'е | SLOJNIY — SOLISH | Murakkab masalani qopga solib bo'lmaydi. | сло'жная зада'ча | murakkab masala
+то'чный | aniq | 🎯 | то'чный, то'чная · ravish: то'чно | TOCHNIY — TOCHKA | Nuqtaga (tochka) aniq tegdi! | то'чное вре'мя | aniq vaqt
+гро'мкий | baland (ovoz) | 📢 | гро'мкий, гро'мкая · ravish: гро'мко · qiyos: гро'мче | GROMKIY — GROM (momaqaldiroq) | Momaqaldiroq (grom) shunday baland ovozda gapiradi. | гро'мкий го'лос | baland ovoz
+ти'хий | sokin, past (ovoz) | 🤫 | ти'хий, ти'хая, ти'хое · ravish: ти'хо · qiyos: ти'ше | TIXIY — TIXIRLASH | Sichqoncha sokin tixirlab yuribdi. | ти'хая у'лица | sokin ko'cha
+мя'гкий | yumshoq | 🧸 | мя'гкий, мя'гкая ([мя'хкий]) · qiyos: мя'гче | MYAGKIY — MIYAG' (mushuk) | "Miyov" degan mushuk juda yumshoq. | мя'гкий хлеб | yumshoq non
+твёрдый | qattiq | 🪨 | твёрдый, твёрдая, твёрдое | TVYORDIY — TVOROG | Tvorog muzlab, toshdek qattiq bo'ldi. | твёрдый ка'мень | qattiq tosh
+сла'дкий | shirin | 🍯 | сла'дкий, сла'дкая ([сла'ткий]) · qiyos: сла'ще | SLADKIY — SHOKOLAD | Shokolad shirin! | сла'дкий чай | shirin choy
+солёный | sho'r | 🧂 | солёный, солёная · солёные огурцы' = tuzlangan bodring | SOLYONIY — SOL (tuz) | Sho'r tuz (sol') to'la idish. | солёная вода' | sho'r suv
+ки'слый | nordon | 🍋 | ки'слый, ки'слая | KISLIY — KISEL | Kisel shunchalik nordonki, yuzingiz burishdi. | ки'слый лимо'н | nordon limon
+го'рький | achchiq | 🌶️ | го'рький, го'рькая · qiyos: го'рче | GORKIY — G'OR | G'ordagi o't achchiq ekan. | го'рький шокола'д | achchiq shokolad
+све'жий | yangi, toza (mahsulot) | 🥬 | све'жий, све'жая, све'жее | SVEJIY — SABZI | Yangi sabzi tong shabnamida yaltiraydi. | све'жий хлеб | yangi non
+сухо'й | quruq | 🏜️ | сухо'й, суха'я, сухо'е, сухи'е | SUXOY — SUXARI | Suxari (quritilgan non) juda quruq. | сухо'й ве'тер | quruq shamol
+мо'крый | ho'l | 💦 | мо'крый, мо'края, мо'крое | MOKRIY — MOKKA | Makkajo'xori yomg'irda ho'l bo'ldi. | мо'края оде'жда | ho'l kiyim
+тёмный | qorong'i; to'q | 🌑 | тёмный, тёмная · темно' = qorong'i (ravish) | TYOMNIY — TUMAN | Tuman qoplagan qorong'i ko'cha. | тёмная ночь | qorong'i tun
+све'тлый | yorug'; och (rang) | 🌞 | све'тлый, све'тлая · светло' = yorug' | SVETLIY — SVET | Svet (nur) to'la yorug' xona. | све'тлая ко'мната | yorug' xona
+я'ркий | yorqin | 🎆 | я'ркий, я'ркая · qiyos: я'рче | YARKIY — YARQIROQ | Yarqiroq — yarkiy! O'zbekcha bilan deyarli bir xil. | я'ркое со'лнце | yorqin quyosh
+се'рый | kulrang | 🐘 | се'рый, се'рая, се'рое | SERIY — SERIYA | Kulrang fillar seriyasi. | се'рый кот | kulrang mushuk
+кори'чневый | jigarrang | 🟫 | кори'чневый, кори'чневая | KORICHNEVIY — KORICA (dolchin) | Dolchin (korica) jigarrang bo'ladi. | кори'чневый стол | jigarrang stol
+ро'зовый | pushti | 🌸 | ро'зовый, ро'зовая · ро'за = atirgul | ROZOVIY — ROZA | Atirgul (roza) — pushti. | ро'зовое пла'тье | pushti ko'ylak
+ора'нжевый | to'q sariq | 🍊 | ора'нжевый, ора'нжевая | ORANJEVIY — APELSIN (orange) | Apelsin rangi — orange. | ора'нжевый апельси'н | to'q sariq apelsin
+фиоле'товый | binafsha | 🟣 | фиоле'товый, фиоле'товая · фиа'лка = binafsha gul | FIOLETOVIY — FIALKA | Fialka (binafsha gul) — binafsharang. | фиоле'товый цвет | binafsha rang
+то'лстый | yo'g'on; semiz | 🐻 | то'лстый, то'лстая · qiyos: то'лще | TOLSTOY | Lev Tolstoy kitoblari juda yo'g'on! | то'лстая кни'га | qalin kitob
+то'нкий | ingichka | 🪡 | то'нкий, то'нкая · qiyos: то'ньше | TONKIY — TONG | Tongdagi nur ingichka. | то'нкая ни'тка | ingichka ip
+худо'й | ozg'in | 🦒 | худо'й, худа'я, худо'е | XUDOY — XO'DA | Ozg'in xo'da (bolalar) yugurib yuribdi. | худо'й челове'к | ozg'in odam
+ни'зкий | past | 🐾 | ни'зкий, ни'зкая · qiyos: ни'же | NIZKIY — NIZOM | Nizomga ko'ra stol past bo'lishi kerak. | ни'зкий стол | past stol
+глубо'кий | chuqur | 🌊 | глубо'кий, глубо'кая · qiyos: глу'бже | GLUBOKIY — GULOB | Gulob (atirgul suvi) solingan chuqur quduq. | глубо'кое о'зеро | chuqur ko'l
+тяжёлый | og'ir | 🏋️ | тяжёлый, тяжёлая · тяжело' = og'ir (ravish) | TYAJYOLIY — TOJ | Oltin toj juda og'ir! | тяжёлая су'мка | og'ir sumka
+бога'тый | boy | 💰 | бога'тый, бога'тая · qiyos: бога'че | BOGATIY — BOG' | Bog'i bor odam — boy. | бога'тый челове'к | boy odam
+бе'дный | kambag'al; bechora | 🥺 | бе'дный, бе'дная | BEDNIY — BEDANA | Bechora bedana — uyi yo'q. | бе'дная пти'ца | bechora qush
+здоро'вый | sog'lom | 💪 | здоро'вый, здоро'вая · qisqa: здоро'в | ZDOROVIY — ZO'R | Sog'lom odam — zo'r! | здоро'вый ребёнок | sog'lom bola
+больно'й | kasal; bemor | 🤒 | больно'й, больна'я · qisqa: бо'лен, больна' · больно'й = bemor (ot) | BOLNOY — BOLA + NOY | Kasal bola "noy-noy" deb yotibdi. | Он бо'лен. | U kasal.
+голо'дный | och | 🍽️ | голо'дный, голо'дная · qisqa: го'лоден | GOLODNIY — GOLOD (ochlik) | Och odam golod (ochlikdan) qornini ushlab turibdi. | Я голо'дный. | Men ochman.
+сы'тый | to'q | 😌 | сы'тый, сы'тая · qisqa: сыт | SITIY — SUT | Sut ichib to'q bo'ldingiz. | Я сыт. | Men to'qman.
+уста'лый | charchagan | 😩 | уста'лый, уста'лая · qisqa sifat o'rniga: я уста'л / уста'ла | USTALIY — USTA | Usta kun bo'yi ishlab charchadi. | Я уста'л. | Men charchadim.
+за'нятый | band | ⏳ | за'нятый · qisqa: за'нят, занята', за'нято, за'няты | ZANYAT — ZANJIR | Zanjir bilan bog'langan — band! | Я сейча'с за'нят. | Men hozir bandman.
+гото'вый | tayyor | ✅ | гото'вый · qisqa: гото'в, гото'ва, гото'во, гото'вы | GOTOV — GO'TOV | Ovqat tayyor — "Gotovo!" | Обе'д гото'в. | Tushlik tayyor.
+ра'д | xursand | 😃 | faqat qisqa: рад, ра'да, ра'ды · + Д: рад тебе' | RAD — RADIO | Radio xursand qo'shiq aytyapti. | Я рад вас ви'деть. | Sizni ko'rganimdan xursandman.
+ве'жливый | xushmuomala | 🎩 | ве'жливый, ве'жливая | VEJLIVIY — VAZMIN | Vazmin, xushmuomala odam. | ве'жливый ма'льчик | xushmuomala bola
+лени'вый | dangasa | 🦥 | лени'вый, лени'вая · лень = dangasalik | LENIVIY — LENTA | Dangasa odam lenta kabi divanga cho'zilib yotibdi. | лени'вый кот | dangasa mushuk
+че'стный | halol, rostgo'y | 🫡 | че'стный ([че'сный]) · честно' = rostini | CHESTNIY — CHEST (sharaf) | Halol odamning sharafi (chest) baland. | че'стный челове'к | halol odam
+сме'лый | jasur | 🦁 | сме'лый, сме'лая · qiyos: смеле'е | SMELIY — SAMOLYOT | Jasur uchuvchi samolyotdan sakradi. | сме'лый солда'т | jasur askar
+споко'йный | tinch, xotirjam | 😌 | споко'йный · споко'йно = xotirjam · Споко'йной но'чи! | SPOKOYNIY — SOPOL + KOY | Sopol ko'zadek xotirjam. | споко'йный ве'чер | tinch oqshom
+удо'бный | qulay | 🛋️ | удо'бный, удо'бная · удо'бно = qulay | UDOBNIY — UDOBRENIE (o'g'it) | Qulay divan — o'g'itdek yumshoq. | удо'бный стул | qulay stul
+опа'сный | xavfli | ⚠️ | опа'сный, опа'сная · опа'сно = xavfli | OPASNIY — OPA + SIN | Opa sinish xavfli joyda turibdi. | опа'сная доро'га | xavfli yo'l
+совреме'нный | zamonaviy | 📱 | совреме'нный (нн!) · совреме'нная | SOVREMENNIY — SO'V + VREMYA | Hozirgi vaqt (vremya)ga mos — zamonaviy. | совреме'нный го'род | zamonaviy shahar
+дре'вний | qadimiy | 🏺 | дре'вний, дре'вняя, дре'внее (yumshoq) | DREVNIY — DARVESH | Qadimiy darvesh. | дре'вний го'род | qadimiy shahar
+ме'стный | mahalliy | 📍 | ме'стный ([ме'сный]) · ме'сто = joy | MESTNIY — MESTO (joy) | Shu joyning (mesto) odami — mahalliy. | ме'стное вре'мя | mahalliy vaqt
+о'бщий | umumiy | 🤝 | о'бщий, о'бщая, о'бщее, о'бщие | OBSHIY — OBSHEJITIYE (yotoqxona) | Yotoqxona — umumiy uy. | о'бщий знамена'тель | umumiy maxraj
+ли'чный | shaxsiy | 🔐 | ли'чный, ли'чная | LICHNIY — LICHKA | Lichkaga yoziladigan xabar — shaxsiy. | ли'чное де'ло | shaxsiy ish
+ле'тний / зи'мний | yozgi / qishki | 🌞 | yumshoq: ле'тний, ле'тняя, ле'тнее; зи'мний, зи'мняя, зи'мнее | LETO / ZIMA | Yoz (leto) — yozgi; qish (zima) — qishki. | ле'тние кани'кулы | yozgi ta'til

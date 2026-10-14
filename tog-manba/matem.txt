@@ -1,3 +1,4 @@
+# 1
 матема'тика | matematika | 📐 | ж.р. · Р: матема'тики · по матема'тике (fan bo'yicha) | MATEMATIKA | Matematika — o'zbekchada ham matematika; formulalar osmonda yulduz bo'lib porlaydi. | уро'к матема'тики | matematika darsi
 число' | son | 🔢 | ср.р. · Р: числа' · мн: чи'сла · чётное / нечётное число' | CHIZG'ICH | Chizg'ichdagi sonlar navbat bilan sakraydi. | натура'льное число' | natural son
 ци'фра | raqam | 7️⃣ | ж.р. · Р: ци'фры · 10 та ци'фра: 0–9 | SIFR | Sifr (nol) — arabcha "sifr", ruscha "tsifra": raqamlarning bobosi. | Напиши' ци'фру 5. | 5 raqamini yoz.
@@ -64,3 +65,57 @@
 бо'льше / ме'ньше | katta / kichik (>, <) | ⚖️ | + Р: пять бо'льше трёх · или Р o'rniga чем + Им: бо'льше, чем три | BOLSHE — BOLISH | Bolish ko'rpachadan katta. | Пять бо'льше трёх. | Besh uchdan katta.
 полови'на / треть / че'тверть | yarim / uchdan bir / chorak | ¼ | ж.р. · треть = 1/3; че'тверть = 1/4 | CHETVERT — CHETVERG | Payshanba (chetverg) — haftaning chorak qismi emas, lekin eslash oson! | че'тверть ча'са | chorak soat
 сре'днее арифмети'ческое | o'rta arifmetik | x̄ | ср.р. (sifatdan ot) | SREDNEE — SARDOR | Sardor hammaning o'rtacha bahosini hisobladi. | сре'днее арифмети'ческое чи'сел | sonlarning o'rta arifmetigi
+# 2
+натура'льное число' | natural son | ℕ | ср.р. · натура'льные чи'сла: 1, 2, 3… | NATURAL — NATURA | Tabiatdagi (natura) son — natural son. | Пять — натура'льное число'. | Besh — natural son.
+це'лое число' | butun son | ℤ | ср.р. · це'лый = butun | TSELOE — SELLOFAN | Sellofanga o'ralgan butun son. | це'лые чи'сла | butun sonlar
+положи'тельный / отрица'тельный | musbat / manfiy | ± | sifat · положи'тельное число', отрица'тельное число' | OTRITSATELNIY — OTRIZ (rad) | Manfiy son hamma narsani rad etadi. | отрица'тельное число' | manfiy son
+оста'ток | qoldiq | ➗ | м.р.; Р: оста'тка · деле'ние с оста'тком | OSTATOK — OSTONA | Qoldiq ostona oldida qolib ketdi. | оста'ток от деле'ния | bo'lishdagi qoldiq
+слага'емое | qo'shiluvchi | ➕ | ср.р. (sifatdan ot) · сла'гаемые | SLAGAEMOE — SOLIG' | Har bir qo'shiluvchi solig' to'laydi. | пе'рвое слага'емое | birinchi qo'shiluvchi
+множи'тель | ko'paytuvchi | ✖️ | м.р.; Р: множи'теля | MNOJITEL — MING JILD | Ming jildga ko'paytiradi. | просто'й множи'тель | tub ko'paytuvchi
+дели'тель | bo'luvchi | ➗ | м.р.; Р: дели'теля · о'бщий дели'тель | DELITEL — DILIM | Bo'luvchi qovunni dilimlarga bo'ladi. | наибо'льший о'бщий дели'тель | eng katta umumiy bo'luvchi
+кра'тное | karrali | 🔁 | ср.р. (sifatdan ot) · наиме'ньшее о'бщее кра'тное | KRATNOE — KARRA | Karra — kratnoe. | о'бщее кра'тное | umumiy karrali
+просто'е число' | tub son | 🔒 | ср.р. · 2, 3, 5, 7, 11… · составно'е = murakkab | PROSTOE — PO'STIN | Tub son — oddiy po'stin kiygan son. | Семь — просто'е число'. | Yetti — tub son.
+пропо'рция | proporsiya | ⚖️ | ж.р. (-ия) | PROPORTSIYA | Xalqaro so'z. | соста'вить пропо'рцию | proporsiya tuzish
+отноше'ние | nisbat | ∶ | ср.р. · отноше'ние двух чи'сел | OTNOSHENIE — OTA + NASL | Ota va nasl orasidagi bog' — nisbat. | отноше'ние a к b | a ning b ga nisbati
+ско'рость | tezlik | 🏎️ | ж.р. (-ость) · v · км/ч | SKOROST — SKOROPLITA | Skoroplita (tez qizigich) tezligi. | ско'рость по'езда | poyezd tezligi
+ма'сса | massa | ⚖️ | ж.р. · m | MASSA | Massa — massa. | ма'сса те'ла | jism massasi
+вероя'тность | ehtimollik | 🎲 | ж.р. (-ость) · P | VEROYATNOST — VERA (ishonch) | Ishonch (vera) darajasi — ehtimollik. | вероя'тность собы'тия | hodisa ehtimolligi
+табли'ца | jadval | 📊 | ж.р. · табли'ца умноже'ния | TABLITSA — TABLETKA | Tabletka qutisidagi jadval. | Запо'лни табли'цу. | Jadvalni to'ldir.
+диагра'мма | diagramma | 📊 | ж.р. · кругова'я диагра'мма | DIAGRAMMA | Xalqaro so'z. | столбча'тая диагра'мма | ustunli diagramma
+ве'ктор | vektor | ➡️ | м.р. · ве'ктор AB | VEKTOR | Xalqaro so'z. | дли'на ве'ктора | vektor uzunligi
+ма'трица | matritsa | 🔲 | ж.р. | MATRITSA | Xalqaro so'z. | определи'тель ма'трицы | matritsa determinanti
+при'зма | prizma | 🔷 | ж.р. | PRIZMA | Xalqaro so'z. | объём при'змы | prizma hajmi
+пирами'да | piramida | 🔺 | ж.р. | PIRAMIDA | Xalqaro so'z. | высота' пирами'ды | piramida balandligi
+цили'ндр | silindr | 🥫 | м.р. | TSILINDR — SILINDR | Xalqaro so'z. | объём цили'ндра | silindr hajmi
+ко'нус | konus | 🍦 | м.р. | KONUS | Muzqaymoq stakanchasi — konus. | объём ко'нуса | konus hajmi
+ша'р | shar | 🔮 | м.р.; Р: ша'ра; мн: шары' | SHAR | Shar — shar. | объём ша'ра | shar hajmi
+ромб | romb | 🔶 | м.р.; Р: ро'мба | ROMB — ROM | Rom (deraza) romb shaklida. | диагона'ль ро'мба | romb diagonali
+трапе'ция | trapetsiya | ⏢ | ж.р. (-ия) | TRAPETSIYA | Xalqaro so'z. | пло'щадь трапе'ции | trapetsiya yuzi
+параллелогра'мм | parallelogramm | ▱ | м.р. | PARALLELOGRAMM | Xalqaro so'z. | пло'щадь параллелогра'мма | parallelogramm yuzi
+многоуго'льник | ko'pburchak | ⬟ | м.р. · мно'го + у'гол | MNOGO + UGOL | Ko'p burchak — mnogo ugol. | пра'вильный многоуго'льник | muntazam ko'pburchak
+верши'на | uch (burchak uchi), cho'qqi | 🔺 | ж.р.; Р: верши'ны | VERSHINA — VERTOLYOT | Vertolyot cho'qqiga qo'ndi. | верши'на угла' | burchak uchi
+грань / ребро' | yoq / qirra | 🧊 | грань: ж.р. (-ь); ребро': ср.р. (мн: рёбра) | GRAN — GRANIT | Granit kubning yoqlari. | ребро' ку'ба | kub qirrasi
+биссектри'са | bissektrisa | 📐 | ж.р. | BISSEKTRISA | Xalqaro so'z. | биссектри'са угла' | burchak bissektrisasi
+медиа'на | mediana | 📐 | ж.р. | MEDIANA | Xalqaro so'z. | медиа'на треуго'льника | uchburchak medianasi
+хо'рда | vatar | ⌒ | ж.р. · хо'рда окру'жности | XORDA — XO'RDA (xo'rda ovqat) | Aylanaga xo'rda ovqat qo'yilgan. | хо'рда окру'жности | aylana vatari
+каса'тельная | urinma | 📏 | ж.р. (sifatdan ot) · каса'ться = tegmoq | KASATELNAYA — KASA (kosa) | Kosaga ohista tegib o'tgan chiziq — urinma. | каса'тельная к окру'жности | aylanaga urinma
+та'нгенс / кота'нгенс | tangens / kotangens | tg | м.р. · tg, ctg | TANGENS — TANGA | Tanga bilan tangens hisoblaysiz. | та'нгенс угла' | burchak tangensi
+мо'дуль | modul | |x| | м.р. (-ь) · мо'дуль числа' | MODUL | Xalqaro so'z. | мо'дуль числа' | son moduli
+дискримина'нт | diskriminant | D | м.р. · D = b² − 4ac | DISKRIMINANT | Xalqaro so'z. | Найди'те дискримина'нт. | Diskriminantni toping.
+квадра'тное уравне'ние | kvadrat tenglama | x² | ср.р. · ax² + bx + c = 0 | KVADRAT + URAVNENIE | Kvadrat tenglama. | реше'ние квадра'тного уравне'ния | kvadrat tenglama yechimi
+прогре'ссия | progressiya | 📈 | ж.р. (-ия) · арифмети'ческая / геометри'ческая | PROGRESSIYA | Xalqaro so'z. | арифмети'ческая прогре'ссия | arifmetik progressiya
+после'довательность | ketma-ketlik | 🔢 | ж.р. (-ость) | POSLEDOVATELNOST — POSLE (keyin) | Birin-ketin — keyin (posle). | числова'я после'довательность | sonli ketma-ketlik
+гра'дус | gradus | ° | м.р. · 5 гра'дусов | GRADUS | Xalqaro so'z. | у'гол в 90 гра'дусов | 90 gradusli burchak
+сантиме'тр / метр / киломе'тр | santimetr / metr / kilometr | 📏 | м.р. · 5 ме'тров, 2 киломе'тра | METR | Xalqaro so'zlar. | Длина' — пять ме'тров. | Uzunligi — besh metr.
+литр | litr | 🧴 | м.р. · 2 ли'тра, 5 ли'тров | LITR | Xalqaro so'z. | литр молока' | bir litr sut
+приблизи'тельно | taxminan | ≈ | ravish | PRIBLIZITELNO — BLIZKO (yaqin) | Yaqin (blizko) qiymat — taxminan. | приблизи'тельно сто | taxminan yuz
+округли'ть | yaxlitlamoq | 🔵 | св (нсв: округля'ть) · округли'ть до деся'тых | OKRUGLIT — KRUG (doira) | Sonni doira kabi yaxlitlaysiz. | Округли'те до це'лых. | Butungacha yaxlitlang.
+сравни'ть | taqqoslamoq | ⚖️ | св (нсв: сра'внивать) · сравни'ть чи'сла | SRAVNIT — RAVNO | Teng (ravno)mi yo'qmi — taqqoslang. | Сравни'те дро'би. | Kasrlarni taqqoslang.
+вы'числить | hisoblamoq | 🧮 | св (нсв: вычисля'ть) · я вы'числю, ты вы'числишь | VICHISLIT — CHISLO | Sonni (chislo) hisoblaysiz. | Вы'числите значе'ние. | Qiymatini hisoblang.
+изме'рить | o'lchamoq | 📏 | св (нсв: измеря'ть) · я изме'рю | IZMERIT — METR | Metr bilan o'lchaysiz. | Изме'рь дли'ну. | Uzunlikni o'lcha.
+постро'ить | yasamoq, chizmoq | 📐 | св (нсв: стро'ить) · постро'ить гра'фик | POSTROIT — STROIT | Grafikni quryapsiz. | Постро'йте треуго'льник. | Uchburchak yasang.
+доказа'ть | isbotlamoq | ✅ | св (нсв: дока'зывать) · я докажу' (з→ж) | DOKAZAT — DOKA (doska) | Doskada isbotlaysiz. | Докажи'те теоре'му. | Teoremani isbotlang.
+найти' / найди'те | topmoq / toping | 🔍 | buyruq: найди'(те) · Найди'те x. | NAYDITE — NAY | Nay ichidan x ni toping. | Найди'те пло'щадь. | Yuzani toping.
+значе'ние | qiymat | 🔣 | ср.р. (-ние) · значе'ние выраже'ния | ZNACHENIE — ZNACHOK | Znachok (nishon)ning qiymati. | значе'ние фу'нкции | funksiya qiymati
+выраже'ние | ifoda | 🧾 | ср.р. · упрости'те выраже'ние | VIRAJENIE — VIRAJ | Viraj (manzara) chizilgan ifoda. | Упрости'те выраже'ние. | Ifodani soddalashtiring.
+ско'бка | qavs | ( ) | ж.р.; мн: ско'бки; раскры'ть ско'бки | SKOBKA — SKOBA | Skoba ikki tomondan siqib turibdi. | раскры'ть ско'бки | qavslarni ochish

@@ -1,3 +1,4 @@
+# 1
 ноль (нуль) | nol | 0️⃣ | м.р.; Р: ноля'; + Р.мн: ноль гра'дусов | NOL | Nol — o'zbekcha ham nol: teshik donut, ichida hech narsa yo'q. | Счёт — ноль : ноль. | Hisob — nol : nol.
 оди'н | bir | 1️⃣ | оди'н (м), одна' (ж), одно' (ср), одни' (мн) · + Им.ед: оди'н стол, одна' кни'га · Р: одного', одно'й | ODIN — ODIN TUN | Bir kun, bitta odam, bitta odin — "Odin dona!" deb do'kondagi bitta tarvuzni ko'rsatyapti. | оди'н день | bir kun
 два | ikki | 2️⃣ | два (м, ср), две (ж) · + Р.ед: два стола', две кни'ги · Р: двух; Д: двум; Т: двумя' | DVA — DAVRA | Davrada ikki kishi raqs tushyapti. | два бра'та | ikki aka-uka
@@ -44,3 +45,19 @@
 девя'тый | to'qqizinchi | 9️⃣ | девя'тый, девя'тая | DEV + YATIB | To'qqizinchi dev yotib qoldi. | девя'тый класс | to'qqizinchi sinf
 деся'тый | o'ninchi | 🔟 | деся'тый, деся'тая | DESANT | O'ninchi desantchi oxirgi bo'lib sakradi. | деся'тый раз | o'ninchi marta
 полови'на | yarim, yarmi | ◐ | ж.р. · + Р: полови'на кла'сса | PALOV + INA | Palovning yarmini ina (mushuk) yeb qo'ydi. | полови'на шесто'го | soat besh yarim
+# 2
+четы'реста | to'rt yuz | 🔢 | Р: четырёхсо'т · + Р.мн | CHETIR + STA | To'rtta soyabon yuz martadan ochildi — 400. | четы'реста рубле'й | to'rt yuz rubl
+шестьсо'т | olti yuz | 🔢 | Р: шестисо'т | SHEST + SOT | Olti sotix yer — 600. | шестьсо'т гра'ммов | olti yuz gramm
+семьсо'т | yetti yuz | 🔢 | Р: семисо'т | SEMIZ + SOT | Yettita semiz qo'y yuz martadan ko'paydi — 700. | семьсо'т лет | yetti yuz yil
+восемьсо'т | sakkiz yuz | 🔢 | Р: восьмисо'т | VOSEM + SOT | 8 × 100 = 800. | восемьсо'т ме'тров | sakkiz yuz metr
+девятьсо'т | to'qqiz yuz | 🔢 | Р: девятисо'т | DEVYAT + SOT | 9 × 100 = 900. | девятьсо'т рубле'й | to'qqiz yuz rubl
+двадца'тый | yigirmanchi | 2️⃣0️⃣ | sifat kabi: двадца'тый, -ая, -ое | DVADTSAT | 20 → двадца'тый. | двадца'тый век | yigirmanchi asr
+со'тый | yuzinchi | 💯 | со'тый, со'тая | SOT | Yuzinchi sotix. | со'тый раз | yuzinchi marta
+ты'сячный | minginchi | 🔢 | ты'сячный, ты'сячная | TISHLAB | Minginchi tishlam. | ты'сячный год | minginchi yil
+о'ба / о'бе | ikkalasi | ✌️ | о'ба (м, ср), о'бе (ж) · + Р.ед: о'ба бра'та, о'бе сестры' | OBA — OBI (non) | Ikkala obi-nonni ham yedingiz! | О'ба студе'нта здесь. | Ikkala talaba ham shu yerda.
+дво'е / тро'е | ikkovi / uchovi | 👥 | jamlovchi son · + Р.мн: дво'е дете'й | DVOE — DAVRA | Davrada ikkovi raqs tushyapti. | У них дво'е дете'й. | Ularning ikki farzandi bor.
+па'ра | juft | 🧦 | ж.р.; Р: па'ры · па'ра носко'в | PARA — PARA (bug') | Bir juft paypoq bug'da quriyapti. | па'ра бо'тинок | bir juft botinka
+деся'ток | o'nta (o'nlik) | 🥚 | м.р.; Р: деся'тка · деся'ток яи'ц | DESYATOK — DESANT | O'nta desantchi — bir o'nlik. | деся'ток яи'ц | o'nta tuxum
+со'тня | yuztalik | 💵 | ж.р.; Р: со'тни | SOTNYA — SOTIX | Yuz sotix — sotnya. | со'тни люде'й | yuzlab odamlar
+два'жды / три'жды | ikki marta / uch marta | ✖️ | o'zgarmaydi · два'жды два — четы'ре | DVAJDI — DAVRA + JDI | Davrada ikki marta aylanish. | два'жды два — четы'ре | ikki karra ikki — to'rt
+не'сколько | bir nechta | 🔢 | не'сколько + Р.мн: не'сколько книг | NESKOLKO — NE + SKOLKO | Nechta? — bir nechta! | не'сколько дней | bir necha kun

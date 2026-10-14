@@ -14,10 +14,12 @@ gram = gram.replace('href="padejlar.html"', 'href="https://quvonchbek99.github.i
 method = re.search(r'<section id="tab-method"[^>]*>(.*?)</section>', page_src, re.S).group(1)
 
 total = sum(len(c['w']) for c in cats)
+st = sorted({w['b'] for c in cats for w in c['w']})
+stage_txt = (f"{st[0]}–{st[-1]}-bosqich" if len(st) > 1 else f"{st[0]}-bosqich") + ' · ' + ', '.join(f"{b}-bosqich: {sum(1 for c in cats for w in c['w'] if w['b']==b)} so'z" for b in st)
 
 def word(w, n):
     return f'''<div class="w">
-  <div class="top"><span class="em">{e(w['em'])}</span><div class="t"><div class="ru">{e(w['ru'])}</div><div class="uz">{e(w['uz'])}</div></div><span class="n">{n}</span></div>
+  <div class="top"><span class="em">{e(w['em'])}</span><div class="t"><div class="ru">{e(w['ru'])}</div><div class="uz">{e(w['uz'])}</div></div><span class="n">{n}{' · ' + str(w['b']) + '-b' if w['b'] > 1 else ''}</span></div>
   <div class="g">{e(w['g'])}</div>
   <div class="h"><b>{e(w['h'])}</b> — {e(w['s'])}</div>
   <div class="ex"><span class="er">{e(w['er'])}</span> — <span class="eu">{e(w['eu'])}</span></div>
@@ -87,7 +89,7 @@ a{{color:var(--acc)}}
   <p class="sub">{total} ta so'z — eng ko'p ishlatilishi bo'yicha kamayish tartibida. Har biri tarjima, rasm, grammatik shakllar, o'zbekcha ohangdosh so'z, kulgili manzara va misol gap bilan.</p>
   <div class="tog"><div><b>T</b>Tarjima</div><div><b>O</b>Obraz — rasm</div><div><b>G</b>Garmoniya — ohangdosh so'z</div><div><b>K</b>Kulgi — absurd manzara</div></div>
   <table class="toc">{toc}<tr><td><b>Jami</b></td><td></td><td class="c">{total}</td></tr></table>
-  <p class="foot">1-bosqich · Onlayn versiya (ovoz, kartochka, test): quvonchbek99.github.io/tetraduz/tog.html</p>
+  <p class="foot">{stage_txt} · Onlayn versiya (ovoz, kartochka, test): quvonchbek99.github.io/tetraduz/tog.html</p>
 </div>
 <div class="pagebox"><h2 class="big">TOG usuli</h2>{method}</div>
 <div class="pagebox gram"><h2 class="big">Grammatika kalitlari</h2>{gram}</div>

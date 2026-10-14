@@ -1,3 +1,4 @@
+# 1
 Росси'я | Rossiya | 🇷🇺 | ж.р. · где? в Росси'и · куда'? в Росси'ю · отку'да? из Росси'и | ROSSIYA — ROSA | Rossiya xaritasida ulkan atirgul (rosa) ochilgan. | Он живёт в Росси'и. | U Rossiyada yashaydi.
 Узбекиста'н | O'zbekiston | 🇺🇿 | м.р. · в Узбекиста'не · в Узбекиста'н · из Узбекиста'на | O'ZBEKISTON | O'z vataningiz — ruschada ham deyarli bir xil! | Я из Узбекиста'на. | Men O'zbekistondanman.
 Ташке'нт | Toshkent | 🏙️ | м.р. · в Ташке'нте · в Ташке'нт · из Ташке'нта | TOSH + KENT | Tosh shahar — Tashkent: toshlar raqs tushadigan shahar. | Я живу' в Ташке'нте. | Men Toshkentda yashayman.
@@ -40,3 +41,45 @@
 стадио'н | stadion | 🏟️ | м.р. · на стадио'не · на стадио'н | STADION | Stadion — xalqaro so'z. | Мы на стадио'не. | Biz stadiondamiz.
 остано'вка | bekat | 🚏 | ж.р. · на остано'вке · на остано'вку | OSTANOVKA — USTA NOVVOY | Bekatda usta novvoy issiq non sotyapti. | Я жду на остано'вке. | Men bekatda kutyapman.
 кварти'ра | kvartira, xonadon | 🏢 | ж.р. · в кварти'ре · в кварти'ру | KVARTIRA | Kvartira — o'zbekchada ham kvartira. | У нас но'вая кварти'ра. | Bizning yangi kvartiramiz bor.
+# 2
+Урге'нч | Urganch | 🏙️ | м.р. · в Урге'нче · в Урге'нч · из Урге'нча | URGANCH | Urganch — Xorazmning markazi. | Он живёт в Урге'нче. | U Urganchda yashaydi.
+Карши' | Qarshi | 🏙️ | o'zgarmaydi · в Карши' | QARSHI | Qarshi — ruschada ham Karshi, o'zgarmaydi. | Мы е'дем в Карши'. | Biz Qarshiga ketyapmiz.
+Терме'з | Termiz | ☀️ | м.р. · в Терме'зе · в Терме'з | TERMIZ — TERMOS | Termizda shunchalik issiqki, termos kerak emas. | В Терме'зе жа'рко. | Termizda issiq.
+Джиза'к | Jizzax | 🏙️ | м.р. · в Джиза'ке · в Джиза'к | JIZZAX | Jizzax — Djizak. | Я был в Джиза'ке. | Men Jizzaxda bo'lganman.
+Навои' | Navoiy | 🏭 | o'zgarmaydi · в Навои' | NAVOIY | Alisher Navoiy nomidagi shahar. | Заво'д в Навои'. | Zavod Navoiyda.
+Гулиста'н | Guliston | 🌷 | м.р. · в Гулиста'не | GULISTON | Guliston — gul bog'i. | Гулиста'н — центр Сырдарьи'нской о'бласти. | Guliston — Sirdaryo viloyati markazi.
+Кока'нд | Qo'qon | 🏯 | м.р. · в Кока'нде · в Кока'нд | QO'QON | Qo'qon xonligi saroyi. | дворе'ц в Кока'нде | Qo'qondagi saroy
+Шахриса'бз | Shahrisabz | 🌿 | м.р. · в Шахриса'бзе | SHAHRISABZ — YASHIL SHAHAR | Shahrisabz — "yashil shahar". | Шахриса'бз — ро'дина Тиму'ра. | Shahrisabz — Temur vatani.
+Чирчи'к | Chirchiq | 🏞️ | м.р. · в Чирчи'ке · в Чирчи'к | CHIRCHIQ | Chirchiq daryosi bo'yidagi shahar. | Я живу' в Чирчи'ке. | Men Chirchiqda yashayman.
+Ангре'н | Angren | ⛏️ | м.р. · в Ангре'не | ANGREN | Ko'mir shahri Angren. | Ангре'н — го'род шахтёров. | Angren — konchilar shahri.
+Каза'нь | Qozon (Rossiya) | 🕌 | ж.р. (-ь) · в Каза'ни · в Каза'нь · из Каза'ни | QOZON | Qozon shahri ulkan qozonda pishgan! | Каза'нь — столи'ца Татарста'на. | Qozon — Tatariston poytaxti.
+Новосиби'рск | Novosibirsk | ❄️ | м.р. · в Новосиби'рске | NOVO + SIBIR | Yangi Sibir shahri. | В Новосиби'рске хо'лодно. | Novosibirskda sovuq.
+Екатеринбу'рг | Yekaterinburg | 🏙️ | м.р. · в Екатеринбу'рге | YEKATERINA + BURG | Yekaterina qal'asi. | Екатеринбу'рг на Ура'ле | Uraldagi Yekaterinburg
+Со'чи | Sochi | 🏖️ | o'zgarmaydi · в Со'чи | SOCHI — SOCH | Sochi plyajida sochlar quyoshda quriydi. | Ле'том в Со'чи | Yozda Sochida
+Ту'рция | Turkiya | 🇹🇷 | ж.р. (-ия) · в Ту'рции · в Ту'рцию | TURK | Turkiya — Turkiya. | Мы отдыха'ли в Ту'рции. | Biz Turkiyada dam oldik.
+Кита'й | Xitoy | 🇨🇳 | м.р. · в Кита'е · в Кита'й · из Кита'я | KITOY — XITOY | Xitoy — Kitay. | Кита'й — больша'я страна'. | Xitoy — katta mamlakat.
+Коре'я | Koreya | 🇰🇷 | ж.р. · в Коре'е · в Коре'ю | KOREYA | Koreya — Koreya. | Он рабо'тает в Коре'е. | U Koreyada ishlaydi.
+Аме'рика / США | Amerika / AQSh | 🇺🇸 | ж.р. · в Аме'рике · США [сэ-шэ-а'] — o'zgarmaydi | AMERIKA | Amerika — Amerika. | Он живёт в Аме'рике. | U Amerikada yashaydi.
+А'нглия | Angliya | 🇬🇧 | ж.р. · в А'нглии · в А'нглию | ANGLIYA | Angliya — Angliya. | Я был в А'нглии. | Men Angliyada bo'lganman.
+Герма'ния | Germaniya | 🇩🇪 | ж.р. · в Герма'нии | GERMANIYA | Germaniya — Germaniya. | Маши'на из Герма'нии | Germaniyadan mashina
+Япо'ния | Yaponiya | 🇯🇵 | ж.р. · в Япо'нии | YAPONIYA | Yaponiya — Yaponiya. | Япо'ния — о'стров. | Yaponiya — orol.
+И'ндия | Hindiston | 🇮🇳 | ж.р. · в И'ндии | INDIYA — HIND | Hindiston — Indiya. | Фильм из И'ндии | Hind filmi
+Фра'нция | Fransiya | 🇫🇷 | ж.р. · во Фра'нции (!) | FRANSIYA | Fransiya — Fransiya. | Пари'ж во Фра'нции. | Parij Fransiyada.
+Евро'па / А'зия | Yevropa / Osiyo | 🌍 | ж.р. · в Евро'пе, в А'зии | YEVROPA / OSIYO | Yevropa va Osiyo. | Узбекиста'н в А'зии. | O'zbekiston Osiyoda.
+де'тский са'д | bog'cha | 🧸 | м.р. · в де'тском саду' (!) | DETSKIY SAD — DETAL + SAD (bog') | Bog'chada bolalar detal yig'ishadi. | Сын хо'дит в де'тский сад. | O'g'lim bog'chaga boradi.
+о'фис | ofis | 🏢 | м.р. · в о'фисе | OFIS | Ofis — ofis. | Я в о'фисе. | Men ofisdaman.
+музе'й | muzey | 🏛️ | м.р. · в музе'е · мн: музе'и | MUZEY — MUZ | Muzeyda muzdan yasalgan haykallar. | истори'ческий музе'й | tarix muzeyi
+теа'тр | teatr | 🎭 | м.р. · в теа'тре | TEATR | Teatr — teatr. | Мы идём в теа'тр. | Biz teatrga ketyapmiz.
+цирк | sirk | 🎪 | м.р. · в ци'рке | TSIRK — SIRK | Sirk — sirk. | Де'ти в ци'рке. | Bolalar sirkda.
+зоопа'рк | hayvonot bog'i | 🦁 | м.р. · в зоопа'рке | ZOOPARK | Zoopark — hayvonot bog'i. | Пойдём в зоопа'рк! | Hayvonot bog'iga boraylik!
+супермарке'т | supermarket | 🛒 | м.р. · в супермарке'те | SUPERMARKET | Supermarket — supermarket. | Я в супермарке'те. | Men supermarketdaman.
+парикма'херская | sartaroshxona | 💈 | ж.р. (sifatdan ot) · в парикма'херской | PARIKMAXER — PARIK (soxta soch) | Sartaroshxonada pariklar osilgan. | Я иду' в парикма'херскую. | Men sartaroshxonaga ketyapman.
+метро' | metro | 🚇 | ср.р., o'zgarmaydi · на метро' | METRO | Metro — metro. | Я е'ду на метро'. | Men metroda ketyapman.
+двор | hovli | 🏡 | м.р. · во дворе' (!) · мн: дворы' | DVOR — DEVOR | Hovli devor bilan o'ralgan. | Де'ти игра'ют во дворе'. | Bolalar hovlida o'ynayapti.
+са'д | bog' | 🌳 | м.р. · в саду' (!) · мн: сады' | SAD — SODA | Bog'da soda daraxti o'sibdi! | Я рабо'таю в саду'. | Men bog'da ishlayapman.
+бассе'йн | basseyn | 🏊 | м.р. · в бассе'йне | BASSEYN | Basseyn — basseyn. | Я пла'ваю в бассе'йне. | Men basseynda suzaman.
+спортза'л | sport zali | 🏋️ | м.р. · в спортза'ле | SPORTZAL | Sport zali — sportzal. | Он в спортза'ле. | U sport zalida.
+мече'ть | masjid | 🕌 | ж.р. (-ь) · в мече'ти | MECHET — MACHIT | Machit — mechet'. | Ста'рая мече'ть | Eski masjid
+грани'ца | chegara | 🛂 | ж.р. · на грани'це · за грани'цей = chet elda | GRANITSA — GRANIT | Chegara granit toshdan. | Он за грани'цей. | U chet elda.
+о'бласть | viloyat | 🗺️ | ж.р. (-ь) · в о'бласти · мн: о'бласти | OBLAST — OBLA (bulut) | Viloyat ustida bulutlar. | Ташке'нтская о'бласть | Toshkent viloyati
+райо'н | tuman | 🏘️ | м.р. · в райо'не | RAYON | Rayon — tuman. | Ташке'нтский райо'н | Toshkent tumani

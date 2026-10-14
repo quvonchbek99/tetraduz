@@ -22,13 +22,14 @@
   .cat-row button small{font-weight:400; opacity:.8; margin-left:4px;}
   .tg-grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(310px,1fr)); gap:12px;}
   @media (max-width:420px){ .tg-grid{grid-template-columns:1fr;} }
-  .tg{position:relative; background:var(--paper-line); border-radius:14px; box-shadow:var(--card-shadow); padding:14px 16px 14px 18px; display:flex; flex-direction:column; gap:9px; overflow:hidden;}
+  .tg{position:relative; background:var(--paper-line); border-radius:14px; box-shadow:var(--card-shadow); padding:24px 16px 14px 18px; display:flex; flex-direction:column; gap:9px; overflow:hidden;}
   .tg::before{content:""; position:absolute; left:0; top:0; bottom:0; width:4px; background:var(--accent); opacity:.55;}
   .tg.known{opacity:.62;}
   .tg-top{display:flex; align-items:center; gap:12px;}
   .tg-em{flex:none; width:54px; height:54px; border-radius:14px; background:var(--paper-alt); display:grid; place-items:center; font-size:30px; line-height:1;}
   .tg-w{flex:1; min-width:0;}
-  .tg-w .r{font-family:var(--font-display); font-weight:700; font-size:21px; line-height:1.15; overflow-wrap:anywhere;}
+  .tg-w .r{font-family:var(--font-display); font-weight:700; font-size:21px; line-height:1.15; overflow-wrap:break-word;}
+  .tg-w .r.long{font-size:17px;}
   .tg-w .u{font-family:var(--font-hand); font-size:22px; color:var(--accent-strong); line-height:1.1;}
   .tg-n{position:absolute; top:8px; right:12px; font-size:11.5px; color:var(--ink-soft);}
   .tg .k{border:none; background:none; cursor:pointer; font-size:20px; color:var(--ink-soft); flex:none; padding:4px;}
@@ -81,7 +82,7 @@
       <p class="eyebrow">TOG usulida so'z yodlash</p>
       <h1>TOG lug'ati: eng kerakli ruscha so'zlar</h1>
       <p class="lead">Har bir so'z — <b>tarjima</b>, <b>obraz</b> (rasm), <b>garmoniya</b> (o'zbekcha ohangdosh so'z) va tasavvurga sig'maydigan <b>kulgili manzara</b> bilan. Yonida grammatik shakllari, misol gap va ovozi. So'zlar eng ko'p ishlatilishi bo'yicha kamayish tartibida.</p>
-      <p style="margin-top:14px;display:flex;flex-wrap:wrap;gap:8px"><span class="chip soft" id="statAll">— so'z</span><span class="chip soft" id="statKnown">0 ta o'rganildi</span><span class="chip soft">1-bosqich</span><a class="chip" href="assets/tog-lugat.pdf" download>⬇ PDF yuklab olish</a></p>
+      <p style="margin-top:14px;display:flex;flex-wrap:wrap;gap:8px"><span class="chip soft" id="statAll">— so'z</span><span class="chip soft" id="statKnown">0 ta o'rganildi</span><span class="chip soft" id="statStage">1–2-bosqich</span><a class="chip" href="assets/tog-lugat.pdf" download>⬇ PDF yuklab olish</a></p>
     </div>
   </section>
 
@@ -98,6 +99,7 @@
       <div class="cat-row" id="cats" aria-label="So'z turkumi"></div>
       <div class="toolbar">
         <input type="search" id="q" placeholder="Qidirish: ruscha, o'zbekcha yoki garmoniya…" aria-label="Qidirish">
+        <select id="stage" aria-label="Bosqich"><option value="all">Barcha bosqichlar</option></select>
         <label style="display:inline-flex;gap:6px;align-items:center;font-size:14.5px"><input type="checkbox" id="onlyNew"> faqat o'rganilmaganlar</label>
       </div>
     </div>
@@ -329,7 +331,7 @@
 <footer class="site">
   <div class="wrap">
     <span><span class="brand-mark" style="font-size:15px">ТЕТРАДЬ</span> · © <span id="year"></span></span>
-    <span>TOG lug'ati · 1-bosqich</span>
+    <span>TOG lug'ati · bosqichma-bosqich to'ldiriladi</span>
   </div>
 </footer>
 
@@ -345,16 +347,25 @@
   C.forEach(function(c){ c.w.forEach(function(w, i){ w.cat = c.k; w.catUz = c.uz; w.n = i + 1; ALL.push(w); }); });
   var cat = T.load('tog-cat', 'ot');
   if (cat !== 'all' && !C.some(function(c){ return c.k === cat; })) cat = 'ot';
-  var q = $('q'), onlyNew = $('onlyNew');
+  var q = $('q'), onlyNew = $('onlyNew'), stageSel = $('stage');
+  var stages = [];
+  ALL.forEach(function(w){ if (stages.indexOf(w.b) < 0) stages.push(w.b); });
+  stages.sort();
+  stageSel.innerHTML += stages.map(function(b){ return '<option value="' + b + '">' + b + '-bosqich (' + ALL.filter(function(w){ return w.b === b; }).length + ')</option>'; }).join('');
+  var stage = String(T.load('tog-stage', 'all'));
+  if (stage !== 'all' && stages.indexOf(+stage) < 0) stage = 'all';
+  stageSel.value = stage;
+  $('statStage').textContent = stages.length > 1 ? stages[0] + '–' + stages[stages.length - 1] + '-bosqich' : stages[0] + '-bosqich';
 
   $('statAll').textContent = ALL.length + ' so\'z';
   function stats(){ $('statKnown').textContent = Object.keys(known).filter(function(k){ return known[k]; }).length + ' ta o\'rganildi'; }
 
   /* turkum tugmalari */
+  function inStage(w){ return stage === 'all' || String(w.b) === stage; }
   function renderCats(){
-    var h = '<button type="button" data-cat="all" aria-pressed="' + (cat === 'all') + '">Hammasi<small>' + ALL.length + '</small></button>';
+    var h = '<button type="button" data-cat="all" aria-pressed="' + (cat === 'all') + '">Hammasi<small>' + ALL.filter(inStage).length + '</small></button>';
     h += C.map(function(c){
-      return '<button type="button" data-cat="' + c.k + '" aria-pressed="' + (cat === c.k) + '">' + esc(c.uz) + '<small>' + c.w.length + '</small></button>';
+      return '<button type="button" data-cat="' + c.k + '" aria-pressed="' + (cat === c.k) + '">' + esc(c.uz) + '<small>' + c.w.filter(inStage).length + '</small></button>';
     }).join('');
     $('cats').innerHTML = h;
   }
@@ -367,6 +378,7 @@
     var s = T.norm(q.value || '');
     return ALL.filter(function(w){
       if (cat !== 'all' && w.cat !== cat) return false;
+      if (!inStage(w)) return false;
       if (onlyNew.checked && known[w.id]) return false;
       if (s && T.norm(w.ru).indexOf(s) < 0 && w.uz.toLowerCase().indexOf(s) < 0 && w.h.toLowerCase().indexOf(s) < 0) return false;
       return true;
@@ -377,9 +389,9 @@
   var shown = 60, cur = [];
   function card(w){
     return '<article class="tg' + (known[w.id] ? ' known' : '') + '">' +
-      '<span class="tg-n">' + esc(w.catUz) + ' · ' + w.n + '</span>' +
+      '<span class="tg-n">' + esc(w.catUz) + ' · ' + w.n + ' · ' + w.b + '-b</span>' +
       '<div class="tg-top"><div class="tg-em" aria-hidden="true">' + esc(w.em) + '</div>' +
-        '<div class="tg-w"><div class="r">' + esc(w.ru) + '</div><div class="u">' + esc(w.uz) + '</div></div>' +
+        '<div class="tg-w"><div class="r' + (T.clean(w.ru).length > 15 ? ' long' : '') + '">' + esc(w.ru) + '</div><div class="u">' + esc(w.uz) + '</div></div>' +
         T.sayBtn(w.ru) +
         '<button type="button" class="k" data-id="' + w.id + '" aria-pressed="' + (known[w.id] ? 'true' : 'false') + '" title="O\'rgandim">' + (known[w.id] ? '✓' : '○') + '</button></div>' +
       '<div class="tg-g ru">' + esc(w.g) + '</div>' +
@@ -484,6 +496,7 @@
     if (current === 'quiz') newQuiz();
   }
   onlyNew.addEventListener('change', refresh);
+  stageSel.addEventListener('change', function(){ stage = stageSel.value; T.save('tog-stage', stage); renderCats(); refresh(); });
   var tm; q.addEventListener('input', function(){ clearTimeout(tm); tm = setTimeout(refresh, 180); });
 
   renderCats(); stats(); renderList();

@@ -1,3 +1,4 @@
+# 1
 я | men | 🙋 | Р: меня' · Д: мне · В: меня' · Т: мной · П: (обо) мне | YA — YAXSHI | "Ya!" deb ko'kragingizga urasiz — men yaxshiman! | Я студе'нт. | Men talabaman.
 ты | sen | 👉 | Р: тебя' · Д: тебе' · В: тебя' · Т: тобо'й · П: (о) тебе' | TI — TIKON | Barmog'ingizni tikondek "Ti!" deb do'stingizga tirab qo'yasiz. | Ты где? | Sen qayerdasan?
 он | u (erkak) | 👨 | Р: его' ([ево']) · Д: ему' · В: его' · Т: им · П: (о) нём · predlogdan keyin н-: у него', к нему' | ON — ON (ona) | On (ota) bo'lsa ham "on" — u erkak. | Он мой брат. | U mening akam.
@@ -26,3 +27,17 @@
 сам | o'zi | 💪 | сам, сама', само', са'ми | SAM — SAMOVAR | Samovar o'zi qaynab, o'zi choy quyadi. | Я сам сде'лал. | O'zim qildim.
 никто' | hech kim | 🚫 | Р: никого' · Д: никому' · + не: Никто' не зна'ет. | NIKTO — NIQOB | Niqob ostida hech kim yo'q! | Никто' не пришёл. | Hech kim kelmadi.
 ничего' | hech narsa; hechqisi yo'q | 🤷‍♂️ | [ничево'] · ничто' (Им) · + не: Я ничего' не ви'жу. | NICHEVO — NIMA CHEVAR | Chevar hech narsa tikmadi: "Nichego!" | Ничего', всё хорошо'! | Hechqisi yo'q, hammasi yaxshi!
+# 2
+тако'й | shunday | 👌 | тако'й, така'я, тако'е, таки'е | TAKOY — TAQA | Shunday taqa — omad keltiradi! | Он тако'й до'брый! | U shunday mehribon!
+ка'ждый | har bir | 🔁 | ка'ждый, ка'ждая, ка'ждое · ка'ждый день | KAJDIY — KAJAVA | Har bir kajava (tuya ustidagi o'rindiq) to'la. | ка'ждый день | har kuni
+любо'й | istalgan | 🎯 | любо'й, люба'я, любо'е | LYUBOY — LO'BIYA | Istalgan lo'biyani tanlang! | в любо'е вре'мя | istalgan vaqtda
+друго'й | boshqa | 🔀 | друго'й, друга'я, друго'е, други'е | DRUGOY — DURUST | Boshqasi durustroq! | друга'я страна' | boshqa mamlakat
+вся'кий | har xil, har qanday | 🎨 | вся'кий, вся'кая · на вся'кий слу'чай | VSYAKIY — VASIYAT | Har qanday vasiyat qog'ozga yoziladi. | вся'кое быва'ет | har narsa bo'ladi
+не'который | ba'zi | ⚖️ | не'который, не'которая, не'которые | NEKOTORIY — NE + KOTORIY | "Qaysi?" — ba'zilari! | не'которые лю'ди | ba'zi odamlar
+никако'й | hech qanday | 🚫 | + не: никако'й пробле'мы нет | NIKAKOY — NI KAKAO | Hech qanday kakao qolmadi! | никаки'х вопро'сов | hech qanday savol yo'q
+кто'-то / что'-то | kimdir / nimadir | ❔ | -то: noma'lum, lekin bor · Р: кого'-то, чего'-то | KTO-TO — KITOB-TO | Kitobda kimdir yashirinib o'tiribdi. | Кто'-то звони'т. | Kimdir qo'ng'iroq qilyapti.
+кто'-нибудь | biror kishi | 🙋 | -нибудь: istalgan, aniq emas (savol, buyruqda) | NIBUD — NIMA BO'LDI | Biror kishi kelsin — nima bo'ldi? | Кто'-нибудь до'ма? | Uyda biror kishi bormi?
+где'-то / когда'-то | qayerdadir / qachondir | 🗺️ | -то qo'shimchasi bilan | GDE-TO — G'ADIR-TO | G'adir-budur qayerdadir. | Я где'-то его' ви'дел. | Men uni qayerdadir ko'rganman.
+сто'лько | shuncha | 📦 | + Р: сто'лько рабо'ты | STOLKO — STOL + KO' | Stol ustida shuncha ko'p! | Почему' сто'лько люде'й? | Nega shuncha odam?
+э'то | bu (ko'rsatish) | 👇 | o'zgarmaydi: Э'то мой брат. Э'то кни'га. | ETO — ETIK | Bu etik! — Eto etik. | Что э'то? | Bu nima?
+друг дру'га | bir-birini | 🔄 | Р: друг дру'га · Д: друг дру'гу · П: друг о дру'ге | DRUG DRUGA — DO'ST DO'STNI | Do'st do'stni quchoqlaydi. | Они' лю'бят друг дру'га. | Ular bir-birini sevadi.
