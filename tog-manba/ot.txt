@@ -223,3 +223,212 @@
 футбо'л | futbol | ⚽ | м.р.; игра'ть в футбо'л (В) | FUTBOL | Futbol o'zbekchada ham futbol. | Мы игра'ем в футбо'л. | Biz futbol o'ynayapmiz. | — | —
 подру'га | dugona | 👭 | ж.р.; Р: подру'ги | PODRUGA — PODA + DRUG | Dugona — ayol do'st (drug). | Моя' подру'га | mening dugonam | приятельница (dugona) | —
 о'тпуск | ta'til (ishdan) | 🧳 | м.р.; Р: о'тпуска; в о'тпуске | OTPUSK — OT + PUSK | Ot ta'tilga "pusk!" deb jo'nadi. | Я в о'тпуске. | Men ta'tildaman. | отдых (dam olish) | работа (ish)
+# 3
+вла'сть | hokimiyat | 🏛️ | ж.р. (-ь); Р: вла'сти; мн: вла'сти | VLAST — VILOYAT | Viloyat hokimi hokimiyat kursisida o'tiribdi. | вла'сть наро'да | xalq hokimiyati | управление (boshqaruv) | безвластие (boshboshdoqlik)
+зако'н | qonun | 📜 | м.р.; Р: зако'на; по зако'ну | ZAKON — ZAKOVAT | Zakovatli odam qonunni yoddan biladi. | Зако'н для всех. | Qonun hamma uchun. | правило (qoida), норма (me'yor) | беззаконие (qonunsizlik)
+о'браз | obraz, timsol | 🎭 | м.р.; Р: о'браза; таки'м о'бразом = shu tariqa | OBRAZ — OBRA-ZAR | Ko'z oldingizda zarrin obraz paydo bo'ldi. | о'браз жи'зни | turmush tarzi | вид (ko'rinish), картина (manzara) | —
+о'бщество | jamiyat | 👥 | ср.р.; Р: о'бщества | OBSHESTVO — OBSHEJITIE | Yotoqxona (obshejitie) — kichik jamiyat. | совреме'нное о'бщество | zamonaviy jamiyat | социум (sotsium) | одиночество (yolg'izlik)
+де'ятельность | faoliyat | ⚙️ | ж.р. (-ость); Р: де'ятельности | DEYATELNOST — DEHQON | Dehqonning faoliyati — dalada. | нау'чная де'ятельность | ilmiy faoliyat | работа (ish), занятие (mashg'ulot) | бездействие (harakatsizlik)
+организа'ция | tashkilot | 🏢 | ж.р. (-ия); Р: организа'ции | ORGANIZATSIYA | Xalqaro so'z — tashkilot. | обще'ственная организа'ция | jamoat tashkiloti | учреждение (muassasa) | —
+проце'сс | jarayon | 🔄 | м.р.; Р: проце'сса · ([працэ'с]) | PROTSESS — PROTSESSOR | Kompyuter protsessori jarayonni boshqaradi. | уче'бный проце'сс | o'quv jarayoni | ход (borish) | результат (natija)
+усло'вие | shart | 📋 | ср.р. (-ие); мн: усло'вия = sharoit | USLOVIE — USUL | Har bir usulning o'z sharti bor. | усло'вие зада'чи | masala sharti | требование (talab) | —
+сре'дство | vosita | 🧰 | ср.р.; мн: сре'дства = mablag' | SREDSTVO — SARDOR | Sardor har doim vosita topadi. | сре'дство свя'зи | aloqa vositasi | способ (usul), метод (metod) | цель (maqsad)
+разви'тие | rivojlanish | 📈 | ср.р. (-ие); Р: разви'тия | RAZVITIE — RAYHON VITAMIN | Rayhon vitamin bilan rivojlanyapti. | разви'тие страны' | mamlakat rivoji | рост (o'sish), прогресс (taraqqiyot) | упадок (tanazzul)
+компа'ния | kompaniya; davra | 🏬 | ж.р. (-ия) | KOMPANIYA | Kompaniya — firma ham, do'stlar davrasi ham. | весёлая компа'ния | quvnoq davra | фирма (firma), общество (jamiyat) | —
+возмо'жность | imkoniyat | 🚪 | ж.р. (-ость); Р: возмо'жности | VOZMOJNOST — VOZ + MO'JIZA | Voz kechmang — mo'jiza imkoniyati bor! | Есть возмо'жность. | Imkoniyat bor. | шанс (imkon), вероятность (ehtimol) | невозможность (imkonsizlik)
+госуда'рство | davlat | 🏛️ | ср.р.; Р: госуда'рства | GOSUDARSTVO — G'OZ + DAR | G'oz darvozada davlat bayrog'ini ushlab turibdi. | незави'симое госуда'рство | mustaqil davlat | страна (mamlakat), держава (davlat) | —
+де'йствие | harakat, amal | 🎬 | ср.р. (-ие); Р: де'йствия | DEYSTVIE — DAYSTVIE | "Deystvie!" — rejissyor harakatni boshlaydi. | арифмети'ческое де'йствие | arifmetik amal | поступок (xatti-harakat) | бездействие (harakatsizlik)
+ка'чество | sifat | 🏅 | ср.р.; Р: ка'чества | KACHESTVO — KO'CHA + SIFAT | Ko'chaning sifati — asfaltida. | высо'кое ка'чество | yuqori sifat | свойство (xususiyat) | количество (miqdor)
+це'ль | maqsad | 🎯 | ж.р. (-ь); Р: це'ли | TSEL — SELFI | Maqsadga yetib, selfi tushdingiz! | Моя' цель — учи'ться. | Mening maqsadim — o'qish. | задача (vazifa), намерение (niyat) | средство (vosita)
+мне'ние | fikr, nuqtai nazar | 💭 | ср.р. (-ие); по моему' мне'нию = menimcha | MNENIE — MANA + NIYAT | Mana mening niyatim va fikrim! | Како'е твоё мне'ние? | Sening fikring qanday? | взгляд (qarash), точка зрения (nuqtai nazar) | —
+интере'с | qiziqish | 🤩 | м.р.; Р: интере'са; с интере'сом | INTERES — INTERNET | Internetga qiziqish katta. | интере'с к матема'тике | matematikaga qiziqish | увлечение (ishtiyoq) | безразличие (befarqlik)
+це'нтр | markaz | 🎯 | м.р.; Р: це'нтра; в це'нтре | TSENTR — SENTR | Markaz — xalqaro so'z. | центр го'рода | shahar markazi | середина (o'rta) | окраина (chekka)
+пла'н | reja | 🗒️ | м.р.; Р: пла'на | PLAN — PALAN | Eshak palanida reja yozilgan. | план рабо'ты | ish rejasi | замысел (niyat), проект (loyiha) | —
+свя'зь | aloqa, bog'lanish | 🔗 | ж.р. (-ь); Р: свя'зи | SVYAZ — SIYOZ | Siyoh bilan bog'lab, aloqa yozdingiz. | моби'льная связь | mobil aloqa | контакт (aloqa), отношение (munosabat) | разрыв (uzilish)
+ро'ль | rol | 🎭 | ж.р. (-ь); Р: ро'ли; игра'ть роль | ROL — ROL | Rol — o'zbekchada ham rol. | гла'вная роль | bosh rol | значение (ahamiyat) | —
+причи'на | sabab | ❓ | ж.р.; Р: причи'ны; по причи'не | PRICHINA — PIRICH (guruch) | Palov kuyishining sababi — guruch! | причи'на опозда'ния | kechikish sababi | основание (asos), повод (bahona) | следствие (oqibat)
+моме'нт | lahza, payt | ⏱️ | м.р.; Р: моме'нта | MOMENT | Moment — xalqaro so'z. | в э'тот моме'нт | shu lahzada | миг (lahza), мгновение (on) | вечность (abadiyat)
+собы'тие | voqea, hodisa | 📰 | ср.р. (-ие); Р: собы'тия | SOBYTIE — SOBIQ | Sobiq voqealarni eslaysiz. | ва'жное собы'тие | muhim voqea | случай (holat), происшествие (hodisa) | —
+информа'ция | ma'lumot | ℹ️ | ж.р. (-ия) | INFORMATSIYA | Xalqaro so'z. | поле'зная информа'ция | foydali ma'lumot | сведения (ma'lumotlar), данные (ma'lumotlar) | —
+програ'мма | dastur | 💾 | ж.р.; Р: програ'ммы | PROGRAMMA | Dastur — programma. | компью'терная програ'мма | kompyuter dasturi | план (reja) | —
+внима'ние | e'tibor | 👀 | ср.р. (-ие); Внима'ние! = Diqqat! | VNIMANIE — VANNA + NIMA | Vannada nima bor? — e'tibor bering! | Спаси'бо за внима'ние! | E'tiboringiz uchun rahmat! | интерес (qiziqish) | невнимание (e'tiborsizlik)
+о'пыт | tajriba | 🧪 | м.р.; Р: о'пыта | OPIT — OPA + IT | Opaning itida katta tajriba bor. | о'пыт рабо'ты | ish tajribasi | практика (amaliyot), навык (ko'nikma) | неопытность (tajribasizlik)
+поря'док | tartib | 🗂️ | м.р.; Р: поря'дка (о tushadi) | PORYADOK — PARDA + OQ | Oq parda — uyda tartib. | Всё в поря'дке. | Hammasi joyida. | система (tizim) | беспорядок (tartibsizlik)
+докуме'нт | hujjat | 📄 | м.р.; Р: докуме'нта | DOKUMENT | Hujjat — xalqaro so'z. | ва'жный докуме'нт | muhim hujjat | бумага (qog'oz), справка (ma'lumotnoma) | —
+но'мер | raqam | #️⃣ | м.р.; мн: номера'; номер телефо'на | NOMER — NOMI + ER | Erning nomi — raqam! | Како'й у тебя' но'мер? | Raqaming qanday? | число (son), цифра (raqam) | —
+прое'кт | loyiha | 🏗️ | м.р.; Р: прое'кта | PROEKT — PROYEKTOR | Proyektorda loyiha ko'rsatilyapti. | но'вый прое'кт | yangi loyiha | план (reja), замысел (g'oya) | —
+а'втор | muallif | ✍️ | м.р.; Р: а'втора | AVTOR — AVTO | Muallif kitobni avtomobilda yozdi. | а'втор кни'ги | kitob muallifi | писатель (yozuvchi), создатель (yaratuvchi) | читатель (o'quvchi)
+руководи'тель | rahbar | 👔 | м.р.; Р: руководи'теля | RUKOVODITEL — RUKA + VODIY | Rahbar qo'li bilan butun vodiyni boshqaradi. | руководи'тель гру'ппы | guruh rahbari | начальник (boshliq), директор (direktor) | подчинённый (bo'ysunuvchi)
+дире'ктор | direktor | 👨‍💼 | м.р.; мн: директора' | DIREKTOR | Direktor — o'zbekchada ham direktor. | дире'ктор те'хникума | texnikum direktori | руководитель (rahbar) | —
+прави'тельство | hukumat | 🏛️ | ср.р.; Р: прави'тельства | PRAVITELSTVO — PRAVA | Hukumat prava beradi. | прави'тельство страны' | mamlakat hukumati | власть (hokimiyat) | —
+коли'чество | miqdor | 🔢 | ср.р.; Р: коли'чества | KOLICHESTVO — KO'L + CHEST | Ko'ldagi baliqlar miqdori. | большо'е коли'чество | katta miqdor | число (son), объём (hajm) | качество (sifat)
+осно'ва | asos | 🧱 | ж.р.; Р: осно'вы; на осно'ве | OSNOVA — OSON | Asos oson bo'lsa, uy mustahkam. | осно'ва зна'ний | bilim asosi | база (baza), фундамент (poydevor) | —
+движе'ние | harakat | 🏃 | ср.р. (-ние); доро'жное движе'ние = yo'l harakati | DVIJENIE — DVIGATEL | Dvigatel harakatni boshlaydi. | пра'вила движе'ния | harakat qoidalari | ход (yurish) | покой (tinchlik), остановка (to'xtash)
+состоя'ние | holat | 🌡️ | ср.р. (-ие); Р: состоя'ния | SOSTOYANIE — SOS + TOY | "SOS!" — to'yda holat yomon! | состоя'ние здоро'вья | salomatlik holati | положение (ahvol) | —
+ме'ра | o'lchov; chora | 📏 | ж.р.; Р: ме'ры; по ме'ре | MERA — MEROS | Merosni o'lchov bilan bo'lishadi. | ме'ры безопа'сности | xavfsizlik choralari | мерка (o'lchov) | —
+вы'вод | xulosa | 🧾 | м.р.; Р: вы'вода; сде'лать вы'вод | VYVOD — VIYOLA | Viyolada xulosa kuyi. | Како'й вы'вод? | Qanday xulosa? | итог (yakun), заключение (xulosa) | —
+хара'ктер | xarakter, fe'l | 😤 | м.р.; Р: хара'ктера | XARAKTER | Xarakter — o'zbekchada ham. | си'льный хара'ктер | kuchli xarakter | нрав (fe'l-atvor) | —
+спо'соб | usul | 🛠️ | м.р.; Р: спо'соба | SPOSOB — SPOSOBNIY | Qobiliyatli (sposobniy) odam usul topadi. | спо'соб реше'ния | yechish usuli | метод (metod), приём (yo'l) | —
+уча'стие | ishtirok | 🙋 | ср.р. (-ие); приня'ть уча'стие = ishtirok etmoq | UCHASTIE — UCHASTKA | Uchastkada hamma ishtirok etyapti. | уча'стие в ко'нкурсе | tanlovda ishtirok | присутствие (qatnashish) | неучастие (qatnashmaslik)
+отве'тственность | mas'uliyat | ⚖️ | ж.р. (-ость) | OTVETSTVENNOST — OTVET + STVOL | Javob (otvet) uchun mas'uliyat. | чу'вство отве'тственности | mas'uliyat hissi | долг (burch) | безответственность (mas'uliyatsizlik)
+ве'ра | ishonch; e'tiqod | 🕊️ | ж.р.; Р: ве'ры | VERA — VERA (ism) | Vera ismli qiz hammaga ishonadi. | ве'ра в себя' | o'ziga ishonch | доверие (ishonch) | сомнение (shubha)
+наде'жда | umid | 🌅 | ж.р.; Р: наде'жды | NADEJDA — NAJOT | Najot — umid bilan keladi. | Есть наде'жда. | Umid bor. | упование (umid) | отчаяние (umidsizlik)
+мечта' | orzu | 🌠 | ж.р.; Р: мечты'; Р.мн: — | MECHTA — MACHIT TA | Orzuingiz machit gumbazidan uchib chiqdi. | Моя' мечта' | mening orzuim | желание (istak) | реальность (voqelik)
+успе'х | muvaffaqiyat | 🏆 | м.р.; Р: успе'ха; Успе'хов! = Omad! | USPEX — USTA + PAX | Usta "pax!" deb muvaffaqiyatga erishdi. | Жела'ю успе'хов! | Muvaffaqiyat tilayman! | удача (omad), победа (g'alaba) | неудача (omadsizlik), провал (barbod)
+побе'да | g'alaba | 🥇 | ж.р.; Р: побе'ды; День Побе'ды | POBEDA — PO'BIDA | Pobeda kubogi — g'alaba! | побе'да кома'нды | jamoa g'alabasi | успех (muvaffaqiyat) | поражение (mag'lubiyat)
+борьба' | kurash | 🤼 | ж.р.; Р: борьбы' | BORBA — BO'RI + BA | Bo'ri bilan kurash. | борьба' за мир | tinchlik uchun kurash | бой (jang), сражение (jang) | мир (tinchlik)
+со'н | uyqu; tush | 😴 | м.р.; Р: сна (о tushadi); во сне = tushda | SON — SONLAR | Uxlaganingizda sonlar sanaysiz — son! | Спокойного сна! | Tinch uyqu! | сновидение (tush) | бодрствование (bedorlik)
+стра'х | qo'rquv | 😱 | м.р.; Р: стра'ха | STRAX — SITARA | Sitora qo'rquvdan qochdi. | страх темноты' | qorong'ilik qo'rquvi | боязнь (qo'rquv), ужас (dahshat) | смелость (jasorat)
+ра'дость | quvonch | 😁 | ж.р. (-ость) | RADOST — RADIO + DO'ST | Radio do'stingiz quvonch tarqatyapti. | с ра'достью | quvonch bilan | счастье (baxt), веселье (shodlik) | горе (g'am), печаль (qayg'u)
+сча'стье | baxt | 🍀 | ср.р. (-ье) ([ща'стье]) | SCHASTE — SHASHLIK | Baxt — issiq shashlik! | Жела'ю сча'стья! | Baxt tilayman! | радость (quvonch) | несчастье (baxtsizlik), горе (g'am)
+улы'бка | tabassum | 😊 | ж.р.; Р: улы'бки | ULYBKA — ULAB + BOG' | Lablaringizni bog'ga ulab, tabassum qildingiz. | краси'вая улы'бка | chiroyli tabassum | усмешка (kulimsirash) | слёзы (ko'z yosh)
+сме'х | kulgi | 😂 | м.р.; Р: сме'ха | SMEX — SMETANA | Smetanaga tushgan mushuk — kulgi! | гро'мкий смех | baland kulgi | хохот (qahqaha) | плач (yig'i)
+слеза' | ko'z yoshi | 💧 | ж.р.; мн: слёзы; Р.мн: слёз | SLEZA — SELDAN | Seldan ko'z yoshi oqyapti. | слёзы ра'дости | quvonch ko'z yoshi | — | смех (kulgi)
+бо'ль | og'riq | 🤕 | ж.р. (-ь); Р: бо'ли | BOL — BOLA | Bolaning og'rig'i — "bol!" | головна'я боль | bosh og'rig'i | страдание (azob) | облегчение (yengillik)
+боле'знь | kasallik | 🤒 | ж.р. (-ь); Р: боле'зни | BOLEZN — BOLA + ZINA | Bola zinadan yiqilib, kasal bo'ldi. | тяжёлая боле'знь | og'ir kasallik | недуг (dard) | здоровье (salomatlik)
+сове'т | maslahat; kengash | 💡 | м.р.; Р: сове'та | SOVET | Sovet (kengash) maslahat beradi. | хоро'ший сове'т | yaxshi maslahat | рекомендация (tavsiya) | —
+разгово'р | suhbat | 💬 | м.р.; Р: разгово'ра | RAZGOVOR — RAZ + GAVOR | To'tiqush bir marta suhbat qurdi. | разгово'р по телефо'ну | telefon suhbati | беседа (suhbat), диалог (dialog) | молчание (sukut)
+встре'ча | uchrashuv | 🤝 | ж.р.; Р: встре'чи | VSTRECHA — VA STRELKA | Strelka (soat mili) uchrashuv vaqtini ko'rsatadi. | встре'ча с друзья'ми | do'stlar bilan uchrashuv | свидание (uchrashuv) | расставание (ayriliq)
+про'сьба | iltimos | 🙏 | ж.р.; Р: про'сьбы | PROSBA — PROSO + BA | Tovuqning iltimosi — bir hovuch tariq. | У меня' про'сьба. | Bir iltimosim bor. | просьба (o'tinch) | требование (talab)
+сообще'ние | xabar | 📩 | ср.р. (-ние) | SOOBSHENIE — SOO + OBSHIY | Umumiy (obshiy) chatga xabar. | Я получи'л сообще'ние. | Men xabar oldim. | известие (xabar), новость (yangilik) | —
+ша'г | qadam | 👣 | м.р.; Р: ша'га; мн: шаги' | SHAG — SHAG'AL | Shag'al ustida qadam tashlaysiz. | пе'рвый шаг | birinchi qadam | — | —
+пое'здка | safar | 🚗 | ж.р.; Р: пое'здки | POEZDKA — POYEZD | Poyezdda safar. | пое'здка в Самарка'нд | Samarqandga safar | путешествие (sayohat) | —
+путеше'ствие | sayohat | 🧭 | ср.р. (-ие) | PUTESHESTVIE — PUT + SHAXS | Shaxsiy yo'l (put) — sayohat. | кругосве'тное путеше'ствие | dunyo bo'ylab sayohat | поездка (safar), странствие (kezish) | —
+экску'рсия | ekskursiya | 🗺️ | ж.р. (-ия) | EKSKURSIYA | Xalqaro so'z. | экску'рсия по го'роду | shahar bo'ylab ekskursiya | — | —
+о'тдых | dam olish | 🛋️ | м.р.; Р: о'тдыха; на о'тдыхе | OTDYX — OT + DIX | Ot "dix!" deb dam olyapti. | хоро'шего о'тдыха! | Yaxshi dam oling! | покой (orom), каникулы (ta'til) | работа (ish), труд (mehnat)
+профе'ссия | kasb | 👷 | ж.р. (-ия); Р: профе'ссии | PROFESSIYA — PROFESSOR | Professorning kasbi — o'qitish. | Кто вы по профе'ссии? | Kasbingiz nima? | специальность (mutaxassislik), ремесло (hunar) | —
+специа'льность | mutaxassislik | 🎓 | ж.р. (-ость) | SPETSIALNOST — SPETS | Spets — mutaxassis! | моя' специа'льность | mening mutaxassisligim | профессия (kasb) | —
+зарпла'та | maosh | 💵 | ж.р.; Р: зарпла'ты | ZARPLATA — ZAR + PLATA | Zar (oltin) bilan to'langan maosh. | высо'кая зарпла'та | yuqori maosh | заработок (ish haqi), оклад (maosh) | —
+колле'га | hamkasb | 👥 | м.р. va ж.р. (umumiy jins) | KOLLEGA | Hamkasb — kollega. | Мои' колле'ги | hamkasblarim | сослуживец (xizmatdosh) | —
+нача'льник | boshliq | 👔 | м.р.; Р: нача'льника | NACHALNIK — NACHALO | Boshliq — hamma ishning boshida. | нача'льник отде'ла | bo'lim boshlig'i | руководитель (rahbar) | подчинённый (bo'ysunuvchi)
+покупа'тель | xaridor | 🛍️ | м.р.; Р: покупа'теля | POKUPATEL — PAKET + PUL | Xaridor paketni pulga to'ldirdi. | Покупа'тель всегда' прав. | Xaridor doim haq. | клиент (mijoz) | продавец (sotuvchi)
+продаве'ц | sotuvchi | 🧑‍💼 | м.р.; Р: продавца' (е tushadi); ж: продавщи'ца | PRODAVETS — PARDA + VETS | Sotuvchi parda sotyapti. | продаве'ц фру'ктов | meva sotuvchi | торговец (savdogar) | покупатель (xaridor)
+води'тель | haydovchi | 🚖 | м.р.; Р: води'теля | VODITEL — VODIY + TEL | Vodiy yo'lida haydovchi telefonda gaplashmaydi. | води'тель такси' | taksi haydovchisi | шофёр (shofyor) | пассажир (yo'lovchi)
+инжене'р | muhandis | 👷 | м.р.; Р: инжене'ра | INJENER — INJIR | Muhandis injir daraxtidan ko'prik qurdi. | Он инжене'р. | U muhandis. | техник (texnik) | —
+по'вар | oshpaz | 👨‍🍳 | м.р.; мн: повара' | POVAR — PALOV | Oshpaz palov damlayapti. | хоро'ший по'вар | yaxshi oshpaz | кулинар (oshpaz) | —
+программи'ст | dasturchi | 👨‍💻 | м.р.; Р: программи'ста | PROGRAMMIST | Dasturchi — programmist. | Он программи'ст. | U dasturchi. | разработчик (ishlab chiquvchi) | —
+солда'т | askar | 🪖 | м.р.; Р.мн: солда'т (!) | SOLDAT — SOLDAT | Askar — soldat. | солда'т а'рмии | armiya askari | воин (jangchi), боец (jangchi) | —
+рабо'чий | ishchi | 👷 | м.р. (sifatdan ot); Р: рабо'чего | RABOCHIY — ROBOT | Ishchi robot bilan birga ishlayapti. | рабо'чий заво'да | zavod ishchisi | работник (xodim) | —
+пассажи'р | yo'lovchi | 🧳 | м.р.; Р: пассажи'ра | PASSAJIR | Yo'lovchi — passajir. | пассажи'ры авто'буса | avtobus yo'lovchilari | путешественник (sayyoh) | водитель (haydovchi)
+тури'ст | turist, sayyoh | 🧳 | м.р.; Р: тури'ста | TURIST | Turist — xalqaro so'z. | тури'сты в Бухаре' | Buxorodagi sayyohlar | путешественник (sayohatchi) | местный (mahalliy)
+писа'тель | yozuvchi | ✒️ | м.р.; Р: писа'теля | PISATEL — PISTA + TEL | Yozuvchi pista chaqib, telefonda roman yozadi. | изве'стный писа'тель | mashhur yozuvchi | автор (muallif), литератор (adib) | читатель (kitobxon)
+худо'жник | rassom | 🎨 | м.р.; Р: худо'жника | XUDOJNIK — XUD + O'JAR | O'jar rassom faqat xuddi o'zini chizadi. | изве'стный худо'жник | mashhur rassom | живописец (rassom) | —
+арти'ст | artist | 🎭 | м.р.; Р: арти'ста | ARTIST | Artist — xalqaro so'z. | арти'ст теа'тра | teatr artisti | актёр (aktyor) | зритель (tomoshabin)
+певе'ц | xonanda | 🎤 | м.р.; Р: певца' (е tushadi); ж: певи'ца | PEVETS — PAYVAND | Xonanda ovozini payvand qildi. | изве'стный певе'ц | mashhur xonanda | исполнитель (ijrochi) | слушатель (tinglovchi)
+спортсме'н | sportchi | 🏅 | м.р.; Р: спортсме'на | SPORTSMEN | Sportchi — sportsmen. | молодо'й спортсме'н | yosh sportchi | атлет (atlet) | —
+кома'нда | jamoa; buyruq | 👥 | ж.р.; Р: кома'нды | KOMANDA — KOMANDIR | Komandir jamoaga buyruq beradi. | футбо'льная кома'нда | futbol jamoasi | коллектив (jamoa) | соперник (raqib)
+игро'к | o'yinchi | ⛹️ | м.р.; Р: игрока' | IGROK — IGNA + OQ | O'yinchi oq igna bilan to'p tikadi. | лу'чший игро'к | eng yaxshi o'yinchi | спортсмен (sportchi) | зритель (tomoshabin)
+мя'ч | to'p | ⚽ | м.р.; Р: мяча'; мн: мячи' | MYACH — MUSHT | To'pga musht emas, oyoq bilan uring! | футбо'льный мяч | futbol to'pi | шар (shar) | —
+ме'бель | mebel | 🛋️ | ж.р. (-ь), faqat birlik; Р: ме'бели | MEBEL | Mebel — o'zbekchada ham mebel. | но'вая ме'бель | yangi mebel | обстановка (jihozlar) | —
+дива'н | divan | 🛋️ | м.р.; Р: дива'на; на дива'не | DIVAN — DEVON | Devon (she'rlar kitobi) divanda yotibdi. | Он сиди'т на дива'не. | U divanda o'tiribdi. | софа (sofa) | —
+кре'сло | kreslo | 💺 | ср.р.; Р: кре'сла; Р.мн: кре'сел | KRESLO | Kreslo — o'zbekchada ham kreslo. | мя'гкое кре'сло | yumshoq kreslo | стул (stul) | —
+ла'мпа | chiroq, lampa | 💡 | ж.р.; Р: ла'мпы | LAMPA | Lampa — lampa. | насто'льная ла'мпа | stol chirog'i | светильник (chiroq) | —
+зе'ркало | oyna (ko'zgu) | 🪞 | ср.р.; мн: зеркала' | ZERKALO — ZAR + KALLA | Ko'zguda zarrin kalla ko'rinyapti. | Он смо'трит в зе'ркало. | U ko'zguga qarayapti. | — | —
+по'лка | javon, tokcha | 📚 | ж.р.; Р: по'лки; на по'лке | POLKA — POLK | Butun polk (askarlar) tokchada saf tortdi. | кни'жная по'лка | kitob javoni | стеллаж (stellaj) | —
+ковёр | gilam | 🟥 | м.р.; Р: ковра' (ё tushadi) | KOVYOR — KO'VAR | Gilamni ko'varib (qoqib) tozalaysiz. | краси'вый ковёр | chiroyli gilam | палас (palos) | —
+холоди'льник | muzlatgich | 🧊 | м.р.; в холоди'льнике | XOLODILNIK — XOLOD (sovuq) | Sovuq (xolod) saqlovchi — muzlatgich. | Молоко' в холоди'льнике. | Sut muzlatgichda. | морозильник (muzlatkich) | плита (plita)
+телеви'зор | televizor | 📺 | м.р.; Р: телеви'зора | TELEVIZOR | Televizor — televizor. | смотре'ть телеви'зор | televizor ko'rmoq | — | —
+плита' | plita | 🔥 | ж.р.; Р: плиты'; на плите' | PLITA | Plita — plita. | Суп на плите'. | Sho'rva plitada. | печь (pech) | холодильник (muzlatgich)
+посу'да | idish-tovoq | 🍽️ | ж.р., faqat birlik; мыть посу'ду | POSUDA — POS + SUV | Idish-tovoqni suvda yuvasiz. | гря'зная посу'да | iflos idishlar | — | —
+ча'йник | choynak | 🫖 | м.р.; Р: ча'йника | CHAYNIK — CHOYNAK | Chaynik — choynak! | Поста'вь ча'йник. | Choynakni qo'y. | — | —
+кастрю'ля | kastryul, qozoncha | 🍲 | ж.р.; Р: кастрю'ли | KASTRYULYA — KASTRYUL | Kastryul — o'zbekchada ham. | больша'я кастрю'ля | katta kastryul | котёл (qozon) | —
+сковорода' | tova | 🍳 | ж.р.; В: ско'вороду | SKOVORODA — SKOVORODKA | Tovada tuxum qovuryapsiz. | горя'чая сковорода' | qizigan tova | сковородка (tova) | —
+ви'лка | vilka; vilka (rozetka) | 🍴 | ж.р.; Р: ви'лки | VILKA | Vilka — vilka. | но'жи и ви'лки | pichoq va vilkalar | — | ложка (qoshiq)
+полоте'нце | sochiq | 🧻 | ср.р.; Р: полоте'нца; Р.мн: полоте'нец | POLOTENTSE — PALATA | Kasalxona palatasida sochiq osilgan. | чи'стое полоте'нце | toza sochiq | — | —
+мы'ло | sovun | 🧼 | ср.р.; Р: мы'ла | MILO — MILT | Sovun qo'ldan milt etib sirg'aladi. | Мо'й ру'ки с мы'лом. | Qo'lingni sovun bilan yuv. | — | —
+поду'шка | yostiq | 🛏️ | ж.р.; Р: поду'шки | PODUSHKA — PODA + USHQOQ | Yostiq ichiga butun podaning juni tiqilgan. | мя'гкая поду'шка | yumshoq yostiq | — | —
+ва'нная | vannaxona | 🛁 | ж.р. (sifatdan ot); в ва'нной | VANNAYA — VANNA | Vanna turgan xona. | Он в ва'нной. | U vannaxonada. | — | —
+туале'т | hojatxona | 🚻 | м.р.; Где туале'т? | TUALET | Xalqaro so'z. | Где здесь туале'т? | Bu yerda hojatxona qayerda? | уборная (hojatxona) | —
+балко'н | balkon | 🏢 | м.р.; на балко'не | BALKON | Balkon — balkon. | Он на балко'не. | U balkonda. | лоджия (lodjiya) | —
+эта'ж | qavat | 🏬 | м.р.; Р: этажа'; на тре'тьем этаже' | ETAJ | Etaj — o'zbekchada ham. | Я живу' на пя'том этаже'. | Men beshinchi qavatda yashayman. | — | —
+ли'фт | lift | 🛗 | м.р.; Р: ли'фта; на ли'фте | LIFT | Lift — lift. | Ли'фт не рабо'тает. | Lift ishlamayapti. | подъёмник (ko'targich) | лестница (zinapoya)
+ле'стница | zinapoya | 🪜 | ж.р. ([ле'сница]); по ле'стнице | LESTNITSA — LESHNITSA | Zinapoyada o'rmon (les) o'smoqda. | подня'ться по ле'стнице | zinapoyadan chiqmoq | ступеньки (zinalar) | лифт (lift)
+кры'ша | tom | 🏠 | ж.р.; на кры'ше | KRYSHA — KIRISH | Uyga tomdan kirish! | на кры'ше до'ма | uy tomida | кровля (tom yopma) | пол (pol); фундамент (poydevor)
+стена' | devor | 🧱 | ж.р.; В: сте'ну; мн: сте'ны; на стене' | STENA — SATAN | Devorda satan (sahna) rasmi. | карти'на на стене' | devordagi rasm | ограда (to'siq) | —
+по'л | pol | 🟫 | м.р.; П: на полу' (!) | POL — POL | Pol — o'zbekchada ham pol. | на полу' | polda | — | потолок (ship)
+потоло'к | ship | ⬜ | м.р.; Р: потолка' (о tushadi); на потолке' | POTOLOK — PATILOQ | Shipda patiloq (tuxum) osilib turibdi. | высо'кий потоло'к | baland ship | — | пол (pol)
+огоро'д | tomorqa | 🥬 | м.р.; на огоро'де | OGOROD — O'G'IR OD | O'g'ir ketmon bilan tomorqa chopasiz. | Ба'бушка на огоро'де. | Buvim tomorqada. | грядка (egat) | —
+забо'р | devor, to'siq | 🚧 | м.р.; Р: забо'ра | ZABOR — ZABAR | Zabardast to'siq — hech kim o'tmaydi. | высо'кий забо'р | baland to'siq | ограда (panjara) | —
+воро'та | darvoza | 🚪 | faqat мн.; Р: воро'т | VOROTA — VORIS | Voris darvozani ochdi. | Откро'й воро'та. | Darvozani och. | калитка (kichik eshik) | —
+ка'ша | bo'tqa | 🥣 | ж.р.; Р: ка'ши | KASHA — KOSA | Kosada issiq bo'tqa. | ри'совая ка'ша | guruch bo'tqasi | — | —
+ри'с | guruch | 🍚 | м.р.; Р: ри'са | RIS — RIZQ | Guruch — rizq! | плов с ри'сом | guruchli palov | — | —
+пло'в | palov | 🍛 | м.р.; Р: пло'ва | PLOV — PALOV | Palov — ruschada ham "plov"! | узбе'кский плов | o'zbek palovi | — | —
+макаро'ны | makaron | 🍝 | faqat мн.; Р: макаро'н | MAKARON | Makaron — makaron. | макаро'ны с сы'ром | pishloqli makaron | лапша (lag'mon) | —
+сы'р | pishloq | 🧀 | м.р.; Р: сы'ра (сы'ру) | SIR — SIR | Pishloq sirini hech kimga aytmaydi. | хлеб с сы'ром | pishloqli non | брынза (brinza) | —
+колбаса' | kolbasa | 🌭 | ж.р.; Р: колбасы' | KOLBASA | Kolbasa — kolbasa. | бутербро'д с колбасо'й | kolbasali buterbrod | — | —
+ку'рица | tovuq | 🐔 | ж.р.; мн: ку'ры | KURITSA — QURIQ | Tovuq quruq don terib yuribdi. | Ку'рица несёт я'йца. | Tovuq tuxum qiladi. | — | петух (xo'roz)
+моро'женое | muzqaymoq | 🍦 | ср.р. (sifatdan ot) | MOROJENOE — MOROZ (sovuq) | Sovuq (moroz) shirinlik. | Я люблю' моро'женое. | Men muzqaymoqni yaxshi ko'raman. | пломбир (plombir) | —
+то'рт | tort | 🎂 | м.р.; Р: то'рта | TORT — TO'RT | To'rt qavatli tort! | шокола'дный торт | shokoladli tort | пирог (pirog) | —
+конфе'та | konfet | 🍬 | ж.р.; Р: конфе'ты | KONFETA | Konfet — konfet. | сла'дкие конфе'ты | shirin konfetlar | сладость (shirinlik) | —
+пече'нье | pechenye | 🍪 | ср.р. (-ье) | PECHENYE — PECH | Pechda pishgan pechenye. | чай с пече'ньем | pechenyeli choy | — | —
+мёд | asal | 🍯 | м.р.; Р: мёда (мёду) | MYOD — MO'D | Asal — mo''jiza shirinlik. | чай с мёдом | asalli choy | — | —
+варе'нье | murabbo | 🍓 | ср.р. (-ье) | VARENYE — VARAQ | Varaqqa murabbo surtildi. | клубни'чное варе'нье | qulupnay murabbosi | джем (jem) | —
+оре'х | yong'oq | 🥜 | м.р.; Р: оре'ха | OREX — O'RIK | O'rik ichidan yong'oq chiqdi! | гре'цкий оре'х | yong'oq | — | —
+лимо'н | limon | 🍋 | м.р.; Р: лимо'на | LIMON | Limon — limon. | чай с лимо'ном | limonli choy | — | —
+апельси'н | apelsin | 🍊 | м.р.; Р: апельси'на | APELSIN | Apelsin — apelsin. | сок из апельси'нов | apelsin sharbati | — | —
+бана'н | banan | 🍌 | м.р. | BANAN | Banan — banan. | жёлтый бана'н | sariq banan | — | —
+гру'ша | nok | 🍐 | ж.р.; Р: гру'ши | GRUSHA — GURUCH + SHA | Nok ichida guruch donalari. | сла'дкая гру'ша | shirin nok | — | —
+ви'шня | olcha | 🍒 | ж.р.; Р: ви'шни; Р.мн: ви'шен | VISHNYA — VISHNEVIY | Olcha rangi — vishnyoviy. | ки'слая ви'шня | nordon olcha | черешня (gilos) | —
+клубни'ка | qulupnay | 🍓 | ж.р.; faqat birlik (to'plam) | KLUBNIKA — KLUB | Klubda qulupnay bazmi! | сла'дкая клубни'ка | shirin qulupnay | земляника (yovvoyi qulupnay) | —
+морко'вь | sabzi | 🥕 | ж.р. (-ь); Р: морко'ви | MORKOV — MORKOVCHA | Sabzi — morkovcha salatida. | плов с морко'вью | sabzili palov | — | —
+капу'ста | karam | 🥬 | ж.р.; Р: капу'сты | KAPUSTA — QAPUS | Karam qapusdek qat-qat. | сала'т из капу'сты | karam salati | — | —
+пе'рец | qalampir | 🌶️ | м.р.; Р: пе'рца (е tushadi) | PERETS — PARI | Qalampir yeb, pari kabi uchib ketdingiz! | о'стрый пе'рец | achchiq qalampir | — | —
+чесно'к | sarimsoq | 🧄 | м.р.; Р: чеснока' | CHESNOK — CHASHMA | Chashmada sarimsoq yuvilyapti. | зубо'к чеснока' | bir tishcha sarimsoq | — | —
+лёд | muz | 🧊 | м.р.; Р: льда (ё tushadi); на льду | LYOD — LOYQA | Loyqa suv muzlab qoldi. | холо'дный лёд | sovuq muz | — | огонь (olov)
+пирожо'к | pirojki | 🥟 | м.р.; Р: пирожка'; мн: пирожки' | PIROJOK — PIROG | Kichkina pirog — pirojki. | пирожо'к с карто'шкой | kartoshkali pirojki | пирог (pirog) | —
+брю'ки | shim | 👖 | faqat мн.; Р: брюк | BRYUKI — BURUQ | Buruq shim kiydingiz. | чёрные брю'ки | qora shim | штаны (ishton), джинсы (jinsi) | —
+ю'бка | yubka | 👗 | ж.р.; Р: ю'бки | YUBKA | Yubka — yubka. | дли'нная ю'бка | uzun yubka | — | —
+носки' | paypoq | 🧦 | мн.; birlik: носо'к; Р.мн: носко'в | NOSKI — NOS + KI | Paypoq nosga o'xshaydi! | тёплые носки' | issiq paypoq | — | —
+костю'м | kostyum | 🤵 | м.р.; Р: костю'ма | KOSTYUM | Kostyum — kostyum. | деловой костю'м | ish kostyumi | — | —
+га'лстук | galstuk | 👔 | м.р.; Р: га'лстука | GALSTUK | Galstuk — galstuk. | кра'сный га'лстук | qizil galstuk | — | —
+перча'тки | qo'lqop | 🧤 | мн.; birlik: перча'тка | PERCHATKI — PARCHA | Parchadan tikilgan qo'lqop. | тёплые перча'тки | issiq qo'lqop | варежки (qo'lqop) | —
+очки' | ko'zoynak | 👓 | faqat мн.; Р: очко'в | OCHKI — OCHIQ KO'Z | Ochiq ko'z bo'lish uchun ko'zoynak! | Он но'сит очки'. | U ko'zoynak taqadi. | — | —
+часы' | soat (asbob) | ⌚ | faqat мн.; Р: часо'в | CHASY — CHOSHGOH | Choshgohni ko'rsatuvchi soat. | нару'чные часы' | qo'l soati | — | —
+кольцо' | uzuk; halqa | 💍 | ср.р.; мн: ко'льца; Р.мн: коле'ц | KOLTSO — KO'L + SO' | Ko'l ichidan uzuk topildi. | золото'е кольцо' | tilla uzuk | перстень (uzuk) | —
+зо'нт | soyabon | ☂️ | м.р.; Р: зо'нта; зо'нтик (kichik) | ZONT — ZONA | Yomg'ir zonasida soyabon kerak. | Возьми' зонт! | Soyabon ol! | зонтик (soyabon) | —
+живо'тное | hayvon | 🐾 | ср.р. (sifatdan ot); мн: живо'тные | JIVOTNOE — JIVOT (qorin) | Hayvonning qorni katta. | дома'шние живо'тные | uy hayvonlari | зверь (yovvoyi hayvon) | растение (o'simlik)
+овца' | qo'y | 🐑 | ж.р.; мн: о'вцы; Р.мн: ове'ц | OVTSA — OVSAR | Ovsar qo'y yo'ldan adashdi. | ста'до ове'ц | qo'y suruvi | баран (qo'chqor) | —
+коза' | echki | 🐐 | ж.р.; мн: ко'зы | KOZA — KO'ZA | Echki ko'zadan suv ichyapti. | бе'лая коза' | oq echki | козёл (taka) | —
+пету'х | xo'roz | 🐓 | м.р.; Р: петуха' | PETUX — PATAX | Xo'roz ertalab "patax!" deb uyg'otadi. | Пету'х поёт у'тром. | Xo'roz ertalab qichqiradi. | — | курица (tovuq)
+у'тка | o'rdak | 🦆 | ж.р.; Р: у'тки | UTKA — UTMOQ | O'rdak suvni yutib yuboradi. | у'тка на о'зере | ko'ldagi o'rdak | — | —
+мы'шь | sichqon | 🐭 | ж.р. (-ь); Р: мы'ши; мн: мы'ши | MISH — MISH-MISH | Sichqon "mish-mish" tarqatadi. | ма'ленькая мышь | kichkina sichqon | — | кошка (mushuk)
+во'лк | bo'ri | 🐺 | м.р.; Р: во'лка; мн: во'лки | VOLK — VOLIDA | Bo'ri voliyda (onada) qo'rqadi. | се'рый волк | kulrang bo'ri | — | овца (qo'y)
+лиса' | tulki | 🦊 | ж.р.; мн: ли'сы | LISA — LISTSEY | Tulki litseyda o'qiydi — ayyor! | хи'трая лиса' | ayyor tulki | — | —
+медве'дь | ayiq | 🐻 | м.р. (-ь); Р: медве'дя | MEDVED — MED (asal) + VED | Ayiq asal (myod)ni biladi! | бу'рый медве'дь | qo'ng'ir ayiq | — | —
+за'яц | quyon | 🐰 | м.р.; Р: за'йца | ZAYATS — ZAYTUN | Quyon zaytun yeyapti. | бе'лый за'яц | oq quyon | кролик (uy quyoni) | —
+ле'в | sher | 🦁 | м.р.; Р: льва (е tushadi) | LEV — LAV | Sher lav-lav yonadi. | Лев — царь звере'й. | Sher — hayvonlar shohi. | — | —
+ти'гр | yo'lbars | 🐯 | м.р.; Р: ти'гра | TIGR | Tigr — yo'lbars. | полоса'тый тигр | yo'l-yo'l yo'lbars | — | —
+сло'н | fil | 🐘 | м.р.; Р: слона' | SLON — SALOM | Fil xartumi bilan salom beradi. | большо'й слон | katta fil | — | мышь (sichqon)
+обезья'на | maymun | 🐒 | ж.р.; Р: обезья'ны | OBEZYANA — OBI-NON + YANA | Maymun obi-nonni yana o'g'irladi. | весёлая обезья'на | quvnoq maymun | мартышка (maymuncha) | —
+змея' | ilon | 🐍 | ж.р.; мн: зме'и | ZMEYA — ZAMIN | Zaminda ilon sudralyapti. | опа'сная змея' | xavfli ilon | — | —
+верблю'д | tuya | 🐫 | м.р.; Р: верблю'да | VERBLYUD — VERTOLYOT | Tuya vertolyot kabi cho'lda suzadi. | верблю'д в пусты'не | cho'ldagi tuya | — | —
+осёл | eshak | 🫏 | м.р.; Р: осла' (ё tushadi) | OSYOL — OSHXONA | Eshak oshxonaga kirib qoldi! | упря'мый осёл | o'jar eshak | — | —
+ба'бочка | kapalak | 🦋 | ж.р.; Р: ба'бочки | BABOCHKA — BOBO + CHO'QQI | Bobo cho'qqida kapalak quvyapti. | краси'вая ба'бочка | chiroyli kapalak | — | —
+пчела' | ari | 🐝 | ж.р.; мн: пчёлы | PCHELA — PECHAK | Ari pechak gulida. | Пчела' де'лает мёд. | Ari asal qiladi. | — | —
+му'ха | pashsha | 🪰 | ж.р.; Р: му'хи | MUXA — MUXR | Pashsha muhr kabi qog'ozga yopishdi. | Му'ха лета'ет. | Pashsha uchyapti. | — | —
+кома'р | chivin | 🦟 | м.р.; Р: комара' | KOMAR — KO'MIR | Chivin ko'mirdek qora. | Кома'р куса'ет. | Chivin chaqyapti. | — | —
+приро'да | tabiat | 🏞️ | ж.р.; на приро'де | PRIRODA — PIR + RODA | Pir tabiat qo'ynida. | краси'вая приро'да | go'zal tabiat | мир (olam) | цивилизация (tsivilizatsiya)
+ка'мень | tosh | 🪨 | м.р. (-ь); Р: ка'мня (е tushadi); мн: ка'мни | KAMEN — KAMON | Kamondan tosh otildi. | большо'й ка'мень | katta tosh | — | —
+песо'к | qum | 🏖️ | м.р.; Р: песка' (о tushadi) | PESOK — PASHSHA + OQ | Qumda oq pashsha. | жёлтый песо'к | sariq qum | — | —
+трава' | o't, maysa | 🌿 | ж.р.; мн: тра'вы | TRAVA — TARVUZ | Maysa ustida tarvuz yotibdi. | зелёная трава' | yashil o't | газон (maysazor) | —
+ли'ст | barg; varaq | 🍃 | м.р.; мн: ли'стья (barg), листы' (varaq) | LIST — LIST | Barg ham, varaq ham — list. | жёлтые ли'стья | sariq barglar | — | —
+ве'тка | shox | 🌿 | ж.р.; Р: ве'тки | VETKA — VETERINAR | Veterinar shoxda o'tiribdi. | ве'тка де'рева | daraxt shoxi | — | —
+о'блако | bulut | ☁️ | ср.р.; мн: облака' | OBLAKO — OBLA + KO'K | Ko'k osmonda bulut. | бе'лое о'блако | oq bulut | туча (qora bulut) | —
+тума'н | tuman | 🌫️ | м.р.; Р: тума'на | TUMAN — TUMAN | Tuman — o'zbekchada ham tuman! | густо'й тума'н | quyuq tuman | мгла (g'ubor) | —
+гроза' | momaqaldiroq | ⛈️ | ж.р.; мн: гро'зы | GROZA — G'ORAZA | G'orda gumburlagan momaqaldiroq. | Начала'сь гроза'. | Momaqaldiroq boshlandi. | буря (bo'ron) | —
+ра'дуга | kamalak | 🌈 | ж.р.; Р: ра'дуги | RADUGA — RADIO + DUG'A | Radio dug'asi kamalak shaklida. | я'ркая ра'дуга | yorqin kamalak | — | —
+жара' | jazirama | 🥵 | ж.р.; Р: жары' | JARA — JAR | Jarda jazirama. | Сего'дня жара'. | Bugun jazirama. | зной (issiq) | холод (sovuq), мороз (sovuq)
+моро'з | ayoz, sovuq | 🥶 | м.р.; Р: моро'за | MOROZ — MOROJENOE | Ayozda muzqaymoq erimaydi. | си'льный моро'з | qattiq ayoz | холод (sovuq) | жара (jazirama)
+кли'мат | iqlim | 🌍 | м.р.; Р: кли'мата | KLIMAT | Iqlim — klimat. | тёплый кли'мат | iliq iqlim | погода (ob-havo) | —
+янва'рь | yanvar | 1️⃣ | м.р. (-ь); в январе' | YANVAR | Oylar xalqaro: yanvar. | в январе' | yanvarda | — | —
+февра'ль | fevral | 2️⃣ | м.р.; в феврале' | FEVRAL | fevral | в феврале' | fevralda | — | —
+ма'рт | mart | 3️⃣ | м.р.; в ма'рте | MART | mart | восьмо'е ма'рта | 8-mart | — | —
+апре'ль | aprel | 4️⃣ | м.р.; в апре'ле | APREL | aprel | в апре'ле | aprelda | — | —
+ма'й | may | 5️⃣ | м.р.; в ма'е | MAY — MOY | May oyida hamma joy moy (yog')dek yashil. | в ма'е | mayda | — | —
+ию'нь | iyun | 6️⃣ | м.р.; в ию'не | IYUN | iyun | в ию'не | iyunda | — | —
+ию'ль | iyul | 7️⃣ | м.р.; в ию'ле | IYUL | iyul | в ию'ле | iyulda | — | —
+а'вгуст | avgust | 8️⃣ | м.р.; в а'вгусте | AVGUST | avgust | в а'вгусте | avgustda | — | —
+сентя'брь | sentabr | 9️⃣ | м.р.; в сентябре' | SENTYABR | sentabr | пе'рвое сентября' | 1-sentabr | — | —
+октя'брь | oktabr | 🔟 | м.р.; в октябре' | OKTYABR | oktabr | в октябре' | oktabrda | — | —
+ноя'брь | noyabr | 🍂 | м.р.; в ноябре' | NOYABR | noyabr | в ноябре' | noyabrda | — | —
+дека'брь | dekabr | ❄️ | м.р.; в декабре' | DEKABR | dekabr | в декабре' | dekabrda | — | —
