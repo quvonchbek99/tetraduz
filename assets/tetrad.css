@@ -346,3 +346,4 @@ table.use td:nth-child(2){color:var(--accent-strong); min-width:120px;}
   table.use td:nth-child(2){font-size:14.5px; margin-bottom:6px;}
   table.use tbody tr:nth-child(even) td{background:none;}
 }
+.nav-links a.ka-home{color:var(--accent);font-weight:700;}
