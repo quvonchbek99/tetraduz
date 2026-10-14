@@ -198,3 +198,142 @@
 махалля' | mahalla | 🏘️ | ж.р. · в махалле' | MAHALLA | Mahalla — ruschada ham. | на'ша махалля' | bizning mahalla | район (tuman) | —
 плане'та | sayyora | 🪐 | ж.р. | PLANETA | Planeta. | плане'та Земля' | Yer sayyorasi | — | —
 ко'смос | koinot | 🌌 | м.р. · в ко'смосе | KOSMOS | Kosmos. | полёт в ко'смос | koinotga parvoz | вселенная (olam) | —
+# 12
+Ме'ксика | Meksika | 🇲🇽 | ж.р. · в Ме'ксике | MEKSIKA — MEKS + IKKI | Ikki shlyapali meksikalik. | столи'ца Ме'ксики — Ме'хико | Meksika poytaxti — Mexiko | — | —
+Индоне'зия | Indoneziya | 🇮🇩 | ж.р. (-ия) · в Индоне'зии | INDONEZIYA — INDO + NEZ | Orollar mamlakati. | острова' Индоне'зии | Indoneziya orollari | — | —
+Мала'йзия | Malayziya | 🇲🇾 | ж.р. (-ия) · в Мала'йзии | MALAYZIYA — MALAY | Malay xalqi yurti. | учи'ться в Мала'йзии | Malayziyada o'qimoq | — | —
+Таила'нд | Tailand | 🇹🇭 | м.р. · в Таила'нде | TAILAND — TAY + LAND | Tay yurti. | о'тдых в Таила'нде | Tailandda dam olish | — | —
+Вьетна'м | Vyetnam | 🇻🇳 | м.р. · во Вьетна'ме | VYETNAM — VYET + NAM | Nam (ho'l) guruch dalalari. | рис из Вьетна'ма | Vyetnam guruchi | — | —
+Нидерла'нды | Niderlandiya | 🇳🇱 | мн. · в Нидерла'ндах | NIDERLANDY — NIDER (past) + LAND | Past yer — dengizdan past. | тюльпа'ны Нидерла'ндов | Niderlandiya lolalari | Голландия (Gollandiya) | —
+Швейца'рия | Shveytsariya | 🇨🇭 | ж.р. (-ия) · в Швейца'рии | SHVEYTSARIYA — SHVEY + SOAT | Soatlar mamlakati. | швейца'рские часы' из Швейца'рии | Shveytsariya soatlari | — | —
+А'встрия | Avstriya | 🇦🇹 | ж.р. (-ия) · в А'встрии | AVSTRIYA — AVS | Vena — poytaxti. | А'встрия и Герма'ния | Avstriya va Germaniya | — | —
+Шве'ция | Shvetsiya | 🇸🇪 | ж.р. (-ия) · в Шве'ции | SHVETSIYA — SHVEY | Shimoliy mamlakat. | столи'ца Шве'ции — Стокго'льм | Shvetsiya poytaxti — Stokgolm | — | —
+Норве'гия | Norvegiya | 🇳🇴 | ж.р. (-ия) · в Норве'гии | NORVEGIYA — NOR + VEG | Fyordlar yurti. | фьо'рды Норве'гии | Norvegiya fyordlari | — | —
+Финля'ндия | Finlandiya | 🇫🇮 | ж.р. (-ия) · в Финля'ндии | FINLYANDIYA — FIN + LAND | Ko'llar mamlakati. | ты'сячи озёр Финля'ндии | Finlandiyaning minglab ko'llari | — | —
+Гре'ция | Gretsiya | 🇬🇷 | ж.р. (-ия) · в Гре'ции | GRETSIYA — GREK | Yunoniston. | дре'вняя Гре'ция | qadimgi Yunoniston | Эллада (Ellada) | —
+Португа'лия | Portugaliya | 🇵🇹 | ж.р. (-ия) · в Португа'лии | PORTUGALIYA — PORTUGAL (apelsin) | Apelsin (portugal) yurti. | Лиссабо'н — столи'ца Португа'лии | Lissabon — Portugaliya poytaxti | — | —
+Че'хия | Chexiya | 🇨🇿 | ж.р. (-ия) · в Че'хии | CHEXIYA — CHEX (chex) | Chexlar yurti. | Пра'га — столи'ца Че'хии | Praga — Chexiya poytaxti | — | —
+Изра'иль | Isroil | 🇮🇱 | м.р. (-ь) · в Изра'иле | IZRAIL — ISROIL | Isroil. | го'род в Изра'иле | Isroildagi shahar | — | —
+Ира'к | Iroq | 🇮🇶 | м.р. · в Ира'ке | IRAK — IROQ | Iroq. | Багда'д — столи'ца Ира'ка | Bag'dod — Iroq poytaxti | — | —
+Си'рия | Suriya | 🇸🇾 | ж.р. (-ия) · в Си'рии | SIRIYA — SURIYA | Suriya. | Дама'ск — столи'ца Си'рии | Damashq — Suriya poytaxti | — | —
+Ката'р | Qatar | 🇶🇦 | м.р. · в Ката'ре | KATAR — QATOR | Qator-qator osmono'parlar. | Доха' — столи'ца Ката'ра | Doha — Qatar poytaxti | — | —
+Куве'йт | Quvayt | 🇰🇼 | м.р. · в Куве'йте | KUVEYT — QUVVAT | Neft quvvati. | нефть Куве'йта | Quvayt nefti | — | —
+Монго'лия | Mo'g'uliston | 🇲🇳 | ж.р. (-ия) · в Монго'лии | MONGOLIYA — MO'G'UL | Mo'g'ullar. | степи' Монго'лии | Mo'g'uliston dashtlari | — | —
+Бангладе'ш | Bangladesh | 🇧🇩 | м.р. · в Бангладе'ш | BANGLADESH — BANG + DESH | Bengallar yurti. | тка'ни из Бангладе'ш | Bangladesh matolari | — | —
+Сингапу'р | Singapur | 🇸🇬 | м.р. · в Сингапу'ре | SINGAPUR — SINGA (sher) + PUR (shahar) | Sher shahri. | го'род-госуда'рство Сингапу'р | Singapur shahar-davlati | — | —
+Ниге'рия | Nigeriya | 🇳🇬 | ж.р. (-ия) · в Ниге'рии | NIGERIYA — NIGER (daryo) | Niger daryosi. | Ниге'рия в А'фрике | Afrikadagi Nigeriya | — | —
+Маро'кко | Marokash | 🇲🇦 | ср.р. (o'zgarmaydi) · в Маро'кко | MAROKKO — MAROQ | Maroqli safar. | путеше'ствие в Маро'кко | Marokashga sayohat | — | —
+Ку'ба | Kuba | 🇨🇺 | ж.р. · на Ку'бе (orol!) | KUBA — KUB | Kubdek orol. | о'стров Ку'ба | Kuba oroli | — | —
+Аргенти'на | Argentina | 🇦🇷 | ж.р. · в Аргенти'не | ARGENTINA — ARGENT (kumush) | Kumush yurti. | футбо'л в Аргенти'не | Argentinadagi futbol | — | —
+Ла'твия | Latviya | 🇱🇻 | ж.р. (-ия) · в Ла'твии | LATVIYA — LAT | Riga — poytaxti. | Ри'га — столи'ца Ла'твии | Riga — Latviya poytaxti | — | —
+Литва' | Litva | 🇱🇹 | ж.р. · в Литве' | LITVA — LITR | Litr-litr suv. | Ви'льнюс — столи'ца Литвы' | Vilnyus — Litva poytaxti | — | —
+Эсто'ния | Estoniya | 🇪🇪 | ж.р. (-ия) · в Эсто'нии | ESTONIYA — ESTON | Tallin — poytaxti. | Та'ллин — столи'ца Эсто'нии | Tallin — Estoniya poytaxti | — | —
+Молдо'ва | Moldova | 🇲🇩 | ж.р. · в Молдо'ве | MOLDOVA — MOL + DOVA | Uzum yurti. | вино'град Молдо'вы | Moldova uzumi | — | —
+Нью-Де'ли | Nyu-Dehli | 🇮🇳 | м.р. (o'zgarmaydi) · в Нью-Де'ли | NYU-DELI — DELI | Hindiston poytaxti. | Нью-Де'ли — столи'ца И'ндии | Nyu-Dehli — Hindiston poytaxti | — | —
+Исламаба'д | Islomobod | 🇵🇰 | м.р. · в Исламаба'де | ISLAMABAD — ISLOM + OBOD | Islom obod shahri. | Исламаба'д — столи'ца Пакиста'на | Islomobod — Pokiston poytaxti | — | —
+Тегера'н | Tehron | 🇮🇷 | м.р. · в Тегера'не | TEGERAN — TEHRON | Eron poytaxti. | Тегера'н — столи'ца Ира'на | Tehron — Eron poytaxti | — | —
+Каи'р | Qohira | 🇪🇬 | м.р. · в Каи'ре | KAIR — QOHIRA | Piramidalar yonidagi shahar. | Каи'р — столи'ца Еги'пта | Qohira — Misr poytaxti | — | —
+Ме'кка | Makka | 🕋 | ж.р. · в Ме'кке | MEKKA — MAKKA | Muqaddas shahar. | пало'мничество в Ме'кку | Makkaga ziyorat | — | —
+Меди'на | Madina | 🕌 | ж.р. · в Меди'не | MEDINA — MADINA | Muqaddas shahar. | Меди'на в Саудо'вской Ара'вии | Saudiya Arabistonidagi Madina | — | —
+Вашингто'н | Vashington | 🇺🇸 | м.р. · в Вашингто'не | VASHINGTON — VASH + TON | AQSh poytaxti. | Вашингто'н — столи'ца США | Vashington — AQSh poytaxti | — | —
+Варша'ва | Varshava | 🇵🇱 | ж.р. · в Варша'ве | VARSHAVA — VARAQ + SHAVA | Polsha poytaxti. | Варша'ва — столи'ца По'льши | Varshava — Polsha poytaxti | — | —
+Пра'га | Praga | 🇨🇿 | ж.р. · в Пра'ге | PRAGA — PARAG' | Chexiya poytaxti. | ста'рый го'род Пра'ги | Praganing eski shahri | — | —
+Ве'на | Vena | 🇦🇹 | ж.р. · в Ве'не | VENA — VENA (tomir) | Musiqa tomiri — Vena. | Ве'на — столи'ца А'встрии | Vena — Avstriya poytaxti | — | —
+Афи'ны | Afina | 🇬🇷 | мн. · в Афи'нах | AFINY — AFINA (ma'buda) | Afina ma'budasi shahri. | Акро'поль в Афи'нах | Afinadagi Akropol | — | —
+Амстерда'м | Amsterdam | 🇳🇱 | м.р. · в Амстерда'ме | AMSTERDAM — DAMBA | To'g'onlar shahri. | кана'лы Амстерда'ма | Amsterdam kanallari | — | —
+Шанха'й | Shanxay | 🇨🇳 | м.р. · в Шанха'е | SHANXAY — SHAN + XAY | Xitoyning eng katta shahri. | небоскрёбы Шанха'я | Shanxay osmono'parlari | — | —
+Бангко'к | Bangkok | 🇹🇭 | м.р. · в Бангко'ке | BANGKOK — BANG + KO'K | Ko'k osmon ostida. | Бангко'к — столи'ца Таила'нда | Bangkok — Tailand poytaxti | — | —
+Си'дней | Sidney | 🇦🇺 | м.р. · в Си'днее | SIDNEY — SIDNEY | Opera teatri shahri. | о'перный теа'тр в Си'днее | Sidneydagi opera teatri | — | —
+Торо'нто | Toronto | 🇨🇦 | м.р. (o'zgarmaydi) · в Торо'нто | TORONTO — TO'RON | Kanadaning eng katta shahri. | жить в Торо'нто | Torontoda yashamoq | — | —
+Ош | O'sh | 🇰🇬 | м.р. · в О'ше | OSH — OSH | Osh shahri! | ры'нок в О'ше | O'shdagi bozor | — | —
+Худжа'нд | Xo'jand | 🇹🇯 | м.р. · в Худжа'нде | XUDJAND — XO'JAND | Xo'jand. | Худжа'нд на Сырдарье' | Sirdaryo bo'yidagi Xo'jand | — | —
+Шымке'нт | Chimkent | 🇰🇿 | м.р. · в Шымке'нте | SHIMKENT — CHIM + KENT | Chim yashil shahar. | Шымке'нт в Казахста'не | Qozog'istondagi Chimkent | — | —
+Туркеста'н | Turkiston | 🕌 | м.р. · в Туркеста'не | TURKESTAN — TURKISTON | Yassaviy maqbarasi shahri. | мавзоле'й в Туркеста'не | Turkistondagi maqbara | — | —
+Ни'жний Но'вгород | Nijniy Novgorod | 🇷🇺 | м.р. · в Ни'жнем Но'вгороде | NIJNIY NOVGOROD — NIJE + NOVIY GOROD | Pastdagi yangi shahar. | Ни'жний Но'вгород на Во'лге | Volga bo'yidagi Nijniy Novgorod | — | —
+Челя'бинск | Chelyabinsk | 🇷🇺 | м.р. · в Челя'бинске | CHELYABINSK — CHELAK | Chelakdagi metall shahri. | заво'ды Челя'бинска | Chelyabinsk zavodlari | — | —
+Красноя'рск | Krasnoyarsk | 🇷🇺 | м.р. · в Красноя'рске | KRASNOYARSK — KRASNIY YAR | Qizil jar. | Красноя'рск на Енисе'е | Yenisey bo'yidagi Krasnoyarsk | — | —
+Калинингра'д | Kaliningrad | 🇷🇺 | м.р. · в Калинингра'де | KALININGRAD — GRAD (shahar) | Boltiq bo'yidagi shahar. | Калинингра'д у Балти'йского мо'ря | Boltiq dengizi bo'yidagi Kaliningrad | — | —
+Хаба'ровск | Xabarovsk | 🇷🇺 | м.р. · в Хаба'ровске | XABAROVSK — XABAR | Uzoq Sharqdan xabar. | Хаба'ровск на Аму'ре | Amur bo'yidagi Xabarovsk | — | —
+Дена'у | Denov | 🇺🇿 | м.р. (o'zgarmaydi) · в Дена'у | DENAU — DENOV | Surxondaryo shahri. | Дена'у в Сурханда'рье | Surxondaryodagi Denov | — | —
+Ришта'н | Rishton | 🏺 | м.р. · в Ришта'не | RISHTAN — RISHTON | Kulolchilik shahri. | кера'мика из Ришта'на | Rishton kulolchiligi | — | —
+Кува' | Quva | 🍎 | ж.р. · в Куве' | KUVA — QUVA | Anor shahri. | грана'ты из Кувы' | Quva anorlari | — | —
+Аса'ка | Asaka | 🚗 | ж.р. · в Аса'ке | ASAKA — ASAKA | Avtomobil zavodi shahri. | автозаво'д в Аса'ке | Asakadagi avtozavod | — | —
+Беру'ни | Beruniy | 🇺🇿 | м.р. (o'zgarmaydi) · в Беру'ни | BERUNI — BERUNIY | Allomaning nomi bilan. | го'род Беру'ни | Beruniy shahri | — | —
+Газалке'нт | G'azalkent | 🏔️ | м.р. · в Газалке'нте | GAZALKENT — G'AZAL + KENT | G'azallar shahri. | доро'га че'рез Газалке'нт | G'azalkent orqali yo'l | — | —
+Чарва'к | Chorvoq | 💧 | м.р. · на Чарва'ке | CHARVAK — CHORVOQ | Tog' suv ombori. | отдыха'ть на Чарва'ке | Chorvoqda dam olmoq | — | —
+Чимга'н | Chimyon | ⛷️ | м.р. · в Чимга'не | CHIMGAN — CHIMYON | Chim yashil tog'lar. | ката'ться на лы'жах в Чимга'не | Chimyonda chang'i uchmoq | — | —
+Нура'та | Nurota | ⛰️ | ж.р. · в Нура'те | NURATA — NUR + OTA | Nur otasi. | го'ры Нура'ты | Nurota tog'lari | — | —
+Муйна'к | Mo'ynoq | 🚢 | м.р. · в Муйна'ке | MUYNAK — MO'YNOQ | Qumdagi kemalar. | кла'дбище корабле'й в Муйна'ке | Mo'ynoqdagi kemalar qabristoni | — | —
+Байсу'н | Boysun | 🎭 | м.р. · в Байсу'не | BAYSUN — BOY + SUN | Boy madaniyat. | фестива'ль в Байсу'не | Boysundagi festival | — | —
+тайга' | tayga | 🌲 | ж.р. · в тайге' | TAYGA — TOY + GA | Toyga o'xshash qalin o'rmon. | сиби'рская тайга' | Sibir taygasi | лес (o'rmon) | тундра (tundra)
+ту'ндра | tundra | 🦌 | ж.р. · в ту'ндре | TUNDRA — TUN | Tun uzun, sovuq yer. | оле'ни в ту'ндре | tundradagi bug'ular | — | тайга (tayga)
+луг | o'tloq | 🌾 | м.р. · на лугу' · мн: луга' | LUG — LUG'AT | Lug'at o'qib o'tloqda yotdingiz. | пасти' коро'в на лугу' | sigirlarni o'tloqda boqmoq | поле (dala) | —
+холм | tepalik | ⛰️ | м.р. · на холме' | XOLM — XOLM | Kichik tepa. | дом на холме' | tepalikdagi uy | горка (tepalik) | низина (pastlik)
+уще'лье | dara | 🏞️ | ср.р. · в уще'лье | USHELYE — USH + SHELL | Tor dara. | го'рное уще'лье | tog' darasi | — | —
+ледни'к | muzlik | 🧊 | м.р. · Р: ледника' | LEDNIK — LED (muz) | Muz (led). | та'ющий ледни'к | erib borayotgan muzlik | — | —
+пеще'ра | g'or | 🕳️ | ж.р. · в пеще'ре | PESHERA — PESH + ERA | Peshonani g'orga urdingiz. | тёмная пеще'ра | qorong'i g'or | грот (grot) | —
+боло'то | botqoq | 🐸 | ср.р. · в боло'те | BOLOTO — BALO + TO | Balo-qazo botqoq. | лягу'шки в боло'те | botqoqdagi qurbaqalar | топь (botqoqlik) | —
+оа'зис | voha | 🌴 | м.р. · в оа'зисе | OAZIS — OAZIS | Cho'ldagi yashil joy. | оа'зис в пусты'не | cho'ldagi voha | — | пустыня (cho'l)
+родни'к | buloq | 💧 | м.р. · Р: родника' | RODNIK — ROD (urug') | Urug' kabi suv tug'iladi. | чи'стый родни'к | toza buloq | источник (manba) | —
+руче'й | soy, jilg'a | 🏞️ | м.р. · Р: ручья' | RUCHEY — RUCHKA | Ruchkadek ingichka suv. | го'рный руче'й | tog' soyi | речка (daryocha) | —
+у'стье | quyilish joyi | 🌊 | ср.р. · в у'стье | USTYE — UST (og'iz) | Daryo og'zi. | у'стье реки' | daryo quyilish joyi | — | исток (boshlanish joyi)
+побере'жье | sohil | 🏖️ | ср.р. · на побере'жье | POBEREJYE — BEREG | Qirg'oq (bereg). | Черномо'рское побере'жье | Qora dengiz sohili | берег (qirg'oq) | —
+эква'тор | ekvator | 🌍 | м.р. · на эква'торе | EKVATOR | Yer belbog'i. | жа'рко на эква'торе | ekvatorda issiq | — | полюс (qutb)
+по'люс | qutb | 🧭 | м.р. · на по'люсе · мн: полюса' | POLYUS — PULYUS | Qutb. | Се'верный по'люс | Shimoliy qutb | — | экватор (ekvator)
+контине'нт | qit'a | 🗺️ | м.р. | KONTINENT | Qit'a. | са'мый большо'й контине'нт | eng katta qit'a | материк (materik) | остров (orol)
+Евра'зия | Yevrosiyo | 🌏 | ж.р. (-ия) · в Евра'зии | YEVRAZIYA — YEVROPA + AZIYA | Yevropa + Osiyo. | Евра'зия — са'мый большо'й матери'к | Yevrosiyo — eng katta materik | — | —
+Ти'хий океа'н | Tinch okeani | 🌊 | м.р. · в Ти'хом океа'не | TIXIY — TIXO (tinch) | Tinch okean. | Ти'хий океа'н — са'мый большо'й | Tinch okeani — eng kattasi | — | —
+Атланти'ческий океа'н | Atlantika okeani | 🌊 | м.р. | ATLANTICHESKIY — ATLANT | Atlant. | перелёт че'рез Атланти'ческий океа'н | Atlantika okeani orqali parvoz | — | —
+Инди'йский океа'н | Hind okeani | 🌊 | м.р. | INDIYSKIY — INDIYA | Hindiston yonida. | острова' в Инди'йском океа'не | Hind okeanidagi orollar | — | —
+Средизе'мное мо'ре | O'rta yer dengizi | 🌊 | ср.р. | SREDIZEMNOE — SREDA + ZEMLYA | Yerlar o'rtasida. | побере'жье Средизе'много мо'ря | O'rta yer dengizi sohili | — | —
+Чёрное мо'ре | Qora dengiz | 🌊 | ср.р. | CHYORNOE — CHYORNIY | Qora. | отдыха'ть на Чёрном мо'ре | Qora dengizda dam olmoq | — | —
+Во'лга | Volga | 🏞️ | ж.р. · на Во'лге | VOLGA — VOLGA (mashina) | Volga mashinasi daryo bo'yida. | Во'лга — са'мая дли'нная река' Евро'пы | Volga — Yevropaning eng uzun daryosi | — | —
+Нил | Nil | 🐊 | м.р. · на Ни'ле | NIL — NIL (ko'k) | Ko'k (nil) daryo. | Нил в Еги'пте | Misrdagi Nil | — | —
+Байка'л | Baykal | 💧 | м.р. · на Байка'ле | BAYKAL — BOY + KO'L | Boy ko'l — eng chuqur. | Байка'л — са'мое глубо'кое о'зеро | Baykal — eng chuqur ko'l | — | —
+Эвере'ст | Everest | 🏔️ | м.р. · на Эвере'сте | EVEREST | Eng baland cho'qqi. | подня'ться на Эвере'ст | Everestga chiqmoq | Джомолунгма (Jomolungma) | —
+Гимала'и | Himolay | 🏔️ | мн. · в Гимала'ях | GIMALAI — XIMOLAY | Qor maskani. | го'ры Гимала'и | Himolay tog'lari | — | —
+А'льпы | Alp tog'lari | 🏔️ | мн. · в А'льпах | ALPY — ALP (qahramon) | Alpomish tog'lari! | ката'ться на лы'жах в А'льпах | Alpda chang'i uchmoq | — | —
+Ура'л | Ural | ⛰️ | м.р. · на Ура'ле | URAL — URAL | Yevropa va Osiyo chegarasi. | Ура'льские го'ры | Ural tog'lari | — | —
+Кавка'з | Kavkaz | 🏔️ | м.р. · на Кавка'зе | KAVKAZ — KAVKAZ | Tog'li o'lka. | го'ры Кавка'за | Kavkaz tog'lari | — | —
+Сиби'рь | Sibir | ❄️ | ж.р. (-ь) · в Сиби'ри | SIBIR — SOVUQ + BIR | Sovuq va bepoyon. | моро'зы в Сиби'ри | Sibir ayozlari | — | —
+Саха'ра | Sahroi Kabir | 🏜️ | ж.р. · в Саха'ре | SAXARA — SAHRO | Sahro. | пусты'ня Саха'ра | Sahroi Kabir cho'li | — | —
+Ферга'нская доли'на | Farg'ona vodiysi | 🏞️ | ж.р. · в Ферга'нской доли'не | FERGANSKAYA — FARG'ONA | Farg'ona vodiysi. | города' Ферга'нской доли'ны | Farg'ona vodiysi shaharlari | — | —
+водохрани'лище | suv ombori | 💧 | ср.р. | VODOXRANILISHE — VODA + XRANIT | Suvni saqlaydi. | Чарва'кское водохрани'лище | Chorvoq suv ombori | — | —
+собо'р | ibodatxona (sobor) | ⛪ | м.р. | SOBOR — SOBRAT (yig'moq) | Odamlar yig'iladi. | Исаа'киевский собо'р | Isaakiy sobori | храм (ibodatxona) | —
+це'рковь | cherkov | ⛪ | ж.р. (-ь) · Р: це'ркви | TSERKOV — CHERKOV | Cherkov. | ста'рая це'рковь | eski cherkov | храм (ibodatxona) | —
+медресе' | madrasa | 🕌 | ср.р. (o'zgarmaydi) | MEDRESE — MADRASA | Madrasa. | медресе' Улугбе'ка | Ulug'bek madrasasi | — | —
+мавзоле'й | maqbara | 🕌 | м.р. | MAVZOLEY — MAVZOLEY | Maqbara. | мавзоле'й Гур-Эми'р | Go'ri Amir maqbarasi | гробница (maqbara) | —
+минаре'т | minora | 🕌 | м.р. | MINARET — MINORA | Minora. | минаре'т Кали'н | Minorai Kalon | башня (minora) | —
+дворе'ц | saroy | 🏰 | м.р. · Р: дворца' | DVORETS — DVOR | Katta hovli (dvor). | дворе'ц эми'ра | amir saroyi | — | хижина (kulba)
+кре'пость | qal'a | 🏯 | ж.р. (-ь) | KREPOST — KREPKIY | Mustahkam (krepkiy). | дре'вняя кре'пость | qadimiy qal'a | замок (qasr) | —
+ба'шня | minora | 🗼 | ж.р. · Р.мн: ба'шен | BASHNYA — BOSH | Bosh tepada. | Эйфе'лева ба'шня | Eyfel minorasi | — | —
+кла'дбище | qabriston | 🪦 | ср.р. | KLADBISHE — KLAD | Xazina (klad) yotgan joy. | ста'рое кла'дбище | eski qabriston | — | —
+запра'вка | yoqilg'i quyish shoxobchasi | ⛽ | ж.р. · на запра'вке | ZAPRAVKA — ZAPRAVIT | Benzin quyiladi. | зае'хать на запра'вку | benzin shoxobchasiga kirib o'tmoq | АЗС (AYoQSh) | —
+автомо'йка | avtoyuvish | 🚿 | ж.р. · на автомо'йке | AVTOMOYKA — AVTO + MOYKA | Mashina yuviladi. | помы'ть маши'ну на автомо'йке | mashinani avtoyuvishda yuvmoq | — | —
+автосе'рвис | avtoservis | 🔧 | м.р. · в автосе'рвисе | AVTOSERVIS | Avtoservis. | отремонти'ровать маши'ну в автосе'рвисе | mashinani avtoservisda tuzatmoq | СТО (texnik xizmat) | —
+химчи'стка | kimyoviy tozalash | 👔 | ж.р. · в химчи'стке | XIMCHISTKA — XIMIYA + CHISTKA | Kimyo bilan tozalash. | отда'ть костю'м в химчи'стку | kostyumni kimyoviy tozalashga bermoq | — | —
+ателье' | atelye (tikuvchilik) | 🧵 | ср.р. (o'zgarmaydi) | ATELYE | Atelye. | заказа'ть пла'тье в ателье' | atelyega ko'ylak buyurtma qilmoq | — | —
+типогра'фия | bosmaxona | 🖨️ | ж.р. (-ия) | TIPOGRAFIYA — TIP + GRAF | Harf bosadi. | напеча'тать в типогра'фии | bosmaxonada chop etmoq | — | —
+фе'рма | ferma | 🐄 | ж.р. · на фе'рме | FERMA | Ferma. | рабо'тать на фе'рме | fermada ishlamoq | — | —
+тепли'ца | issiqxona | 🌱 | ж.р. · в тепли'це | TEPLITSA — TEPLO | Iliq (teplo). | помидо'ры из тепли'цы | issiqxona pomidori | оранжерея (oranjereya) | —
+пека'рня | novvoyxona | 🥖 | ж.р. · Р.мн: пека'рен | PEKARNYA — PECH (yopmoq) | Non yopiladi. | све'жий хлеб из пека'рни | novvoyxonadan yangi non | — | —
+конди'терская | qandolatxona | 🧁 | ж.р. (sifatdan ot) | KONDITERSKAYA — KONDITER | Qandolatchi. | торт из конди'терской | qandolatxonadan tort | — | —
+кофе'йня | qahvaxona | ☕ | ж.р. · Р.мн: кофе'ен | KOFEYNYA — KOFE | Qahva (kofe). | встре'титься в кофе'йне | qahvaxonada uchrashmoq | кафе (kafe) | —
+пиццери'я | pitsseriya | 🍕 | ж.р. (-ия) | PITSTSERIYA — PITSSA | Pitsa. | заказа'ть пи'ццу в пиццери'и | pitsseriyadan pitsa buyurtma qilmoq | — | —
+хо'стел | xostel | 🛏️ | м.р. | XOSTEL — XOSTEL | Arzon yotoqxona. | останови'ться в хо'стеле | xostelda to'xtamoq | — | —
+санато'рий | sanatoriy | 🏥 | м.р. · в санато'рии | SANATORIY — SANATORIY | Davolanish joyi. | отдыха'ть в санато'рии | sanatoriyda dam olmoq | — | —
+куро'рт | kurort | 🏝️ | м.р. · на куро'рте | KURORT — KURORT | Dam olish maskani. | морско'й куро'рт | dengiz kurorti | — | —
+ла'герь | lager | ⛺ | м.р. (-ь) · в ла'гере · мн: лагеря' | LAGER — LAGER | Bolalar oromgohi. | ле'тний ла'герь | yozgi oromgoh | — | —
+поликли'ника | poliklinika | 🏥 | ж.р. · в поликли'нике | POLIKLINIKA | Poliklinika. | записа'ться в поликли'нику | poliklinikaga yozilmoq | — | —
+стоматоло'гия | stomatologiya | 🦷 | ж.р. (-ия) | STOMATOLOGIYA | Tish davolash. | пойти' в стоматоло'гию | stomatologiyaga bormoq | — | —
+ЗАГС | FHDYo | 💍 | м.р. · в ЗА'ГСе | ZAGS — ZAG' | Nikoh qayd etiladi. | расписа'ться в ЗА'ГСе | FHDYoda nikohdan o'tmoq | — | —
+нота'риус | notarius | 📜 | м.р. · у нота'риуса | NOTARIUS — NOTA | Hujjatni tasdiqlaydi. | заве'рить у нота'риуса | notariusda tasdiqlatmoq | — | —
+подзе'мный перехо'д | yer osti o'tish joyi | 🚇 | м.р. | PODZEMNIY — POD + ZEMLYA | Yer (zemlya) ostida. | перейти' че'рез подзе'мный перехо'д | yer osti o'tish joyidan o'tmoq | — | —
+бульва'р | xiyobon | 🌳 | м.р. · на бульва'ре | BULVAR — BULVAR | Bulvar. | гуля'ть по бульва'ру | xiyobonda sayr qilmoq | аллея (xiyobon) | —
+алле'я | xiyobon | 🌳 | ж.р. · на алле'е | ALLEYA — ALLA | Alla aytib sayr. | алле'я в па'рке | bog'dagi xiyobon | бульвар (bulvar) | —
+сквер | kichik bog' (skver) | 🌳 | м.р. · в скве'ре | SKVER — SKVER | Kichik bog'. | Сквер Ами'ра Тиму'ра | Amir Temur xiyoboni | парк (bog') | —
+тупи'к | boshi berk ko'cha | 🚧 | м.р. · Р: тупика' | TUPIK — TUP | Tup-tup — devorga urildi. | Мы зашли' в тупи'к. | Boshi berk ko'chaga kirib qoldik. | — | —
+окра'ина | chekka (shahar) | 🏚️ | ж.р. · на окра'ине | OKRAINA — KRAY (chekka) | Chekka. | жить на окра'ине го'рода | shahar chekkasida yashamoq | пригород (shahar atrofi) | центр (markaz)
+при'город | shahar atrofi | 🏡 | м.р. · в при'городе | PRIGOROD — PRI + GOROD | Shahar yonida. | при'город Ташке'нта | Toshkent atrofi | окраина (chekka) | центр (markaz)
+центр го'рода | shahar markazi | 🏙️ | м.р. · в це'нтре го'рода | TSENTR GORODA — TSENTR | Markaz. | жить в це'нтре го'рода | shahar markazida yashamoq | — | окраина (chekka)
+зда'ние | bino | 🏢 | ср.р. | ZDANIYE — ZDAT | Qurilgan. | высо'кое зда'ние | baland bino | строение (imorat) | —

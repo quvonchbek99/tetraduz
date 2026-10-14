@@ -105,3 +105,16 @@
 со'тни | yuzlab | 🔢 | ko'plik (со'тня dan) · со'тни люде'й | SOTNI — SOT | Yuzlab. | со'тни птиц | yuzlab qush | — | —
 пол- | yarim- (old qo'shimcha) | ◐ | пол + Р: полчаса', полкило', пол-яблока | POL — POL (yarim) | Yarim (pol). | полчаса' | yarim soat | половина (yarmi) | целый (butun)
 полови'нка | yarmi (bo'lagi) | 🌗 | ж.р. | POLOVINKA — POLOVINA | Kichik yarim. | полови'нка я'блока | olmaning yarmi | половина (yarim) | —
+# 12
+четы'режды | to'rt marta | 4️⃣✖️ | ravish-son · четы'режды пять — два'дцать | CHETYREJDY — CHETYRE + JDAT | To'rt marta kutdingiz. | Четы'режды три — двена'дцать. | To'rt karra uch — o'n ikki. | четыре раза (to'rt marta) | —
+триллио'н | trillion | 💰 | м.р. · Р: триллио'на · + Р.мн | TRILLION — TRI + MILLION | Uch qavat million. | триллио'н рубле'й | trillion rubl | — | —
+трёхсо'тый | uch yuzinchi | 3️⃣0️⃣0️⃣ | tartib son · -ый | TRYOXSOTIY — TRI + SOTNYA | Uch yuz. | трёхсо'тый киломе'тр | uch yuzinchi kilometr | — | —
+пятисо'тый | besh yuzinchi | 5️⃣0️⃣0️⃣ | tartib son · -ый | PYATISOTIY — PYAT + SOTNYA | Besh yuz. | пятисо'тый зри'тель | besh yuzinchi tomoshabin | — | —
+два'дцать пе'рвый | yigirma birinchi | 2️⃣1️⃣ | tartib son · faqat oxirgisi o'zgaradi: в два'дцать пе'рвом ве'ке | DVADTSAT PERVIY — PERVIY | Yigirma va birinchi. | два'дцать пе'рвый век | yigirma birinchi asr | — | —
+дю'жина | o'n ikki dona (dyujina) | 🥚 | ж.р. · + Р: дю'жина яи'ц | DYUJINA — DO'JINA | O'n ikkita tuxum. | дю'жина яи'ц | o'n ikkita tuxum | — | —
+одна' втора'я | ikkidan bir (½) | ½ | kasr · ж.р. (до'ля) | ODNA VTORAYA — VTOROY | Ikkinchi bo'lak. | одна' втора'я — э'то полови'на | ikkidan bir — bu yarim | половина (yarim) | —
+одна' тре'тья | uchdan bir (⅓) | ⅓ | kasr · ж.р. | ODNA TRETYA — TRETIY | Uchinchi bo'lak. | одна' тре'тья ча'сти | qismning uchdan biri | треть (uchdan bir) | —
+две тре'тьих | uchdan ikki (⅔) | ⅔ | kasr · 2,3,4 + Р.мн: две тре'тьих | DVE TRETYIX — DVA + TRETIY | Ikki uchdan. | две тре'тьих кла'сса | sinfning uchdan ikkisi | — | —
+три четвёртых | to'rtdan uch (¾) | ¾ | kasr · Р.мн: четвёртых | TRI CHETVYORTYX — CHETVERT | To'rtdan uch. | три четвёртых пути' | yo'lning to'rtdan uchi | три четверти (to'rtdan uch) | —
+ноль це'лых пять деся'тых | nol butun o'ndan besh (0,5) | 0,5 | o'nli kasr o'qilishi · ж.р. (це'лая, деся'тая) | NOL TSELYX — TSELIY + DESYAT | Nol butun, besh o'ndan. | 0,5 — ноль це'лых пять деся'тых | 0,5 — nol butun o'ndan besh | половина (yarim) | —
+нема'ло | ko'p, oz emas | 📦 | son-ravish · + Р | NEMALO — NE + MALO | Oz (malo) emas. | нема'ло люде'й | ancha odam | много (ko'p) | мало (oz)

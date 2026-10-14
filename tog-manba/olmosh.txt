@@ -79,3 +79,12 @@
 своё / свои' | o'ziniki / o'zlariniki | 🔁 | свой → ср.р. своё; мн. свои' | SVOYO | O'zining. | Ка'ждый де'лает своё. | Har kim o'z ishini qiladi. | собственный (o'z) | чужой (birovning)
 мо'й / моя' / моё / мои' | mening (barcha shakllar) | 🫴 | Р: моего', мое'й, мои'х · Д: моему', мое'й, мои'м | MOY | Mening. | на моём ме'сте | mening o'rnimda | — | твой (sening)
 како'в | qanday (kitobiy) | ❓ | како'в, какова', каково' (qisqa) · Каково'? | KAKOV — KAKAO | Qanday kakao? | Какова' цена'? | Narxi qanday? | какой (qanday) | —
+# 12
+тако'в | shunaqa (qisqa shakl) | 👉 | qisqa: тако'в, такова', таково', таковы' | TAKOV — TAQO | Taqo-taqo — hayot shunaqa. | Такова' жизнь. | Hayot shunaqa. | такой (shunday) | —
+ко'е-како'й | allaqanday, ba'zi bir | 🤏 | ко'е- + како'й (как како'й turlanadi) | KOE-KAKOY — KOY + KAKOY | Qo'y qanaqadir narsani topdi. | Есть ко'е-каки'е вопро'сы. | Ba'zi bir savollar bor. | некоторый (ba'zi) | никакой (hech qanday)
+не'кий | allaqanday bir | ❔ | kitobiy · не'кого, не'кому | NEKIY — NEKI | Kimdir bir. | не'кий господи'н | allaqanday bir janob | какой-то (qandaydir) | —
+сей | bu (kitobiy) | 📜 | eskirgan · сия', сие', сии' · до сих пор = hozirgacha | SEY — SAY | Say bo'yidagi bu joy. | до сих пор | hozirgacha | этот (bu) | тот (u)
+э'такий | shunaqangi | 😲 | so'zlashuv · -ий | ETAKIY — ETA + TAKOY | Shunaqangi! | Э'такая красота'! | Shunaqangi go'zallik! | такой (shunday) | —
+че'й-нибудь | birortasiniki | ❓ | чей + -нибудь (как чей) | CHEY-NIBUD — CHOY | Birortasining choyi. | Возьми' че'й-нибудь зонт. | Birortasining soyabonini ol. | чей-то (kimningdir) | ничей (hech kimniki)
+ско'лько-нибудь | qanchadir (ozgina) | 🔢 | + Р | SKOLKO-NIBUD — SKOLKO | Qanchadir. | Есть ско'лько-нибудь де'нег? | Ozgina pul bormi? | немного (ozgina) | нисколько (umuman)
+ниско'лько | sira ham, umuman | 🚫 | inkor · ниско'лько не | NISKOLKO — NI + SKOLKO | Hech qancha. | Я ниско'лько не уста'л. | Sira ham charchamadim. | совсем не (umuman) | очень (juda)
