@@ -1,0 +1,28 @@
+я | men | 🙋 | Р: меня' · Д: мне · В: меня' · Т: мной · П: (обо) мне | YA — YAXSHI | "Ya!" deb ko'kragingizga urasiz — men yaxshiman! | Я студе'нт. | Men talabaman.
+ты | sen | 👉 | Р: тебя' · Д: тебе' · В: тебя' · Т: тобо'й · П: (о) тебе' | TI — TIKON | Barmog'ingizni tikondek "Ti!" deb do'stingizga tirab qo'yasiz. | Ты где? | Sen qayerdasan?
+он | u (erkak) | 👨 | Р: его' ([ево']) · Д: ему' · В: его' · Т: им · П: (о) нём · predlogdan keyin н-: у него', к нему' | ON — ON (ona) | On (ota) bo'lsa ham "on" — u erkak. | Он мой брат. | U mening akam.
+она' | u (ayol) | 👩 | Р: её · Д: ей · В: её · Т: ей (е'ю) · П: (о) ней · у неё, к ней | ONA | Ona — o'zbekcha ona, ruscha "ona" = u (ayol)! | Она' врач. | U shifokor.
+оно' | u (o'rta jins) | 📦 | он bilan bir xil: его', ему', его', им, о нём | ONO — O'N O | Oyna (окно') — оно': o'rta jinsdagi narsalar uchun. | Где окно'? — Оно' там. | Deraza qayerda? — U yerda.
+мы | biz | 👪 | Р: нас · Д: нам · В: нас · Т: на'ми · П: (о) нас | MI — MIX | Hammamiz bitta mixga osilib turibmiz — biz birgamiz! | Мы друзья'. | Biz do'stlarmiz.
+вы | siz; sizlar | 🫵 | Р: вас · Д: вам · В: вас · Т: ва'ми · П: (о) вас · Вы — hurmat shakli | VI — VIZA | Sizga viza berildi — "Vy!" | Вы говори'те по-ру'сски? | Siz ruscha gapirasizmi?
+они' | ular | 👥 | Р: их · Д: им · В: их · Т: и'ми · П: (о) них · у них, к ним | ONI — ONIX | Ular hammasi oniks toshidan yasalgan haykallar. | Они' студе'нты. | Ular talabalar.
+мой | mening | 🫴 | мой (м), моя' (ж), моё (ср), мои' (мн) · Р: моего', мое'й, мои'х | MOY | Moy (yog') mening! — "Moy moy!" | Э'то мой дом. | Bu mening uyim.
+твой | sening | 🤲 | твой, твоя', твоё, твои' · Р: твоего', твое'й | TVOY — TO'Y | "Bu sening to'ying!" — tvoy to'y. | Где твоя' кни'га? | Kitobing qayerda?
+его' | uning (erkak) | 👨 | o'zgarmaydi: его' дом, его' маши'на, его' ко'мнаты ([ево']) | YEGO — YEGAN | U yegan ovqat — uniki, "ego"! | Э'то его' сестра'. | Bu uning singlisi.
+её | uning (ayol) | 👩 | o'zgarmaydi: её брат, её кни'га, её де'ти | YO'YO — YOYO | Yoyo (o'yinchoq) — uniki, "yeyo"! | Э'то её сумка. | Bu uning sumkasi.
+наш | bizning | 🤝 | наш, на'ша, на'ше, на'ши · Р: на'шего, на'шей | NASHRIYOT | Bizning nashriyot kitoblarni "nash!" deb chop etadi. | наш го'род | bizning shahar
+ваш | sizning | 🫱 | ваш, ва'ша, ва'ше, ва'ши · Р: ва'шего, ва'шей | VASH — VAZA | Sizning vazangiz — vash vaza! | Как ва'ше и'мя? | Ismingiz nima?
+их | ularning | 👥 | o'zgarmaydi: их дом, их кни'ги | IX — IXCHAM | Ularning uyi juda ixcham. | Э'то их маши'на. | Bu ularning mashinasi.
+свой | o'zining | 🔁 | свой, своя', своё, свои' · ega bilan bir shaxsga tegishli: Я люблю' свою' ма'му. | SVOY — SO'Y | Har kim o'z qo'yini (svoy) o'zi so'yadi. | Он чита'ет свою' кни'гу. | U o'z kitobini o'qiyapti.
+э'тот | bu | 👇 | э'тот (м), э'та (ж), э'то (ср), э'ти (мн) · Р: э'того, э'той, э'тих | ETOT — ETIK | Bu etik — etot etik! | э'тот студе'нт | bu talaba
+то'т | u (narigi) | 👉 | тот, та, то, те · Р: того', той, тех | TOT — TO'TI | Narigi daraxtdagi to'ti — tot to'ti! | тот дом | anavi uy
+ве'сь | butun, hamma | 🌐 | весь, вся, всё, все · Р: всего', всей, всех | VES — VAZN | Butun dunyoning vazni (ves) bitta tarozida. | весь день | kun bo'yi
+кто | kim | ❓ | Р: кого' · Д: кому' · В: кого' · Т: кем · П: (о) ком | KTO — KITOB | "Kto?" — kitob ichidan kimdir qaraydi. | Кто э'то? | Bu kim?
+что | nima | ❔ | [што] · Р: чего' · Д: чему' · В: что · Т: чем · П: (о) чём | SHTO — SHO'TIK | "Shto?" deb so'raysiz — sho'tik nimaligini bilmaysiz. | Что э'то? | Bu nima?
+како'й | qanday, qaysi | 🤷 | како'й, кака'я, како'е, каки'е | KAKAO | Qanday ichimlik? — Kakao! | Како'й э'то цвет? | Bu qanday rang?
+кото'рый | qaysi; -gan (bog'lovchi) | 🔗 | кото'рый, кото'рая, кото'рое · Кото'рый час? | KOTOR — KATOR (qator) | Qatordagi qaysi biri? — Kotoryy? | Кото'рый час? | Soat necha?
+чей | kimning | 🏷️ | чей (м), чья (ж), чьё (ср), чьи (мн) | CHEY — CHOY | Bu choy kimniki? — "Chey choy?" | Чья э'то ру'чка? | Bu kimning ruchkasi?
+себя' | o'zini | 🪞 | Им yo'q! · Р: себя' · Д: себе' · В: себя' · Т: собо'й · П: (о) себе' | SEBAR — SEB | Oynada o'zingizni ko'rib "Seb-ya!" deysiz. | Он смо'трит на себя'. | U o'ziga qarayapti.
+сам | o'zi | 💪 | сам, сама', само', са'ми | SAM — SAMOVAR | Samovar o'zi qaynab, o'zi choy quyadi. | Я сам сде'лал. | O'zim qildim.
+никто' | hech kim | 🚫 | Р: никого' · Д: никому' · + не: Никто' не зна'ет. | NIKTO — NIQOB | Niqob ostida hech kim yo'q! | Никто' не пришёл. | Hech kim kelmadi.
+ничего' | hech narsa; hechqisi yo'q | 🤷‍♂️ | [ничево'] · ничто' (Им) · + не: Я ничего' не ви'жу. | NICHEVO — NIMA CHEVAR | Chevar hech narsa tikmadi: "Nichego!" | Ничего', всё хорошо'! | Hechqisi yo'q, hammasi yaxshi!

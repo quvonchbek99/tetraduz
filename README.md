@@ -7,6 +7,7 @@ Rus tili o'qituvchisining sayti va mustaqil mashq uchun bepul darsxona.
 | `index.html` | Bosh sahifa: ustoz, 3 oylik dastur, bog'lanish (UZ / RU) |
 | `darslar.html` | 6 daraja, 32 mavzu (A0 → C1): qoida, jadval, misollar, dialog, ovoz, 320 ta mashq |
 | `lugat.html` | Kunlik 50 so'z (hozir 500 so'z): ro'yxat, kartochkalar, test |
+| `tog.html` | TOG lug'ati (1-bosqich, 469 so'z): 8 turkum, grammatika, TOG kaliti, ovoz, kartochka, test, PDF |
 | `mashqlar.html` | Aralash test, olmoshlar bo'yicha 40 mashq, so'zlashuv iboralari |
 | `kitoblar.html` | 5 asosiy darslik, A0–C1 yo'l xaritasi, mavzular xaritasi, 12 haftalik reja |
 
@@ -27,3 +28,20 @@ assets/mashq-data.js     olmosh mashqlari va iboralar
 Yangi so'zlar qo'shish: `assets/lugat-data.js` faylida `TETRAD_DAYS` ro'yxatining boshiga yangi kun qo'shing, har qator `ruscha|transliteratsiya|o'zbekcha`.
 
 O'quvchi natijalari (o'tilgan darslar, o'rganilgan so'zlar) faqat uning brauzerida saqlanadi.
+
+## TOG lug'ati
+
+TOG = **T**arjima · **O**braz (rasm) · **G**armoniya (o'zbekcha ohangdosh so'z) + kulgili, absurd manzara.
+
+Manba fayllar `tog-manba/*.txt` da (har bir turkum alohida). Har qator 8 maydon, ` | ` bilan ajratilgan:
+
+```
+ruscha | o'zbekcha | emoji | grammatika | garmoniya | kulgili manzara | misol (ru) | misol (uz)
+```
+
+Urg'u: unli harfdan keyin `'` qo'ying (`вода'` → вода́). Yangi so'z qo'shgach:
+
+```
+python3 tog-manba/make_data.py assets/tog-data.js           # sayt ma'lumoti
+python3 tog-manba/build_pdf.py tog.html assets/tog-lugat.pdf  # PDF (Playwright + Chromium kerak)
+```

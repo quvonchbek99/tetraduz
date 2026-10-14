@@ -1,0 +1,66 @@
+матема'тика | matematika | 📐 | ж.р. · Р: матема'тики · по матема'тике (fan bo'yicha) | MATEMATIKA | Matematika — o'zbekchada ham matematika; formulalar osmonda yulduz bo'lib porlaydi. | уро'к матема'тики | matematika darsi
+число' | son | 🔢 | ср.р. · Р: числа' · мн: чи'сла · чётное / нечётное число' | CHIZG'ICH | Chizg'ichdagi sonlar navbat bilan sakraydi. | натура'льное число' | natural son
+ци'фра | raqam | 7️⃣ | ж.р. · Р: ци'фры · 10 та ци'фра: 0–9 | SIFR | Sifr (nol) — arabcha "sifr", ruscha "tsifra": raqamlarning bobosi. | Напиши' ци'фру 5. | 5 raqamini yoz.
+сло'жение | qo'shish | ➕ | ср.р. (-ние) · сложи'ть (св) / скла'дывать (нсв) — qo'shmoq | SLOJENIE — SOLISH | Hamma sonlarni bitta qopga solish — qo'shish. | сложе'ние и вычита'ние | qo'shish va ayirish
+вычита'ние | ayirish | ➖ | ср.р. · вы'честь (св) / вычита'ть (нсв) — ayirmoq: из пяти' вы'честь два | VICHITANIE — VICHIQ | Vichiq sondan bir bo'lagini uzib oladi. | вычита'ние чи'сел | sonlarni ayirish
+умноже'ние | ko'paytirish | ✖️ | ср.р. · умно'жить (св) / умножа'ть (нсв) на + В: умно'жить на два | UMNOJENIE — UMMON + NOJ | Ummonda baliqlar ko'payib ketdi — umnojenie! | табли'ца умноже'ния | ko'paytirish jadvali
+деле'ние | bo'lish | ➗ | ср.р. · раздели'ть (св) / дели'ть (нсв) на + В: раздели'ть на три | DELENIE — DILIM | Qovunni dilim-dilim qilib bo'lish. | деле'ние с оста'тком | qoldiqli bo'lish
+су'мма | yig'indi | Σ | ж.р. · су'мма чи'сел · сла'гаемое = qo'shiluvchi | SUMMA — SO'M | Hamma so'mlarni yig'sangiz — summa! | Найди' су'мму. | Yig'indini top.
+ра'зность | ayirma | ∆ | ж.р. (-ость) · уменьша'емое, вычита'емое | RAZNOST — RAZNA | Ikki sonning raznasi — farq. | ра'зность чи'сел | sonlar ayirmasi
+произведе'ние | ko'paytma; asar | ✳️ | ср.р. · множи'тель = ko'paytuvchi | PROIZVEDENIE — PARVOZ | Sonlar parvoz qilib ko'payadi — proizvedenie. | произведе'ние двух чи'сел | ikki son ko'paytmasi
+ча'стное | bo'linma | ➗ | ср.р. (sifatdan ot) · дели'мое, дели'тель | CHASTNOE — CHASHKA | Choyni chashkalarga bo'lib quyasiz — bo'linma. | ча'стное от деле'ния | bo'lish natijasi
+ра'вно | teng | 🟰 | ravish · два плюс два равно' четырём (Д!) | RAVNO — RAVON | Yo'l ravon — ikki tomoni teng. | Два плюс три равно' пяти'. | Ikki qo'shuv uch beshga teng.
+плюс / ми'нус | plyus / minus | ± | м.р. · пять плюс три; пять ми'нус три | PLYUS / MINUS | Xalqaro so'zlar — o'zbekcha bilan bir xil. | ми'нус пять гра'дусов | minus besh daraja
+уравне'ние | tenglama | 📝 | ср.р. · реши'ть уравне'ние · ко'рень уравне'ния | URAVNENIE — URA + RAVON | "Ura!" — tenglama ravon yechildi! | Реши'те уравне'ние. | Tenglamani yeching.
+нера'венство | tengsizlik | ≠ | ср.р. · бо'льше (>), ме'ньше (<) | NE + RAVNO | Ravon emas — notekis: tengsizlik. | реше'ние нера'венства | tengsizlik yechimi
+зада'ча | masala | 🧩 | ж.р. · реши'ть зада'чу · усло'вие зада'чи | ZADACHA — ZOD + DACHA | Zodagon dachada masala yechyapti. | Реши'те зада'чу. | Masalani yeching.
+приме'р | misol | 📋 | м.р. · реши'ть приме'р · наприме'р = masalan | PRIMER — PRIYOM | Priyom (usul)ni misol bilan ko'rsating. | Вот приме'р. | Mana misol.
+отве'т | javob | ✅ | м.р. · пра'вильный отве'т | OTVET — OT VET | Ot veterinar savoliga javob berdi. | Како'й отве'т? | Javob qanday?
+дробь | kasr | ½ | ж.р. (-ь) · Р: дро'би · числи'тель / знамена'тель | DROB — DO'RIQ | Kasr — butun sonning do'rig'i (bo'lagi). | обыкнове'нная дробь | oddiy kasr
+числи'тель | surat (kasrda) | ⬆️ | м.р. · Р: числи'теля | CHISLITEL — CHISLO + TEL | Kasrning tepasidagi son — surat. | числи'тель дро'би | kasrning surati
+знамена'тель | maxraj | ⬇️ | м.р. · о'бщий знамена'тель | ZNAMENATEL — ZNAMYA (bayroq) | Maxraj — kasrning bayrog'i ostida turgan son. | о'бщий знамена'тель | umumiy maxraj
+проце'нт | foiz | % | м.р. · 1 проце'нт, 2 проце'нта, 5 проце'нтов | PROTSENT | Foiz — xalqaro so'z, 100 dan bir. | де'сять проце'нтов | o'n foiz
+ко'рень | ildiz | √ | м.р. · Р: ко'рня (е tushadi) · квадра'тный ко'рень | KOREN — KO'R EN | Ildiz yer ostida — ko'rinmaydi. | ко'рень из девяти' | to'qqizdan ildiz
+сте'пень | daraja | xⁿ | ж.р. (-ь) · во второ'й сте'пени · возвести' в сте'пень | STEPEN — STEP (dasht) | Dashtda (step) sonlar daraja-daraja ko'tariladi. | два в тре'тьей сте'пени | ikkining kubi (2³)
+квадра'т | kvadrat | ⬛ | м.р. · в квадра'те (x²) | KVADRAT | Kvadrat — xalqaro so'z. | пло'щадь квадра'та | kvadrat yuzi
+куб | kub | 🧊 | м.р. · в ку'бе (x³) | KUB | Kub — xalqaro so'z. | объём ку'ба | kub hajmi
+треуго'льник | uchburchak | 🔺 | м.р. · три + у'гол · прямоуго'льный треуго'льник | TRI + UGOL | Uch burchak — "tri ugla". | пло'щадь треуго'льника | uchburchak yuzi
+прямоуго'льник | to'g'ri to'rtburchak | ▭ | м.р. · прямо'й + у'гол | PRYAMO + UGOL | To'g'ri burchakli shakl — burchaklari prayamo (to'g'ri). | периме'тр прямоуго'льника | to'g'ri to'rtburchak perimetri
+круг | doira | ⚪ | м.р. · в кругу' · окру'жность = aylana | KRUG — QURUQ | Quruq nonning shakli — doira. | пло'щадь кру'га | doira yuzi
+окру'жность | aylana | ⭕ | ж.р. (-ость) · длина' окру'жности | OKRUJNOST — O'KIR | O'kirgan sher aylana bo'ylab yuguryapti. | центр окру'жности | aylana markazi
+ра'диус | radius | ⊙ | м.р. · Р: ра'диуса | RADIUS | Radius — xalqaro so'z, markazdan aylanaga. | ра'диус кру'га | doira radiusi
+диа'метр | diametr | ⌀ | м.р. · диа'метр = 2 ра'диуса | DIAMETR | Diametr — xalqaro so'z. | диа'метр окру'жности | aylana diametri
+у'гол | burchak | ∠ | м.р. · Р: угла' (о tushadi) · прямо'й / о'стрый / тупо'й у'гол | UGOL — O'G'IL | O'g'il bola burchakda turibdi — jazo! | прямо'й у'гол | to'g'ri burchak
+пряма'я | to'g'ri chiziq | 📏 | ж.р. (sifatdan ot) · паралле'льные пря'мые | PRYAMAYA — PIRAMIDA | Piramidaning qirrasi to'g'ri chiziq. | Проведи' пряму'ю. | To'g'ri chiziq o'tkaz.
+отре'зок | kesma | ⎯ | м.р. · Р: отре'зка · длина' отре'зка | OTREZOK — OT REZINA | Otning rezina arqonidan bir kesma kesildi. | отре'зок AB | AB kesma
+луч | nur | ↗️ | м.р. · Р: луча' | LUCH — LO'CH | Lo'ch (qiyshiq) nur derazadan kiryapti. | луч све'та | yorug'lik nuri
+то'чка | nuqta | • | ж.р. · Р: то'чки · то'чка пересече'ния | TOCHKA — TO'CHKA | Nuqta — ruschada "tochka", o'zbekchada ham shunday ishlatiladi. | то'чка A | A nuqta
+пло'щадь | yuza | ▦ | ж.р. (-ь) · S · пло'щадь фигу'ры | PLOSHAD — PALOS | Polga to'shalgan palosning yuzasi. | Найди' пло'щадь. | Yuzani top.
+объём | hajm | 🧊 | м.р. · V · объём те'ла | OBYOM — OB + YOM | Ob (suv) hajmi idishga yomon sig'adi. | объём ку'ба | kub hajmi
+периме'тр | perimetr | 🔲 | м.р. · P | PERIMETR | Perimetr — xalqaro so'z. | периме'тр квадра'та | kvadrat perimetri
+длина' | uzunlik | ↔️ | ж.р. · Р: длины' | DLINA — DALA | Dala uzunligini o'lchang. | длина' отре'зка | kesma uzunligi
+ширина' | kenglik | ↕️ | ж.р. · Р: ширины' | SHIRINA — SHIRIN | Shirinlik qutisining kengligi. | ширина' ко'мнаты | xona kengligi
+высота' | balandlik | 📐 | ж.р. · Р: высоты' · высота' треуго'льника | VISOTA — VISOK | Visok (chakka)dan shiftgacha balandlik. | высота' треуго'льника | uchburchak balandligi
+фу'нкция | funksiya | 𝑓 | ж.р. (-ия) · Р: фу'нкции | FUNKSIYA | Funksiya — xalqaro so'z. | лине'йная фу'нкция | chiziqli funksiya
+гра'фик | grafik | 📈 | м.р. · гра'фик фу'нкции | GRAFIK | Grafik — o'zbekchada ham grafik. | Постро'й гра'фик. | Grafik chiz.
+ось | o'q (koordinata) | ➡️ | ж.р. (-ь) · Р: о'си · мн: о'си · ось X (абсци'сс), ось Y (орди'нат) | OS — O'Q | O'q o'zbekcha "o'q", ruscha "os" — ikkalasi ham o'q! | ось абсци'сс | absissa o'qi
+координа'та | koordinata | 📍 | ж.р. · Р: координа'ты | KOORDINATA | Xalqaro so'z. | координа'ты то'чки | nuqta koordinatalari
+фо'рмула | formula | 🧪 | ж.р. | FORMULA | Formula — xalqaro so'z. | фо'рмула пло'щади | yuza formulasi
+теоре'ма | teorema | 📜 | ж.р. · теоре'ма Пифаго'ра | TEOREMA | Teorema — xalqaro so'z. | доказа'ть теоре'му | teoremani isbotlash
+доказа'тельство | isbot | 🔍 | ср.р. · доказа'ть (св) — isbotlamoq | DOKAZATELSTVO — DOKA + ZAT | Dokada (doskada) zot isbotini yozdi. | доказа'тельство теоре'мы | teorema isboti
+мно'жество | to'plam | 🗂️ | ср.р. · пусто'е мно'жество | MNOJESTVO — MING OJIZ | Ming ojiz chumoli bitta to'plamda. | мно'жество чи'сел | sonlar to'plami
+переме'нная | o'zgaruvchi | 𝑥 | ж.р. (sifatdan ot) | PEREMENNAYA — PERO MENING | Mening perom (qalamim) har gal o'zgaradi — o'zgaruvchi. | переме'нная x | x o'zgaruvchi
+коэффицие'нт | koeffitsient | 𝑘 | м.р. | KOEFFITSIENT | Xalqaro so'z. | коэффицие'нт k | k koeffitsient
+систе'ма | sistema, tizim | {} | ж.р. · систе'ма уравне'ний | SISTEMA | Sistema — xalqaro so'z. | систе'ма уравне'ний | tenglamalar sistemasi
+произво'дная | hosila | 𝑓′ | ж.р. (sifatdan ot) | PROIZVODNAYA — PRO + ISHLAB CHIQARISH | Funksiyaning "ishlab chiqarilgan" farzandi — hosila. | произво'дная фу'нкции | funksiya hosilasi
+интегра'л | integral | ∫ | м.р. | INTEGRAL | Xalqaro so'z. | определённый интегра'л | aniq integral
+преде'л | limit | lim | м.р. · преде'л фу'нкции | PREDEL — PARDA | Parda — chegara: undan o'tib bo'lmaydi. | преде'л после'довательности | ketma-ketlik limiti
+логари'фм | logarifm | log | м.р. | LOGARIFM | Xalqaro so'z. | логари'фм числа' | son logarifmi
+си'нус / ко'синус | sinus / kosinus | sin | м.р. · си'нус угла' | SINUS / KOSINUS | Xalqaro so'zlar. | си'нус тридцати' гра'дусов | 30 gradus sinusi
+паралле'льный | parallel | ∥ | sifat: паралле'льный, -ая, -ое · паралле'льные пря'мые | PARALLEL | Xalqaro so'z. | паралле'льные пря'мые | parallel to'g'ri chiziqlar
+перпендикуля'рный | perpendikulyar | ⊥ | sifat · перпендикуля'рные пря'мые | PERPENDIKULYAR | Xalqaro so'z. | перпендикуля'рная пряма'я | perpendikulyar to'g'ri chiziq
+чётный | juft | 2️⃣ | sifat: чётный, -ая, -ое · чётное число' | CHYOTNIY — CHO'T | Cho'tda doim juft sonlar sanaladi. | чётное число' | juft son
+нечётный | toq | 1️⃣ | sifat · нечётное число' | NE + CHO'T | Cho'tga sig'magan son — toq. | нечётное число' | toq son
+бо'льше / ме'ньше | katta / kichik (>, <) | ⚖️ | + Р: пять бо'льше трёх · или Р o'rniga чем + Им: бо'льше, чем три | BOLSHE — BOLISH | Bolish ko'rpachadan katta. | Пять бо'льше трёх. | Besh uchdan katta.
+полови'на / треть / че'тверть | yarim / uchdan bir / chorak | ¼ | ж.р. · треть = 1/3; че'тверть = 1/4 | CHETVERT — CHETVERG | Payshanba (chetverg) — haftaning chorak qismi emas, lekin eslash oson! | че'тверть ча'са | chorak soat
+сре'днее арифмети'ческое | o'rta arifmetik | x̄ | ср.р. (sifatdan ot) | SREDNEE — SARDOR | Sardor hammaning o'rtacha bahosini hisobladi. | сре'днее арифмети'ческое чи'сел | sonlarning o'rta arifmetigi
