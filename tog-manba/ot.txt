@@ -900,3 +900,88 @@
 эмо'ция | emotsiya | 😃 | ж.р. (-ия) | EMOTSIYA | Emotsiya. | положи'тельные эмо'ции | ijobiy emotsiyalar | чувство (his) | —
 ю'мор | yumor, hazil | 😆 | м.р. | YUMOR | Yumor. | чу'вство ю'мора | hazil tuyg'usi | шутка (hazil) | —
 шу'тка | hazil | 🃏 | ж.р. | SHUTKA — SHUT | Masxaraboz (shut) hazili. | смешна'я шу'тка | kulgili hazil | юмор (yumor) | —
+# 10
+вхо'д | kirish (joyi) | 🚪 | м.р. · у вхо'да | VXOD — VOX! | "Vox!" deb kirasiz. | Вход свобо'дный. | Kirish bepul. | дверь (eshik) | выход (chiqish)
+вы'ход | chiqish (joyi); yechim | 🚪 | м.р. · найти' вы'ход = yechim topmoq | VYXOD — VYXODNOY | Dam olishga chiqish. | Где вы'ход? | Chiqish qayerda? | решение (yechim) | вход (kirish)
+подъе'зд | podyezd | 🏢 | м.р. · в подъе'зде | PODYEZD — POD + YEZD | Ostidan kiriladigan joy. | второ'й подъе'зд | ikkinchi podyezd | вход (kirish) | —
+гара'ж | garaj | 🚗 | м.р.; Р: гаража' | GARAJ | Garaj. | маши'на в гараже' | garajdagi mashina | — | —
+подва'л | yerto'la | 🕳️ | м.р. · в подва'ле | PODVAL — POD + VAL | Pastdagi xona. | тёмный подва'л | qorong'i yerto'la | погреб (yerto'la) | чердак (chordoq)
+черда'к | chordoq | 🏚️ | м.р.; Р: чердака' · на чердаке' | CHERDAK — CHORDOQ | Chordoq. | ста'рые ве'щи на чердаке' | chordoqdagi eski narsalar | — | подвал (yerto'la)
+сара'й | omborxona (hovlida) | 🛖 | м.р. · в сара'е | SARAY — SAROY | Saroy emas — omborxona! | дрова' в сара'е | omborxonadagi o'tin | — | —
+крыльцо' | ayvoncha (kirish) | 🏡 | ср.р. · на крыльце' | KRYLTSO — KRYLO (qanot) | Uyning qanoti. | сиде'ть на крыльце' | ayvonchada o'tirmoq | — | —
+поро'г | ostona | 🚪 | м.р. · на поро'ге | POROG — PO'RAK | Ostonada po'rak. | на поро'ге до'ма | uy ostonasida | — | —
+коридо'р | yo'lak | 🚶 | м.р. · в коридо'ре | KORIDOR | Koridor. | дли'нный коридо'р | uzun yo'lak | проход (o'tish joyi) | —
+прихо'жая | dahliz | 🧥 | ж.р. (sifatdan ot) · в прихо'жей | PRIXOJAYA — PRIXOD | Kirib keladigan joy. | ве'шалка в прихо'жей | dahlizdagi ilgich | — | —
+гости'ная | mehmonxona (xona) | 🛋️ | ж.р. (sifatdan ot) · в гости'ной | GOSTINAYA — GOST | Mehmon (gost) xonasi. | дива'н в гости'ной | mehmonxonadagi divan | зал (zal) | —
+спа'льня | yotoqxona (xona) | 🛏️ | ж.р.; Р.мн: спа'лен | SPALNYA — SPAT | Uxlash (spat) xonasi. | в спа'льне | yotoqxonada | — | —
+кабине'т | kabinet, xona | 🗂️ | м.р. · в кабине'те | KABINET | Kabinet. | кабине'т дире'ктора | direktor kabineti | офис (ofis) | —
+аудито'рия | auditoriya | 🎓 | ж.р. (-ия) | AUDITORIYA | Auditoriya. | аудито'рия но'мер пять | beshinchi auditoriya | класс (sinf) | —
+за'л | zal | 🏟️ | м.р. · в за'ле | ZAL | Zal. | актово'й зал | majlislar zali | — | —
+сце'на | sahna | 🎭 | ж.р. · на сце'не | STSENA — SAHNA | Sahna. | вы'йти на сце'ну | sahnaga chiqmoq | подмостки (sahna) | зал (tomoshabinlar zali)
+ме'л | bo'r | 🖍️ | м.р.; Р: ме'ла | MEL — MEL | Bo'r. | писа'ть ме'лом | bo'r bilan yozmoq | — | —
+па'рта | parta | 🪑 | ж.р. · за па'ртой | PARTA | Parta. | сиде'ть за па'ртой | partada o'tirmoq | стол (stol) | —
+ла'стик | o'chirg'ich | 🧽 | м.р. | LASTIK | Lastik — o'chirg'ich. | стере'ть ла'стиком | o'chirg'ich bilan o'chirmoq | резинка (rezinka) | —
+пена'л | penal | ✏️ | м.р. | PENAL | Penal. | ру'чки в пена'ле | penaldagi ruchkalar | — | —
+портфе'ль | portfel | 💼 | м.р. (-ь) | PORTFEL | Portfel. | шко'льный портфе'ль | maktab portfeli | сумка (sumka) | —
+запи'ска | xatcha | 📝 | ж.р. | ZAPISKA — ZA + PISAT | Yozilgan xatcha. | оста'вить запи'ску | xatcha qoldirmoq | — | —
+объявле'ние | e'lon | 📢 | ср.р. (-ние) | OBYAVLENIE — OBYAVIT | E'lon qilingan. | объявле'ние на доске' | doskadagi e'lon | сообщение (xabar) | —
+рекла'ма | reklama | 📺 | ж.р. | REKLAMA | Reklama. | рекла'ма по телеви'зору | televizordagi reklama | — | —
+вы'веска | peshtaxta yozuvi | 🪧 | ж.р. | VYVESKA — VY + VESIT | Osib qo'yilgan yozuv. | вы'веска магази'на | do'kon peshlavhasi | табличка (lavha) | —
+табли'чка | lavha | 🪧 | ж.р. | TABLICHKA — TABLITSA | Kichik jadval. | табли'чка на двери' | eshikdagi lavha | вывеска (yozuv) | —
+зна'к | belgi | ⚠️ | м.р. · доро'жный знак | ZNAK — ZNACHOK | Belgi. | знак «Стоп» | "Stop" belgisi | символ (ramz), сигнал (signal) | —
+сигна'л | signal | 📶 | м.р. | SIGNAL | Signal. | сигна'л телефо'на | telefon signali | знак (belgi) | —
+схе'ма | sxema | 🗺️ | ж.р. | SXEMA | Sxema. | схе'ма метро' | metro sxemasi | план (reja) | —
+спи'сок | ro'yxat | 📋 | м.р.; Р: спи'ска | SPISOK — SPISAT | Ko'chirilgan ro'yxat. | спи'сок поку'пок | xaridlar ro'yxati | перечень (ro'yxat) | —
+рабо'тник | xodim | 👷 | м.р. | RABOTNIK — ROBOT | Robotdek ishchan xodim. | рабо'тник заво'да | zavod xodimi | сотрудник (xodim) | начальник (boshliq)
+сотру'дник | xodim, hamkor | 🧑‍💼 | м.р.; ж: сотру'дница | SOTRUDNIK — SO + TRUD | Birga mehnat (trud) qiladi. | сотру'дник ба'нка | bank xodimi | работник (ishchi), коллега (hamkasb) | —
+специали'ст | mutaxassis | 🎓 | м.р. | SPETSIALIST — SPETS | Spets. | хоро'ший специали'ст | yaxshi mutaxassis | профессионал (professional) | любитель (havaskor)
+ма'стер | usta | 🛠️ | м.р.; мн: мастера' | MASTER — USTA | Usta — master. | ма'стер своего' де'ла | o'z ishining ustasi | специалист (mutaxassis) | ученик (shogird)
+экспе'рт | ekspert | 🧐 | м.р. | EKSPERT | Ekspert. | мне'ние экспе'рта | ekspert fikri | специалист (mutaxassis) | —
+помо'щник | yordamchi | 🤝 | м.р. | POMOSHNIK — POMOSH | Yordam (pomosh) beruvchi. | помо'щник дире'ктора | direktor yordamchisi | ассистент (assistent) | —
+клие'нт | mijoz | 🧑 | м.р. | KLIENT | Mijoz — klient. | постоя'нный клие'нт | doimiy mijoz | покупатель (xaridor) | продавец (sotuvchi)
+партнёр | sherik, hamkor | 🤝 | м.р. | PARTNYOR | Partner. | делово'й партнёр | biznes hamkor | компаньон (sherik) | конкурент (raqobatchi)
+конкуре'нт | raqobatchi | 🥊 | м.р. | KONKURENT | Raqobatchi. | си'льный конкуре'нт | kuchli raqobatchi | соперник (raqib) | партнёр (hamkor)
+фи'рма | firma | 🏢 | ж.р. | FIRMA | Firma. | рабо'тать в фи'рме | firmada ishlamoq | компания (kompaniya) | —
+предприя'тие | korxona | 🏭 | ср.р. (-ие) | PREDPRIYATIE — PRED + PRIYAT | Oldindan qabul qilingan ish joyi. | кру'пное предприя'тие | yirik korxona | завод (zavod), фирма (firma) | —
+учрежде'ние | muassasa | 🏛️ | ср.р. (-ние) | UCHREJDENIE — UCH + REJA | Uch rejali muassasa. | уче'бное учрежде'ние | o'quv muassasasi | организация (tashkilot) | —
+фа'брика | fabrika | 🏭 | ж.р. · на фа'брике | FABRIKA | Fabrika. | шве'йная фа'брика | tikuv fabrikasi | завод (zavod) | —
+це'х | sex | 🏭 | м.р. · в цеху' / в це'хе | TSEX — SEX | Sex. | рабо'чий це'ха | sex ishchisi | — | —
+скла'д | ombor | 📦 | м.р. · на скла'де | SKLAD | Ombor. | това'р на скла'де | ombordagi tovar | хранилище (saqlash joyi) | —
+приёмная | qabulxona | 🗂️ | ж.р. (sifatdan ot) · в приёмной | PRIYOMNAYA — PRIYOM | Qabul (priyom) xonasi. | приёмная дире'ктора | direktor qabulxonasi | — | —
+бухгалте'рия | buxgalteriya | 🧾 | ж.р. (-ия) | BUXGALTERIYA | Buxgalteriya. | в бухгалте'рии | buxgalteriyada | — | —
+переры'в | tanaffus | ☕ | м.р. | PERERYV — PERE + RYV | Ish orasidagi uzilish. | обе'денный переры'в | tushlik tanaffusi | перемена (tanaffus) | работа (ish)
+сме'на | smena | 🔄 | ж.р. · в пе'рвую сме'ну | SMENA | Smena. | ночна'я сме'на | tungi smena | — | —
+пре'мия | mukofot puli | 💰 | ж.р. (-ия) | PREMIYA | Premiya. | получи'ть пре'мию | mukofot olmoq | награда (mukofot) | штраф (jarima)
+дохо'д | daromad | 📈 | м.р. | DOXOD — DO + XOD | Kirib keladigan pul. | ме'сячный дохо'д | oylik daromad | заработок (ish haqi), прибыль (foyda) | расход (xarajat)
+расхо'д | xarajat | 📉 | м.р. | RASXOD — RAS + XOD | Chiqib ketadigan pul. | расхо'ды на еду' | ovqatga xarajat | трата (sarf) | доход (daromad)
+при'быль | foyda | 💹 | ж.р. (-ь) | PRIBYL — PIR + BIL | Pir biladi — foyda. | чи'стая при'быль | sof foyda | доход (daromad) | убыток (zarar)
+убы'ток | zarar | 📉 | м.р.; Р: убы'тка | UBYTOK — U + BITOK | U bitib ketdi — zarar! | понести' убы'ток | zarar ko'rmoq | потеря (yo'qotish) | прибыль (foyda)
+бюдже'т | byudjet | 💼 | м.р. ([бюджэ'т]) | BYUDJET | Byudjet. | семе'йный бюдже'т | oilaviy byudjet | — | —
+сто'имость | qiymat, narx | 💲 | ж.р. (-ость) | STOIMOST — STOIT | Narxi (stoit). | сто'имость биле'та | chipta narxi | цена (narx) | —
+а'кция | aksiya | 🏷️ | ж.р. (-ия) | AKTSIYA | Aksiya. | а'кция в магази'не | do'kondagi aksiya | скидка (chegirma) | —
+услу'га | xizmat | 🛎️ | ж.р. | USLUGA — U + SLUGA (xizmatkor) | Xizmatkor (sluga) ishi. | платны'е услу'ги | pullik xizmatlar | сервис (servis) | —
+зака'з | buyurtma | 🧾 | м.р. | ZAKAZ | Zakaz. | приня'ть зака'з | buyurtma qabul qilmoq | — | —
+доста'вка | yetkazib berish | 🛵 | ж.р. | DOSTAVKA | Dostavka. | беспла'тная доста'вка | bepul yetkazib berish | — | —
+опла'та | to'lov | 💳 | ж.р. | OPLATA — PLATA | To'lov (plata). | опла'та ка'ртой | karta bilan to'lov | платёж (to'lov) | —
+вкла'д | omonat; hissa | 🏦 | м.р. | VKLAD — SKLAD | Bankdagi omborcha. | вклад в ба'нке | bankdagi omonat | депозит (depozit) | кредит (kredit)
+сбереже'ния | jamg'arma | 🐷 | мн. | SBEREJENIYA — BEREG | Asrab qo'yilgan. | семе'йные сбереже'ния | oilaviy jamg'arma | накопления (to'plangan pul) | долги (qarzlar)
+штра'ф | jarima | 🧾 | м.р. | SHTRAF | Shtraf. | заплати'ть штраф | jarima to'lamoq | взыскание (undirish) | премия (mukofot)
+ми'тинг | miting | 📢 | м.р. | MITING | Miting. | ми'тинг на пло'щади | maydondagi miting | собрание (yig'ilish) | —
+собра'ние | majlis | 👥 | ср.р. (-ние) | SOBRANIE — SOBIRAT | Yig'ilish (sobirat). | роди'тельское собра'ние | ota-onalar majlisi | совещание (yig'ilish) | —
+конфере'нция | konferensiya | 🎤 | ж.р. (-ия) | KONFERENTSIYA | Konferensiya. | нау'чная конфере'нция | ilmiy konferensiya | съезд (qurultoy) | —
+семина'р | seminar | 📝 | м.р. | SEMINAR | Seminar. | семина'р для учителе'й | o'qituvchilar uchun seminar | занятие (mashg'ulot) | лекция (ma'ruza)
+ку'рс | kurs; yo'nalish | 📚 | м.р. · на пе'рвом ку'рсе | KURS | Kurs. | курс ру'сского языка' | rus tili kursi | — | —
+факульте'т | fakultet | 🎓 | м.р. | FAKULTET | Fakultet. | физико-математи'ческий факульте'т | fizika-matematika fakulteti | отделение (bo'lim) | —
+ка'федра | kafedra | 🏫 | ж.р. | KAFEDRA | Kafedra. | ка'федра матема'тики | matematika kafedrasi | — | —
+стипе'ндия | stipendiya | 💵 | ж.р. (-ия) | STIPENDIYA | Stipendiya. | получа'ть стипе'ндию | stipendiya olmoq | пособие (nafaqa) | —
+се'ссия | sessiya | 📝 | ж.р. (-ия) | SESSIYA | Sessiya — imtihonlar davri. | зи'мняя се'ссия | qishki sessiya | экзамены (imtihonlar) | каникулы (ta'til)
+зачёт | sinov (imtihon turi) | ✅ | м.р. · сдать зачёт | ZACHYOT — ZA + CHO'T | Cho'tda hisoblab qo'yilgan. | получи'ть зачёт | sinovdan o'tmoq | экзамен (imtihon) | —
+дипло'мная рабо'та | bitiruv ishi | 📘 | ж.р. | DIPLOMNAYA | Diplom ishi. | защи'та дипло'мной рабо'ты | bitiruv ishi himoyasi | — | —
+рефера'т | referat | 📄 | м.р. | REFERAT | Referat. | написа'ть рефера'т | referat yozmoq | доклад (ma'ruza) | —
+докла'д | ma'ruza | 🎤 | м.р. | DOKLAD — DOKA + LAD | Doskada ma'ruza. | сде'лать докла'д | ma'ruza qilmoq | выступление (chiqish) | —
+статья' | maqola | 📰 | ж.р.; Р.мн: стате'й | STATYA — STATUS | Statusli maqola. | нау'чная статья' | ilmiy maqola | публикация (nashr) | —
+журнали'стика | jurnalistika | 🎙️ | ж.р. | JURNALISTIKA | Jurnalistika. | факульте'т журнали'стики | jurnalistika fakulteti | — | —
+интервью' | intervyu | 🎤 | ср.р., o'zgarmaydi | INTERVYU | Intervyu. | дать интервью' | intervyu bermoq | беседа (suhbat) | —
+переда'ча | ko'rsatuv; uzatish | 📺 | ж.р. | PEREDACHA — PERE + DACHA | Dachadan ko'rsatuv. | телевизио'нная переда'ча | teleko'rsatuv | программа (dastur) | —
+се'риал | serial | 🎬 | м.р. | SERIAL | Serial. | смотре'ть се'риал | serial ko'rmoq | — | —
+ра'дио | radio | 📻 | ср.р., o'zgarmaydi | RADIO | Radio. | слу'шать ра'дио | radio tinglamoq | — | —

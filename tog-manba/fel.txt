@@ -716,3 +716,63 @@
 избега'ть | qochmoq (biror narsadan) | 🙅 | нсв (св: избежа'ть) · я избега'ю · чего'? (Р) | IZBEGAT — IZ + BEGAT | Undan qochasiz. | избега'ть оши'бок | xatolardan qochmoq | уклоняться (o'zini olib qochmoq) | —
 отлича'ть | ajratmoq | 🔍 | нсв (св: отличи'ть) · я отлича'ю | OTLICHAT — OTLICHNIK | A'lochini boshqalardan ajratasiz. | отлича'ть пра'вду от лжи | haqiqatni yolg'ondan ajratmoq | различать (farqlamoq) | путать (chalkashtirmoq)
 объединя'ть | birlashtirmoq | 🤝 | нсв (св: объедини'ть) · я объединя'ю | OBYEDINYAT — YEDINIY | Yagona (yediniy) qilasiz. | объедини'ть уси'лия | kuchlarni birlashtirmoq | соединять (birlashtirmoq) | разделять (ajratmoq)
+# 10
+посеща'ть | tashrif buyurmoq; qatnamoq | 🏛️ | нсв (св: посети'ть) · я посеща'ю · посещу' | POSESHAT — POS + SHAHAR | Shaharga tashrif buyurasiz. | посеща'ть музе'и | muzeylarga bormoq | навещать (yo'qlamoq) | пропускать (qoldirmoq)
+навеща'ть | yo'qlab bormoq | 🏠 | нсв (св: навести'ть) · я навеща'ю · навещу' | NAVESHAT — NAV + VESHI | Yangi narsalar bilan yo'qlaysiz. | навеща'ть ба'бушку | buvini yo'qlamoq | посещать (tashrif buyurmoq) | —
+гости'ть | mehmon bo'lmoq | 🍵 | нсв · я гощу' (ст→щ), ты гости'шь · у + Р | GOSTIT — GOST | Mehmon (gost) bo'lasiz. | гости'ть у дру'га | do'stnikida mehmon bo'lmoq | — | принимать гостей (mehmon kutmoq)
+ночева'ть | tunamoq | 🌙 | нсв (св: переночева'ть) · я ночу'ю | NOCHEVAT — NOCH | Tun (noch)ni o'tkazasiz. | ночева'ть в гости'нице | mehmonxonada tunamoq | — | —
+посели'ться | joylashmoq (yashashga) | 🏡 | св (нсв: селиться) · я поселю'сь | POSELITSA — SELO | Qishloq (selo)ga joylashdingiz. | посели'ться в общежи'тии | yotoqxonaga joylashmoq | обосноваться (o'rnashmoq) | выселиться (ko'chib ketmoq)
+прожива'ть | istiqomat qilmoq | 🏘️ | нсв · я прожива'ю | PROJIVAT — PRO + JIT | Yashab (jit) turasiz. | прожива'ть по а'дресу… | … manzilda istiqomat qilmoq | жить (yashamoq) | —
+прибыва'ть | yetib kelmoq (rasmiy) | 🛬 | нсв (св: прибы'ть) · прибыва'ет · прибу'дет | PRIBYVAT — PRI + BYT | Yetib keladi. | По'езд прибыва'ет в 9. | Poyezd 9 da yetib keladi. | приезжать (kelmoq) | отправляться (jo'namoq)
+отправля'ться | jo'namoq | 🚂 | нсв (св: отпра'виться) · я отправля'юсь | OTPRAVLYATSA — OT + PRAVA | Ot pravasi bilan jo'nadi. | отпра'виться в путь | yo'lga chiqmoq | уезжать (jo'nab ketmoq) | прибывать (yetib kelmoq)
+переса'живаться | o'tib olmoq (transportga) | 🔄 | нсв (св: пересе'сть) · я переса'живаюсь · на + В | PERESAJIVATSA — PERO + SAJ | Pero boshqa joyga o'tirdi. | пересе'сть на метро' | metroga o'tmoq | — | —
+перепи'сываться | yozishmoq | ✉️ | нсв · я перепи'сываюсь · с + Т | PEREPISYVATSA — PERO + PISAT | Pero bilan yozishasiz. | перепи'сываться с дру'гом | do'st bilan yozishmoq | общаться (muloqot qilmoq) | —
+уточня'ть | aniqlashtirmoq | 🔍 | нсв (св: уточни'ть) · я уточня'ю | UTOCHNYAT — TOCHNO | Aniq (tochno) qilasiz. | уточни'ть вре'мя | vaqtni aniqlashtirmoq | выяснять (aniqlamoq) | —
+переспра'шивать | qayta so'ramoq | 🔁 | нсв (св: переспроси'ть) · я переспра'шиваю | PERESPRASHIVAT — PERE + SPROSIT | Qayta so'raysiz. | Не переспра'шивай! | Qayta so'rama! | — | —
+перебива'ть | gapini bo'lmoq | ✋ | нсв (св: переби'ть) · я перебива'ю · перебью' | PEREBIVAT — PERE + BIT | Gapni urib bo'lasiz. | Не перебива'йте! | Gapni bo'lmang! | прерывать (to'xtatmoq) | —
+догова'риваться | kelishmoq (doim) | 🤝 | нсв (св: договори'ться) · я догова'риваюсь | DOGOVARIVATSA — DOGOVOR | Shartnoma (dogovor). | Дава'й догова'риваться. | Keling, kelishaylik. | соглашаться (rozi bo'lmoq) | спорить (bahslashmoq)
+умоля'ть | yolvormoq | 🥺 | нсв · я умоля'ю | UMOLYAT — U + MOLYAT | U yolvordi. | Умоля'ю, помоги'! | Yolvoraman, yordam ber! | просить (so'ramoq) | требовать (talab qilmoq)
+размышля'ть | fikr yuritmoq | 🤔 | нсв · я размышля'ю · о + П | RAZMYSHLYAT — MYSL | Fikr (mysl) yuritasiz. | размышля'ть о жи'зни | hayot haqida fikr yuritmoq | думать (o'ylamoq) | —
+мы'слить | fikrlamoq | 🧠 | нсв · я мы'слю, ты мы'слишь | MYSLIT — MISOL | Misol bilan fikrlaysiz. | логи'чески мы'слить | mantiqiy fikrlamoq | думать (o'ylamoq) | —
+вообража'ть | tasavvur qilmoq | 🌈 | нсв (св: вообрази'ть) · я вообража'ю | VOOBRAJAT — OBRAZ | Obraz yaratasiz. | вообрази'те себе'! | tasavvur qiling! | представлять (tasavvur qilmoq) | —
+осознава'ть | anglamoq | 💡 | нсв (св: осозна'ть) · я осознаю' | OSOZNAVAT — SOZNANIE | Ong (soznanie) bilan anglaysiz. | осозна'ть оши'бку | xatoni anglamoq | понимать (tushunmoq) | —
+оце'нивать | baholamoq | ⭐ | нсв (св: оцени'ть) · я оце'ниваю · оценю' | OTSENIVAT — OTSENKA | Baho (otsenka) qo'yasiz. | оцени'ть рабо'ту | ishni baholamoq | — | —
+цени'ть | qadrlamoq | 💎 | нсв · я ценю', ты це'нишь | TSENIT — TSENA (narx) | Narxini bilib qadrlaysiz. | цени'ть вре'мя | vaqtni qadrlamoq | уважать (hurmat qilmoq) | пренебрегать (mensimaslik)
+увлека'ться | qiziqib qolmoq | 🎸 | нсв (св: увле'чься) · я увлека'юсь · чем? (Т) | UVLEKATSA — UV + LEK | Berilib ketasiz. | увлека'ться спо'ртом | sportga qiziqmoq | интересоваться (qiziqmoq) | —
+кати'ть | dumalatmoq | 🛞 | нсв · я качу' (т→ч), ты ка'тишь | KATIT — KATOK | Katokda dumalatasiz. | кати'ть мяч | to'pni dumalatmoq | — | —
+дви'гать | surmoq | ➡️ | нсв (св: дви'нуть) · я дви'гаю | DVIGAT — DVIGATEL | Dvigateldek surasiz. | дви'гать стол | stolni surmoq | передвигать (surmoq) | —
+передвига'ть | surib qo'ymoq | 🪑 | нсв (св: передви'нуть) · я передвига'ю | PEREDVIGAT — PERE + DVIGAT | Joyini o'zgartirasiz. | передви'нуть дива'н | divanni surib qo'ymoq | двигать (surmoq) | —
+переставля'ть | joyini almashtirmoq | 🔀 | нсв (св: переста'вить) · я переставля'ю | PERESTAVLYAT — PERE + STAVKA | Stavkani boshqa joyga qo'yasiz. | переста'вить ме'бель | mebelni boshqa joyga qo'ymoq | — | —
+запира'ть | qulflamoq | 🔒 | нсв (св: запере'ть) · я запира'ю · запру'; за'пер | ZAPIRAT — ZA + PIR | Pir eshikni qulfladi. | запере'ть дверь | eshikni qulflamoq | закрывать (yopmoq) | отпирать (qulfni ochmoq)
+отпира'ть | qulfni ochmoq | 🔓 | нсв (св: отпере'ть) · я отпира'ю · отопру' | OTPIRAT — OT + PIR | Ot pir eshikni ochdi. | отпере'ть дверь | eshik qulfini ochmoq | открывать (ochmoq) | запирать (qulflamoq)
+толкну'ть | turtib yubormoq | 🫸 | св (нсв: толка'ть) · я толкну', ты толкнёшь | TOLKNUT — TOLQIN | To'lqindek turtdi. | толкну'ть дверь | eshikni itarmoq | пихнуть (turtmoq) | потянуть (tortmoq)
+схвати'ть | ushlab olmoq | ✊ | св (нсв: хвата'ть) · я схвачу' (т→ч), ты схва'тишь | SXVATIT — XVAT | Mahkam ushladingiz. | схвати'ть за ру'ку | qo'ldan ushlab olmoq | поймать (tutmoq) | отпустить (qo'yib yubormoq)
+хвата'ть | ushlamoq; yetmoq | 🫴 | нсв (св: хвати'ть) · хвата'ет = yetadi · Хва'тит! = Bas! | XVATAT — XVATIT | "Xvatit!" — bas! | Мне не хвата'ет вре'мени. | Menga vaqt yetmayapti. | достаточно (yetarli) | не хватать (yetishmaslik)
+отпуска'ть | qo'yib yubormoq | 🕊️ | нсв (св: отпусти'ть) · я отпуска'ю · отпущу' | OTPUSKAT — OTPUSK | Ta'tilga qo'yib yuborasiz. | отпусти'ть пти'цу | qushni qo'yib yubormoq | освобождать (ozod qilmoq) | держать (ushlamoq)
+ки'нуть | otib yubormoq | 🤾 | св (нсв: кида'ть) · я ки'ну, ты ки'нешь | KINUT — KINO | Kinoga chipta otdingiz. | ки'нуть мяч | to'pni otmoq | бросить (tashlamoq) | поймать (tutmoq)
+станови'ться | bo'lib bormoq | 🦋 | нсв (св: стать) · я становлю'сь, ты стано'вишься · кем? (Т) | STANOVITSA — STANOK | Dastgoh (stanok)dek o'zgaradi. | Стано'вится хо'лодно. | Sovuq bo'lib bormoqda. | делаться (bo'lmoq) | —
+ока'зываться | bo'lib chiqmoq (doim) | 🎭 | нсв (св: оказа'ться) · ока'зывается = ma'lum bo'lishicha | OKAZYVATSA — OKA | Ma'lum bo'lishicha, oka ekan. | Ока'зывается, он врач. | Ma'lum bo'lishicha, u shifokor. | выясняться (ma'lum bo'lmoq) | —
+превраща'ться | aylanmoq (boshqaga) | 🐛 | нсв (св: преврати'ться) · я превраща'юсь · в + В | PREVRASHATSA — PREV + VARAQ | Varaq kapalakka aylandi. | Вода' превраща'ется в лёд. | Suv muzga aylanadi. | становиться (bo'lib qolmoq) | —
+меня'ться | o'zgarmoq | 🔄 | нсв (св: поменя'ться) · я меня'юсь | MENYATSA — MENYU | Menyu o'zgaradi. | Пого'да меня'ется. | Ob-havo o'zgaryapti. | изменяться (o'zgarmoq) | оставаться (qolmoq)
+изменя'ться | o'zgarmoq | 🔀 | нсв (св: измени'ться) · я изменя'юсь | IZMENYATSA — MENYU | Menyu o'zgardi. | Го'род си'льно измени'лся. | Shahar ancha o'zgardi. | меняться (o'zgarmoq) | сохраняться (saqlanmoq)
+уменьша'ться | kamaymoq | 📉 | нсв (св: уме'ньшиться) · уменьша'ется | UMENSHATSA — MENSHE | Kamayadi (menshe). | Це'ны уменьша'ются. | Narxlar kamaymoqda. | сокращаться (qisqarmoq) | увеличиваться (ko'paymoq)
+увели'чиваться | ko'paymoq, oshmoq | 📈 | нсв (св: увели'читься) · увели'чивается | UVELICHIVATSA — VELIKIY | Ulkan (velikiy) bo'ladi. | Населе'ние увели'чивается. | Aholi ko'paymoqda. | расти (o'smoq) | уменьшаться (kamaymoq)
+улучша'ться | yaxshilanmoq | 📈 | нсв (св: улу'чшиться) · улучша'ется | ULUCHSHATSA — LUCHSHE | Yaxshiroq (luchshe). | Пого'да улу'чшилась. | Ob-havo yaxshilandi. | — | ухудшаться (yomonlashmoq)
+ухудша'ться | yomonlashmoq | 📉 | нсв (св: уху'дшиться) · ухудша'ется | UXUDSHATSA — XUJE | Yomonroq (xuje). | Здоро'вье уху'дшилось. | Salomatlik yomonlashdi. | — | улучшаться (yaxshilanmoq)
+конча'ться | tugamoq (doim) | 🔚 | нсв (св: ко'нчиться) · конча'ется | KONCHATSA — KONFET | Konfetlar tugaydi. | Уро'к конча'ется в два. | Dars ikkida tugaydi. | заканчиваться (tugamoq) | начинаться (boshlanmoq)
+начина'ться | boshlanmoq (doim) | ▶️ | нсв (св: нача'ться) · начина'ется | NACHINATSA — NACHALNIK | Nachalnik kelsa boshlanadi. | Фильм начина'ется в семь. | Film yettida boshlanadi. | стартовать (start olmoq) | кончаться (tugamoq)
+продолжа'ться | davom etmoq | ⏩ | нсв (св: продо'лжиться) · продолжа'ется | PRODOLJATSA — PARDA | Parda ochiq — davom etadi. | Дождь продолжа'ется. | Yomg'ir davom etyapti. | длиться (cho'zilmoq) | прекращаться (to'xtamoq)
+существова'ть | mavjud bo'lmoq | 🌍 | нсв · я существу'ю · существу'ет | SUSHESTVOVAT — SUSH (quruqlik) | Quruqlikda mavjud. | Существу'ет мно'го языко'в. | Ko'p tillar mavjud. | быть (bo'lmoq) | отсутствовать (yo'q bo'lmoq)
+отсу'тствовать | qatnashmaslik, yo'q bo'lmoq | ❌ | нсв · я отсу'тствую ([атсу'ствую]) | OTSUTSTVOVAT — OT + SUT | Sut yo'q. | Кто отсу'тствует? | Kim yo'q? | не быть (bo'lmaslik) | присутствовать (hozir bo'lmoq)
+прису'тствовать | hozir bo'lmoq | ✋ | нсв · я прису'тствую · на + П | PRISUTSTVOVAT — PRI + SUT | Sut bor! | прису'тствовать на уро'ке | darsda hozir bo'lmoq | быть (bo'lmoq) | отсутствовать (yo'q bo'lmoq)
+находи'ться | joylashmoq; bo'lmoq | 📍 | нсв · нахо'дится · где? | NAXODITSA — NAXODKA | Topilma joylashgan joy. | Где нахо'дится апте'ка? | Dorixona qayerda joylashgan? | располагаться (joylashmoq) | —
+располага'ться | joylashmoq | 🗺️ | нсв (св: расположи'ться) · располага'ется | RASPOLAGATSA — RAS + POLAGAT | Joyiga qo'yilgan. | Шко'ла располага'ется в це'нтре. | Maktab markazda joylashgan. | находиться (joylashmoq) | —
+относи'ться | munosabatda bo'lmoq; taalluqli bo'lmoq | 🤝 | нсв · я отношу'сь · к + Д | OTNOSITSA — OT + NOS | Ot noslarga yaxshi munosabatda. | хорошо' относи'ться к лю'дям | odamlarga yaxshi munosabatda bo'lmoq | — | —
+зави'сеть | bog'liq bo'lmoq | 🔗 | нсв · я зави'шу (с→ш), ты зави'сишь · от + Р | ZAVISET — ZAVOD | Zavodga bog'liq. | Всё зави'сит от тебя'. | Hammasi senga bog'liq. | — | —
+состоя'ть | iborat bo'lmoq | 🧩 | нсв · состои'т · из + Р | SOSTOYAT — SOSTAV | Tarkib (sostav). | Год состои'т из двена'дцати ме'сяцев. | Yil o'n ikki oydan iborat. | — | —
+содержа'ть | o'z ichiga olmoq; boqmoq | 📦 | нсв · содержу', соде'ржишь | SODERJAT — SO + DERJAT | Ichida tutadi. | Фру'кты содержа'т витами'ны. | Mevalarda vitaminlar bor. | включать (o'z ichiga olmoq) | —
+нужда'ться | muhtoj bo'lmoq | 🙏 | нсв · я нужда'юсь · в + П | NUJDATSA — NUJDA (ehtiyoj) | Ehtiyoj (nujda). | нужда'ться в по'мощи | yordamga muhtoj bo'lmoq | — | —
+пыла'ть | lovullamoq | 🔥 | нсв · пыла'ет | PYLAT — PILIK | Pilik lovullaydi. | Ого'нь пыла'ет. | Olov lovullayapti. | гореть (yonmoq) | гаснуть (o'chmoq)
+понра'виться | yoqib qolmoq | 👍 | св (нсв: нра'виться) · мне понра'вился фильм | PONRAVITSA — NAVRO'Z | Navro'z yoqib qoldi. | Мне понра'вилась кни'га. | Kitob menga yoqdi. | — | не понравиться (yoqmaslik)
+развива'ться | rivojlanmoq | 🌱 | нсв (св: разви'ться) · развива'ется | RAZVIVATSA — RAZVITIE | Rivojlanish (razvitie). | Страна' развива'ется. | Mamlakat rivojlanmoqda. | расти (o'smoq) | деградировать (tanazzulga yuz tutmoq)
+боле'ть за | muxlislik qilmoq | 📣 | нсв · я боле'ю за + В | BOLET ZA — BOLELSHIK | Muxlis (bolelshik) bo'lasiz. | Я боле'ю за «Пахтако'р». | Men "Paxtakor"ga muxlislik qilaman. | — | —
