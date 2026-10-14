@@ -83,3 +83,118 @@
 грани'ца | chegara | 🛂 | ж.р. · на грани'це · за грани'цей = chet elda | GRANITSA — GRANIT | Chegara granit toshdan. | Он за грани'цей. | U chet elda. | рубеж (chegara) | —
 о'бласть | viloyat | 🗺️ | ж.р. (-ь) · в о'бласти · мн: о'бласти | OBLAST — OBLA (bulut) | Viloyat ustida bulutlar. | Ташке'нтская о'бласть | Toshkent viloyati | регион (hudud) | —
 райо'н | tuman | 🏘️ | м.р. · в райо'не | RAYON | Rayon — tuman. | Ташке'нтский райо'н | Toshkent tumani | округ (okrug) | —
+# 7
+Бека'бад | Bekobod | 🏭 | м.р. · в Бека'баде | BEKOBOD | Metallurglar shahri Bekobod. | Заво'д в Бека'баде | Bekoboddagi zavod | — | —
+Алмалы'к | Olmaliq | ⛏️ | м.р. · в Алмалы'ке | OLMALIQ — OLMA | Olma bog'idagi kon shahri. | Комбина'т в Алмалы'ке | Olmaliqdagi kombinat | — | —
+Янгию'ль | Yangiyo'l | 🛣️ | м.р. (-ь) · в Янгию'ле | YANGIYO'L — YANGI YO'L | Yangi yo'l — Yangiyul. | Я е'ду в Янгию'ль. | Yangiyo'lga ketyapman. | — | —
+Марги'лан | Marg'ilon | 🧵 | м.р. · в Марги'лане | MARG'ILON | Atlas vatani Marg'ilon. | марги'ланский шёлк | Marg'ilon ipagi | — | —
+Чу'ст | Chust | 🔪 | м.р. · в Чу'сте | CHUST — CHUST PICHOQ | Chust pichog'i! | чу'стский нож | Chust pichog'i | — | —
+Каттаку'рган | Kattaqo'rg'on | 🏘️ | м.р. · в Каттаку'ргане | KATTA QO'RG'ON | Katta qo'rg'on. | Каттаку'рганское водохрани'лище | Kattaqo'rg'on suv ombori | — | —
+Ургу'т | Urgut | 🌳 | м.р. · в Ургу'те | URGUT | Chinorlar shahri Urgut. | база'р в Ургу'те | Urgut bozori | — | —
+Зарафша'н | Zarafshon | ✨ | м.р. · в Зарафша'не | ZARAFSHON — ZAR + SHON | Zar (oltin) sochuvchi. | река' Зарафша'н | Zarafshon daryosi | — | —
+Учкуду'к | Uchquduq | 💧 | м.р. · в Учкуду'ке | UCHQUDUQ — UCH QUDUQ | Uchta quduq. | Учкуду'к — три коло'дца | Uchquduq — uch quduq | — | —
+Хоре'зм | Xorazm | 🏯 | м.р. · в Хоре'зме | XORAZM | Xorazm vohasi. | Хоре'змская о'бласть | Xorazm viloyati | — | —
+Кашкадарья' | Qashqadaryo | 🏞️ | ж.р. · в Кашкадарье' | QASHQADARYO | Qashqa daryo. | Кашкадари'нская о'бласть | Qashqadaryo viloyati | — | —
+Сурхандарья' | Surxondaryo | ☀️ | ж.р. · в Сурхандарье' | SURXONDARYO | Surxon daryo. | Сурхандари'нская о'бласть | Surxondaryo viloyati | — | —
+Каракалпакста'н | Qoraqalpog'iston | 🏜️ | м.р. · в Каракалпакста'не | QORAQALPOQ | Qora qalpoq yurti. | Респу'блика Каракалпакста'н | Qoraqalpog'iston Respublikasi | — | —
+Владивосто'к | Vladivostok | ⚓ | м.р. · во Владивосто'ке (!) | VLADIVOSTOK — VOSTOK (sharq) | Sharqni boshqaruvchi shahar. | порт Владивосто'к | Vladivostok porti | — | —
+О'мск | Omsk | 🏙️ | м.р. · в О'мске | OMSK | Sibir shahri Omsk. | в О'мске хо'лодно | Omskda sovuq | — | —
+Сама'ра | Samara | 🌊 | ж.р. · в Сама'ре | SAMARA — SAMAR (meva) | Volga bo'yida samara beruvchi shahar. | го'род Сама'ра | Samara shahri | — | —
+Волгогра'д | Volgograd | 🗿 | м.р. · в Волгогра'де | VOLGA + GRAD | Volga shahri. | Волгогра'д на Во'лге | Volgadagi Volgograd | — | —
+Росто'в | Rostov | 🌉 | м.р. · в Росто'ве | ROSTOV — ROST | O'sayotgan shahar. | Росто'в-на-Дону' | Don bo'yidagi Rostov | — | —
+Краснода'р | Krasnodar | 🌻 | м.р. · в Краснода'ре | KRASNIY + DAR | Qizil sovg'a shahri. | Краснода'рский край | Krasnodar o'lkasi | — | —
+Ирку'тск | Irkutsk | 🏞️ | м.р. · в Ирку'тске | IRKUTSK | Baykal yonidagi shahar. | Ирку'тск и Байка'л | Irkutsk va Baykal | — | —
+Уфа' | Ufa | 🏙️ | ж.р. · в Уфе' | UFA — UF! | "Uf!" deb Ufaga keldingiz. | столи'ца Башкортоста'на | Boshqirdiston poytaxti | — | —
+Пе'рмь | Perm | 🏙️ | ж.р. (-ь) · в Пе'рми | PERM | Ural shahri Perm. | в Пе'рми | Permda | — | —
+Ло'ндон | London | 🇬🇧 | м.р. · в Ло'ндоне | LONDON | Angliya poytaxti. | Ло'ндон — столи'ца А'нглии | London — Angliya poytaxti | — | —
+Пари'ж | Parij | 🇫🇷 | м.р. · в Пари'же | PARIJ | Eyfel minorasi shahri. | Пари'ж — столи'ца Фра'нции | Parij — Fransiya poytaxti | — | —
+Берли'н | Berlin | 🇩🇪 | м.р. · в Берли'не | BERLIN | Germaniya poytaxti. | в Берли'не | Berlinda | — | —
+Ри'м | Rim | 🇮🇹 | м.р. · в Ри'ме | RIM — RIMLIK | Rimliklar shahri. | Все доро'ги веду'т в Рим. | Barcha yo'llar Rimga olib boradi. | — | —
+Мадри'д | Madrid | 🇪🇸 | м.р. · в Мадри'де | MADRID | Ispaniya poytaxti. | в Мадри'де | Madridda | — | —
+Пеки'н | Pekin | 🇨🇳 | м.р. · в Пеки'не | PEKIN | Xitoy poytaxti. | в Пеки'не | Pekinda | — | —
+То'кио | Tokio | 🇯🇵 | м.р., o'zgarmaydi · в То'кио | TOKIO | Yaponiya poytaxti. | в То'кио | Tokioda | — | —
+Сеу'л | Seul | 🇰🇷 | м.р. · в Сеу'ле | SEUL | Koreya poytaxti. | в Сеу'ле | Seulda | — | —
+Анкара' | Anqara | 🇹🇷 | ж.р. · в Анкаре' | ANQARA | Turkiya poytaxti. | в Анкаре' | Anqarada | — | —
+Стамбу'л | Istanbul | 🕌 | м.р. · в Стамбу'ле | ISTANBUL | Ikki qit'a shahri. | в Стамбу'ле | Istanbulda | — | —
+Дуба'й | Dubay | 🏙️ | м.р. · в Дуба'е | DUBAY | Osmono'par binolar shahri. | в Дуба'е | Dubayda | — | —
+Нью-Йо'рк | Nyu-York | 🗽 | м.р. · в Нью-Йо'рке | NYU-YORK | Ozodlik haykali shahri. | в Нью-Йо'рке | Nyu-Yorkda | — | —
+Астана' | Ostona | 🇰🇿 | ж.р. · в Астане' | ASTANA — OSTONA | Ostona — Qozog'iston poytaxti. | в Астане' | Ostonada | — | —
+Алматы' | Olmaota | 🍎 | o'zgarmaydi · в Алматы' | OLMA OTA | Olma otasi. | в Алматы' | Olmaotada | — | —
+Бишке'к | Bishkek | 🇰🇬 | м.р. · в Бишке'ке | BISHKEK | Qirg'iziston poytaxti. | в Бишке'ке | Bishkekda | — | —
+Душанбе' | Dushanbe | 🇹🇯 | o'zgarmaydi · в Душанбе' | DUSHANBE — DUSHANBA | Dushanba kuni bozor shahri. | в Душанбе' | Dushanbeda | — | —
+Ашхаба'д | Ashxobod | 🇹🇲 | м.р. · в Ашхаба'де | ASHXOBOD — ISHQ + OBOD | Ishq obod shahri. | в Ашхаба'де | Ashxobodda | — | —
+Баку' | Boku | 🇦🇿 | o'zgarmaydi · в Баку' | BOKU | Ozarbayjon poytaxti. | в Баку' | Bokuda | — | —
+Тбили'си | Tbilisi | 🇬🇪 | o'zgarmaydi · в Тбили'си | TBILISI | Gruziya poytaxti. | в Тбили'си | Tbilisida | — | —
+Ерева'н | Yerevan | 🇦🇲 | м.р. · в Ерева'не | YEREVAN | Armaniston poytaxti. | в Ерева'не | Yerevanda | — | —
+Ки'ев | Kiyev | 🇺🇦 | м.р. · в Ки'еве | KIYEV | Ukraina poytaxti. | в Ки'еве | Kiyevda | — | —
+Ми'нск | Minsk | 🇧🇾 | м.р. · в Ми'нске | MINSK | Belarus poytaxti. | в Ми'нске | Minskda | — | —
+Ита'лия | Italiya | 🇮🇹 | ж.р. · в Ита'лии | ITALIYA | Pitsa vatani. | в Ита'лии | Italiyada | — | —
+Испа'ния | Ispaniya | 🇪🇸 | ж.р. · в Испа'нии | ISPANIYA | Ispaniya. | в Испа'нии | Ispaniyada | — | —
+Кана'да | Kanada | 🇨🇦 | ж.р. · в Кана'де | KANADA — KANAD (qanot) | Qanotli zarang bargi. | в Кана'де | Kanadada | — | —
+Брази'лия | Braziliya | 🇧🇷 | ж.р. · в Брази'лии | BRAZILIYA | Futbol yurti. | в Брази'лии | Braziliyada | — | —
+Еги'пет | Misr | 🇪🇬 | м.р. · в Еги'пте (е tushadi) | YEGIPET — YEG + IPAK | Piramidalar yurti. | пирами'ды Еги'пта | Misr piramidalari | — | —
+Сау'довская Ара'вия | Saudiya Arabistoni | 🇸🇦 | ж.р. · в Сау'довской Ара'вии | SAUDOVSKAYA ARAVIYA | Arabiston. | в Сау'довской Ара'вии | Saudiya Arabistonida | — | —
+ОАЭ | BAA (Birlashgan Arab Amirliklari) | 🇦🇪 | o'zgarmaydi · в ОАЭ [о-а-э'] | OAE | Amirliklar. | рабо'тать в ОАЭ | BAAda ishlamoq | Эмираты (Amirliklar) | —
+Ира'н | Eron | 🇮🇷 | м.р. · в Ира'не | IRAN — ERON | Eron. | в Ира'не | Eronda | — | —
+Афганиста'н | Afg'oniston | 🇦🇫 | м.р. · в Афганиста'не | AFGANISTAN | Afg'oniston. | в Афганиста'не | Afg'onistonda | — | —
+Пакиста'н | Pokiston | 🇵🇰 | м.р. · в Пакиста'не | PAKISTAN | Pokiston. | в Пакиста'не | Pokistonda | — | —
+Туркмениста'н | Turkmaniston | 🇹🇲 | м.р. · в Туркмениста'не | TURKMANISTON | Turkmaniston. | в Туркмениста'не | Turkmanistonda | — | —
+Азербайджа'н | Ozarbayjon | 🇦🇿 | м.р. · в Азербайджа'не | OZARBAYJON | Ozarbayjon. | в Азербайджа'не | Ozarbayjonda | — | —
+Гру'зия | Gruziya | 🇬🇪 | ж.р. · в Гру'зии | GRUZIYA — GRUZ (yuk) | Gruziya. | в Гру'зии | Gruziyada | — | —
+Арме'ния | Armaniston | 🇦🇲 | ж.р. · в Арме'нии | ARMENIYA | Armaniston. | в Арме'нии | Armanistonda | — | —
+Украи'на | Ukraina | 🇺🇦 | ж.р. · в Украи'не | UKRAINA | Ukraina. | в Украи'не | Ukrainada | — | —
+Белару'сь | Belarus | 🇧🇾 | ж.р. (-ь) · в Белару'си | BELARUS — BELIY RUS | Oq Rus. | в Белару'си | Belarusda | — | —
+По'льша | Polsha | 🇵🇱 | ж.р. · в По'льше | POLSHA | Polsha. | в По'льше | Polshada | — | —
+А'фрика | Afrika | 🌍 | ж.р. · в А'фрике | AFRIKA | Afrika qit'asi. | в А'фрике жа'рко | Afrikada issiq | — | —
+Австра'лия | Avstraliya | 🇦🇺 | ж.р. · в Австра'лии | AVSTRALIYA | Kenguru qit'asi. | в Австра'лии | Avstraliyada | — | —
+Антаркти'да | Antarktida | 🧊 | ж.р. · в Антаркти'де | ANTARKTIDA | Muz qit'asi. | пингви'ны Антаркти'ды | Antarktida pingvinlari | — | —
+океа'н | okean | 🌊 | м.р. · в океа'не | OKEAN | Okean. | Ти'хий океа'н | Tinch okeani | море (dengiz) | суша (quruqlik)
+матери'к | materik, qit'a | 🗺️ | м.р.; Р: материка' | MATERIK — MATO + RIK | Ulkan mato — qit'a. | шесть материко'в | olti materik | континент (kontinent) | остров (orol)
+о'стров | orol | 🏝️ | м.р.; мн: острова' · на о'строве | OSTROV — OSTONA + ROV | Ostona — orol qirg'og'i. | необита'емый о'стров | kimsasiz orol | — | материк (materik)
+полуо'стров | yarim orol | 🗾 | м.р. · на полуо'строве | POLU + OSTROV | Yarim (polu) orol. | Кры'мский полуо'стров | Qrim yarim oroli | — | —
+пусты'ня | cho'l | 🏜️ | ж.р. · в пусты'не | PUSTYNYA — PUSTOY | Bo'sh (pustoy) yer. | пусты'ня Кызылку'м | Qizilqum cho'li | степь (dasht) | оазис (voha)
+сте'пь | dasht | 🌾 | ж.р. (-ь) · в степи' | STEP — STEP | Dasht. | широ'кая степь | keng dasht | равнина (tekislik) | горы (tog'lar)
+доли'на | vodiy | 🏞️ | ж.р. · в доли'не | DOLINA — DALA | Dala-vodiy. | Ферга'нская доли'на | Farg'ona vodiysi | низина (pastlik) | гора (tog')
+равни'на | tekislik | 🟩 | ж.р. · на равни'не | RAVNINA — RAVON | Ravon, tekis yer. | на равни'не | tekislikda | степь (dasht) | горы (tog'lar)
+вулка'н | vulqon | 🌋 | м.р. | VULKAN | Vulqon. | действу'ющий вулка'н | faol vulqon | — | —
+водопа'д | sharshara | 🏞️ | м.р. | VODOPAD — VODA + PAD | Suv (voda) tushadi (pad). | высо'кий водопа'д | baland sharshara | — | —
+зали'в | ko'rfaz | 🌊 | м.р. · в зали'ве | ZALIV — ZALIVKA | Dengiz quyilgan joy. | Перси'дский зали'в | Fors ko'rfazi | бухта (buxta) | —
+проли'в | bo'g'oz | 🌊 | м.р. · в проли'ве | PROLIV — PROLIT (to'kmoq) | Suv to'kilgan tor yo'l. | Берингов проли'в | Bering bo'g'ozi | — | перешеек (bo'yin)
+бе'рег | qirg'oq | 🏖️ | м.р.; мн: берега' · на берегу' (!) | BEREG — BERK | Daryo qirg'og'i berk. | на берегу' мо'ря | dengiz qirg'og'ida | побережье (sohil) | —
+пля'ж | plyaj | 🏖️ | м.р. · на пля'же | PLYAJ | Plyaj. | лежа'ть на пля'же | plyajda yotmoq | берег (qirg'oq) | —
+кана'л | kanal | 🛶 | м.р. · по кана'лу | KANAL | Kanal. | Большо'й Ферга'нский кана'л | Katta Farg'ona kanali | арык (ariq) | —
+Ара'льское мо'ре | Orol dengizi | 🐟 | ср.р. · на Ара'льском мо'ре | ORAL | Orol dengizi. | траге'дия Ара'льского мо'ря | Orol dengizi fojiasi | — | —
+Каспи'йское мо'ре | Kaspiy dengizi | 🌊 | ср.р. | KASPIY | Kaspiy — eng katta ko'l-dengiz. | на Каспи'йском мо'ре | Kaspiy dengizida | — | —
+Амударья' | Amudaryo | 🏞️ | ж.р. · на Амударье' | AMUDARYO | Amudaryo. | река' Амударья' | Amudaryo daryosi | — | —
+Сырдарья' | Sirdaryo | 🏞️ | ж.р. · на Сырдарье' | SIRDARYO | Sirdaryo. | река' Сырдарья' | Sirdaryo daryosi | — | —
+Тянь-Ша'нь | Tyan-Shan | 🏔️ | м.р. · в гора'х Тянь-Ша'ня | TYAN-SHAN — OSMON TOG'LARI | Osmon tog'lari. | го'ры Тянь-Ша'ня | Tyan-Shan tog'lari | — | —
+Пами'р | Pomir | 🏔️ | м.р. · на Пами'ре | POMIR | Dunyo tomi Pomir. | на Пами'ре | Pomirda | — | —
+Кызылку'м | Qizilqum | 🏜️ | м.р. · в Кызылку'ме | QIZILQUM | Qizil qum. | пусты'ня Кызылку'м | Qizilqum cho'li | — | —
+ко'лледж | kollej | 🏫 | м.р. · в ко'лледже | KOLLEJ | Kollej. | учи'ться в ко'лледже | kollejda o'qimoq | техникум (texnikum) | —
+лице'й | litsey | 🏫 | м.р. · в лице'е | LITSEY | Litsey. | академи'ческий лице'й | akademik litsey | гимназия (gimnaziya) | —
+институ'т | institut | 🏛️ | м.р. · в институ'те | INSTITUT | Institut. | педагоги'ческий институ'т | pedagogika instituti | вуз (OTM) | —
+акаде'мия | akademiya | 🎓 | ж.р. (-ия) · в акаде'мии | AKADEMIYA | Akademiya. | Акаде'мия нау'к | Fanlar akademiyasi | — | —
+поли'ция | politsiya | 🚓 | ж.р. (-ия) · в поли'ции | POLITSIYA | Politsiya. | позвони'ть в поли'цию | politsiyaga qo'ng'iroq qilmoq | милиция (militsiya) | —
+су'д | sud | ⚖️ | м.р.; Р: суда' · в суде' | SUD | Sud. | Верхо'вный суд | Oliy sud | — | —
+хокими'ят | hokimiyat | 🏛️ | м.р. · в хокими'яте | HOKIMIYAT | Hokimiyat. | городско'й хокими'ят | shahar hokimiyati | администрация (ma'muriyat) | —
+министе'рство | vazirlik | 🏛️ | ср.р. · в министе'рстве | MINISTERSTVO — MINISTR | Vazir (ministr) idorasi. | Министе'рство образова'ния | Ta'lim vazirligi | — | —
+посо'льство | elchixona | 🛂 | ср.р. · в посо'льстве | POSOLSTVO — POSOL (elchi) | Elchi (posol) idorasi. | посо'льство Росси'и | Rossiya elchixonasi | консульство (konsullik) | —
+тамо'жня | bojxona | 🛃 | ж.р. · на тамо'жне | TAMOJNYA — TAMG'A | Tamg'a bosiladigan joy. | пройти' тамо'жню | bojxonadan o'tmoq | — | —
+автовокза'л | avtovokzal | 🚌 | м.р. · на автовокза'ле | AVTO + VOKZAL | Avtobuslar vokzali. | Я на автовокза'ле. | Men avtovokzaldaman. | — | —
+по'рт | port | ⚓ | м.р. · в порту' (!) | PORT | Port. | морско'й порт | dengiz porti | гавань (bandargoh) | —
+ста'нция | bekat, stansiya | 🚉 | ж.р. (-ия) · на ста'нции | STANTSIYA | Stansiya. | ста'нция метро' | metro bekati | остановка (bekat) | —
+тонне'ль | tunnel | 🚇 | м.р. (-ь) · в тонне'ле | TUNNEL | Tunnel. | дли'нный тонне'ль | uzun tunnel | — | мост (ko'prik)
+шоссе' | shosse | 🛣️ | ср.р., o'zgarmaydi · по шоссе' | SHOSSE | Shosse. | на шоссе' | shosseda | трасса (trassa) | —
+проспе'кт | shoh ko'cha | 🏙️ | м.р. · на проспе'кте | PROSPEKT | Prospekt. | проспе'кт Ами'ра Тему'ра | Amir Temur shoh ko'chasi | улица (ko'cha) | переулок (tor ko'cha)
+переу'лок | tor ko'cha | 🏘️ | м.р.; Р: переу'лка · в переу'лке | PEREULOK — PERO + ULOQ | Tor ko'chada uloq. | ти'хий переу'лок | sokin tor ko'cha | — | проспект (shoh ko'cha)
+на'бережная | sohil bo'yi ko'chasi | 🌅 | ж.р. (sifatdan ot) · на на'бережной | NABEREJNAYA — BEREG | Qirg'oq (bereg) bo'yi. | гуля'ть по на'бережной | sohil bo'yida sayr qilmoq | — | —
+торго'вый це'нтр | savdo markazi | 🏬 | м.р. · в торго'вом це'нтре | TORGOVIY — TORG (savdo) | Savdo (torg) markazi. | большо'й торго'вый центр | katta savdo markazi | — | —
+столо'вая | oshxona (umumiy) | 🍽️ | ж.р. (sifatdan ot) · в столо'вой | STOLOVAYA — STOL | Stollar ko'p joy. | шко'льная столо'вая | maktab oshxonasi | кафе (kafe) | —
+чайха'на | choyxona | 🍵 | ж.р. · в чайхане' | CHOYXONA | Choyxona — ruschada ham. | плов в чайхане' | choyxonada palov | — | —
+общежи'тие | yotoqxona | 🏢 | ср.р. (-ие) · в общежи'тии | OBSHEJITIE — OBSHIY + JIT | Umumiy yashash joyi. | студе'нческое общежи'тие | talabalar yotoqxonasi | — | —
+да'ча | dala hovli | 🏡 | ж.р. · на да'че (!) | DACHA | Dacha. | Ле'том мы на да'че. | Yozda dala hovlidamiz. | — | —
+посёлок | posyolka | 🏘️ | м.р.; Р: посёлка · в посёлке | POSYOLOK — POS + YO'L | Yo'l bo'yidagi qishloqcha. | ма'ленький посёлок | kichik posyolka | село (qishloq) | город (shahar)
+кишла'к | qishloq | 🏡 | м.р. · в кишлаке' | QISHLOQ | Qishloq — kishlak. | в го'рном кишлаке' | tog' qishlog'ida | деревня (qishloq) | город (shahar)
+махалля' | mahalla | 🏘️ | ж.р. · в махалле' | MAHALLA | Mahalla — ruschada ham. | на'ша махалля' | bizning mahalla | район (tuman) | —
+плане'та | sayyora | 🪐 | ж.р. | PLANETA | Planeta. | плане'та Земля' | Yer sayyorasi | — | —
+ко'смос | koinot | 🌌 | м.р. · в ко'смосе | KOSMOS | Kosmos. | полёт в ко'смос | koinotga parvoz | вселенная (olam) | —

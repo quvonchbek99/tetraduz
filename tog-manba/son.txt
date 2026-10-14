@@ -61,3 +61,47 @@
 со'тня | yuztalik | 💵 | ж.р.; Р: со'тни | SOTNYA — SOTIX | Yuz sotix — sotnya. | со'тни люде'й | yuzlab odamlar | — | —
 два'жды / три'жды | ikki marta / uch marta | ✖️ | o'zgarmaydi · два'жды два — четы'ре | DVAJDI — DAVRA + JDI | Davrada ikki marta aylanish. | два'жды два — четы'ре | ikki karra ikki — to'rt | — | —
 не'сколько | bir nechta | 🔢 | не'сколько + Р.мн: не'сколько книг | NESKOLKO — NE + SKOLKO | Nechta? — bir nechta! | не'сколько дней | bir necha kun | ряд (bir qator) | много (ko'p)
+# 7
+оди'ннадцатый | o'n birinchi | 1️⃣1️⃣ | sifat kabi: -ый, -ая, -ое | ODINNADTSAT | 11 → 11-chi. | оди'ннадцатый класс | o'n birinchi sinf | — | —
+двена'дцатый | o'n ikkinchi | 🕛 | sifat kabi | DVENADTSAT | 12-chi. | двена'дцатый ме'сяц | o'n ikkinchi oy | — | —
+трина'дцатый | o'n uchinchi | 🔢 | sifat kabi | TRINADTSAT | 13-chi. | трина'дцатое число' | o'n uchinchi sana | — | —
+четы'рнадцатый | o'n to'rtinchi | 🔢 | sifat kabi | CHETYRNADTSAT | 14-chi. | четы'рнадцатый уро'к | o'n to'rtinchi dars | — | —
+пятна'дцатый | o'n beshinchi | 🔢 | sifat kabi | PYATNADTSAT | 15-chi. | пятна'дцатое ма'я | 15-may | — | —
+шестна'дцатый | o'n oltinchi | 🔢 | sifat kabi | SHESTNADTSAT | 16-chi. | шестна'дцатый век | o'n oltinchi asr | — | —
+семна'дцатый | o'n yettinchi | 🔢 | sifat kabi | SEMNADTSAT | 17-chi. | семна'дцатый год | o'n yettinchi yil | — | —
+восемна'дцатый | o'n sakkizinchi | 🔢 | sifat kabi | VOSEMNADTSAT | 18-chi. | восемна'дцатый век | o'n sakkizinchi asr | — | —
+девятна'дцатый | o'n to'qqizinchi | 🔢 | sifat kabi | DEVYATNADTSAT | 19-chi. | девятна'дцатый век | o'n to'qqizinchi asr | — | —
+тридца'тый | o'ttizinchi | 🔢 | sifat kabi | TRIDTSAT | 30-chi. | тридца'тые го'ды | o'ttizinchi yillar | — | —
+сороково'й | qirqinchi | 🔢 | sifat kabi: сороково'й, -а'я | SOROK | 40-chi. | сороково'й день | qirqinchi kun | — | —
+пятидеся'тый | ellikinchi | 🔢 | sifat kabi | PYATDESYAT | 50-chi. | пятидеся'тый юбиле'й | ellik yillik yubiley | — | —
+шестидеся'тый | oltmishinchi | 🔢 | sifat kabi | SHESTDESYAT | 60-chi. | шестидеся'тые го'ды | oltmishinchi yillar | — | —
+семидеся'тый | yetmishinchi | 🔢 | sifat kabi | SEMDESYAT | 70-chi. | семидеся'тый год | yetmishinchi yil | — | —
+восьмидеся'тый | saksoninchi | 🔢 | sifat kabi | VOSEMDESYAT | 80-chi. | восьмидеся'тые го'ды | saksoninchi yillar | — | —
+девяно'стый | to'qsoninchi | 🔢 | sifat kabi | DEVYANOSTO | 90-chi. | девяно'стые го'ды | to'qsoninchi yillar | — | —
+двухсо'тый | ikki yuzinchi | 🔢 | sifat kabi | DVESTI | 200-chi. | двухсо'тый день | ikki yuzinchi kun | — | —
+миллио'нный | millioninchi | 🔢 | sifat kabi | MILLION | Millioninchi. | миллио'нный посети'тель | millioninchi tashrif buyuruvchi | — | —
+полтора' | bir yarim | 1½ | полтора' (м, ср), полторы' (ж) + Р.ед: полтора' часа' | POLTORA — POL + TORA | Yarim (pol) + butun. | полтора' ча'са | bir yarim soat | — | —
+полтора'ста | bir yuz ellik | 🔢 | Р: полу'тораста | POLTORASTA — POLTORA + STO | 1,5 × 100. | полтора'ста рубле'й | bir yuz ellik rubl | — | —
+тре'ть | uchdan bir | ⅓ | ж.р. (-ь); Р: тре'ти | TRET — TRI | Uch (tri)dan bir. | тре'ть кла'сса | sinfning uchdan biri | — | —
+че'тверть | chorak | ¼ | ж.р. (-ь); Р: че'тверти · уче'бная че'тверть = o'quv choragi | CHETVERT — CHETVERG | Payshanba (chetverg) — haftaning taxminan choragi. | че'тверть ча'са | chorak soat | — | —
+че'тверо | to'rtovlon | 👨‍👩‍👧‍👦 | jamlovchi son · + Р.мн: че'тверо дете'й | CHETVERO — CHETIR | To'rttasi birga. | Нас че'тверо. | Biz to'rt kishimiz. | — | —
+пя'теро | beshovlon | 🖐️ | jamlovchi · + Р.мн | PYATERO — PYAT | Beshtasi birga. | пя'теро друзе'й | besh do'st | — | —
+ше'стеро | oltovlon | 🔢 | jamlovchi · + Р.мн | SHESTERO — SHEST | Oltitasi birga. | ше'стеро студе'нтов | olti talaba | — | —
+се'меро | yettovlon | 🔢 | jamlovchi · + Р.мн | SEMERO — SEMIZ | Yetti semiz birga. | се'меро дете'й | yetti farzand | — | —
+во-пе'рвых | birinchidan | 1️⃣ | kirish so'z | VO-PERVYX — PERVIY | Birinchi (perviy)dan. | Во-пе'рвых, э'то ва'жно. | Birinchidan, bu muhim. | сначала (avval) | —
+во-вторы'х | ikkinchidan | 2️⃣ | kirish so'z | VO-VTORYX — VTOROY | Ikkinchi (vtoroy)dan. | Во-вторы'х, у нас нет вре'мени. | Ikkinchidan, vaqtimiz yo'q. | — | —
+в-тре'тьих | uchinchidan | 3️⃣ | kirish so'z | V-TRETIX — TRETIY | Uchinchi (tretiy)dan. | В-тре'тьих… | Uchinchidan… | — | —
+вдво'е | ikki baravar | ✖️2 | ravish · вдво'е бо'льше | VDVOE — DVOE | Ikki (dvoe) hissa. | вдво'е бо'льше | ikki baravar ko'p | в два раза (ikki marta) | —
+втро'е | uch baravar | ✖️3 | ravish · втро'е доро'же | VTROE — TROE | Uch hissa. | втро'е деше'вле | uch baravar arzon | в три раза (uch marta) | —
+впервы'е | birinchi marta | 🆕 | ravish | VPERVYE — PERVIY | Birinchi (perviy) bor. | Я впервы'е в Москве'. | Men Moskvada birinchi martaman. | в первый раз (ilk bor) | —
+дво'йка | ikki (baho); ikkilik | 2️⃣ | ж.р. · получи'ть дво'йку | DVOYKA — DVA | Ikki (dva) baho — yomon! | Он получи'л дво'йку. | U ikki oldi. | — | пятёрка (besh)
+тро'йка | uch (baho) | 3️⃣ | ж.р. | TROYKA — TRI | Uch (tri) baho. | оце'нка «тро'йка» | "uch" bahosi | — | —
+четвёрка | to'rt (baho) | 4️⃣ | ж.р. | CHETVYORKA — CHETIRE | To'rt (chetire) baho. | Я получи'л четвёрку. | To'rt oldim. | — | —
+пятёрка | besh (baho) | 5️⃣ | ж.р. | PYATYORKA — PYAT | Besh (pyat) baho — a'lo! | Она' получи'ла пятёрку. | U besh oldi. | — | двойка (ikki)
+деся'тка | o'ntalik (pul); 10 raqami | 🔟 | ж.р. | DESYATKA — DESYAT | O'n (desyat). | авто'бус но'мер де'сять — деся'тка | 10-avtobus | — | —
+со'тка | yuz (so'zlashuv); sotix | 💯 | ж.р. · шесть со'ток = olti sotix | SOTKA — SOTIX | Sotix. | шесть со'ток | olti sotix | — | —
+ты'сячи | minglab | 🔢 | ko'plik · ты'сячи люде'й | TISYACHI — TISHLAB | Minglab tishlam. | ты'сячи звёзд | minglab yulduz | множество (ko'plab) | единицы (birlar)
+деся'тки | o'nlab | 🔢 | ko'plik · деся'тки раз | DESYATKI — DESANT | O'nlab desantchi. | деся'тки книг | o'nlab kitob | — | —
+со'тни | yuzlab | 🔢 | ko'plik (со'тня dan) · со'тни люде'й | SOTNI — SOT | Yuzlab. | со'тни птиц | yuzlab qush | — | —
+пол- | yarim- (old qo'shimcha) | ◐ | пол + Р: полчаса', полкило', пол-яблока | POL — POL (yarim) | Yarim (pol). | полчаса' | yarim soat | половина (yarmi) | целый (butun)
+полови'нка | yarmi (bo'lagi) | 🌗 | ж.р. | POLOVINKA — POLOVINA | Kichik yarim. | полови'нка я'блока | olmaning yarmi | половина (yarim) | —

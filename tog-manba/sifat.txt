@@ -387,3 +387,105 @@
 о'блачный | bulutli | ⛅ | о'блачный, -ая · о'блако = bulut | OBLACHNIY — OBLAKO | Bulut (oblako)li. | о'блачная пого'да | bulutli ob-havo | пасмурный (xira) | ясный (ochiq)
 тума'нный | tumanli | 🌫️ | тума'нный (нн) | TUMANNIY — TUMAN | Tumanli. | тума'нное у'тро | tumanli tong | — | ясный (ochiq)
 моро'зный | ayozli | ❄️ | моро'зный, -ая | MOROZNIY — MOROZ | Ayoz (moroz)li. | моро'зный день | ayozli kun | холодный (sovuq) | жаркий (issiq)
+# 8
+осо'бенный | o'ziga xos | ⭐ | осо'бенный (нн), -ая | OSOBENNIY — OSOBNYAK | Alohida uy (osobnyak)dek o'ziga xos. | осо'бенный день | o'ziga xos kun | особый (alohida), необычный (g'ayrioddiy) | обычный (oddiy)
+уника'льный | noyob | 💎 | уника'льный, -ая | UNIKALNIY — UNIKUM | Unikum — noyob. | уника'льный шанс | noyob imkoniyat | единственный (yagona) | обычный (oddiy)
+типи'чный | tipik, odatiy | 📋 | типи'чный, -ая | TIPICHNIY — TIP | Tip (tur)ga xos. | типи'чная оши'бка | odatiy xato | обычный (oddiy) | нетипичный (g'ayrioddiy)
+класси'ческий | klassik | 🎻 | класси'ческий, -ая | KLASSICHESKIY | Klassik. | класси'ческая му'зыка | klassik musiqa | традиционный (an'anaviy) | современный (zamonaviy)
+оригина'льный | original | 🎨 | оригина'льный, -ая | ORIGINALNIY | Original. | оригина'льная иде'я | original g'oya | необычный (g'ayrioddiy) | банальный (siyqa)
+удиви'тельный | ajoyib, hayratlanarli | 😲 | удиви'тельный, -ая | UDIVITELNIY — UDIVIT | Hayron qoldiradi (udivit). | удиви'тельная исто'рия | hayratlanarli voqea | поразительный (lol qoldiruvchi) | обычный (oddiy)
+чуде'сный | mo''jizaviy, ajoyib | ✨ | чуде'сный, -ая | CHUDESNIY — CHUDO (mo'jiza) | Mo''jiza (chudo)dek. | чуде'сный день | ajoyib kun | прекрасный (go'zal) | ужасный (dahshatli)
+волше'бный | sehrli | 🪄 | волше'бный, -ая | VOLSHEBNIY — VOLSHEBNIK (sehrgar) | Sehrgar (volshebnik)niki. | волше'бная па'лочка | sehrli tayoqcha | сказочный (ertakdagidek) | обычный (oddiy)
+ска'зочный | ertakdagidek | 🧚 | ска'зочный, -ая | SKAZOCHNIY — SKAZKA | Ertak (skazka)dagidek. | ска'зочный го'род | ertakdagidek shahar | волшебный (sehrli) | реальный (haqiqiy)
+фантасти'ческий | fantastik | 🚀 | фантасти'ческий, -ая | FANTASTICHESKIY | Fantastik. | фантасти'ческий фильм | fantastik film | невероятный (aql bovar qilmas) | реалистичный (real)
+виртуа'льный | virtual | 🥽 | виртуа'льный, -ая | VIRTUALNIY | Virtual. | виртуа'льный мир | virtual dunyo | цифровой (raqamli) | реальный (real)
+цифрово'й | raqamli | 🔢 | цифрово'й, -а'я | TSIFROVOY — TSIFRA | Raqam (tsifra)li. | цифрова'я эконо'мика | raqamli iqtisodiyot | электронный (elektron) | аналоговый (analog)
+электро'нный | elektron | 📧 | электро'нный (нн) | ELEKTRONNIY | Elektron. | электро'нная по'чта | elektron pochta | цифровой (raqamli) | бумажный (qog'oz)
+автомати'ческий | avtomatik | 🤖 | автомати'ческий, -ая | AVTOMATICHESKIY | Avtomatik. | автомати'ческая дверь | avtomatik eshik | — | ручной (qo'lda)
+ручно'й | qo'l (bilan); qo'lga o'rgangan | ✋ | ручно'й, -а'я · рука' = qo'l | RUCHNOY — RUCHKA | Qo'l (ruka)da. | ручна'я рабо'та | qo'l mehnati | — | автоматический (avtomatik)
+механи'ческий | mexanik | ⚙️ | механи'ческий, -ая | MEXANICHESKIY | Mexanik. | механи'ческие часы' | mexanik soat | — | электронный (elektron)
+электри'ческий | elektr | ⚡ | электри'ческий, -ая | ELEKTRICHESKIY | Elektr. | электри'ческий ток | elektr toki | — | —
+хими'ческий | kimyoviy | 🧪 | хими'ческий, -ая · хи'мия | XIMICHESKIY | Kimyo (ximiya)ga oid. | хими'ческая реа'кция | kimyoviy reaksiya | — | натуральный (tabiiy)
+физи'ческий | jismoniy; fizik | 🏃 | физи'ческий, -ая | FIZICHESKIY | Fizika / jismoniy. | физи'ческая культу'ра | jismoniy tarbiya | телесный (tanaviy) | умственный (aqliy)
+истори'ческий | tarixiy | 🏛️ | истори'ческий, -ая | ISTORICHESKIY — ISTORIYA | Tarix (istoriya)ga oid. | истори'ческий музе'й | tarix muzeyi | — | современный (zamonaviy)
+географи'ческий | geografik | 🗺️ | географи'ческий, -ая | GEOGRAFICHESKIY | Geografik. | географи'ческая ка'рта | geografik xarita | — | —
+литерату'рный | adabiy | 📚 | литерату'рный, -ая | LITERATURNIY | Adabiyot (literatura)ga oid. | литерату'рный язы'к | adabiy til | — | разговорный (so'zlashuv)
+худо'жественный | badiiy | 🎨 | худо'жественный (нн) | XUDOJESTVENNIY — XUDOJNIK | Rassom (xudojnik)ga oid. | худо'жественная литерату'ра | badiiy adabiyot | — | научный (ilmiy)
+музыка'льный | musiqiy | 🎵 | музыка'льный, -ая | MUZIKALNIY | Musiqiy. | музыка'льная шко'ла | musiqa maktabi | — | —
+спорти'вный | sport(ga oid) | 🏅 | спорти'вный, -ая | SPORTIVNIY | Sportga oid. | спорти'вный зал | sport zali | атлетичный (atletik) | —
+медици'нский | tibbiy | 🏥 | медици'нский, -ая | MEDITSINSKIY | Tibbiyot (meditsina)ga oid. | медици'нская по'мощь | tibbiy yordam | лечебный (davolash) | —
+юриди'ческий | yuridik, huquqiy | ⚖️ | юриди'ческий, -ая | YURIDICHESKIY — YURIST | Yurist ishi. | юриди'ческий факульте'т | yuridik fakultet | правовой (huquqiy) | —
+полити'ческий | siyosiy | 🏛️ | полити'ческий, -ая | POLITICHESKIY | Siyosiy. | полити'ческая па'ртия | siyosiy partiya | — | —
+психологи'ческий | psixologik | 🧠 | психологи'ческий, -ая | PSIXOLOGICHESKIY | Psixologik. | психологи'ческий тест | psixologik test | — | —
+эмоциона'льный | hissiy | 💗 | эмоциона'льный, -ая | EMOTSIONALNIY | Emotsional. | эмоциона'льный челове'к | hissiyotli odam | чувствительный (sezgir) | равнодушный (befarq)
+тво'рческий | ijodiy | 🖌️ | тво'рческий, -ая · тво'рчество = ijod | TVORCHESKIY — TVORIT | Yaratadi (tvorit). | тво'рческая рабо'та | ijodiy ish | креативный (kreativ) | шаблонный (qolipli)
+профессиона'льный | professional | 💼 | профессиона'льный, -ая | PROFESSIONALNIY | Professional. | профессиона'льный спортсме'н | professional sportchi | опытный (tajribali) | любительский (havaskor)
+теорети'ческий | nazariy | 📖 | теорети'ческий, -ая | TEORETICHESKIY — TEORIYA | Nazariya (teoriya)ga oid. | теорети'ческий вопро'с | nazariy savol | — | практический (amaliy)
+практи'ческий | amaliy | 🛠️ | практи'ческий, -ая | PRAKTICHESKIY — PRAKTIKA | Amaliyot (praktika)ga oid. | практи'ческое заня'тие | amaliy mashg'ulot | прикладной (amaliy) | теоретический (nazariy)
+делово'й | ish(ga oid), ishbilarmon | 💼 | делово'й, -а'я · де'ло = ish | DELOVOY — DELO | Ish (delo)ga oid. | делово'й костю'м | ish kostyumi | рабочий (ish) | —
+фина'нсовый | moliyaviy | 💰 | фина'нсовый, -ая | FINANSOVIY | Moliya (finans)ga oid. | фина'нсовый отчёт | moliyaviy hisobot | денежный (pul) | —
+де'нежный | pul(ga oid) | 💵 | де'нежный, -ая | DENEJNIY — DENGI | Pul (dengi)ga oid. | де'нежный перево'д | pul o'tkazmasi | финансовый (moliyaviy) | —
+торго'вый | savdo | 🛒 | торго'вый, -ая · торго'вля = savdo | TORGOVIY — TORG | Savdo (torg). | торго'вый центр | savdo markazi | коммерческий (tijorat) | —
+промы'шленный | sanoat | 🏭 | промы'шленный (нн) | PROMYSHLENNIY — PROMYSHLENNOST | Sanoat (promyshlennost). | промы'шленный го'род | sanoat shahri | индустриальный (industrial) | сельскохозяйственный (qishloq xo'jaligi)
+сельскохозя'йственный | qishloq xo'jaligi | 🚜 | сельскохозя'йственный (нн) | SELSKOXOZYAYSTVENNIY — SELO + XOZYAYSTVO | Qishloq (selo) xo'jaligi. | сельскохозя'йственная те'хника | qishloq xo'jaligi texnikasi | аграрный (agrar) | промышленный (sanoat)
+тра'нспортный | transport(ga oid) | 🚌 | тра'нспортный ([тра'нспартный]) | TRANSPORTNIY | Transportga oid. | тра'нспортная ка'рта | transport kartasi | — | —
+железнодоро'жный | temir yo'l(ga oid) | 🚆 | железнодоро'жный, -ая | JELEZNODOROJNIY — JELEZO + DOROGA | Temir (jelezo) yo'l (doroga). | железнодоро'жный вокза'л | temir yo'l vokzali | — | —
+автомоби'льный | avtomobil(ga oid) | 🚗 | автомоби'льный, -ая | AVTOMOBILNIY | Avtomobilga oid. | автомоби'льная доро'га | avtomobil yo'li | — | —
+возду'шный | havo(ga oid) | 🎈 | возду'шный, -ая | VOZDUSHNIY — VOZDUX | Havo (vozdux)ga oid. | возду'шный шар | havo shari | — | —
+во'дный | suv(ga oid) | 💧 | во'дный, -ая | VODNIY — VODA | Suv (voda)ga oid. | во'дный спорт | suv sporti | — | —
+садо'вый | bog'(ga oid) | 🌳 | садо'вый, -ая | SADOVIY — SAD | Bog' (sad)ga oid. | садо'вые цветы' | bog' gullari | — | —
+ку'хонный | oshxona(ga oid) | 🍳 | ку'хонный (нн) | KUXONNIY — KUXNYA | Oshxona (kuxnya)ga oid. | ку'хонный нож | oshxona pichog'i | — | —
+спа'льный | uyqu(ga oid) | 🛏️ | спа'льный, -ая · спа'льня = yotoqxona | SPALNIY — SPAT | Uxlash (spat) uchun. | спа'льный мешо'к | uyqu xaltasi | — | —
+молодёжный | yoshlar(ga oid) | 🧑‍🤝‍🧑 | молодёжный, -ая · молодёжь = yoshlar | MOLODYOJNIY — MOLODYOJ | Yoshlar (molodyoj)ga oid. | молодёжная организа'ция | yoshlar tashkiloti | юношеский (o'smirlik) | —
+дру'жеский | do'stona | 🤝 | дру'жеский, -ая | DRUJESKIY — DRUG | Do'st (drug)ona. | дру'жеский сове'т | do'stona maslahat | дружелюбный (do'stona) | враждебный (dushmanona)
+ближа'йший | eng yaqin | 📍 | ближа'йший, -ая (бли'зкий → бли'же → ближа'йший) | BLIJAYSHIY — BLIZKO | Eng yaqin. | ближа'йшая апте'ка | eng yaqin dorixona | соседний (qo'shni) | отдалённый (olis)
+дальне'йший | keyingi, kelgusidagi | ⏩ | дальне'йший, -ая | DALNEYSHIY — DALSHE | Bundan keyin (dalshe). | дальне'йшие пла'ны | keyingi rejalar | следующий (keyingi) | предыдущий (oldingi)
+кра'йний | chekka; o'ta | 🔚 | yumshoq: кра'йний, -яя, -ее | KRAYNIY — KRAY | Chekka (kray). | кра'йний срок | oxirgi muddat | последний (oxirgi) | центральный (markaziy)
+сре'дний | o'rta(cha) | ⏺️ | yumshoq: сре'дний, -яя, -ее | SREDNIY — SREDA | Hafta o'rtasi (sreda). | сре'дний рост | o'rta bo'y | центральный (markaziy) | крайний (chekka)
+ни'зший | quyi | 🔻 | ни'зший, -ая (ни'зкий → ни'же → ни'зший) | NIZSHIY — NIZOM | Eng quyi nizom. | ни'зшая сту'пень | quyi pog'ona | — | высший (oliy)
+нача'льный | boshlang'ich | 🔰 | нача'льный, -ая | NACHALNIY — NACHALO | Boshlanish (nachalo)ga oid. | нача'льная шко'ла | boshlang'ich maktab | первоначальный (dastlabki) | конечный (oxirgi)
+коне'чный | oxirgi; chekli | 🏁 | коне'чный, -ая | KONECHNIY — KONETS | Oxir (konets)ga oid. | коне'чная остано'вка | oxirgi bekat | последний (oxirgi) | начальный (boshlang'ich)
+оконча'тельный | qat'iy, yakuniy | ✅ | оконча'тельный · оконча'тельно | OKONCHATELNIY — OKONCHIT | Tamomlangan. | оконча'тельное реше'ние | yakuniy qaror | последний (oxirgi) | предварительный (dastlabki)
+предвари'тельный | dastlabki | 📝 | предвари'тельный, -ая | PREDVARITELNIY — PRED + VARIT | Oldindan qaynatilgan. | предвари'тельный ито'г | dastlabki yakun | начальный (boshlang'ich) | окончательный (yakuniy)
+мгнове'нный | bir zumda | ⚡ | мгнове'нный (нн) · мгнове'нно | MGNOVENNIY — MIG | Mig (lahza)dek. | мгнове'нный отве'т | bir zumdagi javob | быстрый (tez) | долгий (uzoq)
+неда'вний | yaqinda bo'lgan | 🆕 | yumshoq: неда'вний, -яя, -ее | NEDAVNIY — NE + DAVNO | Ko'p bo'lmagan. | неда'вние собы'тия | yaqindagi voqealar | новый (yangi) | давний (qadimgi)
+да'вний | anchadan beri | 🕰️ | yumshoq: да'вний, -яя, -ее | DAVNIY — DAVON | Anchadan beri devonda. | да'вний друг | eski qadrdon | старый (eski) | недавний (yaqindagi)
+пре'жний | avvalgi | ⏮️ | yumshoq: пре'жний, -яя, -ее | PREJNIY — PREJDE | Ilgari (prejde)gi. | пре'жний а'дрес | avvalgi manzil | бывший (sobiq) | новый (yangi)
+ны'нешний | hozirgi | ⏺️ | yumshoq: ны'нешний, -яя, -ее · ны'не = hozir | NYNESHNIY — NINI | Hozirgi nini (chaqaloq). | ны'нешний год | joriy yil | современный (zamonaviy) | прежний (avvalgi)
+стари'нный | qadimiy (antiqa) | 🏺 | стари'нный (нн) | STARINNIY — STARIK | Chol (starik)dan qolgan. | стари'нная ва'за | qadimiy vaza | древний (qadimiy) | современный (zamonaviy)
+устаре'вший | eskirgan | 📼 | устаре'вший, -ая | USTAREVSHIY — USTA + STARIY | Usta ham eskirdi. | устаре'вшее сло'во | eskirgan so'z | старомодный (eskicha) | современный (zamonaviy)
+лжи'вый | yolg'onchi | 🤥 | лжи'вый, -ая · ложь = yolg'on | LJIVIY — LOJKA | Soxta qoshiq. | лжи'вый челове'к | yolg'onchi odam | обманчивый (aldamchi) | честный (halol)
+наи'вный | sodda | 😇 | наи'вный, -ая | NAIVNIY — NAY | Nay chalayotgan sodda bola. | наи'вный вопро'с | sodda savol | простодушный (soddadil) | хитрый (ayyor)
+дове'рчивый | ishonuvchan | 🤝 | дове'рчивый, -ая | DOVERCHIVIY — DOVERIE | Ishonch (doverie)li. | дове'рчивый ребёнок | ishonuvchan bola | наивный (sodda) | подозрительный (shubhali)
+подозри'тельный | shubhali; shubhalanuvchi | 🕵️ | подозри'тельный, -ая | PODOZRITELNIY — POD + ZOR | Ostidan zor qaraydi. | подозри'тельный тип | shubhali shaxs | недоверчивый (ishonmaydigan) | доверчивый (ishonuvchan)
+ревни'вый | rashkchi | 😠 | ревни'вый, -ая | REVNIVIY — REVAN | Revan rashk qiladi. | ревни'вый муж | rashkchi er | — | —
+зави'стливый | hasadgo'y | 😒 | зави'стливый ([зави'сливый]) | ZAVISTLIVIY — ZAVIST | Hasad (zavist)li. | зави'стливый сосе'д | hasadgo'y qo'shni | — | —
+оби'дчивый | arazchi | 😤 | оби'дчивый, -ая | OBIDCHIVIY — OBIDA | Ranj (obida)li. | оби'дчивый ребёнок | arazchi bola | — | —
+вспы'льчивый | jizzaki | 🔥 | вспы'льчивый, -ая | VSPYLCHIVIY — VSPYSHKA | Chaqmoq (vspyshka)dek yonadi. | вспы'льчивый хара'ктер | jizzaki fe'l | горячий (qizg'in) | спокойный (xotirjam)
+упо'рный | tirishqoq, qat'iyatli | 💪 | упо'рный, -ая | UPORNIY — UPOR | Tiralib (upor) turadi. | упо'рный труд | tinimsiz mehnat | настойчивый (qat'iyatli) | ленивый (dangasa)
+насто'йчивый | qat'iyatli | 🎯 | насто'йчивый, -ая | NASTOYCHIVIY — NASTOY | Turib oladi. | насто'йчивый учени'к | qat'iyatli o'quvchi | упорный (tirishqoq) | нерешительный (ikkilanuvchi)
+целеустремлённый | maqsadga intiluvchan | 🎯 | целеустремлённый (нн) | TSELEUSTREMLYONNIY — TSEL + STREMIT | Maqsad (tsel)ga intiladi. | целеустремлённый челове'к | maqsad sari intiluvchi odam | упорный (tirishqoq) | безвольный (irodasiz)
+пунктуа'льный | o'z vaqtida keluvchi | ⏰ | пунктуа'льный, -ая | PUNKTUALNIY — PUNKT | Har bir punktda aniq. | пунктуа'льный сотру'дник | vaqtga rioya qiluvchi xodim | точный (aniq) | непунктуальный (kechikuvchi)
+организо'ванный | uyushqoq | 🗂️ | организо'ванный (нн) | ORGANIZOVANNIY | Tartibli. | организо'ванный студе'нт | uyushqoq talaba | собранный (yig'inchoq) | рассеянный (parishon)
+дисциплини'рованный | intizomli | 🎖️ | дисциплини'рованный (нн) | DISTSIPLINIROVANNIY — DISTSIPLINA | Intizom (distsiplina)li. | дисциплини'рованный солда'т | intizomli askar | организованный (uyushqoq) | недисциплинированный (intizomsiz)
+непослу'шный | gapga kirmaydigan | 😜 | непослу'шный, -ая | NE + POSLUSHNIY | Itoat qilmaydi. | непослу'шный ребёнок | gapga kirmaydigan bola | капризный (injiq) | послушный (itoatkor)
+хвастли'вый | maqtanchoq | 🦚 | хвастли'вый ([хвасли'вый]) | XVASTLIVIY — XVOST (dum) | Dumini (xvost) ko'z-ko'z qiladi. | хвастли'вый ма'льчик | maqtanchoq bola | — | скромный (kamtar)
+бережли'вый | tejamkor | 🐷 | бережли'вый, -ая | BEREJLIVIY — BEREG | Qirg'oqdek asraydi. | бережли'вая хозя'йка | tejamkor beka | экономный (tejamkor) | расточительный (isrofgar)
+мра'чный | g'amgin, qorong'i | 🌑 | мра'чный, -ая | MRACHNIY — MARAKA | Marakadagi g'amgin kayfiyat. | мра'чное настрое'ние | g'amgin kayfiyat | угрюмый (qovog'i soliq) | весёлый (quvnoq)
+оптимисти'чный | optimistik | 🌞 | оптимисти'чный, -ая | OPTIMISTICHNIY | Optimist. | оптимисти'чный взгляд | optimistik qarash | жизнерадостный (hayotsevar) | пессимистичный (pessimistik)
+пессимисти'чный | pessimistik | 🌧️ | пессимисти'чный, -ая | PESSIMISTICHNIY | Pessimist. | пессимисти'чный прогно'з | pessimistik bashorat | мрачный (g'amgin) | оптимистичный (optimistik)
+романти'чный | romantik | 🌹 | романти'чный, -ая | ROMANTICHNIY | Romantik. | романти'чный ве'чер | romantik oqshom | — | —
+легкомы'сленный | yengiltak | 🎈 | легкомы'сленный (нн) | LEGKOMYSLENNIY — LYOGKIY + MYSL | Yengil (lyogkiy) fikr. | легкомы'сленный посту'пок | yengiltak qiliq | несерьёзный (jiddiy emas) | серьёзный (jiddiy)
+сообрази'тельный | zehnli | 🧠 | сообрази'тельный, -ая | SOOBRAZITELNIY — SOOBRAZIT | Tez anglaydi. | сообрази'тельный учени'к | zehnli o'quvchi | умный (aqlli) | глупый (ahmoq)
+начи'танный | ko'p kitob o'qigan | 📚 | начи'танный (нн) | NACHITANNIY — CHITAT | Ko'p o'qigan (chitat). | начи'танный челове'к | ko'p o'qigan odam | образованный (ma'lumotli) | —
+гра'мотный | savodli | ✍️ | гра'мотный, -ая · гра'мота = savod | GRAMOTNIY — GRAMOTA | Savodi (gramota) bor. | гра'мотное письмо' | savodli xat | образованный (ma'lumotli) | неграмотный (savodsiz)
+негра'мотный | savodsiz | ❌ | негра'мотный, -ая | NE + GRAMOTNIY | Savodsiz. | негра'мотный текст | savodsiz matn | безграмотный (savodsiz) | грамотный (savodli)
+серди'тый | jahldor | 😠 | серди'тый, -ая · qisqa: серди'т | SERDITIY — SARDOR | Sardor jahldor. | серди'тый взгляд | jahldor nigoh | злой (g'azabli) | добрый (mehribon)
+испу'ганный | qo'rqib ketgan | 😨 | испу'ганный (нн) | ISPUGANNIY — ISPUG | Qo'rquv (ispug). | испу'ганный ребёнок | qo'rqib ketgan bola | напуганный (cho'chigan) | спокойный (xotirjam)
+удивлённый | hayron | 😲 | удивлённый (нн) | UDIVLYONNIY — UDIVIT | Hayron qolgan. | удивлённый взгляд | hayron nigoh | изумлённый (lol qolgan) | равнодушный (befarq)
+влюблённый | oshiq | 😍 | влюблённый (нн) · в + В | VLYUBLYONNIY — LYUBIT | Sevib qolgan. | влюблённая па'ра | oshiq juftlik | — | равнодушный (befarq)
+одино'кий | yolg'iz | 🧍 | одино'кий, -ая · qisqa: одино'к | ODINOKIY — ODIN | Yolg'iz (odin). | одино'кий челове'к | yolg'iz odam | один (yolg'iz) | —
+равноду'шный | befarq | 😐 | равноду'шный, -ая | RAVNODUSHNIY — RAVNO + DUSHA | Qalbi (dusha) teng — befarq. | равноду'шный взгляд | befarq nigoh | безразличный (befarq) | заботливый (g'amxo'r)
+ова'льный | oval | 🥚 | ова'льный, -ая | OVALNIY | Oval. | ова'льный стол | oval stol | — | —
+прямоуго'льный | to'g'ri burchakli | ▭ | прямоуго'льный, -ая | PRYAMOUGOLNIY | To'g'ri burchakli. | прямоуго'льный треуго'льник | to'g'ri burchakli uchburchak | — | —
+бирюзо'вый | firuzarang | 🩵 | бирюзо'вый, -ая · бирюза' = firuza | BIRYUZOVIY — FIRUZA | Firuza rang. | бирюзо'вое мо'ре | firuzarang dengiz | — | —

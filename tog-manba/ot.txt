@@ -702,3 +702,106 @@
 зака'т | quyosh botishi | 🌇 | м.р. | ZAKAT — ZAKOT | Kechqurun zakot berishdi. | краси'вый зака'т | chiroyli quyosh botishi | — | рассвет (tong)
 выходны'е | dam olish kunlari | 🛋️ | мн. (sifatdan ot) | VYXODNYE — VYXOD | Chiqish (vyxod) kunlari. | на выходны'х | dam olish kunlarida | — | будни (ish kunlari)
 бу'дни | ish kunlari | 🗓️ | faqat мн. | BUDNI — BUDILNIK | Budilnik jiringlaydigan kunlar. | по бу'дням | ish kunlari | рабочие дни (ish kunlari) | выходные (dam olish kunlari)
+# 8
+проду'кты | oziq-ovqat mahsulotlari | 🛒 | мн.; Р: проду'ктов · магази'н «Проду'кты» | PRODUKTY — PRODUKT | Mahsulot. | купи'ть проду'кты | oziq-ovqat sotib olmoq | еда (ovqat) | —
+мука' | un | 🌾 | ж.р.; Р: муки' | MUKA — MUKAMMAL | Mukammal oppoq un. | мешо'к муки' | bir qop un | — | —
+крупа' | yorma | 🍚 | ж.р.; мн: кру'пы | KRUPA — QURBAQA | Qurbaqa yorma yeyapti. | гре'чневая крупа' | grechka yormasi | — | —
+смета'на | smetana, qaymoq | 🥛 | ж.р. | SMETANA | Smetana. | суп со смета'ной | smetanali sho'rva | сливки (qaymoq) | —
+творо'г | tvorog, suzma | 🧀 | м.р.; Р: творога' | TVOROG — TOVUQ | Tovuq tvorog yeyapti. | творо'г с мёдом | asalli tvorog | — | —
+кефи'р | kefir | 🥛 | м.р. | KEFIR — KEFI | Kefirdan keyin kayfiyat a'lo. | стака'н кефи'ра | bir stakan kefir | — | —
+йо'гурт | yogurt | 🥣 | м.р. | YOGURT | Yogurt. | клубни'чный йо'гурт | qulupnayli yogurt | — | —
+соси'ска | sosiska | 🌭 | ж.р. | SOSISKA | Sosiska. | соси'ски с макаро'нами | makaronli sosiska | — | —
+котле'та | kotlet | 🍔 | ж.р. | KOTLETA — KO'TLET | Kotlet. | котле'та с карто'шкой | kartoshkali kotlet | — | —
+шашлы'к | kabob, shashlik | 🍢 | м.р.; Р: шашлыка' | SHASHLYK | Shashlik. | шашлы'к из бара'нины | qo'y go'shtidan kabob | — | —
+са'мса | somsa | 🥟 | ж.р. | SAMSA — SOMSA | Somsa. | горя'чая са'мса | issiq somsa | пирожок (pirojki) | —
+лепёшка | non (tandir noni) | 🫓 | ж.р. | LEPYOSHKA — LEPYOT (yopishtiradi) | Tandirga yopishtiriladi. | узбе'кская лепёшка | o'zbek noni | хлеб (non) | —
+лагма'н | lag'mon | 🍜 | м.р. | LAGMAN — LAG'MON | Lag'mon. | таре'лка лагма'на | bir likop lag'mon | — | —
+ма'нты | manti | 🥟 | мн.; Р: ма'нтов | MANTY — MANTI | Manti. | вку'сные ма'нты | mazali manti | — | —
+бо'рщ | borsh | 🍲 | м.р.; Р: борща' | BORSH | Lavlagili sho'rva. | укра'инский борщ | ukrain borshi | суп (sho'rva) | —
+сала'т | salat | 🥗 | м.р. | SALAT | Salat. | овощно'й сала'т | sabzavotli salat | — | —
+бутербро'д | buterbrod | 🥪 | м.р. ([бутэрбро'т]) | BUTERBROD | Buterbrod. | бутербро'д с сы'ром | pishloqli buterbrod | сэндвич (sendvich) | —
+пи'цца | pitsa | 🍕 | ж.р. | PITSA | Pitsa. | заказа'ть пи'ццу | pitsa buyurtma qilmoq | — | —
+со'ус | sous | 🥫 | м.р. | SOUS | Sous. | тома'тный со'ус | pomidor sousi | приправа (ziravor) | —
+ке'тчуп | ketchup | 🍅 | м.р. | KETCHUP | Ketchup. | карто'шка с ке'тчупом | ketchupli kartoshka | — | —
+майоне'з | mayonez | 🥚 | м.р. | MAYONEZ | Mayonez. | сала'т с майоне'зом | mayonezli salat | — | —
+спе'ции | ziravorlar | 🌶️ | мн.; Р: спе'ций | SPETSII — SPETS | Maxsus (spets) ta'm. | восто'чные спе'ции | sharq ziravorlari | приправа (ziravor) | —
+припра'ва | ziravor | 🧂 | ж.р. | PRIPRAVA — PIR + PRAVA | Pirning pravasi — ziravor. | припра'ва для пло'ва | palov ziravori | специи (ziravorlar) | —
+десе'рт | shirinlik (desert) | 🍮 | м.р. ([десэ'рт]) | DESERT | Desert. | На десе'рт — моро'женое. | Shirinlikka — muzqaymoq. | сладкое (shirinlik) | —
+пиро'г | pirog | 🥧 | м.р.; Р: пирога' | PIROG | Pirog. | я'блочный пиро'г | olmali pirog | торт (tort) | —
+бу'лочка | bulochka | 🥐 | ж.р. | BULOCHKA — BULUT | Bulutdek yumshoq bulochka. | бу'лочка с ко'фе | qahva bilan bulochka | — | —
+бато'н | baton (non) | 🥖 | м.р. | BATON — BOTIR | Botir baton. | бато'н хле'ба | bir baton non | — | —
+шокола'д | shokolad | 🍫 | м.р. | SHOKOLAD | Shokolad. | плитка шокола'да | bir plitka shokolad | — | —
+жва'чка | saqich | 🫧 | ж.р. | JVACHKA — JAVOB | Saqich chaynab javob berma! | жева'ть жва'чку | saqich chaynamoq | — | —
+напи'ток | ichimlik | 🥤 | м.р.; Р: напи'тка | NAPITOK — NA + PIT (ichmoq) | Ichiladigan narsa. | холо'дный напи'ток | sovuq ichimlik | питьё (ichimlik) | еда (ovqat)
+компо'т | kompot | 🍹 | м.р. | KOMPOT | Kompot. | компо'т из я'блок | olma kompoti | — | —
+лимона'д | limonad | 🍋 | м.р. | LIMONAD | Limonad. | сла'дкий лимона'д | shirin limonad | — | —
+кака'о | kakao | ☕ | ср.р., o'zgarmaydi | KAKAO | Kakao. | ча'шка кака'о | bir piyola kakao | — | —
+абрико'с | o'rik | 🍑 | м.р. | ABRIKOS — ABRI + KOS | Kosada o'rik. | сушёный абрико'с | o'rik qoqi | урюк (qoqi) | —
+пе'рсик | shaftoli | 🍑 | м.р. | PERSIK — PERSI | Fors (Persiya) shaftolisi. | со'чный пе'рсик | sersuv shaftoli | — | —
+сли'ва | olxo'ri | 🫐 | ж.р. | SLIVA — SILLIQ | Silliq olxo'ri. | сла'дкая сли'ва | shirin olxo'ri | — | —
+инжи'р | anjir | 🟣 | м.р. | INJIR — ANJIR | Anjir — injir. | спе'лый инжи'р | pishgan anjir | — | —
+грана'т | anor | 🍎 | м.р. | GRANAT — GRANATA | Anor granatadek "portlaydi"! | сок грана'та | anor sharbati | — | —
+хурма' | xurmo | 🟠 | ж.р. | XURMA — XURMO | Xurmo. | спе'лая хурма' | pishgan xurmo | — | —
+айва' | behi | 🍐 | ж.р. | AYVA — AYVON | Ayvonda behi. | варе'нье из айвы' | behi murabbosi | — | —
+ты'ква | qovoq | 🎃 | ж.р. | TYKVA — TIQ | Qovoq "tiq" etib yorildi. | са'мса с ты'квой | qovoqli somsa | — | —
+баклажа'н | baqlajon | 🍆 | м.р. | BAKLAJAN — BAQLAJON | Baqlajon. | жа'реные баклажа'ны | qovurilgan baqlajon | — | —
+кукуру'за | makkajo'xori | 🌽 | ж.р. | KUKURUZA — KUKU + RUZA | Kuku qushi makkajo'xori yeyapti. | варёная кукуру'за | qaynatilgan makkajo'xori | — | —
+фасо'ль | lo'biya | 🫘 | ж.р. (-ь) | FASOL — FASL | Har fasl lo'biya. | суп с фасо'лью | lo'biyali sho'rva | — | —
+горо'х | no'xat | 🟢 | м.р. | GOROX — G'O'RA | G'o'r no'xat. | горо'ховый суп | no'xat sho'rva | — | —
+реди'ска | rediska | 🌱 | ж.р. | REDISKA | Rediska. | сала'т из реди'ски | rediska salati | — | —
+свёкла | lavlagi | 🟣 | ж.р. | SVYOKLA — SVYOKOR | Lavlagi qip-qizil. | борщ со свёклой | lavlagili borsh | — | —
+зе'лень | ko'katlar | 🌿 | ж.р. (-ь) | ZELEN — ZELYONIY | Yashil (zelyoniy). | све'жая зе'лень | yangi ko'katlar | — | —
+укро'п | shivit | 🌿 | м.р. | UKROP — U + KO'P | U ko'p shivit soldi. | суп с укро'пом | shivitli sho'rva | — | —
+петру'шка | petrushka | 🌿 | ж.р. | PETRUSHKA | Petrushka. | пучо'к петру'шки | bir bog' petrushka | — | —
+кинза' | kashnich | 🌿 | ж.р. | KINZA — KINO | Kinoda kashnich yeyapti. | сала'т с кинзо'й | kashnichli salat | кориандр (koriandr) | —
+насеко'мое | hasharot | 🐞 | ср.р. (sifatdan ot) | NASEKOMOE — NA + SEKATOR | Sekator kabi qanotli. | вре'дные насеко'мые | zararli hasharotlar | букашка (qo'ng'iz) | —
+мураве'й | chumoli | 🐜 | м.р.; Р: муравья' | MURAVEY — MURABBO | Chumoli murabboga keldi. | трудолюби'вый мураве'й | mehnatkash chumoli | — | —
+пау'к | o'rgimchak | 🕷️ | м.р.; Р: паука' | PAUK — PAXTA | O'rgimchak paxtadek to'r to'qiydi. | пау'к плетёт паути'ну | o'rgimchak to'r to'qiydi | — | —
+жу'к | qo'ng'iz | 🪲 | м.р.; Р: жука' | JUK — JO'K | Qo'ng'iz "jo'k-jo'k" uchadi. | чёрный жук | qora qo'ng'iz | — | —
+че'рвь | chuvalchang | 🪱 | м.р. (-ь); Р: червя' | CHERV — CHERVON | Chuvalchang chervon (oltin) topdi. | земляно'й червь | yomg'ir chuvalchangi | — | —
+ули'тка | shilliqqurt | 🐌 | ж.р. | ULITKA — ULIT | Uylarini orqasida olib yuradi. | ме'дленная ули'тка | sekin shilliqqurt | — | —
+лягу'шка | qurbaqa | 🐸 | ж.р. | LYAGUSHKA — LAG'ANCHA | Qurbaqa lag'anchada o'tiribdi. | зелёная лягу'шка | yashil qurbaqa | — | —
+черепа'ха | toshbaqa | 🐢 | ж.р. | CHEREPAXA — CHEREP (bosh suyagi) | Qattiq qalqonli. | ме'дленная черепа'ха | sekin toshbaqa | — | —
+крокоди'л | timsoh | 🐊 | м.р. | KROKODIL | Timsoh — krokodil. | зелёный крокоди'л | yashil timsoh | — | —
+жира'ф | jirafa | 🦒 | м.р. | JIRAF | Jirafa. | высо'кий жира'ф | baland jirafa | — | —
+зе'бра | zebra | 🦓 | ж.р. | ZEBRA | Zebra — piyoda yo'lagi ham! | полоса'тая зе'бра | yo'l-yo'l zebra | — | —
+кенгуру' | kenguru | 🦘 | м.р., o'zgarmaydi | KENGURU | Kenguru. | кенгуру' в Австра'лии | Avstraliyadagi kenguru | — | —
+пингви'н | pingvin | 🐧 | м.р. | PINGVIN | Pingvin. | пингви'ны на льду | muzdagi pingvinlar | — | —
+попуга'й | to'tiqush | 🦜 | м.р.; Р: попуга'я | POPUGAY — PO + PUG'AY | To'tiqush "pug'ay" deb gapiradi. | говоря'щий попуга'й | gapiradigan to'tiqush | — | —
+го'лубь | kaptar | 🕊️ | м.р. (-ь); Р: го'лубя | GOLUB — GULOB | Kaptar gulob ichadi. | бе'лый го'лубь | oq kaptar | — | —
+воро'на | qarg'a | 🐦 | ж.р. | VORONA — VORON (qarg'a) | Qarg'a. | чёрная воро'на | qora qarg'a | ворон (qarg'a) | —
+орёл | burgut | 🦅 | м.р.; Р: орла' | ORYOL — O'RAL | Burgut osmonda o'raladi. | го'рный орёл | tog' burguti | — | —
+сова' | boyo'g'li | 🦉 | ж.р.; мн: со'вы | SOVA — SOVUQ | Sovuq tunda boyo'g'li uyg'oq. | му'драя сова' | dono boyo'g'li | филин (qorayaloq) | —
+воробе'й | chumchuq | 🐦 | м.р.; Р: воробья' | VOROBEY — VORIS + BEY | Kichkina chumchuq. | ма'ленький воробе'й | kichkina chumchuq | — | —
+ла'сточка | qaldirg'och | 🐦 | ж.р. | LASTOCHKA — LASTIK | Qaldirg'och lastikdek tez. | Ла'сточки прилете'ли. | Qaldirg'ochlar uchib keldi. | — | —
+кро'лик | quyon (uy) | 🐇 | м.р. | KROLIK — KIR + OLIK | Uy quyoni. | бе'лый кро'лик | oq quyon | заяц (quyon) | —
+хомя'к | olmaxon (xomyak) | 🐹 | м.р.; Р: хомяка' | XOMYAK — XOM YAK | Xom yeydi. | дома'шний хомя'к | uy xomyagi | — | —
+бе'лка | olmaxon | 🐿️ | ж.р. | BELKA — BEL | Belini bukib yong'oq yeydi. | ры'жая бе'лка | malla olmaxon | — | —
+ёж | tipratikan | 🦔 | м.р.; Р: ежа' | YOJ — YO'JA | Tipratikanning tikanlari. | колю'чий ёж | tikanli tipratikan | — | —
+оле'нь | bug'u | 🦌 | м.р. (-ь) | OLEN — OLA + EN | Ola bug'u. | се'верный оле'нь | shimol bug'usi | — | —
+бара'н | qo'chqor | 🐏 | м.р. | BARAN — BORAN | Qo'chqor bo'ronda turibdi. | упря'мый бара'н | o'jar qo'chqor | — | овца (qo'y)
+бы'к | buqa | 🐂 | м.р.; Р: быка' | BYK — BIQ | Buqa "biq" deb suzadi. | си'льный бык | kuchli buqa | — | корова (sigir)
+телёнок | buzoq | 🐮 | м.р.; мн: теля'та | TELYONOK — TELEFON | Buzoq telefonda gaplashyapti. | ма'ленький телёнок | kichkina buzoq | — | —
+щено'к | kuchukcha | 🐶 | м.р.; Р: щенка'; мн: щенки', щеня'та | SHENOK — SHO'NG | Kuchukcha suvga sho'ng'idi. | весёлый щено'к | quvnoq kuchukcha | — | —
+котёнок | mushukcha | 🐱 | м.р.; мн: котя'та | KOTYONOK — KOT | Mushuk (kot)ning bolasi. | пуши'стый котёнок | mayin mushukcha | — | —
+цыплёнок | jo'ja | 🐥 | м.р.; мн: цыпля'та | TSYPLYONOK — SIPLA | Jo'ja sipladi. | жёлтый цыплёнок | sariq jo'ja | — | —
+ры'бка | baliqcha | 🐠 | ж.р. | RYBKA — RIBA | Kichik baliq. | золота'я ры'бка | oltin baliqcha | — | —
+аку'ла | akula | 🦈 | ж.р. | AKULA | Akula. | опа'сная аку'ла | xavfli akula | — | —
+ки'т | kit | 🐋 | м.р.; Р: кита' | KIT | Kit. | большо'й кит | katta kit | — | —
+дельфи'н | delfin | 🐬 | м.р. | DELFIN | Delfin. | у'мный дельфи'н | aqlli delfin | — | —
+расте'ние | o'simlik | 🪴 | ср.р. (-ние) | RASTENIE — RASTI | O'sadi (rasti). | ко'мнатное расте'ние | xona o'simligi | цветок (gul) | животное (hayvon)
+ку'ст | buta | 🌳 | м.р.; Р: куста' | KUST — QUST | Butada qush. | ку'ст ро'з | atirgul butasi | — | —
+ро'за | atirgul | 🌹 | ж.р. | ROZA — ROZA | Atirgul — roza. | кра'сная ро'за | qizil atirgul | — | —
+тюльпа'н | lola | 🌷 | м.р. | TYULPAN — TYUL + PAN | Lola — tyulpan. | кра'сный тюльпа'н | qizil lola | — | —
+се'мя | urug' | 🌰 | ср.р. (-мя!); мн: семена' | SEMYA — SEMIZ | Semiz urug'. | семена' цвето'в | gul urug'lari | зерно (don) | —
+пло'д | meva (o'simlik mevasi) | 🍎 | м.р. | PLOD — PALOV | Palovdek mazali meva. | плоды' де'рева | daraxt mevalari | фрукт (meva) | —
+урожа'й | hosil | 🌾 | м.р. | UROJAY — O'ROQ | O'roq bilan hosil yig'iladi. | хоро'ший урожа'й | yaxshi hosil | сбор (yig'im) | неурожай (hosilsizlik)
+хло'пок | paxta | 🌱 | м.р.; Р: хло'пка | XLOPOK — XLOP | Paxta "xlop" etib ochildi. | бе'лый хло'пок | oq paxta | — | —
+пшени'ца | bug'doy | 🌾 | ж.р. | PSHENITSA — PISH | Bug'doy pishdi. | по'ле пшени'цы | bug'doy dalasi | — | —
+берёза | qayin | 🌳 | ж.р. | BERYOZA — BERYO | Oq qayin. | бе'лая берёза | oq qayin | — | —
+ду'б | eman | 🌳 | м.р.; мн: дубы' | DUB — DUB (qattiq) | Qattiq eman. | ста'рый дуб | qari eman | — | —
+сосна' | qarag'ay | 🌲 | ж.р.; мн: со'сны | SOSNA — SO'SNA | Qarag'ay so'snada. | высо'кая сосна' | baland qarag'ay | — | —
+ёлка | archa | 🎄 | ж.р. · нового'дняя ёлка | YOLKA — YOL | Yangi yil yo'lidagi archa. | наряжа'ть ёлку | archani bezamoq | ель (archa) | —
+то'поль | terak | 🌳 | м.р. (-ь); мн: тополя' | TOPOL — TO'P | Terak to'pdek baland. | высо'кий то'поль | baland terak | — | —
+чина'р | chinor | 🌳 | м.р. | CHINAR — CHINOR | Chinor. | ста'рый чина'р | keksa chinor | платан (platan) | —
+и'ва | tol | 🌳 | ж.р. | IVA — IYA | Tol daryoga egilgan. | плаку'чая и'ва | majnuntol | — | —

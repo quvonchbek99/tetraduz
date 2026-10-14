@@ -41,3 +41,41 @@
 сто'лько | shuncha | 📦 | + Р: сто'лько рабо'ты | STOLKO — STOL + KO' | Stol ustida shuncha ko'p! | Почему' сто'лько люде'й? | Nega shuncha odam? | — | —
 э'то | bu (ko'rsatish) | 👇 | o'zgarmaydi: Э'то мой брат. Э'то кни'га. | ETO — ETIK | Bu etik! — Eto etik. | Что э'то? | Bu nima? | — | —
 друг дру'га | bir-birini | 🔄 | Р: друг дру'га · Д: друг дру'гу · П: друг о дру'ге | DRUG DRUGA — DO'ST DO'STNI | Do'st do'stni quchoqlaydi. | Они' лю'бят друг дру'га. | Ular bir-birini sevadi. | — | —
+# 7
+меня' | meni; mening (Р) | 🙋 | я → Р/В: меня' · у меня' = menda | MENYA — MENYU | Menyuni menga bering — "menya"! | У меня' есть брат. | Mening akam bor. | — | тебя (seni)
+мне | menga; menda (П) | 🙋 | я → Д: мне · П: обо мне' | MNE — MEN-E | Menga! | Мне два'дцать лет. | Men yigirma yoshdaman. | — | тебе (senga)
+мной | men bilan | 🙋 | я → Т: мной (мно'ю) · со мной | MNOY — MEN + OY | Men va oy birga. | Пойдём со мной. | Men bilan yur. | — | тобой (sen bilan)
+тебя' | seni; sening (Р) | 👉 | ты → Р/В: тебя' · у тебя' = senda | TEBYA — TEPA | Tepada seni ko'rdim. | Я люблю' тебя'. | Men seni sevaman. | — | меня (meni)
+тебе' | senga | 👉 | ты → Д/П: тебе' | TEBE — TEPA | Tepadan senga! | Я тебе' позвоню'. | Senga qo'ng'iroq qilaman. | — | мне (menga)
+тобо'й | sen bilan | 👉 | ты → Т: тобо'й | TOBOY — TOBUT | Sen bilan tobutdek mustahkam do'stlik. | Я с тобо'й. | Men sen bilan. | — | мной (men bilan)
+ему' | unga (erkak) | 👨 | он → Д: ему' · к нему' | YEMU — YEMI | Unga yem bering! | Дай ему' кни'гу. | Unga kitob ber. | — | ей (unga — ayol)
+ей | unga (ayol) | 👩 | она' → Д/Т: ей · к ней | YEY — YEY | Yey! — unga. | Скажи' ей. | Unga ayt. | — | ему (unga — erkak)
+нам | bizga | 👨‍👩‍👧 | мы → Д: нам | NAM — NOM | Bizga nom bering! | Нам на'до идти'. | Biz ketishimiz kerak. | — | вам (sizga)
+вам | sizga | 🫵 | вы → Д: вам | VAM — VAMPIR | Sizga vampir qo'ng'iroq qildi! | Вам помо'чь? | Sizga yordam beraymi? | — | нам (bizga)
+им | ularga; u bilan | 👥 | они' → Д: им; он → Т: им | IM — IMO | Ularga imo qildingiz. | Я им сказа'л. | Men ularga aytdim. | — | —
+нас | bizni; bizda | 👨‍👩‍👧 | мы → Р/В/П: нас · у нас = bizda | NAS — NOS | Bizda nos yo'q! | У нас го'сти. | Bizda mehmonlar. | — | вас (sizni)
+вас | sizni; sizda | 🫵 | вы → Р/В/П: вас · у вас = sizda | VAS — VAZA | Sizda vaza bor. | Как вас зову'т? | Ismingiz nima? | — | нас (bizni)
+них | ularni (predlog bilan); ular | 👥 | они' → Р/В/П (predlogdan keyin): у них, о них | NIX — NIXOL | Ularda nihol bor. | У них но'вый дом. | Ularning yangi uyi bor. | — | —
+него' | uni (predlog bilan, erkak) | 👨 | он → Р/В predlogdan keyin: у него', для него' | NEGO — NEGA | Nega unda? | У него' есть маши'на. | Uning mashinasi bor. | — | неё (uni — ayol)
+неё | uni (predlog bilan, ayol) | 👩 | она' → Р/В predlogdan keyin: у неё, без неё | NEYO — NE YO | Ne yo'q unda? | У неё краси'вое пла'тье. | Uning chiroyli ko'ylagi bor. | — | него (uni — erkak)
+всё | hammasi (narsalar) | 🧺 | весь → ср.р.: всё · Р: всего' | VSYO — VSYO | Hammasi — vsyo! | Всё хорошо'. | Hammasi yaxshi. | целое (butun) | ничего (hech narsa)
+все | hamma (odamlar) | 👥 | весь → мн.: все · Р: всех | VSE — VSE | Hamma — vse! | Все до'ма. | Hamma uyda. | каждый (har bir) | никто (hech kim)
+ничто' | hech narsa | 🚫 | Им: ничто'; Р: ничего' · + не | NICHTO — NI + SHTO | Hech nima. | Ничто' не ве'чно. | Hech narsa abadiy emas. | — | всё (hammasi)
+ниче'й | hech kimniki | 🙅 | ниче'й, ничья', ничьё, ничьи' · ничья' = durang | NICHEY — NI + CHEY | Hech kimniki. | Ничья'! | Durang! | — | чей-то (kimningdir)
+не'кого | hech kim yo'q (ki…) | 🚷 | не'кого + inf: Не'кого спроси'ть. | NEKOGO — NE + KOGO | So'raydigan kishi yo'q. | Мне не'кого позва'ть. | Chaqiradigan kishim yo'q. | — | —
+не'чего | hech narsa yo'q (ki…) | 🈳 | не'чего + inf: Не'чего де'лать. | NECHEGO — NE + CHEGO | Qiladigan ish yo'q. | Не'чего боя'ться. | Qo'rqadigan narsa yo'q. | — | —
+не'кто / не'что | allakim / allanima | ❔ | faqat Им/В · Не'кто Ива'нов | NEKTO — NE + KTO | Allakim. | не'что интере'сное | allaqanday qiziq narsa | кто-то (kimdir) | никто (hech kim)
+че'й-то | kimningdir | 🏷️ | чей-то, чья-то, чьё-то | CHEY-TO — CHOY | Kimningdir choyi. | Э'то чья'-то су'мка. | Bu kimningdir sumkasi. | — | ничей (hech kimniki)
+что'-нибудь | biror narsa | 🎁 | Р: чего'-нибудь · savol, istak | CHTO-NIBUD | Biror narsa. | Хо'чешь что'-нибудь? | Biror narsa xohlaysanmi? | что-либо (biror nima) | ничего (hech narsa)
+како'й-то | qandaydir | 🌀 | како'й-то, кака'я-то | KAKOY-TO — KAKAO | Qandaydir kakao. | како'й-то челове'к | qandaydir odam | некий (allaqanday) | —
+како'й-нибудь | biror (xohlagan) | 🎲 | како'й-нибудь, кака'я-нибудь | KAKOY-NIBUD | Xohlagan biror. | Дай каку'ю-нибудь кни'гу. | Biror kitob ber. | любой (istalgan) | никакой (hech qanday)
+ко'е-кто / ко'е-что | ba'zi birov / ba'zi narsa | 🤫 | ко'е-кто, ко'е-что · predlog o'rtada: ко'е с кем | KOE-KTO — KO'Y | Ko'yda ba'zi birov bor. | Я ко'е-что зна'ю. | Men bir narsa bilaman. | кто-то (kimdir) | —
+кто'-либо / что'-либо | biror kishi / biror narsa | ❔ | rasmiy uslub | KTO-LIBO | Rasmiy "kimdir". | е'сли кто'-либо спро'сит | agar biror kishi so'rasa | кто-нибудь (biror kishi) | никто (hech kim)
+то'т же | o'sha (aynan) | 🔁 | тот же, та же, то же, те же | TOT JE — TO'TI | O'sha to'ti! | тот же челове'к | o'sha odam | такой же (xuddi shunday) | другой (boshqa)
+тако'й же | xuddi shunday | 👯 | тако'й же, така'я же | TAKOY JE — TAQA | Xuddi shunday taqa. | У меня' тако'й же телефо'н. | Menda ham xuddi shunday telefon bor. | одинаковый (bir xil) | другой (boshqa)
+ино'й | boshqa (kitobiy) | 🔀 | ино'й, ина'я, ино'е | INOY — INO (boshqa) | Boshqa. | ины'ми слова'ми | boshqacha aytganda | другой (boshqa) | тот же (o'sha)
+сами' | o'zlari | 💪 | сам → мн.: са'ми · Р: сами'х | SAMI — SAM | O'zlari. | Мы са'ми сде'лали. | O'zimiz qildik. | — | —
+са'ма | o'zi (ayol) | 💪 | сам → ж.р.: сама' | SAMA — SAM | O'zi. | Она' сама' пришла'. | U o'zi keldi. | — | —
+своё / свои' | o'ziniki / o'zlariniki | 🔁 | свой → ср.р. своё; мн. свои' | SVOYO | O'zining. | Ка'ждый де'лает своё. | Har kim o'z ishini qiladi. | собственный (o'z) | чужой (birovning)
+мо'й / моя' / моё / мои' | mening (barcha shakllar) | 🫴 | Р: моего', мое'й, мои'х · Д: моему', мое'й, мои'м | MOY | Mening. | на моём ме'сте | mening o'rnimda | — | твой (sening)
+како'в | qanday (kitobiy) | ❓ | како'в, какова', каково' (qisqa) · Каково'? | KAKOV — KAKAO | Qanday kakao? | Какова' цена'? | Narxi qanday? | какой (qanday) | —
