@@ -805,3 +805,98 @@
 то'поль | terak | 🌳 | м.р. (-ь); мн: тополя' | TOPOL — TO'P | Terak to'pdek baland. | высо'кий то'поль | baland terak | — | —
 чина'р | chinor | 🌳 | м.р. | CHINAR — CHINOR | Chinor. | ста'рый чина'р | keksa chinor | платан (platan) | —
 и'ва | tol | 🌳 | ж.р. | IVA — IYA | Tol daryoga egilgan. | плаку'чая и'ва | majnuntol | — | —
+# 9
+челове'чество | insoniyat | 🌍 | ср.р. | CHELOVECHESTVO — CHELOVEK | Barcha odamlar (chelovek). | исто'рия челове'чества | insoniyat tarixi | люди (odamlar) | —
+населе'ние | aholi | 👥 | ср.р. (-ние) | NASELENIE — SELO | Qishloq (selo)lar aholisi. | населе'ние страны' | mamlakat aholisi | жители (yashovchilar) | —
+на'ция | millat | 🏳️ | ж.р. (-ия) | NATSIYA — MILLAT | Millat — natsiya. | узбе'кская на'ция | o'zbek millati | народ (xalq) | —
+национа'льность | millat (shaxsning) | 🪪 | ж.р. (-ость) | NATSIONALNOST | Millati. | Кто вы по национа'льности? | Millatingiz kim? | — | —
+ро'дина | vatan | 🇺🇿 | ж.р. · на ро'дине = vatanda | RODINA — RO'DA | Ro'da (tug'ilgan joy). | моя' ро'дина | mening vatanim | отечество (vatan) | чужбина (begona yurt)
+оте'чество | vatan (ota yurt) | 🏞️ | ср.р. | OTECHESTVO — OTETS | Ota (otets) yurti. | защи'та оте'чества | vatan himoyasi | родина (vatan) | чужбина (begona yurt)
+фла'г | bayroq | 🏳️ | м.р. | FLAG | Bayroq — flag. | госуда'рственный флаг | davlat bayrog'i | знамя (tug') | —
+ге'рб | gerb | 🛡️ | м.р.; Р: ге'рба | GERB | Gerb. | герб Узбекиста'на | O'zbekiston gerbi | эмблема (emblema) | —
+ги'мн | madhiya | 🎶 | м.р. | GIMN | Madhiya — gimn. | госуда'рственный гимн | davlat madhiyasi | — | —
+конститу'ция | konstitutsiya | 📜 | ж.р. (-ия) | KONSTITUTSIYA | Konstitutsiya. | День Конститу'ции | Konstitutsiya kuni | основной закон (asosiy qonun) | —
+вы'боры | saylov | 🗳️ | faqat мн.; Р: вы'боров | VYBORY — VYBOR (tanlov) | Tanlovlar. | президе'нтские вы'боры | prezident saylovi | голосование (ovoz berish) | —
+па'ртия | partiya | 🏛️ | ж.р. (-ия) | PARTIYA | Partiya. | полити'ческая па'ртия | siyosiy partiya | — | —
+депута'т | deputat | 🧑‍💼 | м.р. | DEPUTAT | Deputat. | депута'т парла'мента | parlament deputati | — | избиратель (saylovchi)
+парла'мент | parlament | 🏛️ | м.р. | PARLAMENT | Parlament. | заседа'ние парла'мента | parlament majlisi | — | —
+мэ'р | mer | 🏙️ | м.р. | MER — MER | Shahar meri. | мэр го'рода | shahar meri | глава города (shahar rahbari) | —
+хо'ким | hokim | 🏛️ | м.р. | XOKIM | Hokim. | хо'ким райо'на | tuman hokimi | глава (rahbar) | —
+а'рмия | armiya | 🪖 | ж.р. (-ия) | ARMIYA | Armiya. | служи'ть в а'рмии | armiyada xizmat qilmoq | войско (qo'shin) | —
+офице'р | ofitser | 🎖️ | м.р. | OFITSER | Ofitser. | молодо'й офице'р | yosh ofitser | — | солдат (askar)
+генера'л | general | ⭐ | м.р. | GENERAL | General. | генера'л а'рмии | armiya generali | — | —
+геро'й | qahramon | 🦸 | м.р.; Р: геро'я | GEROY — GO'R + OY | Qahramon — geroy. | Геро'й Узбекиста'на | O'zbekiston Qahramoni | богатырь (botir) | трус (qo'rqoq)
+по'двиг | jasorat | 🏅 | м.р. | PODVIG — POD + VIG | Jasorat ko'rsatdi. | соверши'ть по'двиг | jasorat ko'rsatmoq | геройство (qahramonlik) | трусость (qo'rqoqlik)
+па'мять | xotira | 🧠 | ж.р. (-ь) · на па'мять = esdalik uchun | PAMYAT — PAMIDOR | Pomidor bolalikni xotirlatadi. | хоро'шая па'мять | yaxshi xotira | воспоминание (xotira) | забвение (unutish)
+па'мятник | haykal, yodgorlik | 🗿 | м.р. | PAMYATNIK — PAMYAT | Xotira (pamyat) uchun. | па'мятник Аму'ру Тиму'ру | Amir Temur haykali | монумент (monument) | —
+да'та | sana | 📅 | ж.р. | DATA — DATA | Sana — data. | да'та рожде'ния | tug'ilgan sana | число (sana) | —
+юбиле'й | yubiley | 🎉 | м.р. | YUBILEY | Yubiley. | юбиле'й шко'лы | maktab yubileyi | годовщина (yillik) | —
+годовщи'на | yillik (sana) | 🗓️ | ж.р. | GODOVSHINA — GOD | Yil (god) to'ldi. | годовщи'на сва'дьбы | to'y yilligi | юбилей (yubiley) | —
+литерату'ра | adabiyot | 📚 | ж.р. | LITERATURA | Adabiyot. | ру'сская литерату'ра | rus adabiyoti | — | —
+те'хника | texnika | ⚙️ | ж.р. | TEXNIKA | Texnika. | бытова'я те'хника | maishiy texnika | — | —
+техноло'гия | texnologiya | 🖥️ | ж.р. (-ия) | TEXNOLOGIYA | Texnologiya. | но'вые техноло'гии | yangi texnologiyalar | — | —
+изобрете'ние | ixtiro | 💡 | ср.р. (-ние) | IZOBRETENIE — IZ + OBRAZ | Yangi obraz — ixtiro. | вели'кое изобрете'ние | buyuk ixtiro | открытие (kashfiyot) | —
+откры'тие | kashfiyot; ochilish | 🔭 | ср.р. (-ие) | OTKRYTIE — OTKRYT | Ochilgan (otkryt). | нау'чное откры'тие | ilmiy kashfiyot | изобретение (ixtiro) | закрытие (yopilish)
+экспериме'нт | tajriba | 🧪 | м.р. | EKSPERIMENT | Eksperiment. | провести' экспериме'нт | tajriba o'tkazmoq | опыт (tajriba) | —
+иссле'дование | tadqiqot | 🔬 | ср.р. (-ние) | ISSLEDOVANIE — IS + SLED | Iz (sled) bo'yicha. | нау'чное иссле'дование | ilmiy tadqiqot | изучение (o'rganish) | —
+тео'рия | nazariya | 📖 | ж.р. (-ия) | TEORIYA | Nazariya. | тео'рия и пра'ктика | nazariya va amaliyot | гипотеза (gipoteza) | практика (amaliyot)
+ме'тод | metod, usul | 🛠️ | м.р. | METOD | Metod. | ме'тод TOG | TOG metodi | способ (usul) | —
+структу'ра | tuzilma | 🏗️ | ж.р. | STRUKTURA | Struktura. | структу'ра предложе'ния | gap tuzilishi | строение (tuzilish) | —
+моде'ль | model | 🧩 | ж.р. (-ь) ([модэ'ль]) | MODEL | Model. | моде'ль маши'ны | mashina modeli | образец (namuna) | —
+образе'ц | namuna | 📋 | м.р.; Р: образца' | OBRAZETS — OBRAZ | Obraz — namuna. | образе'ц заявле'ния | ariza namunasi | пример (misol), шаблон (shablon) | —
+вариа'нт | variant | 🔀 | м.р. | VARIANT | Variant. | пе'рвый вариа'нт | birinchi variant | версия (versiya) | —
+вы'бор | tanlov | ☑️ | м.р. · сде'лать вы'бор | VYBOR — VIBOR | Tanlov. | тру'дный вы'бор | qiyin tanlov | выборы (saylov) | —
+эта'п | bosqich | 🪜 | м.р. | ETAP — ETAJ | Har qavat (etaj) — bosqich. | пе'рвый эта'п | birinchi bosqich | стадия (bosqich), ступень (pog'ona) | —
+ти'п | tur, tip | 🏷️ | м.р. | TIP | Tip. | тип пого'ды | ob-havo turi | вид (tur), сорт (nav) | —
+со'рт | nav | 🍏 | м.р.; мн: сорта' | SORT — SORT | Nav — sort. | сорт я'блок | olma navi | вид (tur) | —
+за'пах | hid | 👃 | м.р. | ZAPAX — ZAP + PAXTA | Paxta hidi. | прия'тный за'пах | yoqimli hid | аромат (xushbo'y) | —
+вку'с | ta'm | 👅 | м.р. | VKUS — VAQT + US | Ta'mi. | сла'дкий вкус | shirin ta'm | привкус (ta'm) | безвкусица (ta'msizlik)
+эне'ргия | energiya | ⚡ | ж.р. (-ия) | ENERGIYA | Energiya. | со'лнечная эне'ргия | quyosh energiyasi | сила (kuch) | усталость (charchoq)
+давле'ние | bosim | 🩺 | ср.р. (-ние) | DAVLENIE — DAVLAT | Davlat bosimi. | высо'кое давле'ние | yuqori bosim | напор (bosim) | —
+поко'й | tinchlik, osoyishtalik | 🧘 | м.р. | POKOY — POK + OY | Pok oy tunda tinch. | оста'вь меня' в поко'е | meni tinch qo'y | тишина (jimlik) | движение (harakat)
+тишина' | jimlik | 🤫 | ж.р. | TISHINA — TISH | Tishingizni qisib jim turasiz. | Тишина'! | Jimlik! | молчание (sukut) | шум (shovqin)
+шу'м | shovqin | 📢 | м.р. | SHUM — SHUM | Shum bola shovqin qiladi! | си'льный шум | kuchli shovqin | гам (g'ala-g'ovur) | тишина (jimlik)
+кри'к | qichqiriq | 😱 | м.р. | KRIK — KIRIK | Kirik ovozli qichqiriq. | гро'мкий крик | baland qichqiriq | вопль (faryod) | шёпот (shivir)
+та'нец | raqs | 💃 | м.р.; Р: та'нца | TANETS — TANGA | Tanga raqs tushyapti. | наро'дный та'нец | xalq raqsi | пляска (o'yin) | —
+соревнова'ние | musobaqa | 🏁 | ср.р. (-ние) | SOREVNOVANIE — SOR + EVNOVANIE | Bahslashuv. | спорти'вные соревнова'ния | sport musobaqalari | состязание (bellashuv) | —
+чемпиона'т | chempionat | 🏆 | м.р. | CHEMPIONAT | Chempionat. | чемпиона'т ми'ра | jahon chempionati | первенство (birinchilik) | —
+ма'тч | match, o'yin | ⚽ | м.р. | MATCH | Match. | футбо'льный матч | futbol o'yini | игра (o'yin) | —
+турни'р | turnir | 🏅 | м.р. | TURNIR | Turnir. | ша'хматный турни'р | shaxmat turniri | соревнование (musobaqa) | —
+го'л | gol | ⚽ | м.р.; мн: голы' | GOL | Gol! | заби'ть гол | gol urmoq | — | —
+очко' | ochko | 🔢 | ср.р.; мн: очки' | OCHKO — OCHKO | Ochko. | набра'ть очки' | ochko to'plamoq | балл (ball) | —
+меда'ль | medal | 🥇 | ж.р. (-ь) | MEDAL | Medal. | золота'я меда'ль | oltin medal | награда (mukofot) | —
+при'з | sovrin | 🏆 | м.р. | PRIZ | Priz. | гла'вный приз | bosh sovrin | награда (mukofot) | —
+награ'да | mukofot | 🎖️ | ж.р. | NAGRADA — NAGRA | Mukofot. | госуда'рственная награ'да | davlat mukofoti | премия (mukofot) | наказание (jazo)
+ку'бок | kubok | 🏆 | м.р.; Р: ку'бка | KUBOK — KUB | Kub shaklidagi kubok. | ку'бок ми'ра | jahon kubogi | — | —
+реко'рд | rekord | 📈 | м.р. | REKORD | Rekord. | мирово'й реко'рд | jahon rekordi | — | —
+тре'нер | murabbiy | 🧑‍🏫 | м.р. ([трэ'нэр]) | TRENER | Trener — murabbiy. | тре'нер кома'нды | jamoa murabbiyi | наставник (ustoz) | —
+боле'льщик | muxlis | 📣 | м.р. | BOLELSHIK — BOLET | Jamoa uchun "boleet" (kuyadi). | футбо'льные боле'льщики | futbol muxlislari | фанат (fanat) | —
+бе'г | yugurish | 🏃 | м.р. | BEG — BEG | Yugurish. | бег на сто ме'тров | 100 metrga yugurish | — | —
+пла'вание | suzish | 🏊 | ср.р. (-ние) | PLAVANIE — PLAVAT | Suzish (plavat). | занима'ться пла'ванием | suzish bilan shug'ullanmoq | — | —
+бо'кс | boks | 🥊 | м.р. | BOKS | Boks. | чемпио'н по бо'ксу | boks chempioni | — | —
+ша'хматы | shaxmat | ♟️ | faqat мн.; Р: ша'хмат | SHAXMATY — SHAXMAT | Shaxmat. | игра'ть в ша'хматы | shaxmat o'ynamoq | — | —
+гимна'стика | gimnastika | 🤸 | ж.р. | GIMNASTIKA | Gimnastika. | у'тренняя гимна'стика | ertalabki badantarbiya | зарядка (badantarbiya) | —
+хо'бби | hobbi, sevimli mashg'ulot | 🎨 | ср.р., o'zgarmaydi | XOBBI | Hobbi. | моё хо'бби | mening hobbim | увлечение (qiziqish) | —
+увлече'ние | qiziqish, ishtiyoq | 🎸 | ср.р. (-ние) | UVLECHENIE — UV + LECHO | Lecho tayyorlashga ishtiyoq. | моё увлече'ние — му'зыка | mening qiziqishim — musiqa | хобби (hobbi) | —
+колле'кция | kolleksiya | 🗃️ | ж.р. (-ия) | KOLLEKTSIYA | Kolleksiya. | колле'кция ма'рок | marka kolleksiyasi | собрание (to'plam) | —
+пикни'к | piknik | 🧺 | м.р. | PIKNIK | Piknik. | пикни'к на приро'де | tabiatda piknik | — | —
+пра'здник Навру'з | Navro'z bayrami | 🌷 | м.р. | NAVRO'Z | Navro'z — ruschada Навру'з. | Навру'з — весе'нний пра'здник | Navro'z — bahor bayrami | — | —
+обще'ние | muloqot | 💬 | ср.р. (-ние) | OBSHENIE — OBSHIY | Umumiy (obshiy) suhbat. | живо'е обще'ние | jonli muloqot | разговор (suhbat) | одиночество (yolg'izlik)
+бесе'да | suhbat | 🗣️ | ж.р. | BESEDA — BESED + A | Suhbat. | дру'жеская бесе'да | do'stona suhbat | разговор (gaplashuv) | молчание (sukut)
+спо'р | bahs | 🗯️ | м.р. | SPOR — SPORT | Sportdagi bahs. | горя'чий спор | qizg'in bahs | дискуссия (munozara) | согласие (rozilik)
+ссо'ра | janjal | 😠 | ж.р. | SSORA — SO'RI | So'rida janjal. | семе'йная ссо'ра | oilaviy janjal | конфликт (nizo) | мир (yarash)
+конфли'кт | nizo | ⚔️ | м.р. | KONFLIKT | Konflikt. | реши'ть конфли'кт | nizoni hal qilmoq | ссора (janjal) | согласие (kelishuv)
+согла'сие | rozilik; hamjihatlik | 🤝 | ср.р. (-ие) | SOGLASIE — SOG' + GLAS | Sog' ovoz bilan rozilik. | дать согла'сие | rozilik bermoq | мир (tinchlik) | отказ (rad)
+отка'з | rad javobi | ❌ | м.р. | OTKAZ — OT + KAZ | Ot rad etdi. | получи'ть отка'з | rad javobi olmoq | — | согласие (rozilik)
+подде'ржка | qo'llab-quvvatlash | 🫶 | ж.р. · подде'ржка | PODDERJKA — POD + DERJAT | Ostidan ushlab turish. | подде'ржка друзе'й | do'stlar madadi | помощь (yordam) | —
+благода'рность | minnatdorchilik | 🙏 | ж.р. (-ость) | BLAGODARNOST — BALOG'AT + DORI | Dori uchun minnatdorchilik. | с благода'рностью | minnatdorchilik bilan | признательность (minnatdorlik) | неблагодарность (noshukurlik)
+извине'ние | uzr | 🙇 | ср.р. (-ние) | IZVINENIE — IZVINI | Kechirim. | приня'ть извине'ния | uzrni qabul qilmoq | прощение (kechirim) | —
+поздравле'ние | tabrik | 🎊 | ср.р. (-ние) | POZDRAVLENIE — PAZANDA | Pazanda tabriki. | поздравле'ние с пра'здником | bayram tabrigi | — | —
+приглаше'ние | taklifnoma | 💌 | ср.р. (-ние) | PRIGLASHENIE — PIROG | Pirogga taklifnoma. | приглаше'ние на сва'дьбу | to'yga taklifnoma | — | —
+обеща'ние | va'da | 🤞 | ср.р. (-ние) | OBESHANIE — OBI + SHAN | Obi-non va'dasi. | дать обеща'ние | va'da bermoq | слово (so'z) | —
+жела'ние | istak | 🌠 | ср.р. (-ние) | JELANIE — JELE | Jele istagi. | загада'ть жела'ние | niyat qilmoq | мечта (orzu) | нежелание (istamaslik)
+настрое'ние | kayfiyat | 😊 | ср.р. (-ние) | NASTROENIE — NASTROY | Sozlangan (nastroy) holat. | хоро'шее настрое'ние | yaxshi kayfiyat | расположение духа (ruhiy holat) | —
+чу'вство | his, tuyg'u | 💓 | ср.р. ([чу'ства]) | CHUVSTVO — CHO'V | Cho'vdek nozik his. | чу'вство ю'мора | hazil tuyg'usi | эмоция (emotsiya) | —
+эмо'ция | emotsiya | 😃 | ж.р. (-ия) | EMOTSIYA | Emotsiya. | положи'тельные эмо'ции | ijobiy emotsiyalar | чувство (his) | —
+ю'мор | yumor, hazil | 😆 | м.р. | YUMOR | Yumor. | чу'вство ю'мора | hazil tuyg'usi | шутка (hazil) | —
+шу'тка | hazil | 🃏 | ж.р. | SHUTKA — SHUT | Masxaraboz (shut) hazili. | смешна'я шу'тка | kulgili hazil | юмор (yumor) | —

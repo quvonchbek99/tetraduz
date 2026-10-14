@@ -644,3 +644,75 @@
 развлека'ться | ko'ngil ochmoq | 🎡 | нсв · я развлека'юсь | RAZVLEKATSA — RAZ + VLEK | Bir marta ko'ngil ochasiz. | Де'ти развлека'ются. | Bolalar ko'ngil ochyapti. | веселиться (xursandchilik qilmoq) | скучать (zerikmoq)
 весели'ться | xursandchilik qilmoq | 🥳 | нсв (св: повесели'ться) · я веселю'сь | VESELITSA — VELOSIPED | Velosipedda xursandchilik. | весели'ться на пра'зднике | bayramda xursandchilik qilmoq | развлекаться (ko'ngil ochmoq) | грустить (g'amgin bo'lmoq)
 грусти'ть | g'amgin bo'lmoq | 😔 | нсв · я грущу' (ст→щ), ты грусти'шь | GRUSTIT — GURUCH | Guruch yig'laydi. | Не грусти'! | G'amgin bo'lma! | печалиться (qayg'urmoq) | радоваться (quvonmoq)
+# 9
+зажига'ть | yoqmoq (olov, chiroq) | 🔥 | нсв (св: заже'чь) · я зажига'ю · зажгу', зажжёшь; зажёг | ZAJIGAT — ZAJIGALKA | Zajigalka bilan yoqasiz. | заже'чь свечу' | sham yoqmoq | включать (yoqmoq) | гасить (o'chirmoq)
+гаси'ть | o'chirmoq (olov, chiroq) | 🕯️ | нсв (св: погаси'ть) · я гашу' (с→ш), ты га'сишь | GASIT — GAZ | Gazni o'chirasiz. | гаси'ть свет | chiroqni o'chirmoq | тушить (o'chirmoq) | зажигать (yoqmoq)
+туши'ть | o'chirmoq (yong'in); dimlamoq | 🧯 | нсв (св: потуши'ть) · я тушу', ты ту'шишь | TUSHIT — TUSH | Tushga qadar yong'inni o'chirasiz. | туши'ть пожа'р | yong'inni o'chirmoq | гасить (o'chirmoq) | разжигать (alangalatmoq)
+ремонти'ровать | ta'mirlamoq | 🛠️ | нсв (св: отремонти'ровать) · я ремонти'рую | REMONTIROVAT — REMONT | Remont qilasiz. | ремонти'ровать кварти'ру | kvartirani ta'mirlamoq | чинить (tuzatmoq) | ломать (buzmoq)
+кле'ить | yopishtirmoq | 🧴 | нсв (св: накле'ить / скле'ить) · я кле'ю, ты кле'ишь | KLEIT — KLEY | Yelim (kley) bilan. | кле'ить обо'и | gulqog'oz yopishtirmoq | — | отклеивать (ko'chirmoq)
+рва'ть | yirtmoq; uzmoq | 📄 | нсв (св: порва'ть, сорва'ть) · я рву, ты рвёшь | RVAT — RAVOT | Ravotni yirtdingiz. | рвать бума'гу | qog'oz yirtmoq | — | шить (tikmoq)
+пили'ть | arralamoq | 🪚 | нсв · я пилю', ты пи'лишь | PILIT — PILLA | Pillani arralaysiz! | пили'ть доску' | taxtani arralamoq | — | —
+сверли'ть | parmalamoq | 🔩 | нсв (св: просверли'ть) · я сверлю' | SVERLIT — SVERLO (parma) | Parma (sverlo) bilan. | сверли'ть сте'ну | devorni parmalamoq | — | —
+забива'ть | qoqmoq; urmoq (gol) | 🔨 | нсв (св: заби'ть) · я забива'ю · забью' | ZABIVAT — ZABIT | Zabit gol uradi. | заби'ть гвоздь | mix qoqmoq | — | —
+крути'ть | aylantirmoq | 🔄 | нсв · я кручу' (т→ч), ты кру'тишь | KRUTIT — KRUG | Doira (krug) qilib aylantirasiz. | крути'ть руль | rul burmoq | вертеть (aylantirmoq) | —
+верте'ть | aylantirmoq | 🌀 | нсв · я верчу', ты ве'ртишь | VERTET — VERTOLYOT | Vertolyot parragi aylanadi. | верте'ть голово'й | boshni burmoq | крутить (aylantirmoq) | —
+кружи'ться | aylanmoq | 💫 | нсв · я кружу'сь, ты кру'жишься · Голова' кру'жится. | KRUJITSA — KRUJKA | Krujka aylanadi. | Голова' кру'жится. | Bosh aylanyapti. | вращаться (aylanmoq) | —
+кача'ть | tebratmoq; yuklab olmoq (so'zl.) | 🎢 | нсв · я кача'ю | KACHAT — KACHALKA | Kachalka (tebranchik)da tebratasiz. | кача'ть ребёнка | bolani tebratmoq | — | —
+кача'ться | tebranmoq | 🌀 | нсв · я кача'юсь · на каче'лях | KACHATSA — KACHALKA | Tebranchikda. | ката'ться на каче'лях | arg'imchoqda uchmoq | — | —
+трясти' | silkitmoq | 🫨 | нсв · я трясу', ты трясёшь · тряс | TRYASTI — TERAK | Terakni silkitasiz. | трясти' де'рево | daraxtni silkitmoq | — | —
+гну'ть | egmoq | 🥢 | нсв (св: согну'ть) · я гну, ты гнёшь | GNUT — GUNAH | Gunoh egadi. | гнуть про'волоку | simni egmoq | сгибать (bukmoq) | выпрямлять (to'g'rilamoq)
+раскла'дывать | taxlamoq, yoyib qo'ymoq | 🗂️ | нсв (св: разложи'ть) · я раскла'дываю | RASKLADYVAT — RAS + SKLAD | Omborni yoyib qo'yasiz. | раскла'дывать ве'щи | narsalarni joylashtirmoq | расставлять (terib qo'ymoq) | собирать (yig'moq)
+разбира'ть | qismlarga ajratmoq; tahlil qilmoq | 🧩 | нсв (св: разобра'ть) · я разбира'ю · разберу' | RAZBIRAT — RAZ + BIRAT | Bir martada ajratasiz. | разобра'ть маши'ну | mashinani qismlarga ajratmoq | анализировать (tahlil qilmoq) | собирать (yig'moq)
+упако'вывать | qadoqlamoq | 📦 | нсв (св: упакова'ть) · я упако'вываю | UPAKOVYVAT — UPAKOVKA | Qadoq (upakovka). | упакова'ть пода'рок | sovg'ani qadoqlamoq | — | распаковывать (ochmoq)
+распако'вывать | qadoqni ochmoq | 🎁 | нсв (св: распакова'ть) · я распако'вываю | RASPAKOVYVAT — RAS + PAKET | Paketni ochasiz. | распакова'ть чемода'н | chamadonni ochmoq | — | упаковывать (qadoqlamoq)
+завя'зывать | bog'lamoq (tugun) | 🎀 | нсв (св: завяза'ть) · я завя'зываю · завяжу' | ZAVYAZYVAT — ZA + SVYAZ | Bog'lab qo'yasiz. | завяза'ть шнурки' | ip bog'lamoq | связывать (bog'lamoq) | развязывать (yechmoq)
+застёгивать | tugmalamoq | 🧥 | нсв (св: застегну'ть) · я застёгиваю | ZASTYOGIVAT — ZA + STEG | Tugmalarni qadab qo'yasiz. | застегну'ть ку'ртку | kurtkani tugmalamoq | — | расстёгивать (yechmoq)
+расстёгивать | tugmasini yechmoq | 👔 | нсв (св: расстегну'ть) · я расстёгиваю | RASSTYOGIVAT — RAS + STEG | Tugmalarni yechasiz. | расстегну'ть руба'шку | ko'ylakni yechmoq | — | застёгивать (tugmalamoq)
+надува'ть | puflab shishirmoq | 🎈 | нсв (св: наду'ть) · я надува'ю · наду'ю | NADUVAT — NA + DUT | Puflab (dut) shishirasiz. | наду'ть ша'рик | shar shishirmoq | — | сдувать (puchaytirmoq)
+ло'пнуть | yorilmoq | 💥 | св (нсв: ло'паться) · ло'пнет · ло'пнул | LOPNUT — LOP | "Lop!" etib yorildi. | Ша'рик ло'пнул. | Shar yorildi. | разорваться (yirtilmoq) | —
+кипяти'ть | qaynatmoq | ♨️ | нсв (св: вскипяти'ть) · я кипячу' (т→ч), ты кипяти'шь | KIPYATIT — KIPYATOK | Qaynoq suv (kipyatok). | кипяти'ть во'ду | suv qaynatmoq | варить (pishirmoq) | охлаждать (sovutmoq)
+зава'ривать | damlamoq (choy) | 🫖 | нсв (св: завари'ть) · я зава'риваю · заварю' | ZAVARIVAT — ZA + VARIT | Choy damlaysiz. | завари'ть чай | choy damlamoq | — | —
+разлива'ть | quyib bermoq; to'kmoq | 🫗 | нсв (св: разли'ть) · я разлива'ю · разолью' | RAZLIVAT — RAZ + LIT | Bir-bir quyasiz. | разлива'ть чай по ча'шкам | choyni piyolalarga quymoq | наливать (quymoq) | —
+пролива'ть | to'kib yubormoq | 💦 | нсв (св: проли'ть) · я пролива'ю · пролью' | PROLIVAT — PRO + LIT | To'kib yubordingiz. | проли'ть молоко' | sutni to'kib yubormoq | — | —
+сы'пать | sepmoq | 🧂 | нсв · я сы'плю (п→пл), ты сы'плешь | SYPAT — SEPAT | Sepasiz. | сы'пать соль | tuz sepmoq | насыпать (solmoq) | —
+ма'зать | surtmoq | 🧈 | нсв (св: нама'зать) · я ма'жу (з→ж), ты ма'жешь | MAZAT — MAZ | Maz (malham) surtasiz. | ма'зать ма'сло на хлеб | nonga sariyog' surtmoq | — | —
+посоли'ть | tuzlamoq | 🧂 | св (нсв: соли'ть) · я посолю', ты посо'лишь | POSOLIT — SOL (tuz) | Tuz (sol) solasiz. | посоли'ть суп | sho'rvaga tuz solmoq | — | —
+взбива'ть | ko'pirtirmoq | 🥚 | нсв (св: взбить) · я взбива'ю · взобью' | VZBIVAT — VZ + BIT | Urib ko'pirtirasiz. | взбить я'йца | tuxumni ko'pirtirmoq | — | —
+меси'ть | qormoq (xamir) | 🍞 | нсв (св: замеси'ть) · я мешу' (с→ш), ты ме'сишь | MESIT — MESH | Mesh-mesh xamir qorasiz. | меси'ть те'сто | xamir qormoq | — | —
+наре'зать | to'g'ramoq | 🔪 | св (нсв: нареза'ть) · я наре'жу | NAREZAT — NA + REZINA | Rezinadek to'g'radingiz. | наре'зать хлеб | non to'g'ramoq | порезать (kesmoq) | —
+очища'ть | tozalamoq | 🧽 | нсв (св: очи'стить) · я очища'ю · очи'щу | OCHISHAT — CHISTIY | Toza (chistiy) qilasiz. | очи'стить карто'шку | kartoshka archimoq | чистить (tozalamoq) | загрязнять (ifloslamoq)
+полоска'ть | chayqamoq | 🌊 | нсв (св: прополоска'ть) · я полощу' (ск→щ) | POLOSKAT — POLOSA | Polosa-polosa chayqaysiz. | полоска'ть го'рло | tomoq chayqamoq | — | —
+распеча'тать | chop etib olmoq | 🖨️ | св (нсв: распеча'тывать) · я распеча'таю | RASPECHATAT — PECHAT | Muhr (pechat)dek chiqarasiz. | распеча'тать докуме'нт | hujjatni chop etmoq | напечатать (chop etmoq) | —
+скача'ть | yuklab olmoq | ⬇️ | св (нсв: ска'чивать) · я скача'ю | SKACHAT — SKAKAT (sakramoq) | Fayl sakrab tushadi. | скача'ть файл | fayl yuklab olmoq | загрузить (yuklamoq) | —
+загрузи'ть | yuklamoq | ⬆️ | св (нсв: загружа'ть) · я загружу' (з→ж) | ZAGRUZIT — GRUZ (yuk) | Yuk (gruz) ortasiz. | загрузи'ть фо'то | surat yuklamoq | скачать (yuklab olmoq) | разгрузить (tushirmoq)
+установи'ть | o'rnatmoq | 💿 | св (нсв: устана'вливать) · я установлю', ты устано'вишь | USTANOVIT — USTA + NOVIY | Usta yangisini o'rnatdi. | установи'ть програ'мму | dastur o'rnatmoq | поставить (qo'ymoq) | удалить (o'chirmoq)
+удали'ть | o'chirib tashlamoq | 🗑️ | св (нсв: удаля'ть) · я удалю', ты удали'шь | UDALIT — UDAL | Dadil o'chirdingiz. | удали'ть сообще'ние | xabarni o'chirmoq | стереть (o'chirmoq) | сохранить (saqlamoq)
+сохрани'ть | saqlab qo'ymoq | 💾 | св (нсв: сохраня'ть) · я сохраню' | SOXRANIT | "Soxranit" — saqlash. | сохрани'ть файл | faylni saqlamoq | — | удалить (o'chirmoq)
+пересла'ть | qayta yubormoq | ↪️ | св (нсв: пересыла'ть) · я перешлю', ты перешлёшь | PERESLAT — PERE + SLAT | Qayta yubordingiz. | пересла'ть сообще'ние | xabarni qayta yubormoq | отправить (jo'natmoq) | —
+набра'ть | termoq (raqam, matn) | ☎️ | св (нсв: набира'ть) · я наберу', ты наберёшь | NABRAT — NA + BRAT | Raqamni terdingiz. | набра'ть но'мер | raqam termoq | — | —
+подключи'ть | ulamoq | 🔌 | св (нсв: подключа'ть) · я подключу' | PODKLYUCHIT — POD + KLYUCH | Kalit bilan ulaysiz. | подключи'ть интерне'т | internetni ulamoq | соединить (ulamoq) | отключить (uzmoq)
+заряди'ть | quvvatlamoq | 🔋 | св (нсв: заряжа'ть) · я заряжу', ты заряди'шь | ZARYADIT — ZARYAD | Zaryad berasiz. | заряди'ть телефо'н | telefonni quvvatlamoq | — | разрядить (quvvatsizlantirmoq)
+обнови'ть | yangilamoq | 🔄 | св (нсв: обновля'ть) · я обновлю' | OBNOVIT — NOVIY | Yangi (noviy) qilasiz. | обнови'ть програ'мму | dasturni yangilamoq | — | —
+зарегистри'роваться | ro'yxatdan o'tmoq | 📝 | св · я зарегистри'руюсь | ZAREGISTRIROVATSA — REGISTR | Reestrga yozilasiz. | зарегистри'роваться на са'йте | saytda ro'yxatdan o'tmoq | записаться (yozilmoq) | —
+подпи'сываться | obuna bo'lmoq | 🔔 | нсв (св: подписа'ться) · я подпи'сываюсь · на + В | PODPISYVATSA — PODPIS | Imzo bilan obuna. | подписа'ться на кана'л | kanalga obuna bo'lmoq | — | отписываться (obunani bekor qilmoq)
+листа'ть | varaqlamoq | 📖 | нсв · я листа'ю | LISTAT — LIST (varaq) | Varaq (list)larni aylantirasiz. | листа'ть кни'гу | kitob varaqlamoq | — | —
+запи'сывать | yozib olmoq | 📝 | нсв (св: записа'ть) · я запи'сываю · запишу' | ZAPISYVAT — ZA + PISAT | Yozib olasiz. | записа'ть но'мер | raqamni yozib olmoq | фиксировать (qayd etmoq) | стирать (o'chirmoq)
+редакти'ровать | tahrirlamoq | ✏️ | нсв (св: отредакти'ровать) · я редакти'рую | REDAKTIROVAT — REDAKTOR | Muharrir (redaktor) ishi. | редакти'ровать текст | matnni tahrirlamoq | исправлять (tuzatmoq) | —
+копи'ровать | nusxalamoq | 📋 | нсв (св: скопи'ровать) · я копи'рую | KOPIROVAT — KOPIYA | Nusxa (kopiya) olasiz. | скопи'ровать файл | faylni nusxalamoq | — | —
+вы'резать | qirqib olmoq | ✂️ | св (нсв: выреза'ть) · я вы'режу | VYREZAT — VY + REZAT | Qirqib olasiz. | вы'резать фигу'ру | shakl qirqib olmoq | — | вставить (qo'ymoq)
+слу'шаться | gapga kirmoq | 🙇 | нсв (св: послу'шаться) · я слу'шаюсь · кого'? (Р) | SLUSHATSA — SLUSHAT | Tinglab bo'ysunasiz. | Слу'шайся ма'му! | Oyingning gapiga kir! | подчиняться (bo'ysunmoq) | не слушаться (gapga kirmaslik)
+подчиня'ться | bo'ysunmoq | 🙇 | нсв (св: подчини'ться) · я подчиня'юсь · кому'? (Д) | PODCHINYATSA — POD + CHIN | Chin ostida bo'ysunasiz. | подчиня'ться зако'ну | qonunga bo'ysunmoq | слушаться (gapga kirmoq) | руководить (rahbarlik qilmoq)
+командова'ть | qo'mondonlik qilmoq | 🎖️ | нсв · я команду'ю · кем? чем? (Т) | KOMANDOVAT — KOMANDA | Buyruq (komanda) berasiz. | командова'ть а'рмией | armiyaga qo'mondonlik qilmoq | руководить (rahbarlik qilmoq) | подчиняться (bo'ysunmoq)
+защища'ться | o'zini himoya qilmoq | 🛡️ | нсв (св: защити'ться) · я защища'юсь | ZASHISHATSA — ZASHITA | Himoya (zashita) qilasiz. | защища'ться от хо'лода | sovuqdan himoyalanmoq | обороняться (mudofaa qilmoq) | нападать (hujum qilmoq)
+напада'ть | hujum qilmoq | ⚔️ | нсв (св: напа'сть) · я напада'ю · на + В | NAPADAT — NA + PADA | Podaga hujum qildi. | напа'сть на врага' | dushmanga hujum qilmoq | атаковать (hujum qilmoq) | защищаться (himoyalanmoq)
+спаса'ть | qutqarmoq | 🛟 | нсв (св: спасти') · я спаса'ю · спасу', спасёшь; спас | SPASAT — SPASIBO | Qutqargani uchun "Spasibo!" | спасти' жизнь | hayotni qutqarmoq | выручать (yordamga kelmoq) | губить (nobud qilmoq)
+погиба'ть | halok bo'lmoq | 🥀 | нсв (св: поги'бнуть) · я погиба'ю · поги'б | POGIBAT — PO + GIB | Halok bo'ldi. | поги'бнуть на войне' | urushda halok bo'lmoq | умирать (o'lmoq) | спасаться (qutulmoq)
+охраня'ть | qo'riqlamoq | 💂 | нсв · я охраня'ю | OXRANYAT — OXRANA | Qo'riqlash (oxrana). | охраня'ть грани'цу | chegarani qo'riqlamoq | защищать (himoya qilmoq) | —
+угрожа'ть | tahdid qilmoq | ⚠️ | нсв · я угрожа'ю · кому'? (Д) | UGROJAT — UGROZA | Tahdid (ugroza). | угрожа'ть безопа'сности | xavfsizlikka tahdid solmoq | — | —
+соблюда'ть | rioya qilmoq | ✔️ | нсв (св: соблюсти') · я соблюда'ю | SOBLYUDAT — SO + BLYUDO | Likop (blyudo)ni tartibda tutasiz. | соблюда'ть пра'вила | qoidalarga rioya qilmoq | выполнять (bajarmoq) | нарушать (buzmoq)
+наруша'ть | buzmoq (doim) | 🚫 | нсв (св: нару'шить) · я наруша'ю | NARUSHAT — NA + RUSH | Qoidani buzasiz. | наруша'ть тишину' | jimlikni buzmoq | — | соблюдать (rioya qilmoq)
+наказа'ть | jazolamoq | ⚖️ | св (нсв: нака'зывать) · я накажу', ты нака'жешь | NAKAZAT — NA + KAZAK | Kazak jazoladi. | наказа'ть ученика' | o'quvchini jazolamoq | — | наградить (mukofotlamoq)
+награди'ть | mukofotlamoq | 🏅 | св (нсв: награжда'ть) · я награжу' (д→ж) | NAGRADIT — NAGRADA | Mukofot (nagrada) berasiz. | награди'ть меда'лью | medal bilan taqdirlamoq | поощрить (rag'batlantirmoq) | наказать (jazolamoq)
+избега'ть | qochmoq (biror narsadan) | 🙅 | нсв (св: избежа'ть) · я избега'ю · чего'? (Р) | IZBEGAT — IZ + BEGAT | Undan qochasiz. | избега'ть оши'бок | xatolardan qochmoq | уклоняться (o'zini olib qochmoq) | —
+отлича'ть | ajratmoq | 🔍 | нсв (св: отличи'ть) · я отлича'ю | OTLICHAT — OTLICHNIK | A'lochini boshqalardan ajratasiz. | отлича'ть пра'вду от лжи | haqiqatni yolg'ondan ajratmoq | различать (farqlamoq) | путать (chalkashtirmoq)
+объединя'ть | birlashtirmoq | 🤝 | нсв (св: объедини'ть) · я объединя'ю | OBYEDINYAT — YEDINIY | Yagona (yediniy) qilasiz. | объедини'ть уси'лия | kuchlarni birlashtirmoq | соединять (birlashtirmoq) | разделять (ajratmoq)
