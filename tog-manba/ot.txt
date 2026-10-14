@@ -619,3 +619,86 @@
 фами'лия | familiya | 🪪 | ж.р. (-ия) | FAMILIYA | Familiya. | Ва'ша фами'лия? | Familiyangiz? | — | —
 о'тчество | otasining ismi | 👨‍👦 | ср.р. | OTCHESTVO — OTETS | Ota (otets)ning ismidan. | и'мя и о'тчество | ism va otasining ismi | — | —
 а'дрес | manzil | 🏠 | м.р.; мн: адреса' | ADRES | Adres — manzil. | Ваш а'дрес? | Manzilingiz? | местожительство (yashash joyi) | —
+# 5
+коро'бка | quti | 📦 | ж.р.; Р.мн: коро'бок | KOROBKA — KORA + BOQQA | Qora quti boqqa olib ketildi. | коро'бка конфе'т | bir quti konfet | ящик (yashik) | —
+буты'лка | shisha (idish) | 🍾 | ж.р.; Р.мн: буты'лок | BUTYLKA — BUTUN + ILKA | Butun shisha ilkada osilgan. | буты'лка воды' | bir shisha suv | — | —
+ба'нка | banka | 🫙 | ж.р.; Р.мн: ба'нок | BANKA — BANK | Bankdagi pulni bankaga soldingiz! | ба'нка варе'нья | bir banka murabbo | — | —
+мешо'к | qop | 🛍️ | м.р.; Р: мешка' | MESHOK — MESH | Mesh (mesh-mesh) qilib qop to'ldi. | мешо'к муки' | bir qop un | сумка (sumka) | —
+ведро' | chelak | 🪣 | ср.р.; мн: вёдра | VEDRO — VEDRA | Chelak to'la suv. | ведро' воды' | bir chelak suv | — | —
+корзи'на | savat | 🧺 | ж.р. | KORZINA — QO'RQITMA | Savatdan qo'rqitma chiqdi! | корзи'на фру'ктов | bir savat meva | — | —
+я'щик | yashik, quti | 🗃️ | м.р. | YASHIK — YASHIK | Yashik — o'zbekchada ham. | почто'вый я'щик | pochta qutisi | коробка (quti) | —
+игру'шка | o'yinchoq | 🧸 | ж.р.; Р.мн: игру'шек | IGRUSHKA — IGRA | O'yin (igra) uchun narsa. | де'тская игру'шка | bolalar o'yinchog'i | — | —
+ку'кла | qo'g'irchoq | 🪆 | ж.р.; Р.мн: ку'кол | KUKLA — KUKU | Qo'g'irchoq "kuku" deydi. | краси'вая ку'кла | chiroyli qo'g'irchoq | — | —
+свеча' | sham | 🕯️ | ж.р.; мн: све'чи | SVECHA — SVET | Yorug'lik (svet) beradi. | зажга'ть свечу' | sham yoqmoq | — | —
+спи'чка | gugurt (cho'pi) | 🔥 | ж.р.; Р.мн: спи'чек | SPICHKA — SPIN | Gugurtni spin qilib (aylantirib) yoqdingiz. | коро'бка спи'чек | bir quti gugurt | — | —
+но'жницы | qaychi | ✂️ | faqat мн.; Р: но'жниц | NOJNITSY — NOJ (pichoq) | Ikki pichoq (noj) — qaychi. | о'стрые но'жницы | o'tkir qaychi | — | —
+ни'тка | ip | 🧵 | ж.р.; Р.мн: ни'ток | NITKA — NIT | Nit (ip). | ни'тка и иго'лка | ip va igna | — | —
+иго'лка | igna | 🪡 | ж.р.; Р.мн: иго'лок | IGOLKA — IGNA | Igna — igolka. | о'страя иго'лка | o'tkir igna | игла (igna) | —
+пу'говица | tugma (kiyimdagi) | 🔘 | ж.р. | PUGOVITSA — PUG + OVITSA | Pug'illab tugma uzildi. | пришить пу'говицу | tugma qadamoq | — | —
+карма'н | cho'ntak | 👖 | м.р.; в карма'не | KARMAN — QARMAQ | Cho'ntakda qarmoq. | в карма'не | cho'ntakda | — | —
+кошелёк | hamyon | 👛 | м.р.; Р: кошелька' | KOSHELYOK — KOSHA + LO'K | Hamyon kosha (qosh)dek kichkina. | Я потеря'л кошелёк. | Hamyonimni yo'qotdim. | бумажник (hamyon) | —
+рюкза'к | ryukzak | 🎒 | м.р.; Р: рюкзака' | RYUKZAK | Ryukzak. | шко'льный рюкза'к | maktab ryukzagi | портфель (portfel) | —
+верёвка | arqon | 🪢 | ж.р.; Р.мн: верёвок | VERYOVKA — VER + YO'VKA | Arqonni yo'vkada bog'lading. | дли'нная верёвка | uzun arqon | канат (kanat) | —
+гво'здь | mix | 🔩 | м.р. (-ь); Р: гвоздя'; мн: гво'зди | GVOZD — GAVZ | Gavzga mix qoqildi. | заби'ть гвоздь | mix qoqmoq | — | —
+молото'к | bolg'a | 🔨 | м.р.; Р: молотка' | MOLOTOK — MOL + TO'Q | Mol to'q-to'q bolg'a uradi. | тяжёлый молото'к | og'ir bolg'a | — | —
+лопа'та | belkurak | ⛏️ | ж.р. | LOPATA — LOPAR | Lopar (yog'och) belkurak. | копа'ть лопа'той | belkurak bilan qazimoq | — | —
+топо'р | bolta | 🪓 | м.р.; Р: топора' | TOPOR — TO'P + OR | To'pni bolta bilan yordingiz. | о'стрый топо'р | o'tkir bolta | — | —
+пила' | arra | 🪚 | ж.р.; мн: пи'лы | PILA — PILLA | Pilla (ipak qurti) arra bilan kesildi. | пила' для де'рева | yog'och arra | — | —
+отвёртка | otvyortka | 🪛 | ж.р. | OTVYORTKA | Otvyortka. | кре'стовая отвёртка | krestli otvyortka | — | —
+кле'й | yelim | 🧴 | м.р.; Р: кле'я | KLEY — KELI | Keli (hovonchaga) yelim surting. | кле'й для бума'ги | qog'oz yelimi | — | —
+кра'ска | bo'yoq | 🎨 | ж.р. | KRASKA | Kraska. | кра'сная кра'ска | qizil bo'yoq | — | —
+ки'сть | mo'yqalam; kaft | 🖌️ | ж.р. (-ь) | KIST — KIST | Kist bilan chizasiz. | ки'сть худо'жника | rassom mo'yqalami | — | —
+конве'рт | konvert | ✉️ | м.р. | KONVERT | Konvert. | письмо' в конве'рте | konvertdagi xat | — | —
+ма'рка | marka | 📮 | ж.р. | MARKA | Marka. | почто'вая ма'рка | pochta markasi | — | —
+откры'тка | otkritka | 💌 | ж.р. | OTKRYTKA | Otkritka. | поздрави'тельная откры'тка | tabrik otkritkasi | — | —
+календа'рь | taqvim, kalendar | 📅 | м.р. (-ь); Р: календаря' | KALENDAR | Kalendar. | календа'рь на стене' | devordagi taqvim | — | —
+буди'льник | budilnik | ⏰ | м.р. | BUDILNIK — BUDIT | Uyg'otadigan (budit). | Буди'льник звени'т. | Budilnik jiringlayapti. | — | —
+фона'рь | fonar | 🔦 | м.р. (-ь); Р: фонаря' | FONAR | Fonar. | у'личный фона'рь | ko'cha chirog'i | — | —
+расчёска | taroq | 🪮 | ж.р. | RASCHYOSKA — RASTA + CHESKA | Rastadagi taroq. | Где моя' расчёска? | Tarog'im qayerda? | гребень (taroq) | —
+щётка | cho'tka | 🪥 | ж.р. | SHYOTKA — CHO'TKA | Cho'tka — shyotka. | зубна'я щётка | tish cho'tkasi | — | —
+шампу'нь | shampun | 🧴 | м.р. (-ь) | SHAMPUN | Shampun. | мыть во'лосы шампу'нем | sochni shampun bilan yuvmoq | — | —
+кре'м | krem | 🧴 | м.р. | KREM | Krem. | крем для рук | qo'l kremi | мазь (malham) | —
+духи' | atir | 🌸 | faqat мн.; Р: духо'в | DUXI — DUXOBKA | Duxovkadan atir hidi. | францу'зские духи' | fransuz atiri | парфюм (parfyum) | —
+се'рьги | sirg'a | 💎 | мн.; birlik: серьга' | SERGI — SIRG'A | Sirg'a — sergi! | золоты'е се'рьги | tilla sirg'a | — | —
+цепо'чка | zanjircha | ⛓️ | ж.р. | TSEPOCHKA — SEP | Sepdagi zanjircha. | золота'я цепо'чка | tilla zanjircha | — | —
+брасле'т | bilaguzuk | 📿 | м.р. | BRASLET | Braslet. | серебряный брасле'т | kumush bilaguzuk | — | —
+иде'я | g'oya | 💡 | ж.р.; Р: иде'и | IDEYA — IDEAL | Ideal g'oya! | хоро'шая иде'я | yaxshi g'oya | мысль (fikr), замысел (niyat) | —
+смы'сл | ma'no, mazmun | 🧭 | м.р. | SMYSL — SAMOSAL | Ma'no samosal (samosoz) emas. | смысл сло'ва | so'z ma'nosi | значение (ma'no) | бессмыслица (bema'nilik)
+ло'жь | yolg'on | 🤥 | ж.р. (-ь); Р: лжи (о tushadi) | LOJ — LOJKA | Yolg'on qoshiq (lojka) bilan yediriladi. | говори'ть ложь | yolg'on gapirmoq | обман (aldov) | правда (haqiqat)
+та'йна | sir | 🤫 | ж.р.; Р.мн: та'йн | TAYNA — TAY + NA | Taychoq sirini aytmaydi. | хранить та'йну | sir saqlamoq | секрет (sir) | —
+секре'т | sir | 🔐 | м.р. | SEKRET | Sekret — sir. | Э'то секре'т! | Bu sir! | тайна (sir) | —
+со'весть | vijdon | ⚖️ | ж.р. (-ь) | SOVEST — SOVET | Vijdon — ichki kengash (sovet). | чи'стая со'весть | toza vijdon | — | бессовестность (vijdonsizlik)
+че'сть | sharaf | 🎖️ | ж.р. (-ь) | CHEST — CHEST | Sharaf. | де'ло че'сти | sharaf ishi | достоинство (qadr) | позор (sharmandalik)
+го'рдость | g'urur | 🦚 | ж.р. (-ость) | GORDOST — GURUR | G'urur. | чу'вство го'рдости | g'urur hissi | достоинство (qadr) | стыд (uyat)
+сты'д | uyat | 😳 | м.р.; Р: стыда' | STYD — SUT + ID | Sut to'kib uyaldingiz. | Как не сты'дно! | Uyat emasmi! | позор (sharmandalik) | гордость (g'urur)
+за'висть | hasad | 😒 | ж.р. (-ь) | ZAVIST — ZAVOD | Zavodga hasad bilan qarading. | чёрная за'висть | qora hasad | ревность (rashk) | —
+гне'в | g'azab | 😡 | м.р. | GNEV — GINA | Gina-kudurat — g'azab. | в гне'ве | g'azabda | злость (jahl) | спокойствие (xotirjamlik)
+жа'лость | rahm, achinish | 🥺 | ж.р. (-ость) | JALOST — JALO | Jalo (yarqiroq) ko'zlarda rahm. | из жа'лости | rahm qilib | сострадание (hamdardlik) | жестокость (shafqatsizlik)
+доброта' | mehribonlik | 💗 | ж.р. | DOBROTA — DO'PPI | Do'ppi kiydirgan mehribonlik. | доброта' се'рдца | qalb mehribonligi | милосердие (shafqat) | злоба (yovuzlik)
+красота' | go'zallik | 🌺 | ж.р. | KRASOTA — KRASKA | Bo'yoq (kraska) bilan yaratilgan go'zallik. | красота' приро'ды | tabiat go'zalligi | прелесть (jozibalik) | уродство (xunuklik)
+му'дрость | donolik | 🦉 | ж.р. (-ость) | MUDROST — MUDIR | Mudirning donoligi. | наро'дная му'дрость | xalq donoligi | ум (aql) | глупость (ahmoqlik)
+свобо'да | erkinlik, ozodlik | 🕊️ | ж.р. | SVOBODA — SAVOB | Ozodlik — savob ish. | свобо'да сло'ва | so'z erkinligi | воля (iroda, erk) | неволя (asirlik)
+дру'жба | do'stlik | 🤝 | ж.р. | DRUJBA — DRUG | Do'st (drug)lik. | кре'пкая дру'жба | mustahkam do'stlik | товарищество (o'rtoqlik) | вражда (adovat)
+уваже'ние | hurmat | 🙇 | ср.р. (-ние) | UVAJENIE — UVAJ | Uvaj — hurmat. | с уваже'нием | hurmat bilan | почтение (ehtirom) | презрение (nafrat)
+дове'рие | ishonch | 🤝 | ср.р. (-ие) | DOVERIE — DO + VERA | Ishonch (vera). | дове'рие друзе'й | do'stlar ishonchi | вера (ishonch) | недоверие (ishonchsizlik)
+привы'чка | odat | 🔁 | ж.р. | PRIVYCHKA — PRIVET | Har kuni "privet" deyish odati. | хоро'шая привы'чка | yaxshi odat | обычай (urf) | —
+поведе'ние | xulq | 🧒 | ср.р. (-ние) | POVEDENIE — POVOD | Xulqning sababi (povod). | хоро'шее поведе'ние | yaxshi xulq | манеры (odob) | —
+посту'пок | xatti-harakat | 🎬 | м.р.; Р: посту'пка | POSTUPOK — POST + UPOK | Postda qilgan ishingiz. | хоро'ший посту'пок | yaxshi ish | дело (ish), действие (harakat) | —
+опа'сность | xavf | ⚠️ | ж.р. (-ость) | OPASNOST — OPA + SINOV | Opa sinovda xavf sezdi. | в опа'сности | xavf ostida | угроза (tahdid) | безопасность (xavfsizlik)
+безопа'сность | xavfsizlik | 🛡️ | ж.р. (-ость) | BEZOPASNOST — BEZ + OPASNOST | Xavfsiz. | те'хника безопа'сности | xavfsizlik texnikasi | защита (himoya) | опасность (xavf)
+ри'ск | xavf-xatar, tavakkal | 🎲 | м.р. | RISK | Risk. | большо'й риск | katta xavf | опасность (xavf) | —
+уда'ча | omad | 🍀 | ж.р. | UDACHA — UDDA + CHA | Udda qilish — omad! | Уда'чи! | Omad! | везение (omad) | неудача (omadsizlik)
+судьба' | taqdir | 🔮 | ж.р.; мн: су'дьбы | SUDBA — SUD + BA | Taqdir sudi. | така'я судьба' | taqdir shu ekan | рок (qismat) | —
+бу'дущее | kelajak | 🚀 | ср.р. (sifatdan ot) | BUDUSHEE — BUDILNIK | Budilnik kelajakdan jiringlaydi. | в бу'дущем | kelajakda | грядущее (kelajak) | прошлое (o'tmish)
+про'шлое | o'tmish | 📜 | ср.р. (sifatdan ot) | PROSHLOE — PARSHA | O'tmishdan qolgan parsha. | в про'шлом | o'tmishda | история (tarix) | будущее (kelajak)
+настоя'щее | hozirgi zamon | ⏺️ | ср.р. (sifatdan ot) | NASTOYASHEE — NASTOYKA | Hozirgi nastoyka. | жить настоя'щим | bugun bilan yashamoq | современность (zamonaviylik) | прошлое (o'tmish)
+эпо'ха | davr | 🏺 | ж.р. | EPOXA — EPOS | Epos (doston) davri. | но'вая эпо'ха | yangi davr | период (davr), век (asr) | —
+ве'к | asr | 💯 | м.р.; мн: века' | VEK — VEKSEL | Asrlik veksel. | двадца'ть пе'рвый век | yigirma birinchi asr | столетие (yuz yillik) | —
+мгнове'ние | on, lahza | ⚡ | ср.р. (-ие) | MGNOVENIE — MIG | Mig (ko'z ochib-yumguncha). | в одно' мгнове'ние | bir lahzada | миг (lahza) | вечность (abadiyat)
+су'тки | sutka | 🕛 | faqat мн.; Р: су'ток | SUTKI — SUTKA | Sutka — 24 soat. | дво'е су'ток | ikki sutka | — | —
+по'лночь | yarim tun | 🌑 | ж.р. (-ь) | POLNOCH — POL + NOCH | Tunning yarmi. | в по'лночь | yarim tunda | — | полдень (tush payti)
+по'лдень | tush payti | 🌞 | м.р. | POLDEN — POL + DEN | Kunning yarmi. | в по'лдень | tush paytida | — | полночь (yarim tun)
+рассве'т | tong | 🌅 | м.р. | RASSVET — RAS + SVET | Yorug'lik (svet) chiqdi. | на рассве'те | tongda | заря (shafaq) | закат (quyosh botishi)
+зака'т | quyosh botishi | 🌇 | м.р. | ZAKAT — ZAKOT | Kechqurun zakot berishdi. | краси'вый зака'т | chiroyli quyosh botishi | — | рассвет (tong)
+выходны'е | dam olish kunlari | 🛋️ | мн. (sifatdan ot) | VYXODNYE — VYXOD | Chiqish (vyxod) kunlari. | на выходны'х | dam olish kunlarida | — | будни (ish kunlari)
+бу'дни | ish kunlari | 🗓️ | faqat мн. | BUDNI — BUDILNIK | Budilnik jiringlaydigan kunlar. | по бу'дням | ish kunlari | рабочие дни (ish kunlari) | выходные (dam olish kunlari)

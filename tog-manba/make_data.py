@@ -19,7 +19,7 @@ for key, uz, ru in CATS:
         assert len(f) in (8, 10), (key, i, line)
         if len(f) == 8: f += ['—', '—']
         w = dict(id='%s%d' % (key, len(words)+1), ru=stress(f[0]), uz=f[1], em=f[2], g=stress(f[3]),
-                 h=f[4], s=f[5], er=stress(f[6]), eu=f[7], b=stage)
+                 h=f[4], s=stress(f[5]), er=stress(f[6]), eu=f[7], b=stage)
         if f[8] != '—': w['sy'] = stress(f[8])
         if f[9] != '—': w['an'] = stress(f[9])
         words.append(w)
