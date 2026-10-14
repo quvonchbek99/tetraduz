@@ -1,63 +1,63 @@
 # 1
-ноль (нуль) | nol | 0️⃣ | м.р.; Р: ноля'; + Р.мн: ноль гра'дусов | NOL | Nol — o'zbekcha ham nol: teshik donut, ichida hech narsa yo'q. | Счёт — ноль : ноль. | Hisob — nol : nol.
-оди'н | bir | 1️⃣ | оди'н (м), одна' (ж), одно' (ср), одни' (мн) · + Им.ед: оди'н стол, одна' кни'га · Р: одного', одно'й | ODIN — ODIN TUN | Bir kun, bitta odam, bitta odin — "Odin dona!" deb do'kondagi bitta tarvuzni ko'rsatyapti. | оди'н день | bir kun
-два | ikki | 2️⃣ | два (м, ср), две (ж) · + Р.ед: два стола', две кни'ги · Р: двух; Д: двум; Т: двумя' | DVA — DAVRA | Davrada ikki kishi raqs tushyapti. | два бра'та | ikki aka-uka
-три | uch | 3️⃣ | + Р.ед: три стола' · Р: трёх; Д: трём; Т: тремя' | TRI — TERI | Uch qavat teri kiygan odam qishda ham terlayapti. | три часа' | uch soat
-четы'ре | to'rt | 4️⃣ | + Р.ед: четы'ре кни'ги · Р: четырёх; Д: четырём; Т: четырьмя' | CHETIR | Chetir (soyabon) to'rt oyoqda yuribdi. | четы'ре сезо'на | to'rt fasl
-пять | besh | 5️⃣ | 5 dan boshlab + Р.мн: пять столо'в, пять книг · Р/Д/П: пяти'; Т: пятью' | PYAT — PAYTAVA | Besh barmog'ingizga beshta paytava o'rabsiz. | пять мину'т | besh daqiqa
-шесть | olti | 6️⃣ | + Р.мн · Р/Д/П: шести'; Т: шестью' | SHEST — SHAST | Shast (olti) qo'llik maymun oltita banan yeyapti. | шесть уро'ков | olti dars
-семь | yetti | 7️⃣ | + Р.мн · Р/Д/П: семи'; Т: семью' | SEMIZ | Yettita semiz qo'y yetti qavatli uyda yashaydi. | семь дней | yetti kun
-во'семь | sakkiz | 8️⃣ | + Р.мн · Р/Д/П: восьми'; Т: восемью' / восьмью' | VOSE-M — VOSITA | Sakkizta g'ildirakli transport vositasi. | во'семь часо'в | soat sakkiz
-де'вять | to'qqiz | 9️⃣ | + Р.мн · Р/Д/П: девяти'; Т: девятью' | DEV + YAT | To'qqizta dev to'qqiz qavat yotibdi. | де'вять лет | to'qqiz yil
-де'сять | o'n | 🔟 | + Р.мн · Р/Д/П: десяти'; Т: десятью' | DESANT | O'nta desantchi parashyutda o'nta kesak bilan tushyapti. | де'сять рубле'й | o'n rubl
-оди'ннадцать | o'n bir | 🔢 | -надцать = +10 · + Р.мн · Р: оди'ннадцати | ODIN + NADSAT | "Odin na dsat" — bitta o'nning ustida: 1 + 10. | оди'ннадцать лет | o'n bir yil
-двена'дцать | o'n ikki | 🕛 | + Р.мн · Р: двена'дцати | DVE NA DSAT | Ikki o'nning ustida: 2 + 10 — soat 12. | двена'дцать ме'сяцев | o'n ikki oy
-трина'дцать | o'n uch | 🔢 | + Р.мн | TRI NA DSAT | Uch o'n ustiga chiqdi: 3 + 10. | трина'дцать дней | o'n uch kun
-четы'рнадцать | o'n to'rt | 🔢 | + Р.мн | CHETIR NA DSAT | To'rtta soyabon o'n ustida: 4 + 10. | четы'рнадцать лет | o'n to'rt yosh
-пятна'дцать | o'n besh | 🔢 | + Р.мн (пять → пят-) | PYAT NA DSAT | 5 + 10 = 15. Beshta paytava o'nta oyoqqa. | пятна'дцать мину'т | o'n besh daqiqa
-шестна'дцать | o'n olti | 🔢 | + Р.мн | SHEST NA DSAT | 6 + 10 = 16. | шестна'дцать лет | o'n olti yosh
-семна'дцать | o'n yetti | 🔢 | + Р.мн (семь → сем-) | SEMIZ NA DSAT | 7 + 10 = 17. Yettita semiz qo'y o'nta qo'yning ustida. | семна'дцать лет | o'n yetti yosh
-восемна'дцать | o'n sakkiz | 🔢 | + Р.мн | VOSEM NA DSAT | 8 + 10 = 18. | восемна'дцать лет | o'n sakkiz yosh
-девятна'дцать | o'n to'qqiz | 🔢 | + Р.мн | DEVYAT NA DSAT | 9 + 10 = 19. | девятна'дцать дней | o'n to'qqiz kun
-два'дцать | yigirma | 🔢 | -дцать = ×10 · два'дцать оди'н стол (oxirgi so'zga qarab!) | DVA DSAT | Ikkita o'n — 2 × 10 = 20. | два'дцать два го'да | yigirma ikki yil
-три'дцать | o'ttiz | 🔢 | + Р.мн; три'дцать два стола' | TRI DSAT | Uchta o'n — 3 × 10 = 30. | три'дцать дней | o'ttiz kun
-со'рок | qirq | 🔢 | istisno! («четырдесят» emas) · Р/Д/Т/П: сорока' | SOROQ | Qirq kishi bir-biridan "So'roq!" qilib so'rayapti. | со'рок лет | qirq yil
-пятьдеся'т | ellik | 🔢 | пять + десят · Р: пяти'десяти | PYAT DESANT | Beshta o'nlik desant — 50. | пятьдеся'т рубле'й | ellik rubl
-шестьдеся'т | oltmish | 🔢 | Р: шести'десяти | SHEST DESANT | 6 × 10 = 60. | шестьдеся'т мину'т | oltmish daqiqa
-се'мьдесят | yetmish | 🔢 | Р: семи'десяти | SEMIZ DESANT | 7 × 10 = 70. | се'мьдесят лет | yetmish yil
-во'семьдесят | sakson | 🔢 | Р: восьми'десяти | VOSEM DESANT | 8 × 10 = 80. | во'семьдесят челове'к | sakson kishi
-девяно'сто | to'qson | 🔢 | istisno! · Р/Д/Т/П: девяно'ста | DEVYANOSTO — DEV YO'Q, NOSTO | To'qson dev bitta nos (burun)ga sig'magan. | девяно'сто проце'нтов | to'qson foiz
-сто | yuz | 💯 | Р/Д/Т/П: ста · + Р.мн: сто рубле'й | STOL | Yuzta stol bir qatorda. | сто проце'нтов | yuz foiz
-две'сти | ikki yuz | 🔢 | Р: двухсо'т | DVE + STO | Ikki yuz — dve sti. | две'сти рубле'й | ikki yuz rubl
-три'ста | uch yuz | 🔢 | Р: трёхсо'т; четы'реста = 400 | TRI + STA | 3 × 100 = 300; 400 = четы'реста. | три'ста гра'ммов | uch yuz gramm
-пятьсо'т | besh yuz | 🔢 | 500–900: -сот (пятьсо'т, шестьсо'т, семьсо'т, восемьсо'т, девятьсо'т) | PYAT + SOT | Beshta sotix yer — 500 kv. | пятьсо'т рубле'й | besh yuz rubl
-ты'сяча | ming | 🔢 | ж.р. (ot kabi!) · 2 ты'сячи, 5 ты'сяч · + Р.мн | TISHLAB | Ming kishi bitta olmani tishlab ko'rdi. | ты'сяча лет | ming yil
-миллио'н | million | 🔢 | м.р. (ot kabi) · 2 миллио'на, 5 миллио'нов | MILLION | Million o'zbekcha ham million — millionta chumoli bitta qand ko'tarmoqda. | миллио'н челове'к | million kishi
-миллиа'рд | milliard | 🔢 | м.р. · 2 миллиа'рда, 5 миллиа'рдов | MILLIARD | Milliard yulduz osmonda sanoq kutmoqda. | миллиа'рд рубле'й | milliard rubl
-пе'рвый | birinchi | 🥇 | sifat kabi: пе'рвый, пе'рвая, пе'рвое, пе'рвые | PERO | Birinchi bo'lib pero (pat qalam) qo'lga oldi. | пе'рвый уро'к | birinchi dars
-второ'й | ikkinchi | 🥈 | второ'й, втора'я, второ'е, вторы'е | VTORNIK — SESHANBA | Haftaning ikkinchi kuni — vtornik (seshanba). | второ'й эта'ж | ikkinchi qavat
-тре'тий | uchinchi | 🥉 | istisno: тре'тий, тре'тья, тре'тье, тре'тьи | TRETIY — TERAK | Uchinchi terakdan chapga buriling. | тре'тий день | uchinchi kun
-четвёртый | to'rtinchi | 4️⃣ | четвёртый, четвёртая · четве'рг = payshanba | CHETVERG | Haftaning to'rtinchi kuni — chetverg (payshanba). | четвёртый класс | to'rtinchi sinf
-пя'тый | beshinchi | 5️⃣ | пя'тый, пя'тая · пя'тница = juma | PYATNITSA | Beshinchi kun — pyatnitsa (juma). | пя'тый эта'ж | beshinchi qavat
-шесто'й | oltinchi | 6️⃣ | шесто'й, шеста'я | SHEST | Oltinchi qavatga shest (uzun tayoq) bilan chiqdik. | шесто'й ряд | oltinchi qator
-седьмо'й | yettinchi | 7️⃣ | седьмо'й, седьма'я | SED'MOY — SAID MOY | Said mo'ylovini yettinchi marta taradi. | седьмо'е не'бо | yettinchi osmon
-восьмо'й | sakkizinchi | 8️⃣ | восьмо'й, восьма'я | VOS'MOY | 8-mart — восьмо'е ма'рта. | восьмо'е ма'рта | 8-mart
-девя'тый | to'qqizinchi | 9️⃣ | девя'тый, девя'тая | DEV + YATIB | To'qqizinchi dev yotib qoldi. | девя'тый класс | to'qqizinchi sinf
-деся'тый | o'ninchi | 🔟 | деся'тый, деся'тая | DESANT | O'ninchi desantchi oxirgi bo'lib sakradi. | деся'тый раз | o'ninchi marta
-полови'на | yarim, yarmi | ◐ | ж.р. · + Р: полови'на кла'сса | PALOV + INA | Palovning yarmini ina (mushuk) yeb qo'ydi. | полови'на шесто'го | soat besh yarim
+ноль (нуль) | nol | 0️⃣ | м.р.; Р: ноля'; + Р.мн: ноль гра'дусов | NOL | Nol — o'zbekcha ham nol: teshik donut, ichida hech narsa yo'q. | Счёт — ноль : ноль. | Hisob — nol : nol. | нуль (nol) | —
+оди'н | bir | 1️⃣ | оди'н (м), одна' (ж), одно' (ср), одни' (мн) · + Им.ед: оди'н стол, одна' кни'га · Р: одного', одно'й | ODIN — ODIN TUN | Bir kun, bitta odam, bitta odin — "Odin dona!" deb do'kondagi bitta tarvuzni ko'rsatyapti. | оди'н день | bir kun | — | —
+два | ikki | 2️⃣ | два (м, ср), две (ж) · + Р.ед: два стола', две кни'ги · Р: двух; Д: двум; Т: двумя' | DVA — DAVRA | Davrada ikki kishi raqs tushyapti. | два бра'та | ikki aka-uka | пара (juft) | —
+три | uch | 3️⃣ | + Р.ед: три стола' · Р: трёх; Д: трём; Т: тремя' | TRI — TERI | Uch qavat teri kiygan odam qishda ham terlayapti. | три часа' | uch soat | — | —
+четы'ре | to'rt | 4️⃣ | + Р.ед: четы'ре кни'ги · Р: четырёх; Д: четырём; Т: четырьмя' | CHETIR | Chetir (soyabon) to'rt oyoqda yuribdi. | четы'ре сезо'на | to'rt fasl | — | —
+пять | besh | 5️⃣ | 5 dan boshlab + Р.мн: пять столо'в, пять книг · Р/Д/П: пяти'; Т: пятью' | PYAT — PAYTAVA | Besh barmog'ingizga beshta paytava o'rabsiz. | пять мину'т | besh daqiqa | — | —
+шесть | olti | 6️⃣ | + Р.мн · Р/Д/П: шести'; Т: шестью' | SHEST — SHAST | Shast (olti) qo'llik maymun oltita banan yeyapti. | шесть уро'ков | olti dars | — | —
+семь | yetti | 7️⃣ | + Р.мн · Р/Д/П: семи'; Т: семью' | SEMIZ | Yettita semiz qo'y yetti qavatli uyda yashaydi. | семь дней | yetti kun | — | —
+во'семь | sakkiz | 8️⃣ | + Р.мн · Р/Д/П: восьми'; Т: восемью' / восьмью' | VOSE-M — VOSITA | Sakkizta g'ildirakli transport vositasi. | во'семь часо'в | soat sakkiz | — | —
+де'вять | to'qqiz | 9️⃣ | + Р.мн · Р/Д/П: девяти'; Т: девятью' | DEV + YAT | To'qqizta dev to'qqiz qavat yotibdi. | де'вять лет | to'qqiz yil | — | —
+де'сять | o'n | 🔟 | + Р.мн · Р/Д/П: десяти'; Т: десятью' | DESANT | O'nta desantchi parashyutda o'nta kesak bilan tushyapti. | де'сять рубле'й | o'n rubl | десяток (o'nta) | —
+оди'ннадцать | o'n bir | 🔢 | -надцать = +10 · + Р.мн · Р: оди'ннадцати | ODIN + NADSAT | "Odin na dsat" — bitta o'nning ustida: 1 + 10. | оди'ннадцать лет | o'n bir yil | — | —
+двена'дцать | o'n ikki | 🕛 | + Р.мн · Р: двена'дцати | DVE NA DSAT | Ikki o'nning ustida: 2 + 10 — soat 12. | двена'дцать ме'сяцев | o'n ikki oy | — | —
+трина'дцать | o'n uch | 🔢 | + Р.мн | TRI NA DSAT | Uch o'n ustiga chiqdi: 3 + 10. | трина'дцать дней | o'n uch kun | — | —
+четы'рнадцать | o'n to'rt | 🔢 | + Р.мн | CHETIR NA DSAT | To'rtta soyabon o'n ustida: 4 + 10. | четы'рнадцать лет | o'n to'rt yosh | — | —
+пятна'дцать | o'n besh | 🔢 | + Р.мн (пять → пят-) | PYAT NA DSAT | 5 + 10 = 15. Beshta paytava o'nta oyoqqa. | пятна'дцать мину'т | o'n besh daqiqa | — | —
+шестна'дцать | o'n olti | 🔢 | + Р.мн | SHEST NA DSAT | 6 + 10 = 16. | шестна'дцать лет | o'n olti yosh | — | —
+семна'дцать | o'n yetti | 🔢 | + Р.мн (семь → сем-) | SEMIZ NA DSAT | 7 + 10 = 17. Yettita semiz qo'y o'nta qo'yning ustida. | семна'дцать лет | o'n yetti yosh | — | —
+восемна'дцать | o'n sakkiz | 🔢 | + Р.мн | VOSEM NA DSAT | 8 + 10 = 18. | восемна'дцать лет | o'n sakkiz yosh | — | —
+девятна'дцать | o'n to'qqiz | 🔢 | + Р.мн | DEVYAT NA DSAT | 9 + 10 = 19. | девятна'дцать дней | o'n to'qqiz kun | — | —
+два'дцать | yigirma | 🔢 | -дцать = ×10 · два'дцать оди'н стол (oxirgi so'zga qarab!) | DVA DSAT | Ikkita o'n — 2 × 10 = 20. | два'дцать два го'да | yigirma ikki yil | — | —
+три'дцать | o'ttiz | 🔢 | + Р.мн; три'дцать два стола' | TRI DSAT | Uchta o'n — 3 × 10 = 30. | три'дцать дней | o'ttiz kun | — | —
+со'рок | qirq | 🔢 | istisno! («четырдесят» emas) · Р/Д/Т/П: сорока' | SOROQ | Qirq kishi bir-biridan "So'roq!" qilib so'rayapti. | со'рок лет | qirq yil | — | —
+пятьдеся'т | ellik | 🔢 | пять + десят · Р: пяти'десяти | PYAT DESANT | Beshta o'nlik desant — 50. | пятьдеся'т рубле'й | ellik rubl | — | —
+шестьдеся'т | oltmish | 🔢 | Р: шести'десяти | SHEST DESANT | 6 × 10 = 60. | шестьдеся'т мину'т | oltmish daqiqa | — | —
+се'мьдесят | yetmish | 🔢 | Р: семи'десяти | SEMIZ DESANT | 7 × 10 = 70. | се'мьдесят лет | yetmish yil | — | —
+во'семьдесят | sakson | 🔢 | Р: восьми'десяти | VOSEM DESANT | 8 × 10 = 80. | во'семьдесят челове'к | sakson kishi | — | —
+девяно'сто | to'qson | 🔢 | istisno! · Р/Д/Т/П: девяно'ста | DEVYANOSTO — DEV YO'Q, NOSTO | To'qson dev bitta nos (burun)ga sig'magan. | девяно'сто проце'нтов | to'qson foiz | — | —
+сто | yuz | 💯 | Р/Д/Т/П: ста · + Р.мн: сто рубле'й | STOL | Yuzta stol bir qatorda. | сто проце'нтов | yuz foiz | сотня (yuztalik) | —
+две'сти | ikki yuz | 🔢 | Р: двухсо'т | DVE + STO | Ikki yuz — dve sti. | две'сти рубле'й | ikki yuz rubl | — | —
+три'ста | uch yuz | 🔢 | Р: трёхсо'т; четы'реста = 400 | TRI + STA | 3 × 100 = 300; 400 = четы'реста. | три'ста гра'ммов | uch yuz gramm | — | —
+пятьсо'т | besh yuz | 🔢 | 500–900: -сот (пятьсо'т, шестьсо'т, семьсо'т, восемьсо'т, девятьсо'т) | PYAT + SOT | Beshta sotix yer — 500 kv. | пятьсо'т рубле'й | besh yuz rubl | — | —
+ты'сяча | ming | 🔢 | ж.р. (ot kabi!) · 2 ты'сячи, 5 ты'сяч · + Р.мн | TISHLAB | Ming kishi bitta olmani tishlab ko'rdi. | ты'сяча лет | ming yil | — | —
+миллио'н | million | 🔢 | м.р. (ot kabi) · 2 миллио'на, 5 миллио'нов | MILLION | Million o'zbekcha ham million — millionta chumoli bitta qand ko'tarmoqda. | миллио'н челове'к | million kishi | — | —
+миллиа'рд | milliard | 🔢 | м.р. · 2 миллиа'рда, 5 миллиа'рдов | MILLIARD | Milliard yulduz osmonda sanoq kutmoqda. | миллиа'рд рубле'й | milliard rubl | — | —
+пе'рвый | birinchi | 🥇 | sifat kabi: пе'рвый, пе'рвая, пе'рвое, пе'рвые | PERO | Birinchi bo'lib pero (pat qalam) qo'lga oldi. | пе'рвый уро'к | birinchi dars | — | последний (oxirgi)
+второ'й | ikkinchi | 🥈 | второ'й, втора'я, второ'е, вторы'е | VTORNIK — SESHANBA | Haftaning ikkinchi kuni — vtornik (seshanba). | второ'й эта'ж | ikkinchi qavat | — | —
+тре'тий | uchinchi | 🥉 | istisno: тре'тий, тре'тья, тре'тье, тре'тьи | TRETIY — TERAK | Uchinchi terakdan chapga buriling. | тре'тий день | uchinchi kun | — | —
+четвёртый | to'rtinchi | 4️⃣ | четвёртый, четвёртая · четве'рг = payshanba | CHETVERG | Haftaning to'rtinchi kuni — chetverg (payshanba). | четвёртый класс | to'rtinchi sinf | — | —
+пя'тый | beshinchi | 5️⃣ | пя'тый, пя'тая · пя'тница = juma | PYATNITSA | Beshinchi kun — pyatnitsa (juma). | пя'тый эта'ж | beshinchi qavat | — | —
+шесто'й | oltinchi | 6️⃣ | шесто'й, шеста'я | SHEST | Oltinchi qavatga shest (uzun tayoq) bilan chiqdik. | шесто'й ряд | oltinchi qator | — | —
+седьмо'й | yettinchi | 7️⃣ | седьмо'й, седьма'я | SED'MOY — SAID MOY | Said mo'ylovini yettinchi marta taradi. | седьмо'е не'бо | yettinchi osmon | — | —
+восьмо'й | sakkizinchi | 8️⃣ | восьмо'й, восьма'я | VOS'MOY | 8-mart — восьмо'е ма'рта. | восьмо'е ма'рта | 8-mart | — | —
+девя'тый | to'qqizinchi | 9️⃣ | девя'тый, девя'тая | DEV + YATIB | To'qqizinchi dev yotib qoldi. | девя'тый класс | to'qqizinchi sinf | — | —
+деся'тый | o'ninchi | 🔟 | деся'тый, деся'тая | DESANT | O'ninchi desantchi oxirgi bo'lib sakradi. | деся'тый раз | o'ninchi marta | — | —
+полови'на | yarim, yarmi | ◐ | ж.р. · + Р: полови'на кла'сса | PALOV + INA | Palovning yarmini ina (mushuk) yeb qo'ydi. | полови'на шесто'го | soat besh yarim | — | целое (butun)
 # 2
-четы'реста | to'rt yuz | 🔢 | Р: четырёхсо'т · + Р.мн | CHETIR + STA | To'rtta soyabon yuz martadan ochildi — 400. | четы'реста рубле'й | to'rt yuz rubl
-шестьсо'т | olti yuz | 🔢 | Р: шестисо'т | SHEST + SOT | Olti sotix yer — 600. | шестьсо'т гра'ммов | olti yuz gramm
-семьсо'т | yetti yuz | 🔢 | Р: семисо'т | SEMIZ + SOT | Yettita semiz qo'y yuz martadan ko'paydi — 700. | семьсо'т лет | yetti yuz yil
-восемьсо'т | sakkiz yuz | 🔢 | Р: восьмисо'т | VOSEM + SOT | 8 × 100 = 800. | восемьсо'т ме'тров | sakkiz yuz metr
-девятьсо'т | to'qqiz yuz | 🔢 | Р: девятисо'т | DEVYAT + SOT | 9 × 100 = 900. | девятьсо'т рубле'й | to'qqiz yuz rubl
-двадца'тый | yigirmanchi | 2️⃣0️⃣ | sifat kabi: двадца'тый, -ая, -ое | DVADTSAT | 20 → двадца'тый. | двадца'тый век | yigirmanchi asr
-со'тый | yuzinchi | 💯 | со'тый, со'тая | SOT | Yuzinchi sotix. | со'тый раз | yuzinchi marta
-ты'сячный | minginchi | 🔢 | ты'сячный, ты'сячная | TISHLAB | Minginchi tishlam. | ты'сячный год | minginchi yil
-о'ба / о'бе | ikkalasi | ✌️ | о'ба (м, ср), о'бе (ж) · + Р.ед: о'ба бра'та, о'бе сестры' | OBA — OBI (non) | Ikkala obi-nonni ham yedingiz! | О'ба студе'нта здесь. | Ikkala talaba ham shu yerda.
-дво'е / тро'е | ikkovi / uchovi | 👥 | jamlovchi son · + Р.мн: дво'е дете'й | DVOE — DAVRA | Davrada ikkovi raqs tushyapti. | У них дво'е дете'й. | Ularning ikki farzandi bor.
-па'ра | juft | 🧦 | ж.р.; Р: па'ры · па'ра носко'в | PARA — PARA (bug') | Bir juft paypoq bug'da quriyapti. | па'ра бо'тинок | bir juft botinka
-деся'ток | o'nta (o'nlik) | 🥚 | м.р.; Р: деся'тка · деся'ток яи'ц | DESYATOK — DESANT | O'nta desantchi — bir o'nlik. | деся'ток яи'ц | o'nta tuxum
-со'тня | yuztalik | 💵 | ж.р.; Р: со'тни | SOTNYA — SOTIX | Yuz sotix — sotnya. | со'тни люде'й | yuzlab odamlar
-два'жды / три'жды | ikki marta / uch marta | ✖️ | o'zgarmaydi · два'жды два — четы'ре | DVAJDI — DAVRA + JDI | Davrada ikki marta aylanish. | два'жды два — четы'ре | ikki karra ikki — to'rt
-не'сколько | bir nechta | 🔢 | не'сколько + Р.мн: не'сколько книг | NESKOLKO — NE + SKOLKO | Nechta? — bir nechta! | не'сколько дней | bir necha kun
+четы'реста | to'rt yuz | 🔢 | Р: четырёхсо'т · + Р.мн | CHETIR + STA | To'rtta soyabon yuz martadan ochildi — 400. | четы'реста рубле'й | to'rt yuz rubl | — | —
+шестьсо'т | olti yuz | 🔢 | Р: шестисо'т | SHEST + SOT | Olti sotix yer — 600. | шестьсо'т гра'ммов | olti yuz gramm | — | —
+семьсо'т | yetti yuz | 🔢 | Р: семисо'т | SEMIZ + SOT | Yettita semiz qo'y yuz martadan ko'paydi — 700. | семьсо'т лет | yetti yuz yil | — | —
+восемьсо'т | sakkiz yuz | 🔢 | Р: восьмисо'т | VOSEM + SOT | 8 × 100 = 800. | восемьсо'т ме'тров | sakkiz yuz metr | — | —
+девятьсо'т | to'qqiz yuz | 🔢 | Р: девятисо'т | DEVYAT + SOT | 9 × 100 = 900. | девятьсо'т рубле'й | to'qqiz yuz rubl | — | —
+двадца'тый | yigirmanchi | 2️⃣0️⃣ | sifat kabi: двадца'тый, -ая, -ое | DVADTSAT | 20 → двадца'тый. | двадца'тый век | yigirmanchi asr | — | —
+со'тый | yuzinchi | 💯 | со'тый, со'тая | SOT | Yuzinchi sotix. | со'тый раз | yuzinchi marta | — | —
+ты'сячный | minginchi | 🔢 | ты'сячный, ты'сячная | TISHLAB | Minginchi tishlam. | ты'сячный год | minginchi yil | — | —
+о'ба / о'бе | ikkalasi | ✌️ | о'ба (м, ср), о'бе (ж) · + Р.ед: о'ба бра'та, о'бе сестры' | OBA — OBI (non) | Ikkala obi-nonni ham yedingiz! | О'ба студе'нта здесь. | Ikkala talaba ham shu yerda. | и тот и другой (u ham, bu ham) | ни один (birontasi ham)
+дво'е / тро'е | ikkovi / uchovi | 👥 | jamlovchi son · + Р.мн: дво'е дете'й | DVOE — DAVRA | Davrada ikkovi raqs tushyapti. | У них дво'е дете'й. | Ularning ikki farzandi bor. | — | —
+па'ра | juft | 🧦 | ж.р.; Р: па'ры · па'ра носко'в | PARA — PARA (bug') | Bir juft paypoq bug'da quriyapti. | па'ра бо'тинок | bir juft botinka | — | —
+деся'ток | o'nta (o'nlik) | 🥚 | м.р.; Р: деся'тка · деся'ток яи'ц | DESYATOK — DESANT | O'nta desantchi — bir o'nlik. | деся'ток яи'ц | o'nta tuxum | — | —
+со'тня | yuztalik | 💵 | ж.р.; Р: со'тни | SOTNYA — SOTIX | Yuz sotix — sotnya. | со'тни люде'й | yuzlab odamlar | — | —
+два'жды / три'жды | ikki marta / uch marta | ✖️ | o'zgarmaydi · два'жды два — четы'ре | DVAJDI — DAVRA + JDI | Davrada ikki marta aylanish. | два'жды два — четы'ре | ikki karra ikki — to'rt | — | —
+не'сколько | bir nechta | 🔢 | не'сколько + Р.мн: не'сколько книг | NESKOLKO — NE + SKOLKO | Nechta? — bir nechta! | не'сколько дней | bir necha kun | ряд (bir qator) | много (ko'p)

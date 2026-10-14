@@ -39,6 +39,10 @@
   .tg-h{font-size:14.5px; line-height:1.5; background:color-mix(in srgb, var(--gold) 13%, transparent); border:1px dashed color-mix(in srgb, var(--gold) 60%, transparent); border-radius:8px; padding:8px 10px;}
   .tg-h .hw{font-weight:700; letter-spacing:.03em; color:var(--gold);}
   .tg-h .lab{font-weight:700; font-size:11.5px; letter-spacing:.04em; text-transform:uppercase; color:var(--gold); margin-right:6px;}
+  .tg-sa{display:flex; flex-direction:column; gap:3px; font-size:13.5px; line-height:1.45;}
+  .tg-sa .lab{display:inline-block; min-width:22px; font-weight:700;}
+  .tg-sa .sy .lab{color:var(--accent);} .tg-sa .an .lab{color:var(--margin);}
+  .tg-sa .ru-w{font-family:var(--font-display);}
   .tg-ex{display:flex; gap:8px; align-items:flex-start; font-size:14.5px;}
   .tg-ex .er{font-family:var(--font-display);}
   .tg-ex .eu{color:var(--ink-soft); font-size:13.5px;}
@@ -81,7 +85,7 @@
     <div class="wrap">
       <p class="eyebrow">TOG usulida so'z yodlash</p>
       <h1>TOG lug'ati: eng kerakli ruscha so'zlar</h1>
-      <p class="lead">Har bir so'z — <b>tarjima</b>, <b>obraz</b> (rasm), <b>garmoniya</b> (o'zbekcha ohangdosh so'z) va tasavvurga sig'maydigan <b>kulgili manzara</b> bilan. Yonida grammatik shakllari, misol gap va ovozi. So'zlar eng ko'p ishlatilishi bo'yicha kamayish tartibida.</p>
+      <p class="lead">Har bir so'z — <b>tarjima</b>, <b>obraz</b> (rasm), <b>garmoniya</b> (o'zbekcha ohangdosh so'z) va tasavvurga sig'maydigan <b>kulgili manzara</b> bilan. Yonida grammatik shakllari, <b>ma'nodosh (≈)</b> va <b>antonim (↔)</b>, misol gap va ovozi. So'zlar eng ko'p ishlatilishi bo'yicha kamayish tartibida.</p>
       <p style="margin-top:14px;display:flex;flex-wrap:wrap;gap:8px"><span class="chip soft" id="statAll">— so'z</span><span class="chip soft" id="statKnown">0 ta o'rganildi</span><span class="chip soft" id="statStage">1–2-bosqich</span><a class="chip" href="assets/tog-lugat.pdf" download>⬇ PDF yuklab olish</a></p>
     </div>
   </section>
@@ -98,7 +102,7 @@
     <div id="filters">
       <div class="cat-row" id="cats" aria-label="So'z turkumi"></div>
       <div class="toolbar">
-        <input type="search" id="q" placeholder="Qidirish: ruscha, o'zbekcha yoki garmoniya…" aria-label="Qidirish">
+        <input type="search" id="q" placeholder="Qidirish: ruscha, o'zbekcha, garmoniya, ma'nodosh…" aria-label="Qidirish">
         <select id="stage" aria-label="Bosqich"><option value="all">Barcha bosqichlar</option></select>
         <label style="display:inline-flex;gap:6px;align-items:center;font-size:14.5px"><input type="checkbox" id="onlyNew"> faqat o'rganilmaganlar</label>
       </div>
@@ -136,12 +140,14 @@
 
     <!-- ===== Test ===== -->
     <section id="tab-quiz" hidden>
-      <p class="muted">Tanlangan turkumdan 10 ta tasodifiy savol. Uch xil rejim — uchinchisi TOG kalitini mustahkamlaydi.</p>
+      <p class="muted">Tanlangan turkumdan 10 ta tasodifiy savol. Besh xil rejim: tarjima (ikki tomonga), TOG kaliti, ma'nodosh va antonim.</p>
       <div class="toolbar">
         <select id="qMode" aria-label="Test turi">
           <option value="ru">Ruscha → o'zbekcha</option>
           <option value="uz">O'zbekcha → ruscha</option>
           <option value="tog">TOG manzarasi → ruscha so'z</option>
+          <option value="sy">Ma'nodoshini top</option>
+          <option value="an">Antonimini top</option>
         </select>
         <button type="button" class="btn btn-primary" id="newQuiz">Yangi test</button>
       </div>
@@ -380,13 +386,20 @@
       if (cat !== 'all' && w.cat !== cat) return false;
       if (!inStage(w)) return false;
       if (onlyNew.checked && known[w.id]) return false;
-      if (s && T.norm(w.ru).indexOf(s) < 0 && w.uz.toLowerCase().indexOf(s) < 0 && w.h.toLowerCase().indexOf(s) < 0) return false;
+      if (s && T.norm(w.ru).indexOf(s) < 0 && w.uz.toLowerCase().indexOf(s) < 0 && w.h.toLowerCase().indexOf(s) < 0 && T.norm((w.sy || '') + ' ' + (w.an || '')).indexOf(s) < 0) return false;
       return true;
     });
   }
 
   /* ---- so'zlar ---- */
   var shown = 60, cur = [];
+  function saBlock(w){
+    if (!w.sy && !w.an) return '';
+    return '<div class="tg-sa">' +
+      (w.sy ? '<div class="sy" title="Ma\'nodosh"><span class="lab">≈</span><span class="ru-w">' + esc(w.sy) + '</span></div>' : '') +
+      (w.an ? '<div class="an" title="Antonim"><span class="lab">↔</span><span class="ru-w">' + esc(w.an) + '</span></div>' : '') +
+    '</div>';
+  }
   function card(w){
     return '<article class="tg' + (known[w.id] ? ' known' : '') + '">' +
       '<span class="tg-n">' + esc(w.catUz) + ' · ' + w.n + ' · ' + w.b + '-b</span>' +
@@ -396,6 +409,7 @@
         '<button type="button" class="k" data-id="' + w.id + '" aria-pressed="' + (known[w.id] ? 'true' : 'false') + '" title="O\'rgandim">' + (known[w.id] ? '✓' : '○') + '</button></div>' +
       '<div class="tg-g ru">' + esc(w.g) + '</div>' +
       '<div class="tg-h"><span class="lab">TOG</span><span class="hw">' + esc(w.h) + '</span> — ' + esc(w.s) + '</div>' +
+      saBlock(w) +
       '<div class="tg-ex">' + T.sayBtn(w.er) + '<div><div class="er">' + esc(w.er) + '</div><div class="eu">' + esc(w.eu) + '</div></div></div>' +
     '</article>';
   }
@@ -433,7 +447,8 @@
     $('fGr').textContent = rev ? '' : w.g;
     $('bUz').textContent = rev ? w.ru : w.uz;
     $('bH').innerHTML = '<b>' + esc(w.h) + '</b> — ' + esc(w.s);
-    $('bEx').textContent = w.er + ' — ' + w.eu;
+    $('bEx').textContent = (w.sy ? '≈ ' + w.sy + '   ' : '') + (w.an ? '↔ ' + w.an : '');
+    if (!w.sy && !w.an) $('bEx').textContent = w.er + ' — ' + w.eu;
     $('fcInfo').textContent = (pos + 1) + ' / ' + deck.length + ' · ' + w.catUz;
     if (!rev) T.speak(w.ru);
   }
@@ -463,13 +478,24 @@
 
   /* ---- test ---- */
   function newQuiz(){
-    var pool = filtered(); if (pool.length < 4) pool = ALL.slice();
     var mode = $('qMode').value;
+    var pool = filtered();
+    if (mode === 'sy' || mode === 'an'){
+      pool = pool.filter(function(w){ return w[mode]; });
+      if (pool.length < 4) pool = ALL.filter(function(w){ return w[mode]; });
+    }
+    if (pool.length < 4) pool = ALL.slice();
     var pick = T.shuffle(pool).slice(0, Math.min(10, pool.length));
     var items = pick.map(function(w){
       var same = ALL.filter(function(x){ return x.cat === w.cat && x.id !== w.id && x.uz !== w.uz; });
       if (same.length < 3) same = ALL.filter(function(x){ return x.id !== w.id && x.uz !== w.uz; });
       var opts = [w].concat(T.shuffle(same).slice(0, 3));
+      if (mode === 'sy' || mode === 'an'){
+        var cand = ALL.filter(function(x){ return x[mode] && x.id !== w.id && x[mode] !== w[mode] && x.cat === w.cat; });
+        if (cand.length < 3) cand = ALL.filter(function(x){ return x[mode] && x.id !== w.id && x[mode] !== w[mode]; });
+        var oth = T.shuffle(cand).slice(0, 3);
+        return {t:'c', q:w.em + '  ' + w.ru + ' (' + w.uz + ') — ' + (mode === 'sy' ? 'ma\'nodoshi:' : 'antonimi:'), o:[w[mode]].concat(oth.map(function(x){ return x[mode]; })), a:0, say:w.ru, x:w.h};
+      }
       if (mode === 'uz') return {t:'c', q:w.em + '  ' + w.uz + ' — ruschasi:', o:opts.map(function(x){ return x.ru; }), a:0, say:w.ru, x:w.h};
       if (mode === 'tog') return {t:'c', q:'TOG: ' + w.h + ' — ' + w.s, o:opts.map(function(x){ return x.ru; }), a:0, say:w.ru, x:w.uz};
       return {t:'c', q:w.em + '  ' + w.ru, o:opts.map(function(x){ return x.uz; }), a:0, say:w.ru, x:w.h};

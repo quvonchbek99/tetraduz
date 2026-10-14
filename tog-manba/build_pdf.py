@@ -17,11 +17,18 @@ total = sum(len(c['w']) for c in cats)
 st = sorted({w['b'] for c in cats for w in c['w']})
 stage_txt = (f"{st[0]}–{st[-1]}-bosqich" if len(st) > 1 else f"{st[0]}-bosqich") + ' · ' + ', '.join(f"{b}-bosqich: {sum(1 for c in cats for w in c['w'] if w['b']==b)} so'z" for b in st)
 
+def sa(w):
+    r = ''
+    if w.get('sy'): r += f'<div class="sa"><b class="sy">≈</b> {e(w["sy"])}</div>'
+    if w.get('an'): r += f'<div class="sa"><b class="an">↔</b> {e(w["an"])}</div>'
+    return r
+
 def word(w, n):
     return f'''<div class="w">
   <div class="top"><span class="em">{e(w['em'])}</span><div class="t"><div class="ru">{e(w['ru'])}</div><div class="uz">{e(w['uz'])}</div></div><span class="n">{n}{' · ' + str(w['b']) + '-b' if w['b'] > 1 else ''}</span></div>
   <div class="g">{e(w['g'])}</div>
   <div class="h"><b>{e(w['h'])}</b> — {e(w['s'])}</div>
+  {sa(w)}
   <div class="ex"><span class="er">{e(w['er'])}</span> — <span class="eu">{e(w['eu'])}</span></div>
 </div>'''
 
@@ -80,13 +87,14 @@ section.cat h2 small{{font-size:10pt; color:var(--soft); font-weight:400; margin
 .w .g{{font-family:'DejaVu Serif'; font-size:8.2pt; background:var(--rulebg); border-radius:1.5mm; padding:1mm 1.8mm}}
 .w .h{{font-size:8.8pt; background:var(--goldbg); border-radius:1.5mm; padding:1.1mm 1.8mm}}
 .w .h b{{color:var(--gold)}}
+.w .sa{{font-family:'DejaVu Serif'; font-size:8.4pt}} .w .sa b.sy{{color:var(--acc)}} .w .sa b.an{{color:var(--margin)}}
 .w .ex{{font-size:8.8pt}} .w .eu{{color:var(--soft)}}
 a{{color:var(--acc)}}
 </style></head><body>
 <div class="cover">
   <div class="brand">ТЕТРАДЬ · Rus tili onlayn</div>
   <h1>TOG lug'ati:<br>eng kerakli ruscha so'zlar</h1>
-  <p class="sub">{total} ta so'z — eng ko'p ishlatilishi bo'yicha kamayish tartibida. Har biri tarjima, rasm, grammatik shakllar, o'zbekcha ohangdosh so'z, kulgili manzara va misol gap bilan.</p>
+  <p class="sub">{total} ta so'z — eng ko'p ishlatilishi bo'yicha kamayish tartibida. Har biri tarjima, rasm, grammatik shakllar, o'zbekcha ohangdosh so'z, kulgili manzara, ma'nodosh (≈), antonim (↔) va misol gap bilan.</p>
   <div class="tog"><div><b>T</b>Tarjima</div><div><b>O</b>Obraz — rasm</div><div><b>G</b>Garmoniya — ohangdosh so'z</div><div><b>K</b>Kulgi — absurd manzara</div></div>
   <table class="toc">{toc}<tr><td><b>Jami</b></td><td></td><td class="c">{total}</td></tr></table>
   <p class="foot">{stage_txt} · Onlayn versiya (ovoz, kartochka, test): quvonchbek99.github.io/tetraduz/tog.html</p>

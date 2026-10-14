@@ -1,91 +1,91 @@
 # 1
-о'чень | juda | ‼️ | o'zgarmaydi · + sifat/ravish: о'чень хорошо' | OCHAN — O'CHOQ | O'choqdagi olov juda-juda katta — "ochen!" | Мне о'чень нра'вится. | Menga juda yoqadi.
-уже' | allaqachon | ✔️ | o'zgarmaydi · уже' не = endi …-maydi | UJE — UJAR | Ujar (Uzbek "o'jar") eshak allaqachon yetib keldi. | Я уже' пообе'дал. | Men allaqachon tushlik qildim.
-ещё | yana; hali | ➕ | ещё не = hali …-gan emas | YESHYO — YESHSAN | "Yana yeysanmi?" — "Yeshyo!" | Ещё раз! | Yana bir marta!
-то'лько | faqat; endigina | ☝️ | o'zgarmaydi | TOLKO — TOL | Faqat bitta tol daraxti cho'lda turibdi. | То'лько оди'н. | Faqat bitta.
-то'же | ham | 🤝 | gap oxirida yoki fe'ldan oldin: Я то'же. | TOJE — TOJ | Siz ham toj kiyib oldingiz — toje! | Я то'же студе'нт. | Men ham talabaman.
-всегда' | doim | ♾️ | o'zgarmaydi | VSEGDA — VASIQA | Vasiqani doim cho'ntakda olib yurasiz. | Он всегда' прав. | U doim haq.
-никогда' | hech qachon | 🙅 | + не: Я никогда' не был… | NIKOGDA — NIKOH | Mushuk hech qachon nikoh to'yiga taklif qilinmagan. | Я никогда' не опа'здываю. | Men hech qachon kechikmayman.
-иногда' | ba'zan | 🌗 | o'zgarmaydi | INOGDA — INOQ | Ba'zan hammamiz inoq bo'lamiz. | Иногда' я смотрю' телеви'зор. | Ba'zan televizor ko'raman.
-ча'сто | tez-tez | 🔂 | qiyos: ча'ще | CHASTOTA | Radio chastotasi tez-tez o'zgarib turadi. | Я ча'сто чита'ю. | Men tez-tez o'qiyman.
-ре'дко | kamdan-kam | 🦄 | qiyos: ре'же | REDKO — REDISKA | Rediska bozorda kamdan-kam topiladi. | Он ре'дко звони'т. | U kamdan-kam qo'ng'iroq qiladi.
-сейча'с | hozir | ⏰ | o'zgarmaydi · [сича'с] | SEYCHAS — SEYF CHAS | Seyfdagi soat (chas) hozir jiringladi! | Я сейча'с рабо'таю. | Men hozir ishlayapman.
-тепе'рь | endi | ⏩ | o'zgarmaydi | TEPER — TEPPA | Endi tog' teppasidamiz! | Тепе'рь я понима'ю. | Endi tushunyapman.
-сего'дня | bugun | 📅 | [сево'дня] | SEVODNYA — SEVGAN DUNYO | Bugun sevgan dunyongizda bayram! | Сего'дня понеде'льник. | Bugun dushanba.
-вчера' | kecha | ⏪ | o'zgarmaydi | VCHERA — VIJDON CHERA | Kecha qilgan ishingizni vijdon eslatadi. | Вчера' был дождь. | Kecha yomg'ir yog'di.
-за'втра | ertaga | ⏭️ | o'zgarmaydi | ZAVTRA — ZAVOD | Ertaga zavodga ishga borasiz. | До за'втра! | Ertagacha!
-здесь | bu yerda | 📍 | [здесь] · тут = bu yerda (so'zlashuv) | ZDES — ZIDDAN | Ziddan hamma narsa aynan shu yerda! | Я здесь. | Men shu yerdaman.
-там | u yerda | 🏔️ | o'zgarmaydi | TAM — TOM | U yerda — tomning ustida! | Он там. | U o'sha yerda.
-туда' | u yerga | ➡️ | куда'? savoliga javob (harakat) | TUDA — TUYA | Tuya u yerga ketyapti — tuda! | Иди' туда'! | U yerga bor!
-сюда' | bu yerga | ⬅️ | куда'? savoliga javob | SYUDA — SUYAK | Itga suyak tashlasangiz, darrov bu yerga yuguradi. | Иди' сюда'! | Bu yerga kel!
-домо'й | uyga | 🏠 | куда'? — домо'й (harakat) ≠ до'ма (qayerda?) | DOMOY — DOMLA | Domla darsdan keyin uyga shoshyapti. | Я иду' домо'й. | Men uyga ketyapman.
-до'ма | uyda | 🛋️ | где? — до'ма | DOMA — DUMBA | Uyda dumba qovurilyapti. | Па'па до'ма. | Dadam uyda.
-хорошо' | yaxshi | 👌 | qiyos: лу'чше | XOROSHO — XO'ROZ SHO' | Xo'roz sho'x qichqirdi: "Xorosho!" | Всё хорошо'. | Hammasi yaxshi.
-пло'хо | yomon | 😕 | qiyos: ху'же | PLOXO — PALOV XO' | Palov kuyib ketdi — ploxo! | Мне пло'хо. | Mening ahvolim yomon.
-бы'стро | tez | 🏎️ | qiyos: быстре'е | BISTRO | Bistro (tezkor kafe) — ovqat tez! | Он бы'стро бе'гает. | U tez yuguradi.
-ме'дленно | sekin | 🐌 | qiyos: ме'дленнее | MEDALLI | Medalli toshbaqa sekin-sekin yuribdi. | Говори'те ме'дленно, пожа'луйста. | Sekin gapiring, iltimos.
-мно'го | ko'p | 📚 | + Р: мно'го люде'й, мно'го воды' · qiyos: бо'льше | MNOGO — MING OG'O | Ming og'a — juda ko'p! | У меня' мно'го друзе'й. | Mening do'stlarim ko'p.
-ма'ло | kam | 🤏 | + Р: ма'ло вре'мени · qiyos: ме'ньше | MALO — MALLA | Malla sochli bolada soch kam. | У нас ма'ло вре'мени. | Bizda vaqt kam.
-вме'сте | birga | 👫 | o'zgarmaydi | VMESTE — VAZMIN | Vazmin do'stlar doim birga. | Мы рабо'таем вме'сте. | Biz birga ishlaymiz.
-ра'но | erta | 🌄 | qiyos: ра'ньше | RANO — RAYHON | Erta tongda rayhon hidlanadi. | Я встаю' ра'но. | Men erta turaman.
-по'здно | kech | 🌃 | [по'зно] · qiyos: по'зже | POZDNO — PAZANDA | Pazanda kech qoldi — mehmonlar och! | Уже' по'здно. | Allaqachon kech.
-далеко' | uzoq(da) | 🗻 | qiyos: да'льше | DALEKO — DALA | Dala uzoqda! | Шко'ла далеко'. | Maktab uzoqda.
-бли'зко | yaqin(da) | 🧭 | qiyos: бли'же | BLIZKO — BILIZUK | Bilaguzuk qo'lga juda yaqin. | Магази'н бли'зко. | Do'kon yaqin.
-пото'м | keyin | 🔜 | o'zgarmaydi | POTOM — PATNIS | Avval choy, keyin patnisda shirinlik. | Снача'ла уро'к, пото'м обе'д. | Avval dars, keyin tushlik.
-снача'ла | avval | 1️⃣ | o'zgarmaydi | SNACHALA — NACHALNIK | Avval nachalnik (boshliq) kiradi. | Снача'ла поду'май! | Avval o'yla!
-где | qayerda | 🗺️ | где? — П kelishik bilan javob: в шко'ле | GDE — G'ADIR | G'adir-budur yo'lda qayerdasiz? | Где ты живёшь? | Qayerda yashaysan?
-куда' | qayerga | 🧭 | куда'? — В kelishik bilan: в шко'лу | KUDA — QUDA | Quda qayerga ketyapti? | Куда' ты идёшь? | Qayerga ketyapsan?
-отку'да | qayerdan | 🛬 | отку'да? — Р: из шко'лы, с рабо'ты | OTKUDA — OTQUDUQ | Ot quduqdan chiqib kelyapti — qayerdan? | Отку'да вы? | Qayerdansiz?
-когда' | qachon | 🕰️ | o'zgarmaydi | KOGDA — QOG'OZ | Qog'ozga "qachon?" deb yozib qo'yasiz. | Когда' уро'к? | Dars qachon?
-почему' | nima uchun | 🤨 | o'zgarmaydi · javob: потому' что… | POCHEMU — PO'CHOQ | Nima uchun po'choq yerda yotibdi? | Почему' ты опозда'л? | Nima uchun kechikding?
-как | qanday | 🌀 | o'zgarmaydi | KAK — KAKKU | Kakku qushi: "Qandaysiz? Kak dela?" | Как тебя' зову'т? | Isming nima?
-ско'лько | qancha, nechta | 🔢 | + Р: ско'лько лет? ско'лько сто'ит? | SKOLKO — SHKATULKA | Shkatulkada qancha ninalar bor? | Ско'лько тебе' лет? | Necha yoshdasan?
-почти' | deyarli | 〰️ | o'zgarmaydi | POCHTI — POCHTA | Pochta deyarli yetib keldi. | Почти' гото'во. | Deyarli tayyor.
-коне'чно | albatta | 💯 | [коне'шно] | KONESHNO — KONFET NO | "Konfet yeysanmi?" — "Koneshno!" | Коне'чно, помогу'! | Albatta, yordam beraman!
-пра'вильно | to'g'ri | ✅ | o'zgarmaydi | PRAVILNO — PRAVA | Prava bilan to'g'ri haydash. | Пра'вильно! | To'g'ri!
-мо'жно | mumkin | 🟢 | Д + мо'жно + inf: Мне мо'жно? | MOJNO — MO'JIZA | Mo'jiza — hamma narsa mumkin! | Мо'жно войти'? | Kirsam bo'ladimi?
-нельзя' | mumkin emas | ⛔ | Д + нельзя' + inf | NELZYA — NAYZA | Nayza bilan o'ynash mumkin emas! | Здесь нельзя' кури'ть. | Bu yerda chekish mumkin emas.
-на'до | kerak | 📌 | Д + на'до + inf: Мне на'до… | NADO — NOODATIY | Noodatiy bo'lsa ham, buni qilish kerak! | Мне на'до идти'. | Men ketishim kerak.
+о'чень | juda | ‼️ | o'zgarmaydi · + sifat/ravish: о'чень хорошо' | OCHAN — O'CHOQ | O'choqdagi olov juda-juda katta — "ochen!" | Мне о'чень нра'вится. | Menga juda yoqadi. | весьма (ancha), крайне (nihoyatda) | чуть-чуть (ozgina)
+уже' | allaqachon | ✔️ | o'zgarmaydi · уже' не = endi …-maydi | UJE — UJAR | Ujar (Uzbek "o'jar") eshak allaqachon yetib keldi. | Я уже' пообе'дал. | Men allaqachon tushlik qildim. | — | ещё не (hali … emas)
+ещё | yana; hali | ➕ | ещё не = hali …-gan emas | YESHYO — YESHSAN | "Yana yeysanmi?" — "Yeshyo!" | Ещё раз! | Yana bir marta! | снова (yana) | уже (allaqachon)
+то'лько | faqat; endigina | ☝️ | o'zgarmaydi | TOLKO — TOL | Faqat bitta tol daraxti cho'lda turibdi. | То'лько оди'н. | Faqat bitta. | лишь (faqat) | —
+то'же | ham | 🤝 | gap oxirida yoki fe'ldan oldin: Я то'же. | TOJE — TOJ | Siz ham toj kiyib oldingiz — toje! | Я то'же студе'нт. | Men ham talabaman. | также (shuningdek) | —
+всегда' | doim | ♾️ | o'zgarmaydi | VSEGDA — VASIQA | Vasiqani doim cho'ntakda olib yurasiz. | Он всегда' прав. | U doim haq. | постоянно (doim) | никогда (hech qachon)
+никогда' | hech qachon | 🙅 | + не: Я никогда' не был… | NIKOGDA — NIKOH | Mushuk hech qachon nikoh to'yiga taklif qilinmagan. | Я никогда' не опа'здываю. | Men hech qachon kechikmayman. | ни разу (bir marta ham) | всегда (doim)
+иногда' | ba'zan | 🌗 | o'zgarmaydi | INOGDA — INOQ | Ba'zan hammamiz inoq bo'lamiz. | Иногда' я смотрю' телеви'зор. | Ba'zan televizor ko'raman. | порой (ba'zan) | всегда (doim)
+ча'сто | tez-tez | 🔂 | qiyos: ча'ще | CHASTOTA | Radio chastotasi tez-tez o'zgarib turadi. | Я ча'сто чита'ю. | Men tez-tez o'qiyman. | нередко (tez-tez) | редко (kam)
+ре'дко | kamdan-kam | 🦄 | qiyos: ре'же | REDKO — REDISKA | Rediska bozorda kamdan-kam topiladi. | Он ре'дко звони'т. | U kamdan-kam qo'ng'iroq qiladi. | изредка (onda-sonda) | часто (tez-tez)
+сейча'с | hozir | ⏰ | o'zgarmaydi · [сича'с] | SEYCHAS — SEYF CHAS | Seyfdagi soat (chas) hozir jiringladi! | Я сейча'с рабо'таю. | Men hozir ishlayapman. | теперь (endi), сию минуту (shu daqiqada) | потом (keyin)
+тепе'рь | endi | ⏩ | o'zgarmaydi | TEPER — TEPPA | Endi tog' teppasidamiz! | Тепе'рь я понима'ю. | Endi tushunyapman. | сейчас (hozir) | раньше (ilgari)
+сего'дня | bugun | 📅 | [сево'дня] | SEVODNYA — SEVGAN DUNYO | Bugun sevgan dunyongizda bayram! | Сего'дня понеде'льник. | Bugun dushanba. | — | вчера (kecha); завтра (ertaga)
+вчера' | kecha | ⏪ | o'zgarmaydi | VCHERA — VIJDON CHERA | Kecha qilgan ishingizni vijdon eslatadi. | Вчера' был дождь. | Kecha yomg'ir yog'di. | — | завтра (ertaga)
+за'втра | ertaga | ⏭️ | o'zgarmaydi | ZAVTRA — ZAVOD | Ertaga zavodga ishga borasiz. | До за'втра! | Ertagacha! | — | вчера (kecha)
+здесь | bu yerda | 📍 | [здесь] · тут = bu yerda (so'zlashuv) | ZDES — ZIDDAN | Ziddan hamma narsa aynan shu yerda! | Я здесь. | Men shu yerdaman. | тут (bu yerda) | там (u yerda)
+там | u yerda | 🏔️ | o'zgarmaydi | TAM — TOM | U yerda — tomning ustida! | Он там. | U o'sha yerda. | — | здесь (bu yerda)
+туда' | u yerga | ➡️ | куда'? savoliga javob (harakat) | TUDA — TUYA | Tuya u yerga ketyapti — tuda! | Иди' туда'! | U yerga bor! | — | сюда (bu yerga)
+сюда' | bu yerga | ⬅️ | куда'? savoliga javob | SYUDA — SUYAK | Itga suyak tashlasangiz, darrov bu yerga yuguradi. | Иди' сюда'! | Bu yerga kel! | — | туда (u yerga)
+домо'й | uyga | 🏠 | куда'? — домо'й (harakat) ≠ до'ма (qayerda?) | DOMOY — DOMLA | Domla darsdan keyin uyga shoshyapti. | Я иду' домо'й. | Men uyga ketyapman. | — | из дома (uydan)
+до'ма | uyda | 🛋️ | где? — до'ма | DOMA — DUMBA | Uyda dumba qovurilyapti. | Па'па до'ма. | Dadam uyda. | — | вне дома (uydan tashqarida)
+хорошо' | yaxshi | 👌 | qiyos: лу'чше | XOROSHO — XO'ROZ SHO' | Xo'roz sho'x qichqirdi: "Xorosho!" | Всё хорошо'. | Hammasi yaxshi. | отлично (a'lo) | плохо (yomon)
+пло'хо | yomon | 😕 | qiyos: ху'же | PLOXO — PALOV XO' | Palov kuyib ketdi — ploxo! | Мне пло'хо. | Mening ahvolim yomon. | скверно (yomon) | хорошо (yaxshi)
+бы'стро | tez | 🏎️ | qiyos: быстре'е | BISTRO | Bistro (tezkor kafe) — ovqat tez! | Он бы'стро бе'гает. | U tez yuguradi. | скоро (tez) | медленно (sekin)
+ме'дленно | sekin | 🐌 | qiyos: ме'дленнее | MEDALLI | Medalli toshbaqa sekin-sekin yuribdi. | Говори'те ме'дленно, пожа'луйста. | Sekin gapiring, iltimos. | неспешно (shoshilmay) | быстро (tez)
+мно'го | ko'p | 📚 | + Р: мно'го люде'й, мно'го воды' · qiyos: бо'льше | MNOGO — MING OG'O | Ming og'a — juda ko'p! | У меня' мно'го друзе'й. | Mening do'stlarim ko'p. | множество (ko'plab) | мало (kam)
+ма'ло | kam | 🤏 | + Р: ма'ло вре'мени · qiyos: ме'ньше | MALO — MALLA | Malla sochli bolada soch kam. | У нас ма'ло вре'мени. | Bizda vaqt kam. | немного (ozgina) | много (ko'p)
+вме'сте | birga | 👫 | o'zgarmaydi | VMESTE — VAZMIN | Vazmin do'stlar doim birga. | Мы рабо'таем вме'сте. | Biz birga ishlaymiz. | сообща (birgalikda) | отдельно (alohida)
+ра'но | erta | 🌄 | qiyos: ра'ньше | RANO — RAYHON | Erta tongda rayhon hidlanadi. | Я встаю' ра'но. | Men erta turaman. | — | поздно (kech)
+по'здно | kech | 🌃 | [по'зно] · qiyos: по'зже | POZDNO — PAZANDA | Pazanda kech qoldi — mehmonlar och! | Уже' по'здно. | Allaqachon kech. | — | рано (erta)
+далеко' | uzoq(da) | 🗻 | qiyos: да'льше | DALEKO — DALA | Dala uzoqda! | Шко'ла далеко'. | Maktab uzoqda. | вдали (uzoqda) | близко (yaqin)
+бли'зко | yaqin(da) | 🧭 | qiyos: бли'же | BLIZKO — BILIZUK | Bilaguzuk qo'lga juda yaqin. | Магази'н бли'зко. | Do'kon yaqin. | рядом (yonida) | далеко (uzoq)
+пото'м | keyin | 🔜 | o'zgarmaydi | POTOM — PATNIS | Avval choy, keyin patnisda shirinlik. | Снача'ла уро'к, пото'м обе'д. | Avval dars, keyin tushlik. | затем (keyin), позже (keyinroq) | сначала (avval)
+снача'ла | avval | 1️⃣ | o'zgarmaydi | SNACHALA — NACHALNIK | Avval nachalnik (boshliq) kiradi. | Снача'ла поду'май! | Avval o'yla! | сперва (avval), вначале (boshida) | потом (keyin)
+где | qayerda | 🗺️ | где? — П kelishik bilan javob: в шко'ле | GDE — G'ADIR | G'adir-budur yo'lda qayerdasiz? | Где ты живёшь? | Qayerda yashaysan? | — | —
+куда' | qayerga | 🧭 | куда'? — В kelishik bilan: в шко'лу | KUDA — QUDA | Quda qayerga ketyapti? | Куда' ты идёшь? | Qayerga ketyapsan? | — | откуда (qayerdan)
+отку'да | qayerdan | 🛬 | отку'да? — Р: из шко'лы, с рабо'ты | OTKUDA — OTQUDUQ | Ot quduqdan chiqib kelyapti — qayerdan? | Отку'да вы? | Qayerdansiz? | — | куда (qayerga)
+когда' | qachon | 🕰️ | o'zgarmaydi | KOGDA — QOG'OZ | Qog'ozga "qachon?" deb yozib qo'yasiz. | Когда' уро'к? | Dars qachon? | — | —
+почему' | nima uchun | 🤨 | o'zgarmaydi · javob: потому' что… | POCHEMU — PO'CHOQ | Nima uchun po'choq yerda yotibdi? | Почему' ты опозда'л? | Nima uchun kechikding? | зачем (nima uchun) | —
+как | qanday | 🌀 | o'zgarmaydi | KAK — KAKKU | Kakku qushi: "Qandaysiz? Kak dela?" | Как тебя' зову'т? | Isming nima? | каким образом (qanday qilib) | —
+ско'лько | qancha, nechta | 🔢 | + Р: ско'лько лет? ско'лько сто'ит? | SKOLKO — SHKATULKA | Shkatulkada qancha ninalar bor? | Ско'лько тебе' лет? | Necha yoshdasan? | — | —
+почти' | deyarli | 〰️ | o'zgarmaydi | POCHTI — POCHTA | Pochta deyarli yetib keldi. | Почти' гото'во. | Deyarli tayyor. | едва ли не (deyarli) | совсем (butunlay)
+коне'чно | albatta | 💯 | [коне'шно] | KONESHNO — KONFET NO | "Konfet yeysanmi?" — "Koneshno!" | Коне'чно, помогу'! | Albatta, yordam beraman! | разумеется (albatta) | —
+пра'вильно | to'g'ri | ✅ | o'zgarmaydi | PRAVILNO — PRAVA | Prava bilan to'g'ri haydash. | Пра'вильно! | To'g'ri! | верно (to'g'ri) | неправильно (noto'g'ri)
+мо'жно | mumkin | 🟢 | Д + мо'жно + inf: Мне мо'жно? | MOJNO — MO'JIZA | Mo'jiza — hamma narsa mumkin! | Мо'жно войти'? | Kirsam bo'ladimi? | разрешено (ruxsat) | нельзя (mumkin emas)
+нельзя' | mumkin emas | ⛔ | Д + нельзя' + inf | NELZYA — NAYZA | Nayza bilan o'ynash mumkin emas! | Здесь нельзя' кури'ть. | Bu yerda chekish mumkin emas. | запрещено (taqiqlangan) | можно (mumkin)
+на'до | kerak | 📌 | Д + на'до + inf: Мне на'до… | NADO — NOODATIY | Noodatiy bo'lsa ham, buni qilish kerak! | Мне на'до идти'. | Men ketishim kerak. | нужно (kerak), необходимо (zarur) | не надо (kerak emas)
 # 2
-вдру'г | birdan | ⚡ | o'zgarmaydi | VDRUG — DO'G' | Birdan do'g' (tepalik) paydo bo'ldi! | Вдруг пошёл дождь. | Birdan yomg'ir yog'di.
-опя'ть | yana (qayta) | 🔁 | o'zgarmaydi · сно'ва = yana | OPYAT — OPA + YOT | Opa yana yotib qoldi! | Опя'ть дождь! | Yana yomg'ir!
-сно'ва | qaytadan | ↩️ | o'zgarmaydi | SNOVA — SANOV (sanash) | Qaytadan sanab chiqing — snova! | Попро'буй сно'ва. | Qaytadan urinib ko'r.
-сра'зу | darhol | ⚡ | o'zgarmaydi | SRAZU — SARAZ (bir zarb) | Bir zarb bilan — darhol! | Я сра'зу по'нял. | Men darhol tushundim.
-ско'ро | tez orada | 🔜 | o'zgarmaydi | SKORO — SKOROST (tezlik) | Tez orada skorost bilan yetib kelamiz. | Ско'ро пра'здник. | Tez orada bayram.
-давно' | ancha oldin; anchadan beri | 🕰️ | o'zgarmaydi | DAVNO — DAVON | Anchadan beri devonda o'tiribsiz. | Я давно' тебя' жду. | Seni anchadan beri kutyapman.
-неда'вно | yaqinda (o'tganda) | 🆕 | o'zgarmaydi | NEDAVNO — NE + DAVNO | "Davno" emas — yaqinda! | Я неда'вно прие'хал. | Men yaqinda keldim.
-до'лго | uzoq (vaqt) | ⏳ | qiyos: до'льше | DOLGO — DOLLAR + GO' | Dollar topish uchun uzoq ishlaysiz. | Я до'лго ждал. | Men uzoq kutdim.
-у'тром | ertalab | 🌅 | у'тро (ot) → у'тром (Т) | UTROM — O'TIR + OM | Ertalab o'tirib choy ichasiz. | у'тром я бе'гаю | ertalab yuguraman
-днём | kunduzi | ☀️ | день → днём | DNYOM — DON | Kunduzi donni yig'asiz. | Днём я рабо'таю. | Kunduzi ishlayman.
-ве'чером | kechqurun | 🌆 | ве'чер → ве'чером | VECHEROM — BECHORA + OM | Kechqurun bechora charchaydi. | Ве'чером я чита'ю. | Kechqurun o'qiyman.
-но'чью | tunda | 🌙 | ночь → но'чью | NOCHYU — NOCHOR | Tunda nochor oy uyg'oq. | Но'чью я сплю. | Tunda uxlayman.
-послеза'втра | indinga | 📆 | o'zgarmaydi · по'сле + за'втра | POSLE + ZAVTRA | Ertadan keyin — indin. | Уви'димся послеза'втра. | Indinga ko'rishamiz.
-позавчера' | o'tgan kuni | ⏮️ | o'zgarmaydi | PO + ZAVCHERA | Kechadan oldingi kun — o'tgan kuni. | Позавчера' был пра'здник. | O'tgan kuni bayram edi.
-везде' | hamma joyda | 🌐 | o'zgarmaydi | VEZDE — VIZA | Viza bilan hamma joyga borasiz. | Везде' снег. | Hamma joyda qor.
-нигде' | hech qayerda | 🚫 | + не: нигде' не… | NIGDE — NIGOH | Nigohingiz hech qayerda topmadi. | Я нигде' не был. | Men hech qayerda bo'lmaganman.
-вперёд | oldinga | ⬆️ | o'zgarmaydi | VPERYOD — PERO | Pero (qalam) oldinga intiladi. | Иди' вперёд! | Oldinga yur!
-наза'д | orqaga | ⬇️ | o'zgarmaydi · два го'да наза'д = ikki yil oldin | NAZAD — NAZAR | Orqaga nazar tashlaysiz. | Шаг наза'д | bir qadam orqaga
-нале'во | chapga | ⬅️ | o'zgarmaydi · сле'ва = chapda | NALEVO — LEV (sher) | Sher (lev) chapga burildi. | Поверни'те нале'во. | Chapga buriling.
-напра'во | o'ngga | ➡️ | o'zgarmaydi · спра'ва = o'ngda | NAPRAVO — PRAVO (huquq) | O'ng tomonga — huquqli tomon. | Иди'те напра'во. | O'ngga yuring.
-пря'мо | to'g'riga | ⬆️ | o'zgarmaydi | PRYAMO — PIRAMIDA | Piramidaga to'g'ri boring. | Иди'те пря'мо. | To'g'riga yuring.
-наверху' | tepada | 🔝 | o'zgarmaydi · наве'рх = tepaga | NAVERXU — NAV (yangi) + VERX | Yangi uy tepada. | Кни'га наверху'. | Kitob tepada.
-внизу' | pastda | 🔻 | o'zgarmaydi · вниз = pastga | VNIZU — NIZOM | Nizom pastda yozilgan. | Магази'н внизу'. | Do'kon pastda.
-ря'дом | yonida | 👫 | ря'дом с + Т | RYADOM — RADIO | Radio yoningizda. | Апте'ка ря'дом. | Dorixona yaqinda.
-ти'хо | sekin (ovoz), jimgina | 🔇 | qiyos: ти'ше | TIXO — TIX | Tix-tix — jimgina. | Говори'те ти'ше! | Sekinroq gapiring!
-гро'мко | baland ovozda | 🔊 | qiyos: гро'мче | GROMKO — GROM | Momaqaldiroq (grom) baland gapiradi. | Говори'те гро'мче. | Balandroq gapiring.
-легко' | oson | 🪶 | qiyos: ле'гче | LEGKO — LEG (oyoq) | Oyoq yengil — oson yurish. | Э'то легко'. | Bu oson.
-тру'дно | qiyin | 🧗 | qiyos: трудне'е | TRUDNO — TURNIK | Turnikda tortilish qiyin. | Мне тру'дно. | Menga qiyin.
-интере'сно | qiziq | 🤩 | o'zgarmaydi | INTERESNO — INTERNET | Internetda hamma narsa qiziq. | Мне интере'сно. | Menga qiziq.
-ве'село | quvnoq | 🥳 | o'zgarmaydi | VESELO — VELOSIPED | Velosipedda quvnoq! | Нам ве'село. | Bizga quvnoq.
-ску'чно | zerikarli | 🥱 | [ску'шно] | SKUCHNO — SKOCH | Skotch (yopishqoq lenta) aylantirish zerikarli. | Мне ску'чно. | Menga zerikarli.
-тепло' / хо'лодно / жа'рко | iliq / sovuq / issiq | 🌡️ | ob-havo: Сего'дня жа'рко. · Мне хо'лодно (Д) | JARKO — JAZIRAMA | Jazirama — jarko! | Сего'дня жа'рко. | Bugun issiq.
-обы'чно | odatda | 📅 | o'zgarmaydi | OBICHNO — ODAT | Odat bo'yicha — obychno. | Обы'чно я встаю' ра'но. | Odatda erta turaman.
-наве'рное | ehtimol | 🤔 | o'zgarmaydi | NAVERNOE — NAV + VERNIY | Yangi va to'g'ri bo'lsa kerak — ehtimol. | Наве'рное, он до'ма. | Ehtimol, u uyda.
-мо'жет быть | balki | 🎲 | o'zgarmaydi | MOJET BIT — MO'JIZA BO'LAR | Balki mo'jiza bo'lar! | Мо'жет быть, за'втра. | Balki ertaga.
-действи'тельно | haqiqatan | ✔️ | o'zgarmaydi | DEYSTVITELNO — DEYSTVIE (harakat) | Haqiqatan harakat qildingiz. | Э'то действи'тельно так. | Bu haqiqatan shunday.
-совсе'м | butunlay | 💯 | совсе'м не = umuman … emas | SOVSEM — SOV + SEM (yetti) | Yettitasi ham — butunlay! | Я совсе'м забы'л. | Men butunlay unutdim.
-сли'шком | haddan tashqari | 🚨 | + sifat/ravish | SLISHKOM — SLIZ + KOM | Sliz (shilimshiq) kom-kom — haddan tashqari ko'p! | Сли'шком до'рого. | Juda qimmat.
-немно'го / чуть-чу'ть | ozgina | 🤏 | + Р: немно'го воды' | CHUT-CHUT — CHUCHVARA | Chuchvarani ozgina-ozgina yeysiz. | Подожди' немно'го. | Ozgina kut.
-по-ру'сски / по-узбе'кски | ruscha / o'zbekcha | 🗣️ | по- + sifat o'zagi + -ски | PO-RUSSKI | Rus tilida — po-russki. | Я говорю' по-ру'сски. | Men ruscha gapiraman.
-осо'бенно | ayniqsa | ⭐ | o'zgarmaydi | OSOBENNO — OSOBNYAK | Osobnyak (alohida uy) — ayniqsa chiroyli. | Осо'бенно ле'том. | Ayniqsa yozda.
-вообще' | umuman | 🌍 | o'zgarmaydi | VOOBSHE — VOY + OBSHIY | "Voy, umumiy!" | Я вообще' не зна'ю. | Men umuman bilmayman.
+вдру'г | birdan | ⚡ | o'zgarmaydi | VDRUG — DO'G' | Birdan do'g' (tepalik) paydo bo'ldi! | Вдруг пошёл дождь. | Birdan yomg'ir yog'di. | внезапно (to'satdan) | постепенно (asta-sekin)
+опя'ть | yana (qayta) | 🔁 | o'zgarmaydi · сно'ва = yana | OPYAT — OPA + YOT | Opa yana yotib qoldi! | Опя'ть дождь! | Yana yomg'ir! | снова (yana) | —
+сно'ва | qaytadan | ↩️ | o'zgarmaydi | SNOVA — SANOV (sanash) | Qaytadan sanab chiqing — snova! | Попро'буй сно'ва. | Qaytadan urinib ko'r. | опять (yana), заново (qaytadan) | —
+сра'зу | darhol | ⚡ | o'zgarmaydi | SRAZU — SARAZ (bir zarb) | Bir zarb bilan — darhol! | Я сра'зу по'нял. | Men darhol tushundim. | немедленно (zudlik bilan) | потом (keyin)
+ско'ро | tez orada | 🔜 | o'zgarmaydi | SKORO — SKOROST (tezlik) | Tez orada skorost bilan yetib kelamiz. | Ско'ро пра'здник. | Tez orada bayram. | вскоре (tez orada) | нескоро (hali-beri emas)
+давно' | ancha oldin; anchadan beri | 🕰️ | o'zgarmaydi | DAVNO — DAVON | Anchadan beri devonda o'tiribsiz. | Я давно' тебя' жду. | Seni anchadan beri kutyapman. | долго (uzoq) | недавно (yaqinda)
+неда'вно | yaqinda (o'tganda) | 🆕 | o'zgarmaydi | NEDAVNO — NE + DAVNO | "Davno" emas — yaqinda! | Я неда'вно прие'хал. | Men yaqinda keldim. | — | давно (anchadan beri)
+до'лго | uzoq (vaqt) | ⏳ | qiyos: до'льше | DOLGO — DOLLAR + GO' | Dollar topish uchun uzoq ishlaysiz. | Я до'лго ждал. | Men uzoq kutdim. | — | недолго (uzoq emas)
+у'тром | ertalab | 🌅 | у'тро (ot) → у'тром (Т) | UTROM — O'TIR + OM | Ertalab o'tirib choy ichasiz. | у'тром я бе'гаю | ertalab yuguraman | — | вечером (kechqurun)
+днём | kunduzi | ☀️ | день → днём | DNYOM — DON | Kunduzi donni yig'asiz. | Днём я рабо'таю. | Kunduzi ishlayman. | — | ночью (tunda)
+ве'чером | kechqurun | 🌆 | ве'чер → ве'чером | VECHEROM — BECHORA + OM | Kechqurun bechora charchaydi. | Ве'чером я чита'ю. | Kechqurun o'qiyman. | — | утром (ertalab)
+но'чью | tunda | 🌙 | ночь → но'чью | NOCHYU — NOCHOR | Tunda nochor oy uyg'oq. | Но'чью я сплю. | Tunda uxlayman. | — | днём (kunduzi)
+послеза'втра | indinga | 📆 | o'zgarmaydi · по'сле + за'втра | POSLE + ZAVTRA | Ertadan keyin — indin. | Уви'димся послеза'втра. | Indinga ko'rishamiz. | — | позавчера (o'tgan kuni)
+позавчера' | o'tgan kuni | ⏮️ | o'zgarmaydi | PO + ZAVCHERA | Kechadan oldingi kun — o'tgan kuni. | Позавчера' был пра'здник. | O'tgan kuni bayram edi. | — | послезавтра (indinga)
+везде' | hamma joyda | 🌐 | o'zgarmaydi | VEZDE — VIZA | Viza bilan hamma joyga borasiz. | Везде' снег. | Hamma joyda qor. | всюду (hamma yerda) | нигде (hech qayerda)
+нигде' | hech qayerda | 🚫 | + не: нигде' не… | NIGDE — NIGOH | Nigohingiz hech qayerda topmadi. | Я нигде' не был. | Men hech qayerda bo'lmaganman. | — | везде (hamma joyda)
+вперёд | oldinga | ⬆️ | o'zgarmaydi | VPERYOD — PERO | Pero (qalam) oldinga intiladi. | Иди' вперёд! | Oldinga yur! | — | назад (orqaga)
+наза'д | orqaga | ⬇️ | o'zgarmaydi · два го'да наза'д = ikki yil oldin | NAZAD — NAZAR | Orqaga nazar tashlaysiz. | Шаг наза'д | bir qadam orqaga | обратно (qaytib) | вперёд (oldinga)
+нале'во | chapga | ⬅️ | o'zgarmaydi · сле'ва = chapda | NALEVO — LEV (sher) | Sher (lev) chapga burildi. | Поверни'те нале'во. | Chapga buriling. | влево (chapga) | направо (o'ngga)
+напра'во | o'ngga | ➡️ | o'zgarmaydi · спра'ва = o'ngda | NAPRAVO — PRAVO (huquq) | O'ng tomonga — huquqli tomon. | Иди'те напра'во. | O'ngga yuring. | вправо (o'ngga) | налево (chapga)
+пря'мо | to'g'riga | ⬆️ | o'zgarmaydi | PRYAMO — PIRAMIDA | Piramidaga to'g'ri boring. | Иди'те пря'мо. | To'g'riga yuring. | — | криво (qiyshiq)
+наверху' | tepada | 🔝 | o'zgarmaydi · наве'рх = tepaga | NAVERXU — NAV (yangi) + VERX | Yangi uy tepada. | Кни'га наверху'. | Kitob tepada. | вверху (yuqorida) | внизу (pastda)
+внизу' | pastda | 🔻 | o'zgarmaydi · вниз = pastga | VNIZU — NIZOM | Nizom pastda yozilgan. | Магази'н внизу'. | Do'kon pastda. | — | наверху (tepada)
+ря'дом | yonida | 👫 | ря'дом с + Т | RYADOM — RADIO | Radio yoningizda. | Апте'ка ря'дом. | Dorixona yaqinda. | близко (yaqin) | далеко (uzoq)
+ти'хо | sekin (ovoz), jimgina | 🔇 | qiyos: ти'ше | TIXO — TIX | Tix-tix — jimgina. | Говори'те ти'ше! | Sekinroq gapiring! | негромко (past ovozda) | громко (baland)
+гро'мко | baland ovozda | 🔊 | qiyos: гро'мче | GROMKO — GROM | Momaqaldiroq (grom) baland gapiradi. | Говори'те гро'мче. | Balandroq gapiring. | — | тихо (sekin)
+легко' | oson | 🪶 | qiyos: ле'гче | LEGKO — LEG (oyoq) | Oyoq yengil — oson yurish. | Э'то легко'. | Bu oson. | просто (oson) | трудно (qiyin)
+тру'дно | qiyin | 🧗 | qiyos: трудне'е | TRUDNO — TURNIK | Turnikda tortilish qiyin. | Мне тру'дно. | Menga qiyin. | тяжело (og'ir), сложно (murakkab) | легко (oson)
+интере'сно | qiziq | 🤩 | o'zgarmaydi | INTERESNO — INTERNET | Internetda hamma narsa qiziq. | Мне интере'сно. | Menga qiziq. | увлекательно (qiziqarli) | скучно (zerikarli)
+ве'село | quvnoq | 🥳 | o'zgarmaydi | VESELO — VELOSIPED | Velosipedda quvnoq! | Нам ве'село. | Bizga quvnoq. | радостно (shod) | грустно (g'amgin)
+ску'чно | zerikarli | 🥱 | [ску'шно] | SKUCHNO — SKOCH | Skotch (yopishqoq lenta) aylantirish zerikarli. | Мне ску'чно. | Menga zerikarli. | — | интересно (qiziq); весело (quvnoq)
+тепло' / хо'лодно / жа'рко | iliq / sovuq / issiq | 🌡️ | ob-havo: Сего'дня жа'рко. · Мне хо'лодно (Д) | JARKO — JAZIRAMA | Jazirama — jarko! | Сего'дня жа'рко. | Bugun issiq. | — | тепло ↔ прохладно; холодно ↔ жарко
+обы'чно | odatda | 📅 | o'zgarmaydi | OBICHNO — ODAT | Odat bo'yicha — obychno. | Обы'чно я встаю' ра'но. | Odatda erta turaman. | как правило (odatda) | необычно (g'ayrioddiy)
+наве'рное | ehtimol | 🤔 | o'zgarmaydi | NAVERNOE — NAV + VERNIY | Yangi va to'g'ri bo'lsa kerak — ehtimol. | Наве'рное, он до'ма. | Ehtimol, u uyda. | вероятно (ehtimol), возможно (mumkin) | точно (aniq)
+мо'жет быть | balki | 🎲 | o'zgarmaydi | MOJET BIT — MO'JIZA BO'LAR | Balki mo'jiza bo'lar! | Мо'жет быть, за'втра. | Balki ertaga. | возможно (balki) | точно (aniq)
+действи'тельно | haqiqatan | ✔️ | o'zgarmaydi | DEYSTVITELNO — DEYSTVIE (harakat) | Haqiqatan harakat qildingiz. | Э'то действи'тельно так. | Bu haqiqatan shunday. | правда (rostdan) | —
+совсе'м | butunlay | 💯 | совсе'м не = umuman … emas | SOVSEM — SOV + SEM (yetti) | Yettitasi ham — butunlay! | Я совсе'м забы'л. | Men butunlay unutdim. | полностью (to'liq) | чуть-чуть (ozgina)
+сли'шком | haddan tashqari | 🚨 | + sifat/ravish | SLISHKOM — SLIZ + KOM | Sliz (shilimshiq) kom-kom — haddan tashqari ko'p! | Сли'шком до'рого. | Juda qimmat. | чересчур (haddan ortiq) | недостаточно (yetarli emas)
+немно'го / чуть-чу'ть | ozgina | 🤏 | + Р: немно'го воды' | CHUT-CHUT — CHUCHVARA | Chuchvarani ozgina-ozgina yeysiz. | Подожди' немно'го. | Ozgina kut. | слегка (biroz) | много (ko'p)
+по-ру'сски / по-узбе'кски | ruscha / o'zbekcha | 🗣️ | по- + sifat o'zagi + -ски | PO-RUSSKI | Rus tilida — po-russki. | Я говорю' по-ру'сски. | Men ruscha gapiraman. | — | —
+осо'бенно | ayniqsa | ⭐ | o'zgarmaydi | OSOBENNO — OSOBNYAK | Osobnyak (alohida uy) — ayniqsa chiroyli. | Осо'бенно ле'том. | Ayniqsa yozda. | в особенности (ayniqsa) | —
+вообще' | umuman | 🌍 | o'zgarmaydi | VOOBSHE — VOY + OBSHIY | "Voy, umumiy!" | Я вообще' не зна'ю. | Men umuman bilmayman. | в целом (umuman olganda) | —
