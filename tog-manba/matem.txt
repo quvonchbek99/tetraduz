@@ -119,3 +119,100 @@
 значе'ние | qiymat | 🔣 | ср.р. (-ние) · значе'ние выраже'ния | ZNACHENIE — ZNACHOK | Znachok (nishon)ning qiymati. | значе'ние фу'нкции | funksiya qiymati | величина (kattalik) | —
 выраже'ние | ifoda | 🧾 | ср.р. · упрости'те выраже'ние | VIRAJENIE — VIRAJ | Viraj (manzara) chizilgan ifoda. | Упрости'те выраже'ние. | Ifodani soddalashtiring. | формула (formula) | —
 ско'бка | qavs | ( ) | ж.р.; мн: ско'бки; раскры'ть ско'бки | SKOBKA — SKOBA | Skoba ikki tomondan siqib turibdi. | раскры'ть ско'бки | qavslarni ochish | — | —
+# 6
+разря'д | xona (son xonasi) | 🔢 | м.р. · разря'д едини'ц, деся'тков | RAZRYAD — RAZRYADKA | Har xona — alohida razryad. | разря'д со'тен | yuzlar xonasi | позиция (o'rin) | —
+едини'ца | bir; birlik | 1️⃣ | ж.р. · едини'ца измере'ния = o'lchov birligi | YEDINITSA — YEDINIY | Yagona (yediniy) — bir. | едини'ца измере'ния | o'lchov birligi | один (bir) | ноль (nol)
+уменьша'емое | kamayuvchi | ➖ | ср.р. (sifatdan ot) · a − b: a | UMENSHAEMOE — MENSHE | Kamayadi (menshe). | уменьша'емое и вычита'емое | kamayuvchi va ayriluvchi | — | вычитаемое (ayriluvchi)
+вычита'емое | ayriluvchi | ➖ | ср.р. (sifatdan ot) · a − b: b | VYCHITAEMOE — VICHIQ | Uzib olinadigan bo'lak. | найти' вычита'емое | ayriluvchini topmoq | — | уменьшаемое (kamayuvchi)
+дели'мое | bo'linuvchi | ➗ | ср.р. (sifatdan ot) · a : b: a | DELIMOE — DILIM | Dilimlarga bo'linadigan qovun. | дели'мое и дели'тель | bo'linuvchi va bo'luvchi | — | делитель (bo'luvchi)
+НОД | EKUB (eng katta umumiy bo'luvchi) | 🔝 | наибо'льший о'бщий дели'тель | NOD — NOV (yangi) | Eng katta umumiy bo'luvchi. | НОД чи'сел 12 и 18 | 12 va 18 ning EKUBi | — | НОК (EKUK)
+НОК | EKUK (eng kichik umumiy karrali) | 🔽 | наиме'ньшее о'бщее кра'тное | NOK — NOK (meva) | Nok — eng kichik umumiy karrali! | НОК чи'сел 4 и 6 | 4 va 6 ning EKUKi | — | НОД (EKUB)
+дели'мость | bo'linish (xossasi) | ✔️ | ж.р. (-ость) · при'знак дели'мости | DELIMOST — DILIM | Dilimlarga bo'linish xossasi. | при'знаки дели'мости | bo'linish belgilari | — | —
+при'знак | belgi, alomat | 🏷️ | м.р. · при'знак дели'мости на 3 | PRIZNAK — PIR + ZNAK | Pirning belgisi (znak). | при'знак ра'венства | tenglik belgisi | свойство (xossa) | —
+разложе'ние | yoyish, ko'paytuvchilarga ajratish | 🧩 | ср.р. (-ние) · разложи'ть на мно'жители | RAZLOJENIE — RAZ + LOJA | Lojalarga ajratib qo'yish. | разложе'ние на мно'жители | ko'paytuvchilarga ajratish | — | —
+обыкнове'нная дро'бь | oddiy kasr | ½ | ж.р. · 3/4 | OBYKNOVENNAYA — ODAT | Odatiy kasr. | обыкнове'нная дробь | oddiy kasr | простая дробь (oddiy kasr) | десятичная дробь (o'nli kasr)
+десяти'чная дро'бь | o'nli kasr | 0,5 | ж.р. · 0,75 | DESYATICHNAYA — DESYAT | O'n (desyat) asosli. | десяти'чная дробь | o'nli kasr | — | обыкновенная дробь (oddiy kasr)
+сме'шанное число' | aralash son | 2½ | ср.р. · 2 1/2 | SMESHANNOE — SMESH (aralash) | Aralash (smesh). | сме'шанное число' | aralash son | — | —
+сокраще'ние | qisqartirish | ✂️ | ср.р. (-ние) · сократи'ть дробь | SOKRASHENIE — SOKRA + SHAN | Kasrni qisqartirdingiz. | сокраще'ние дро'бей | kasrlarni qisqartirish | упрощение (soddalashtirish) | расширение (kengaytirish)
+пра'вильная дро'бь | to'g'ri kasr | ⅓ | ж.р. · surat < maxraj | PRAVILNAYA — PRAVILO | Qoidaga (pravilo) mos kasr. | пра'вильная дробь | to'g'ri kasr | — | неправильная дробь (noto'g'ri kasr)
+непра'вильная дро'бь | noto'g'ri kasr | 5/3 | ж.р. · surat ≥ maxraj | NE + PRAVILNAYA | Qoidaga zid kasr. | непра'вильная дробь | noto'g'ri kasr | — | правильная дробь (to'g'ri kasr)
+деся'тая | o'ndan bir | 0,1 | ж.р. (sifatdan ot) · одна' деся'тая | DESYATAYA — DESYAT | O'ndan bir. | ноль це'лых пять деся'тых | nol butun o'ndan besh | — | —
+со'тая | yuzdan bir | 0,01 | ж.р. (sifatdan ot) | SOTAYA — SOT | Yuzdan bir. | две со'тых | yuzdan ikki | — | —
+одночле'н | birhad | 𝑎𝑥 | м.р. | ODNOCHLEN — ODIN + CHLEN | Bitta (odin) a'zo (chlen). | сте'пень одночле'на | birhad darajasi | — | многочлен (ko'phad)
+многочле'н | ko'phad | 𝑃(𝑥) | м.р. | MNOGOCHLEN — MNOGO + CHLEN | Ko'p (mnogo) a'zo. | корни многочле'на | ko'phad ildizlari | полином (polinom) | одночлен (birhad)
+показа'тель | ko'rsatkich (daraja) | 𝑥ⁿ | м.р. · показа'тель сте'пени | POKAZATEL — POKAZAT | Ko'rsatadi (pokazat). | показа'тель сте'пени | daraja ko'rsatkichi | экспонента (eksponenta) | основание (asos)
+основа'ние | asos | 🔻 | ср.р. (-ние) · основа'ние сте'пени; основа'ние треуго'льника | OSNOVANIE — OSNOVA | Asos (osnova). | основа'ние треуго'льника | uchburchak asosi | база (baza) | вершина (uch)
+неизве'стное | noma'lum | ❓ | ср.р. (sifatdan ot) · найти' неизве'стное | NEIZVESTNOE — NE + IZVESTNIY | Ma'lum emas. | уравне'ние с одни'м неизве'стным | bir noma'lumli tenglama | переменная (o'zgaruvchi) | известное (ma'lum)
+лине'йное уравне'ние | chiziqli tenglama | 📉 | ср.р. · ax + b = 0 | LINEYNOE — LINIYA | Chiziq (liniya)dek. | реши'ть лине'йное уравне'ние | chiziqli tenglamani yechmoq | — | квадратное уравнение (kvadrat tenglama)
+промежу'ток | oraliq | ⟦⟧ | м.р.; Р: промежу'тка | PROMEJUTOK — PRO + MEJDU | Orasida (mejdu). | числово'й промежу'ток | sonli oraliq | интервал (interval) | —
+интерва'л | interval | ( ) | м.р. | INTERVAL | Interval. | интерва'л от 1 до 5 | 1 dan 5 gacha interval | промежуток (oraliq) | —
+числова'я пряма'я | son o'qi | ↔️ | ж.р. | CHISLOVAYA — CHISLO | Son (chislo) chizig'i. | на числово'й пряма'й | son o'qida | координатная прямая (koordinata to'g'ri chizig'i) | —
+координа'тная пло'скость | koordinata tekisligi | 📈 | ж.р. | KOORDINATNAYA + PLOSKOST | Koordinata tekisligi. | то'чка на координа'тной пло'скости | koordinata tekisligidagi nuqta | — | —
+абсци'сса | absissa | 𝑥 | ж.р. · ось абсци'сс | ABSTSISSA | Absissa — x. | абсци'сса то'чки | nuqta absissasi | — | ордината (ordinata)
+ордина'та | ordinata | 𝑦 | ж.р. · ось ордина'т | ORDINATA | Ordinata — y. | ордина'та то'чки | nuqta ordinatasi | — | абсцисса (absissa)
+аргуме'нт | argument | 𝑥 | м.р. · аргуме'нт фу'нкции | ARGUMENT | Argument. | значе'ние аргуме'нта | argument qiymati | переменная (o'zgaruvchi) | значение функции (funksiya qiymati)
+о'бласть определе'ния | aniqlanish sohasi | 𝐷(𝑓) | ж.р. | OBLAST — OBLA | Funksiya "yashaydigan" viloyat (oblast). | о'бласть определе'ния фу'нкции | funksiyaning aniqlanish sohasi | — | множество значений (qiymatlar to'plami)
+возраста'ющая | o'suvchi | 📈 | sifat (fe'ldan): возраста'ющая фу'нкция | VOZRASTAYUSHAYA — VOZRAST | Yosh (vozrast)dek o'sib boradi. | возраста'ющая фу'нкция | o'suvchi funksiya | растущая (o'suvchi) | убывающая (kamayuvchi)
+убыва'ющая | kamayuvchi | 📉 | sifat (fe'ldan): убыва'ющая фу'нкция | UBYVAYUSHAYA — UBYTOK (zarar) | Zarar (ubytok)dek kamayadi. | убыва'ющая после'довательность | kamayuvchi ketma-ketlik | — | возрастающая (o'suvchi)
+пара'бола | parabola | ⋃ | ж.р. · y = x² | PARABOLA | Parabola. | ве'тви пара'болы | parabola tarmoqlari | — | —
+гипе'рбола | giperbola | ⤢ | ж.р. · y = k/x | GIPERBOLA | Giperbola. | гра'фик гипе'рболы | giperbola grafigi | — | —
+фигу'ра | shakl | 🔷 | ж.р. · геометри'ческая фигу'ра | FIGURA | Figura — shakl. | пло'ская фигу'ра | yassi shakl | форма (shakl) | —
+пло'скость | tekislik | ▱ | ж.р. (-ость) | PLOSKOST — PLOSKIY (yassi) | Yassi (ploskiy) sirt. | на пло'скости | tekislikda | поверхность (sirt) | пространство (fazo)
+простра'нство | fazo | 🌌 | ср.р. | PROSTRANSTVO — PROSTOR | Keng (prostor) fazo. | трёхме'рное простра'нство | uch o'lchovli fazo | — | плоскость (tekislik)
+многогра'нник | ko'pyoqli | 💎 | м.р. · мно'го + грань | MNOGOGRANNIK — MNOGO + GRAN | Ko'p (mnogo) yoq (gran). | пра'вильный многогра'нник | muntazam ko'pyoqli | — | —
+параллелепи'пед | parallelepiped | 🧱 | м.р. | PARALLELEPIPED | Parallelepiped. | объём параллелепи'педа | parallelepiped hajmi | — | —
+сфе'ра | sfera | 🔵 | ж.р. | SFERA | Sfera. | пло'щадь сфе'ры | sfera yuzi | шар (shar) | —
+дуга' | yoy | ⌒ | ж.р.; мн: ду'ги | DUGA — DUG'A | Dug'a (kamon) — yoy. | дуга' окру'жности | aylana yoyi | — | хорда (vatar)
+се'ктор | sektor | ◔ | м.р. | SEKTOR | Sektor. | пло'щадь се'ктора | sektor yuzi | — | —
+транспорти'р | transportir | 📐 | м.р. | TRANSPORTIR | Transportir. | изме'рить у'гол транспорти'ром | burchakni transportir bilan o'lchamoq | — | —
+ци'ркуль | sirkul | 🧭 | м.р. (-ь) | TSIRKUL — SIRK | Sirkda aylanadigan sirkul. | начерти'ть ци'ркулем | sirkul bilan chizmoq | — | —
+лине'йка | chizg'ich | 📏 | ж.р. | LINEYKA — LINIYA | Chiziq (liniya) chizadi. | дли'нная лине'йка | uzun chizg'ich | — | —
+уго'льник | go'niya | 📐 | м.р. | UGOLNIK — UGOL | Burchak (ugol) asbobi. | чертёжный уго'льник | chizmachilik go'niyasi | — | —
+кате'т | katet | 📐 | м.р. | KATET | Katet. | кате'ты прямоуго'льного треуго'льника | to'g'ri burchakli uchburchak katetlari | — | гипотенуза (gipotenuza)
+гипотену'за | gipotenuza | 📐 | ж.р. | GIPOTENUZA | Gipotenuza. | c² = a² + b² | c² = a² + b² | — | катет (katet)
+подо'бие | o'xshashlik | 👯 | ср.р. (-ие) · подо'бные треуго'льники | PODOBIE — POD + OBI | Ikki obi-non o'xshash. | при'знаки подо'бия | o'xshashlik belgilari | сходство (o'xshashlik) | различие (farq)
+ра'венство | tenglik | 🟰 | ср.р. | RAVENSTVO — RAVNO | Teng (ravno). | ве'рное ра'венство | to'g'ri tenglik | — | неравенство (tengsizlik)
+симме'трия | simmetriya | 🦋 | ж.р. (-ия) | SIMMETRIYA | Simmetriya. | ось симме'трии | simmetriya o'qi | — | асимметрия (asimmetriya)
+диагона'ль | diagonal | ⟋ | ж.р. (-ь) | DIAGONAL | Diagonal. | диагона'ль квадра'та | kvadrat diagonali | — | —
+тригономе'трия | trigonometriya | 📐 | ж.р. (-ия) | TRIGONOMETRIYA | Trigonometriya. | осно'вы тригономе'трии | trigonometriya asoslari | — | —
+радиа'н | radian | ◷ | м.р. | RADIAN | Radian. | π радиа'н = 180° | π radian = 180° | — | градус (gradus)
+бесконе'чность | cheksizlik | ∞ | ж.р. (-ость) | BESKONECHNOST — BEZ + KONETS | Oxiri (konets) yo'q. | стреми'тся к бесконе'чности | cheksizlikka intiladi | — | конечность (cheklilik)
+определи'тель | determinant | det | м.р. | OPREDELITEL — OPREDELIT | Aniqlovchi (opredelit). | определи'тель ма'трицы | matritsa determinanti | детерминант (determinant) | —
+стати'стика | statistika | 📊 | ж.р. | STATISTIKA | Statistika. | математи'ческая стати'стика | matematik statistika | — | —
+вы'борка | tanlanma | 🎯 | ж.р. | VYBORKA — VYBOR (tanlov) | Tanlov (vybor) natijasi. | случа'йная вы'борка | tasodifiy tanlanma | — | генеральная совокупность (bosh to'plam)
+комбинато'рика | kombinatorika | 🔀 | ж.р. | KOMBINATORIKA | Kombinatorika. | зада'чи по комбинато'рике | kombinatorika masalalari | — | —
+перестано'вка | o'rin almashtirish | 🔄 | ж.р. | PERESTANOVKA — PERE + STANOK | Dastgohlarni (stanok) almashtirish. | число' перестано'вок | o'rin almashtirishlar soni | — | —
+факториа'л | faktorial | 𝑛! | м.р. · 5! = 120 | FAKTORIAL | Faktorial. | факториа'л числа' | son faktoriali | — | —
+ло'гика | mantiq | 🧠 | ж.р. | LOGIKA | Logika — mantiq. | математи'ческая ло'гика | matematik mantiq | — | —
+аксио'ма | aksioma | 📜 | ж.р. | AKSIOMA | Aksioma. | аксио'ма геоме'трии | geometriya aksiomasi | постулат (postulat) | теорема (teorema)
+определе'ние | ta'rif | 📖 | ср.р. (-ние) | OPREDELENIE — PREDEL | Chegara (predel)ni belgilaydi. | дать определе'ние | ta'rif bermoq | дефиниция (ta'rif) | —
+сле'дствие | natija, xulosa (teoremadan) | ➡️ | ср.р. (-ие) | SLEDSTVIE — SLED (iz) | Izidan kelib chiqadi. | сле'дствие из теоре'мы | teoremadan natija | вывод (xulosa) | причина (sabab)
+гипо'теза | gipoteza | 🤔 | ж.р. | GIPOTEZA | Gipoteza — taxmin. | вы'двинуть гипо'тезу | gipoteza ilgari surmoq | предположение (taxmin) | факт (fakt)
+прове'рка | tekshiruv | ✅ | ж.р. · сде'лать прове'рку | PROVERKA — PARVOZ | Parvozdan oldin tekshiruv. | прове'рка отве'та | javobni tekshirish | контроль (nazorat) | —
+вычисле'ние | hisoblash | 🧮 | ср.р. (-ние) | VYCHISLENIE — CHISLO | Son (chislo) bilan ishlash. | бы'стрые вычисле'ния | tez hisoblash | расчёт (hisob-kitob) | —
+расчёт | hisob-kitob | 🧾 | м.р. | RASCHYOT — RAS + CHO'T | Cho'tda hisob-kitob. | то'чный расчёт | aniq hisob-kitob | вычисление (hisoblash) | —
+измере'ние | o'lchash | 📏 | ср.р. (-ние) | IZMERENIE — METR | Metr bilan o'lchash. | едини'цы измере'ния | o'lchov birliklari | — | —
+округле'ние | yaxlitlash | ⭕ | ср.р. (-ние) | OKRUGLENIE — KRUG | Doira (krug)dek yaxlit. | округле'ние чи'сел | sonlarni yaxlitlash | — | —
+погре'шность | xatolik (o'lchovda) | ± | ж.р. (-ость) | POGRESHNOST — GREX (gunoh) | Kichik gunoh (grex) — xatolik. | абсолю'тная погре'шность | absolyut xatolik | ошибка (xato) | точность (aniqlik)
+то'чность | aniqlik | 🎯 | ж.р. (-ость) | TOCHNOST — TOCHKA | Nuqtadek aniq. | с то'чностью до деся'тых | o'ndan birgacha aniqlik bilan | — | погрешность (xatolik)
+гра'мм | gramm | ⚖️ | м.р. · 5 гра'ммов | GRAMM | Gramm. | сто гра'ммов | yuz gramm | — | —
+килогра'мм | kilogramm | ⚖️ | м.р. · кило' (so'zlashuv) | KILOGRAMM | Kilogramm. | два килогра'мма | ikki kilogramm | кило (kilo) | —
+то'нна | tonna | 🚛 | ж.р. | TONNA | Tonna. | три то'нны | uch tonna | — | —
+миллиме'тр | millimetr | 📏 | м.р. | MILLIMETR | Millimetr. | пять миллиме'тров | besh millimetr | — | —
+секу'нда | soniya | ⏱️ | ж.р. | SEKUNDA | Sekunda — soniya. | Одну' секу'нду! | Bir soniya! | миг (lahza) | —
+гекта'р | gektar | 🌾 | м.р. | GEKTAR | Gektar. | сто гекта'ров | yuz gektar | — | —
+квадра'тный ме'тр | kvadrat metr | m² | м.р. | KVADRATNIY METR | m². | пло'щадь в квадра'тных ме'трах | kvadrat metrdagi yuza | — | —
+куби'ческий ме'тр | kub metr | m³ | м.р. | KUBICHESKIY METR | m³. | объём в куби'ческих ме'трах | kub metrdagi hajm | — | —
+сократи'ть | qisqartirmoq | ✂️ | св (нсв: сокраща'ть) · сокращу' (т→щ) · сократи'ть дробь | SOKRATIT — SOQOL + RAT | Soqolni qisqartirdingiz. | Сократи'те дробь. | Kasrni qisqartiring. | уменьшить (kamaytirmoq) | расширить (kengaytirmoq)
+упрости'ть | soddalashtirmoq | 🔧 | св (нсв: упроща'ть) · упрощу' (ст→щ) | UPROSTIT — PROSTOY | Oddiy (prostoy) qilmoq. | Упрости'те выраже'ние. | Ifodani soddalashtiring. | — | усложнить (murakkablashtirmoq)
+разложи'ть | yoymoq; ajratmoq | 🧩 | св (нсв: раскла'дывать) · разложу' | RAZLOJIT — RAZ + LOJA | Lojalarga ajratdingiz. | разложи'ть на мно'жители | ko'paytuvchilarga ajratmoq | — | собрать (yig'moq)
+подста'вить | qo'ymoq (o'rniga) | 🔁 | св (нсв: подставля'ть) · подста'влю | PODSTAVIT — POD + STAVKA | Stavka o'rniga qo'ydingiz. | Подста'вьте x = 2. | x = 2 ni qo'ying. | заменить (almashtirmoq) | —
+вы'разить | ifodalamoq | ✍️ | св (нсв: выража'ть) · вы'ражу (з→ж) | VYRAZIT — VYRAJENIE | Ifoda (vyrajenie) qilmoq. | Вы'разите x че'рез y. | x ni y orqali ifodalang. | — | —
+обозна'чить | belgilamoq | 🏷️ | св (нсв: обознача'ть) · обозна'чу | OBOZNACHIT — ZNACHOK | Nishon (znachok) bilan belgilamoq. | Обозна'чим неизве'стное че'рез x. | Noma'lumni x bilan belgilaymiz. | пометить (belgilamoq) | —
+начерти'ть | chizmoq (chizma) | ✏️ | св (нсв: черти'ть) · начерчу' (т→ч) | NACHERTIT — CHERTYOJ (chizma) | Chizma (chertyoj) chizmoq. | Начерти'те квадра'т. | Kvadrat chizing. | нарисовать (chizmoq) | стереть (o'chirmoq)
+провести' | o'tkazmoq (chiziq) | 📏 | св (нсв: проводи'ть) · проведу' · провёл | PROVESTI — PROVOD (sim) | Sim (provod) tortgandek chiziq o'tkazdingiz. | Проведи'те пряму'ю. | To'g'ri chiziq o'tkazing. | начертить (chizmoq) | —
+пересека'ться | kesishmoq | ✖️ | нсв (св: пересе'чься) · пересека'ются | PERESEKATSA — PERO + SEKATOR | Sekator kabi kesishadi. | Пря'мые пересека'ются. | To'g'ri chiziqlar kesishadi. | — | быть параллельными (parallel bo'lmoq)
+принадлежа'ть | tegishli bo'lmoq | ∈ | нсв · принадлежи'т · Д | PRINADLEJAT — PIR + NADLEJIT | Pirga tegishli. | То'чка принадлежи'т пря'мой. | Nuqta to'g'ri chiziqqa tegishli. | относиться (taalluqli bo'lmoq) | —
+равня'ться | teng bo'lmoq | 🟰 | нсв · равня'ется + Д | RAVNYATSA — RAVNO | Teng (ravno) bo'ladi. | x равня'ется пяти'. | x beshga teng. | составлять (tashkil etmoq) | —
+дели'ться | bo'linmoq | ➗ | нсв · де'лится на + В | DELITSA — DILIM | Dilimlarga bo'linadi. | Шесть де'лится на три. | Olti uchga bo'linadi. | — | —
+стреми'ться | intilmoq | ➡️ | нсв · стреми'тся к + Д | STREMITSA — STRELA (o'q) | O'q (strela)dek intiladi. | x стреми'тся к нулю'. | x nolga intiladi. | приближаться (yaqinlashmoq) | удаляться (uzoqlashmoq)
